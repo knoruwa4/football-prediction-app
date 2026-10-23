@@ -1,0 +1,4 @@
+﻿match_date,home_team,away_team,model,home_win_probability,draw_probability,away_win_probability,home_expected_goals,away_expected_goals,score_1,score_1_probability,score_2,score_2_probability,score_3,score_3_probability
+2026-10-25,Arsenal,Chelsea,joint_attack_defence_poisson,0.481019,0.24346,0.275521,1.6491,1.1893,1-1,0.114773,1-0,0.096502,2-1,0.094634
+2026-10-25,Liverpool,Manchester City,joint_attack_defence_poisson,0.465207,0.241372,0.293421,1.6577,1.2691,1-1,0.112693,2-1,0.093408,1-0,0.088795
+2026-10-25,Tottenham,Manchester United,joint_attack_defence_poisson,0.423339,0.247975,0.328686,1.5377,1.3265,1-1,0.116322,2-1,0.089436,1-0,0.087688

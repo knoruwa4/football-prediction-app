@@ -1,3 +1,12 @@
+
 """Football prediction models and market probabilities."""
+
 from .engine import MatchProbabilities, PoissonModel
-__all__ = ["MatchProbabilities", "PoissonModel"]
+from .team_strength import ExpectedGoals, TeamStrengthModel
+
+__all__ = [
+    "MatchProbabilities",
+    "PoissonModel",
+    "ExpectedGoals",
+    "TeamStrengthModel",
+]
