@@ -1,7 +1,7 @@
 
 """Predict fixtures and save probabilities and scorelines to CSV."""
 
-from datetime import date
+from datetime import date, datetime, timezone
 from math import exp
 from pathlib import Path
 import csv
@@ -11,18 +11,19 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(PROJECT_ROOT / "src"))
 
 from football_prediction.batch_predictor import predict_fixtures
+from football_prediction.fixtures import (
+    historical_team_name,
+    load_verified_fixtures,
+)
 from football_prediction.football_data import load_football_data
+from football_prediction.prediction_store import append_predictions
 
 
 DATA_DIR = PROJECT_ROOT / "data" / "raw"
 REPORT_DIR = PROJECT_ROOT / "reports"
+PREDICTION_LEDGER = REPORT_DIR / "prediction_history.csv"
 MATCH_DATE = date(2026, 10, 25)
-
-FIXTURES = [
-    ("Arsenal", "Chelsea"),
-    ("Liverpool", "Manchester City"),
-    ("Tottenham", "Manchester United"),
-]
+FIXTURE_FILE = PROJECT_ROOT / "data" / "fixtures" / "epl_2026-10-25.csv"
 
 MAX_GOALS = 10
 
@@ -70,9 +71,18 @@ def main():
     print(f"\nTotal historical matches loaded: {len(matches)}")
     print(f"Prediction date: {MATCH_DATE}\n")
 
+    fixtures = load_verified_fixtures(FIXTURE_FILE, MATCH_DATE)
+    fixture_pairs = [
+        (
+            historical_team_name(fixture["home_team"]),
+            historical_team_name(fixture["away_team"]),
+        )
+        for fixture in fixtures
+    ]
+
     results = predict_fixtures(
         matches=matches,
-        fixtures=FIXTURES,
+        fixtures=fixture_pairs,
         match_date=MATCH_DATE,
         model_type="joint_attack_defence",
         allow_unknown_teams=True,
@@ -80,7 +90,24 @@ def main():
 
     report_rows = []
 
-    for home_team, away_team, probabilities in results:
+    fixture_metadata = {
+        (
+            historical_team_name(fixture["home_team"]),
+            historical_team_name(fixture["away_team"]),
+        ): fixture
+        for fixture in fixtures
+    }
+    historical_teams = {
+        team
+        for match in matches
+        for team in (match.home_team, match.away_team)
+    }
+
+    for model_home_team, model_away_team, probabilities in results:
+        home_team, away_team = model_home_team, model_away_team
+        fixture = fixture_metadata[(home_team, away_team)]
+        home_team = fixture["home_team"]
+        away_team = fixture["away_team"]
         scorelines = most_likely_scorelines(
             probabilities.home_xg,
             probabilities.away_xg,
@@ -102,9 +129,18 @@ def main():
 
         row = {
             "match_date": MATCH_DATE.isoformat(),
+            "kickoff_utc": fixture["kickoff_utc"],
             "home_team": home_team,
             "away_team": away_team,
+            "home_team_history_available": (
+                model_home_team in historical_teams
+            ),
+            "away_team_history_available": (
+                model_away_team in historical_teams
+            ),
+            "fixture_source_url": fixture["source_url"],
             "model": probabilities.model,
+            "model_version": "0.1.0",
             "home_win_probability": round(probabilities.home_win, 6),
             "draw_probability": round(probabilities.draw, 6),
             "away_win_probability": round(probabilities.away_win, 6),
@@ -120,8 +156,9 @@ def main():
         print()
 
     REPORT_DIR.mkdir(parents=True, exist_ok=True)
+    run_timestamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
     report_path = REPORT_DIR / (
-        f"fixture_predictions_{MATCH_DATE.isoformat()}.csv"
+        f"fixture_predictions_{MATCH_DATE.isoformat()}_{run_timestamp}.csv"
     )
 
     fieldnames = list(report_rows[0].keys()) if report_rows else []
@@ -131,8 +168,11 @@ def main():
         writer.writeheader()
         writer.writerows(report_rows)
 
+    append_predictions(PREDICTION_LEDGER, report_rows)
+
     print(f"Saved {len(report_rows)} predictions to:")
     print(report_path)
+    print(f"Appended forecasts to: {PREDICTION_LEDGER}")
 
 
 if __name__ == "__main__":
