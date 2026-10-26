@@ -14,6 +14,7 @@ PREDICTION_FIELDS = (
     "prediction_id",
     "prediction_timestamp",
     "match_date",
+    "competition",
     "kickoff_utc",
     "home_team",
     "away_team",
@@ -45,8 +46,32 @@ def append_predictions(path: Path, rows: list[dict[str, object]]) -> None:
     path.parent.mkdir(parents=True, exist_ok=True)
     exists = path.exists() and path.stat().st_size > 0
     timestamp = datetime.now(timezone.utc).isoformat(timespec="seconds")
+
+    # Expand older ledgers before appending so the header stays aligned with
+    # new fields such as competition. Preserve any extra historical columns.
+    fields = list(PREDICTION_FIELDS)
+    prior_rows: list[dict[str, str]] = []
+    if exists:
+        with path.open("r", encoding="utf-8-sig", newline="") as file:
+            reader = csv.DictReader(file)
+            prior_rows = list(reader)
+            for field in reader.fieldnames or []:
+                if field not in fields:
+                    fields.append(field)
+            needs_migration = any(
+                field not in (reader.fieldnames or [])
+                for field in PREDICTION_FIELDS
+            )
+        if needs_migration:
+            temporary = path.with_suffix(path.suffix + ".tmp")
+            with temporary.open("w", encoding="utf-8-sig", newline="") as file:
+                writer = csv.DictWriter(file, fieldnames=fields)
+                writer.writeheader()
+                writer.writerows(prior_rows)
+            temporary.replace(path)
+
     with path.open("a", encoding="utf-8-sig", newline="") as file:
-        writer = csv.DictWriter(file, fieldnames=PREDICTION_FIELDS)
+        writer = csv.DictWriter(file, fieldnames=fields)
         if not exists:
             writer.writeheader()
         for row in rows:
@@ -73,11 +98,22 @@ def evaluate_prediction_file(
     result_by_key = {
         (
             match.match_date.isoformat(),
+            match.competition,
             match.home_team.strip().casefold(),
             match.away_team.strip().casefold(),
         ): match
         for match in actual_matches
     }
+    fallback_results: dict[tuple[str, str, str], list[MatchResult]] = {}
+    for match in actual_matches:
+        fallback_results.setdefault(
+            (
+                match.match_date.isoformat(),
+                match.home_team.strip().casefold(),
+                match.away_team.strip().casefold(),
+            ),
+            [],
+        ).append(match)
     with path.open("r", encoding="utf-8-sig", newline="") as file:
         reader = csv.DictReader(file)
         fields = list(reader.fieldnames or [])
@@ -90,10 +126,17 @@ def evaluate_prediction_file(
     for row in rows:
         key = (
             row["match_date"],
+            row.get("competition", ""),
             row["home_team"].strip().casefold(),
             row["away_team"].strip().casefold(),
         )
         actual = result_by_key.get(key)
+        if actual is None and not key[1]:
+            legacy_candidates = fallback_results.get(
+                (key[0], key[2], key[3]), []
+            )
+            if len(legacy_candidates) == 1:
+                actual = legacy_candidates[0]
         if actual is None:
             row["evaluation_status"] = "pending"
             continue

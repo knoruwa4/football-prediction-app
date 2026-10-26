@@ -20,6 +20,7 @@ def predict_match(
     allow_unknown_teams: bool = False,
     model_type: str = "team_strength",
     joint_half_life_days: float = 240.0,
+    competition: str | None = None,
 ) -> MatchProbabilities:
     """Predict a fixture using only results before its match date.
 
@@ -36,7 +37,10 @@ def predict_match(
         )
 
     historical_matches = [
-        match for match in matches if match.match_date < match_date
+        match
+        for match in matches
+        if match.match_date < match_date
+        and (competition is None or match.competition == competition)
     ]
 
     if not historical_matches:

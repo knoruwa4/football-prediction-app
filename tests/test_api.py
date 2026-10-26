@@ -24,6 +24,7 @@ def _request(app, path, method="GET"):
 def _write_ledger(path):
     fields = [
         "prediction_id", "match_date", "home_team", "away_team", "model",
+        "competition",
         "model_version", "home_win_probability", "draw_probability",
         "away_win_probability", "home_expected_goals", "away_expected_goals",
         "evaluation_status", "actual_home_goals", "actual_away_goals",
@@ -36,6 +37,7 @@ def _write_ledger(path):
             {
                 "prediction_id": "p1", "match_date": "2025-01-10",
                 "home_team": "Arsenal", "away_team": "Chelsea",
+                "competition": "Premier League",
                 "model": "joint_poisson", "model_version": "0.1.0",
                 "home_win_probability": "0.5", "draw_probability": "0.3",
                 "away_win_probability": "0.2", "home_expected_goals": "1.4",
@@ -46,6 +48,7 @@ def _write_ledger(path):
             {
                 "prediction_id": "p2", "match_date": "2025-01-11",
                 "home_team": "Liverpool", "away_team": "Everton",
+                "competition": "Ligue 1",
                 "model": "joint_poisson", "model_version": "0.1.0",
                 "home_win_probability": "0.4", "draw_probability": "0.3",
                 "away_win_probability": "0.3", "home_expected_goals": "1.2",
@@ -90,5 +93,26 @@ def test_api_has_health_route_and_rejects_invalid_queries_and_methods(tmp_path):
     assert _request(app, "/health") == ("200 OK", {"status": "ok"})
     assert _request(app, "/api/predictions?status=unknown")[0] == "400 Bad Request"
     assert _request(app, "/api/predictions?match_date=tomorrow")[0] == "400 Bad Request"
+    assert _request(app, "/api/predictions?competition=Unknown")[0] == "400 Bad Request"
     assert _request(app, "/api/predictions", method="POST")[0] == "405 Method Not Allowed"
     assert _request(app, "/elsewhere")[0] == "404 Not Found"
+
+
+def test_predictions_and_performance_can_be_filtered_by_competition(tmp_path):
+    ledger = tmp_path / "prediction_history.csv"
+    _write_ledger(ledger)
+    app = create_app(ledger)
+
+    pending_status, pending = _request(
+        app, "/api/predictions?status=pending&competition=Ligue%201"
+    )
+    performance_status, performance = _request(
+        app, "/api/performance?competition=Premier%20League"
+    )
+
+    assert pending_status == "200 OK"
+    assert pending["count"] == 1
+    assert pending["predictions"][0]["competition"] == "Ligue 1"
+    assert performance_status == "200 OK"
+    assert performance["evaluated_count"] == 1
+    assert performance["pending_count"] == 0

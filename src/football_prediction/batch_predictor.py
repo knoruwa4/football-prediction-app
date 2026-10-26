@@ -19,6 +19,7 @@ def predict_fixtures(
     half_life_days: float = 120.0,
     joint_half_life_days: float = 240.0,
     allow_unknown_teams: bool = False,
+    competition: str | None = None,
 ) -> list[tuple[str, str, MatchProbabilities]]:
     """Predict multiple fixtures using history strictly before match_date.
 
@@ -34,7 +35,10 @@ def predict_fixtures(
         )
 
     historical_matches = [
-        match for match in matches if match.match_date < match_date
+        match
+        for match in matches
+        if match.match_date < match_date
+        and (competition is None or match.competition == competition)
     ]
 
     if not historical_matches:
@@ -71,6 +75,7 @@ def predict_fixtures(
             half_life_days=half_life_days,
             allow_unknown_teams=allow_unknown_teams,
             model_type="team_strength",
+            competition=competition,
         )
         results.append((home_team, away_team, probabilities))
 

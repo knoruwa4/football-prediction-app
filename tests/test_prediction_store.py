@@ -75,3 +75,51 @@ def test_evaluation_leaves_unmatched_prediction_pending(tmp_path):
 
     assert rows[0]["evaluation_status"] == "pending"
     assert rows[0]["actual_outcome"] == ""
+
+
+def test_append_migrates_legacy_ledger_header_before_adding_competition(tmp_path):
+    path = tmp_path / "prediction_history.csv"
+    path.write_text(
+        "match_date,home_team,away_team,model,evaluation_status\n"
+        "2025-01-10,Arsenal,Chelsea,old_model,pending\n",
+        encoding="utf-8",
+    )
+
+    append_predictions(path, [{
+        "match_date": "2025-01-11",
+        "competition": "La Liga",
+        "home_team": "Sevilla",
+        "away_team": "Valencia",
+        "model": "joint_attack_defence_poisson",
+    }])
+
+    with path.open(encoding="utf-8-sig", newline="") as file:
+        reader = csv.DictReader(file)
+        rows = list(reader)
+        fields = reader.fieldnames
+    assert "competition" in fields
+    assert rows[0]["home_team"] == "Arsenal"
+    assert rows[0]["competition"] == ""
+    assert rows[1]["competition"] == "La Liga"
+    assert len(rows[1]) == len(fields)
+
+
+def test_evaluation_matches_same_fixture_name_with_competition_key(tmp_path):
+    path = tmp_path / "prediction_history.csv"
+    append_predictions(path, [{
+        "match_date": "2025-01-10",
+        "competition": "Ligue 1",
+        "home_team": "United",
+        "away_team": "City",
+        "model": "joint_poisson",
+    }])
+    actual = [
+        MatchResult(date(2025, 1, 10), "Premier League", "United", "City", 4, 0),
+        MatchResult(date(2025, 1, 10), "Ligue 1", "United", "City", 0, 2),
+    ]
+
+    rows = evaluate_prediction_file(path, actual)
+
+    assert rows[0]["actual_home_goals"] == "0"
+    assert rows[0]["actual_away_goals"] == "2"
+    assert rows[0]["actual_outcome"] == "away"

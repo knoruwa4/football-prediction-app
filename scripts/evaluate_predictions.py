@@ -7,11 +7,11 @@ import sys
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 sys.path.insert(0, str(PROJECT_ROOT / "src"))
 
-from football_prediction.football_data import load_football_data
+from football_prediction.league_data import load_all_competition_histories
 from football_prediction.prediction_store import evaluate_prediction_file
 
 
-DATA_DIR = PROJECT_ROOT / "data" / "raw"
+DATA_DIR = PROJECT_ROOT / "data"
 REPORT_DIR = PROJECT_ROOT / "reports"
 PREDICTION_LEDGER = REPORT_DIR / "prediction_history.csv"
 
@@ -24,18 +24,15 @@ def main():
         )
     print(f"Evaluating prediction ledger: {PREDICTION_LEDGER.name}")
 
-    actual_matches = {}
-    for csv_file in sorted(DATA_DIR.glob("epl_*.csv")):
-        for match in load_football_data(csv_file):
-            key = (
-                match.match_date.isoformat(),
-                match.home_team.strip().casefold(),
-                match.away_team.strip().casefold(),
-            )
-            actual_matches[key] = match
+    histories = load_all_competition_histories(DATA_DIR)
+    actual_matches = [
+        match
+        for league_matches in histories.values()
+        for match in league_matches
+    ]
 
     rows = evaluate_prediction_file(
-        PREDICTION_LEDGER, list(actual_matches.values())
+        PREDICTION_LEDGER, actual_matches
     )
     evaluated = [row for row in rows if row["evaluation_status"] == "evaluated"]
     pending = [row for row in rows if row["evaluation_status"] != "evaluated"]

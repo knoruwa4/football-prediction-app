@@ -8,6 +8,8 @@ from datetime import date
 from pathlib import Path
 from urllib.parse import parse_qs
 
+from football_prediction.football_data import COMPETITIONS
+
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_LEDGER = PROJECT_ROOT / "reports" / "prediction_history.csv"
@@ -142,12 +144,10 @@ def create_app(ledger_path: Path = DEFAULT_LEDGER):
                 {"error": f"Could not read prediction ledger: {exc}"},
             )
 
-        if path == "/api/performance":
-            return _json_response(start_response, "200 OK", _performance(rows))
-
         query = parse_qs(environ.get("QUERY_STRING", ""))
         status = query.get("status", [None])[0]
         match_date = query.get("match_date", [None])[0]
+        competition = query.get("competition", [None])[0]
         if status not in (None, "pending", "evaluated"):
             return _json_response(
                 start_response,
@@ -164,9 +164,32 @@ def create_app(ledger_path: Path = DEFAULT_LEDGER):
                     {"error": "match_date must use YYYY-MM-DD format."},
                 )
 
-        filtered = [
+        if competition and competition not in COMPETITIONS.values():
+            return _json_response(
+                start_response,
+                "400 Bad Request",
+                {"error": "competition must be one of the supported leagues."},
+            )
+
+        selected_rows = [
             row
             for row in rows
+            if competition is None
+            or row.get("competition", "") == competition
+            or (
+                competition == "Premier League"
+                and not row.get("competition", "")
+            )
+        ]
+
+        if path == "/api/performance":
+            return _json_response(
+                start_response, "200 OK", _performance(selected_rows)
+            )
+
+        filtered = [
+            row
+            for row in selected_rows
             if (status is None or row.get("evaluation_status") == status)
             and (match_date is None or row.get("match_date") == match_date)
         ]
