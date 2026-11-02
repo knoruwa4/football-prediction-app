@@ -1,6 +1,7 @@
 import pytest
 
 from football_prediction.league_data import (
+    load_external_competition_history,
     load_extra_league_history,
     load_league_history,
     load_main_league_histories,
@@ -89,3 +90,20 @@ def test_extra_league_loader_reads_slash_seasons_and_filters_lower_division(tmp_
 
     assert len(matches) == 1
     assert (matches[0].home_team, matches[0].away_team) == ("Top A", "Top B")
+
+
+def test_loads_external_competition_history_from_supplemental_folder(tmp_path):
+    path = tmp_path / "external_top_tiers" / "BOL_2017-2023.csv"
+    path.parent.mkdir(parents=True)
+    path.write_text(
+        "Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season\n"
+        "BOL,03/05/2023,Home FC,Away FC,2,1,H,2023\n",
+        encoding="utf-8",
+    )
+
+    matches = load_external_competition_history(tmp_path, "BOL")
+
+    assert len(matches) == 1
+    assert matches[0].competition == "Bolivian División Profesional"
+    assert matches[0].match_date.isoformat() == "2023-05-03"
+    assert (matches[0].home_goals, matches[0].away_goals) == (2, 1)

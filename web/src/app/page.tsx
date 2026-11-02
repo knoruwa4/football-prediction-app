@@ -29,6 +29,10 @@ type Prediction = {
 };
 
 type PredictionResponse = { count: number; predictions: Prediction[] };
+type Fixture = { fixture_id: string; competition: string; match_date: string; kickoff_utc: string; home_team: string; away_team: string; source_url: string };
+type FixtureResponse = { count: number; fixtures: Fixture[] };
+type Competition = { code: string; name: string; data_available: boolean };
+type CompetitionResponse = { count: number; competitions: Competition[] };
 type Performance = {
   evaluated_count: number;
   pending_count: number;
@@ -37,17 +41,8 @@ type Performance = {
 };
 type MarketTab = "result" | "goals" | "btts" | "combos" | "team-goals" | "handicap" | "scores";
 type OddsFormat = "decimal" | "fractional";
-
-const LEAGUES = [
-  "Premier League", "Championship", "League One", "League Two", "National League",
-  "Scottish Premiership", "Scottish Championship", "Scottish League One", "Scottish League Two",
-  "Bundesliga", "2. Bundesliga", "Serie A", "Serie B", "La Liga", "La Liga 2", "Ligue 1", "Ligue 2",
-  "Eredivisie", "Belgian Pro League", "Primeira Liga", "Turkish Super Lig", "Greek Super League",
-  "Argentina Primera Division", "Austrian Bundesliga", "Brazilian Serie A", "Chinese Super League",
-  "Danish Superliga", "Finnish Veikkausliiga", "Irish Premier Division", "Japanese J1 League",
-  "Mexican Liga MX", "Norwegian Eliteserien", "Polish Ekstraklasa", "Romanian Liga 1",
-  "Russian Premier League", "Swedish Allsvenskan", "Swiss Super League", "Major League Soccer",
-];
+type ModelType = "joint_attack_defence" | "dixon_coles" | "elo_poisson";
+const ALL_COMPETITIONS = "all";
 
 const percent = (value: number | null | undefined) =>
   value == null ? "—" : `${(value * 100).toFixed(1)}%`;
@@ -313,6 +308,11 @@ function MarketTabs({ prediction, format, markets, best }: { prediction: Predict
 
 export default function Home() {
   const [predictions, setPredictions] = useState<Prediction[]>([]);
+  const [competitions, setCompetitions] = useState<Competition[]>([]);
+  const [fixtures, setFixtures] = useState<Fixture[]>([]);
+  const [predictingId, setPredictingId] = useState("");
+  const [predictingAll, setPredictingAll] = useState(false);
+  const [fixtureMessage, setFixtureMessage] = useState("");
   const [performance, setPerformance] = useState<Performance | null>(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
@@ -321,6 +321,7 @@ export default function Home() {
   const [selectedDate, setSelectedDate] = useState("all");
   const [competition, setCompetition] = useState("Premier League");
   const [oddsFormat, setOddsFormat] = useState<OddsFormat>("decimal");
+  const [modelType, setModelType] = useState<ModelType>("joint_attack_defence");
   const [mobileDetailOpen, setMobileDetailOpen] = useState(false);
 
   const refresh = useCallback(async () => {
@@ -328,12 +329,14 @@ export default function Home() {
     setError("");
     try {
       const [predictionResponse, performanceResponse] = await Promise.all([
-        fetch(`/api/football/predictions?${new URLSearchParams({ status: "pending", competition })}`, { cache: "no-store" }),
-        fetch(`/api/football/performance?${new URLSearchParams({ competition })}`, { cache: "no-store" }),
+        fetch(`/api/football/predictions?${new URLSearchParams(competition === ALL_COMPETITIONS ? { status: "pending" } : { status: "pending", competition })}`, { cache: "no-store" }),
+        fetch(`/api/football/performance?${new URLSearchParams(competition === ALL_COMPETITIONS ? {} : { competition })}`, { cache: "no-store" }),
       ]);
-      if (!predictionResponse.ok || !performanceResponse.ok) throw new Error("API error");
-      const [predictionData, performanceData] = await Promise.all([predictionResponse.json(), performanceResponse.json()]) as [PredictionResponse, Performance];
+      const fixtureResponse = await fetch(`/api/football/fixtures?${new URLSearchParams(competition === ALL_COMPETITIONS ? {} : { competition })}`, { cache: "no-store" });
+      if (!predictionResponse.ok || !performanceResponse.ok || !fixtureResponse.ok) throw new Error("API error");
+      const [predictionData, performanceData, fixtureData] = await Promise.all([predictionResponse.json(), performanceResponse.json(), fixtureResponse.json()]) as [PredictionResponse, Performance, FixtureResponse];
       setPredictions(predictionData.predictions);
+      setFixtures(fixtureData.fixtures);
       setPerformance(performanceData);
       setUpdatedAt(new Date().toISOString());
       setSelectedId((current) => predictionData.predictions.some((item) => item.prediction_id === current) ? current : predictionData.predictions[0]?.prediction_id ?? "");
@@ -341,6 +344,79 @@ export default function Home() {
       setError("Could not reach the prediction API. Start the Python service at 127.0.0.1:8000 and try again.");
     } finally { setLoading(false); }
   }, [competition]);
+
+  const predictFixture = useCallback(async (fixture: Fixture) => {
+    setPredictingId(fixture.fixture_id);
+    setFixtureMessage("");
+    try {
+      const response = await fetch("/api/football/predict", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ fixture_id: fixture.fixture_id, model_type: modelType }) });
+      const data = await response.json() as { error?: string };
+      if (!response.ok) throw new Error(data.error ?? "Could not generate this forecast.");
+      setFixtureMessage(`${fixture.home_team} vs ${fixture.away_team} forecast saved.`);
+      await refresh();
+    } catch (cause) {
+      setFixtureMessage(cause instanceof Error ? cause.message : "Could not generate this forecast.");
+    } finally { setPredictingId(""); }
+  }, [modelType, refresh]);
+
+  const competitionLabel = competition === ALL_COMPETITIONS ? "All divisions" : competition;
+
+  const predictAllFixtures = useCallback(async () => {
+    if (fixtures.length === 0) return;
+    setPredictingAll(true);
+    setFixtureMessage("");
+    let saved = 0;
+    const failures: string[] = [];
+    try {
+      for (let index = 0; index < fixtures.length; index += 1) {
+        const fixture = fixtures[index];
+        setPredictingId(fixture.fixture_id);
+        setFixtureMessage("Generating " + (index + 1) + " of " + fixtures.length + " forecasts…");
+        try {
+          const response = await fetch("/api/football/predict", {
+            method: "POST",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify({ fixture_id: fixture.fixture_id, model_type: modelType }),
+          });
+          const data = await response.json() as { error?: string };
+          if (!response.ok) throw new Error(data.error ?? "Prediction failed.");
+          saved += 1;
+        } catch (cause) {
+          failures.push(fixture.home_team + " vs " + fixture.away_team + ": " +
+            (cause instanceof Error ? cause.message : "Prediction failed."));
+        }
+      }
+      setFixtureMessage(
+        "Saved " + saved + " of " + fixtures.length + " forecasts." +
+        (failures.length ? " " + failures.length + " failed: " + failures.slice(0, 3).join("; ") : "")
+      );
+      await refresh();
+    } finally {
+      setPredictingId("");
+      setPredictingAll(false);
+    }
+  }, [fixtures, modelType, refresh]);
+
+  useEffect(() => {
+    let active = true;
+    fetch("/api/football/competitions", { cache: "no-store" })
+      .then((response) => {
+        if (!response.ok) throw new Error("Could not load competition list.");
+        return response.json() as Promise<CompetitionResponse>;
+      })
+      .then((data) => {
+        if (!active) return;
+        const available = data.competitions.filter((item) => item.data_available);
+        setCompetitions(available);
+        setCompetition((current) =>
+          current === ALL_COMPETITIONS || available.some((item) => item.name === current) ? current : available[0]?.name ?? current
+        );
+      })
+      .catch(() => {
+        if (active) setFixtureMessage("Could not load competitions from the prediction API.");
+      });
+    return () => { active = false; };
+  }, []);
 
   useEffect(() => { void refresh(); }, [refresh]);
   const dates = useMemo(() => [...new Set(predictions.map((item) => item.match_date))].sort(), [predictions]);
@@ -354,18 +430,19 @@ export default function Home() {
         <a className="brand" href="#top" aria-label="Touchline home"><span className="brand-icon"><span /></span><span className="brand-name">touchline<span>.</span></span></a>
         <div className="nav-label">WORKSPACE</div>
         <nav className="main-nav" aria-label="Main navigation"><a className="nav-item active" href="#fixtures"><span className="nav-glyph">◫</span> Match centre</a><a className="nav-item" href="#performance"><span className="nav-glyph">⌁</span> Model performance</a></nav>
-        <div className="sidebar-bottom"><div className="model-card"><span className="model-indicator" /><div><small>ACTIVE MODEL</small><strong>Joint Poisson</strong><span>Experimental</span></div></div><div className="sidebar-caption">Probabilities are estimates,<br />not guarantees.</div><div className="sidebar-version">ENGINE v0.1.0 <span>·</span> EPL</div></div>
+        <div className="sidebar-bottom"><div className="model-card"><span className="model-indicator" /><div><small>SELECTED MODEL</small><strong>{modelType === "joint_attack_defence" ? "Joint Poisson" : modelType === "dixon_coles" ? "Dixon–Coles" : "Elo + Poisson"}</strong><span>{modelType === "joint_attack_defence" ? "Current default" : "Experimental candidate"}</span></div></div><div className="sidebar-caption">Probabilities are estimates,<br />not guarantees.</div><div className="sidebar-version">ENGINE v0.1.0 <span>·</span> EPL</div></div>
       </aside>
 
       <section className="main-content" id="top">
-        <header className="topbar"><div className="breadcrumb">Workspace <span>/</span> Match centre</div><div className="topbar-right"><span className="live-dot" /> ENGINE CONNECTED <span className="topbar-divider" /> <span className="topbar-league">{competition.toUpperCase()}</span></div></header>
-        <nav className="league-nav" aria-label="Competition filter">{LEAGUES.map((league) => <button type="button" key={league} className={competition === league ? "league-pill league-pill-active" : "league-pill"} aria-pressed={competition === league} onClick={() => { setCompetition(league); setSelectedDate("all"); }}>{league}</button>)}</nav>
+        <header className="topbar"><div className="breadcrumb">Workspace <span>/</span> Match centre</div><div className="topbar-right"><span className="live-dot" /> ENGINE CONNECTED <span className="topbar-divider" /> <span className="topbar-league">{competitionLabel.toUpperCase()}</span></div></header>
+        <nav className="league-nav" aria-label="Competition filter"><button type="button" className={competition === ALL_COMPETITIONS ? "league-pill league-pill-active" : "league-pill"} aria-pressed={competition === ALL_COMPETITIONS} onClick={() => { setCompetition(ALL_COMPETITIONS); setSelectedDate("all"); }}>All divisions</button>{competitions.map((item) => <button type="button" key={item.code} className={competition === item.name ? "league-pill league-pill-active" : "league-pill"} aria-pressed={competition === item.name} onClick={() => { setCompetition(item.name); setSelectedDate("all"); }}>{item.name}</button>)}</nav>
         <div className="content-wrap">
-          <section className="page-heading"><div><div className="eyebrow"><span /> MATCHDAY FORECASTS</div><h1>See the game<br /><em>in probabilities.</em></h1><p className="page-subtitle">Evidence-led forecasts for the fixtures ahead. Every number carries uncertainty.</p></div><div className="heading-actions"><div className="odds-toggle" role="group" aria-label="Fair price format"><button type="button" className={oddsFormat === "decimal" ? "toggle-active" : ""} onClick={() => setOddsFormat("decimal")}>Decimal</button><button type="button" className={oddsFormat === "fractional" ? "toggle-active" : ""} onClick={() => setOddsFormat("fractional")}>Fractional</button></div><button className="refresh-button" onClick={() => void refresh()} disabled={loading}><span className={loading ? "refresh-icon spinning" : "refresh-icon"}>↻</span> Refresh</button></div></section>
+          <section className="page-heading"><div><div className="eyebrow"><span /> MATCHDAY FORECASTS</div><h1>See the game<br /><em>in probabilities.</em></h1><p className="page-subtitle">Evidence-led forecasts for the fixtures ahead. Every number carries uncertainty.</p></div><div className="heading-actions"><label className="model-picker">Forecast model<select value={modelType} onChange={(event) => setModelType(event.target.value as ModelType)}><option value="joint_attack_defence">Joint Poisson · current</option><option value="dixon_coles">Dixon–Coles · experimental</option><option value="elo_poisson">Elo-adjusted Poisson · experimental</option></select></label><div className="odds-toggle" role="group" aria-label="Fair price format"><button type="button" className={oddsFormat === "decimal" ? "toggle-active" : ""} onClick={() => setOddsFormat("decimal")}>Decimal</button><button type="button" className={oddsFormat === "fractional" ? "toggle-active" : ""} onClick={() => setOddsFormat("fractional")}>Fractional</button></div><button className="refresh-button" onClick={() => void refresh()} disabled={loading}><span className={loading ? "refresh-icon spinning" : "refresh-icon"}>↻</span> Refresh</button></div></section>
 
           <section className="summary-grid" id="performance" aria-label="Model summary"><div className="summary-card summary-primary"><div className="summary-label">UPCOMING FORECASTS <span>↗</span></div><div className="summary-value">{loading ? "—" : String(predictions.length).padStart(2, "0")}</div><div className="summary-foot">Saved before kickoff</div></div><div className="summary-card"><div className="summary-label">EVALUATED MATCHES</div><div className="summary-value">{performance?.evaluated_count ?? "—"}</div><div className="summary-foot">Held in forecast history</div></div><div className="summary-card"><div className="summary-label">OUTCOME ACCURACY</div><div className="summary-value">{percent(performance?.outcome_accuracy)}</div><div className="summary-foot">Historical, not a promise</div></div><div className="summary-card"><div className="summary-label">MULTICLASS BRIER</div><div className="summary-value">{performance?.multiclass_brier_score?.toFixed(3) ?? "—"}</div><div className="summary-foot">Lower is better</div></div></section>
 
           <section className="workspace-section" id="fixtures"><div className="section-heading"><div><div className="section-kicker">{competition.toUpperCase()} · THE NEXT ROUND</div><h2>Upcoming fixtures <span>{filtered.length.toString().padStart(2, "0")}</span></h2></div><div className="fixture-tools"><label className="date-filter">{dates.length > 1 ? "Match date" : "Fixture date"}<select value={selectedDate} onChange={(event) => setSelectedDate(event.target.value)}><option value="all">All dates</option>{dates.map((date) => <option key={date} value={date}>{formatDate(date, { weekday: undefined, year: "numeric" })}</option>)}</select></label>{updatedAt && <div className="updated-label">UPDATED {formatGenerated(updatedAt).toUpperCase()}</div>}</div></div>
+            <section className="predict-fixtures" aria-label="Verified fixtures available to predict"><div className="predict-fixtures-heading"><div><div className="section-kicker">VERIFIED FIXTURE SOURCE</div><h3>Generate a forecast</h3></div><span>{fixtures.length} available</span></div>{fixtures.length > 0 && <button type="button" className="refresh-button" onClick={() => void predictAllFixtures()} disabled={Boolean(predictingId) || predictingAll}>{predictingAll ? "Generating all…" : "Predict all " + fixtures.length}</button>}{fixtures.length === 0 ? <p>No upcoming sourced fixtures are loaded for {competitionLabel}. Add a fixture CSV with a verified HTTPS source to data/fixtures, then refresh.</p> : <div className="predict-fixture-list">{fixtures.map((fixture) => <article className="predict-fixture-row" key={fixture.fixture_id}><div><strong>{fixture.home_team} <span>vs</span> {fixture.away_team}</strong><small>{formatDate(fixture.match_date, { weekday: "long", year: "numeric" })} · {fixture.kickoff_utc} UTC · <a href={fixture.source_url} target="_blank" rel="noreferrer">source</a></small></div><button type="button" onClick={() => void predictFixture(fixture)} disabled={Boolean(predictingId)}>{predictingId === fixture.fixture_id ? "Generating…" : "Predict"}</button></article>)}</div>}{fixtureMessage && <p className="fixture-message" role="status">{fixtureMessage}</p>}</section>
             {error && <div className="error-panel" role="alert"><strong>Connection unavailable</strong><span>{error}</span><button onClick={() => void refresh()}>Try again</button></div>}
             {loading && <div className="loading-panel"><span className="loading-spinner" /> Loading forecasts from the engine…</div>}
             {!loading && !error && predictions.length === 0 && <div className="empty-panel">There are no saved {competition} forecasts yet. Add sourced fixtures and generate forecasts for this competition to see them here.</div>}

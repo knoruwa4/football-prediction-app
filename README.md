@@ -4,9 +4,9 @@ An evidence based football prediction platform. It develops statistical models, 
 
 ## Current status
 
-The workspace contains Football-Data.co.uk results for all 22 divisions in the provider's Main Leagues list, across season folders 2020/21 through partial 2026/27, plus the 16 Extra League country CSVs. The loaders filter histories by competition and season while keeping each league separate. The 2020 Argentina Liga Profesional is absent from the file; its 2020 rows are labeled as a separate cup competition and are excluded from the league model.
+The workspace contains Football-Data.co.uk results for all 22 divisions in the provider's Main Leagues list, across season folders 2020/21 through partial 2026/27, plus the 16 Extra League country CSVs. The loaders filter histories by competition and season while keeping each league separate. The 2020 Argentina Liga Profesional is absent from the file; its 2020 rows are labeled as a separate cup competition and are excluded from the league model. It also contains 22 supplemental competition histories in data/external_top_tiers/ (19 top-tier domestic competitions and three international club competitions), mapped to the same prediction interface. These supplemental files are loaded separately and are not mixed into the original season folders.
 
-The project has independent and team-strength Poisson models, an experimental joint attack/defence model, batch predictions, chronological backtests, CSV forecast tracking, a read-only local JSON API, and a Next.js dashboard. Histories are isolated by competition. No live fixture provider is configured.
+The project has independent and team-strength Poisson models, a joint attack/defence model, experimental Dixon–Coles and Elo-adjusted Poisson candidates, a 1X2 temperature-calibration experiment, batch predictions, chronological backtests, CSV forecast tracking, a local JSON API, and a Next.js dashboard. The dashboard can select a model candidate when generating a forecast. Joint attack/defence Poisson remains the default; no candidate is promoted automatically. Histories are isolated by competition. No live fixture provider is configured; the app requires future fixture CSV rows with HTTPS source URLs.
 
 ## Local league data
 
@@ -42,8 +42,10 @@ Generate forecasts with `python scripts/predict_fixtures.py`, then start the API
 - `GET /api/predictions?match_date=YYYY-MM-DD` — forecasts on one date.
 - Add `&competition=La%20Liga` (or another catalogued competition) to filter either endpoint.
 - `GET /api/performance` — evaluated count, pending count, outcome accuracy, and multiclass Brier score.
+- `GET /api/fixtures?competition=Premier%20League` — upcoming fixtures from sourced CSVs in `data/fixtures`.
+- `POST /api/predict` — forecast a catalogued fixture and save it before kickoff. Send `{"fixture_id":"…","model_type":"joint_attack_defence"}`. Supported model types are `joint_attack_defence`, `dixon_coles`, and `elo_poisson`; omitting `model_type` uses the existing joint model.
 
-The API is read-only and intended for local development. Evaluate saved forecasts with `python scripts/evaluate_predictions.py` before requesting updated performance metrics.
+The API is intended for local development. Evaluate saved forecasts with `python scripts/evaluate_predictions.py` before requesting updated performance metrics. See [docs/model-assumptions.md](docs/model-assumptions.md) for candidate assumptions and the initial held-out comparison.
 
 ## Planned stack
 

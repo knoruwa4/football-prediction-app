@@ -14,7 +14,11 @@ from football_prediction.api import create_app
 def main() -> None:
     host = os.environ.get("FOOTBALL_API_HOST", "127.0.0.1")
     port = int(os.environ.get("FOOTBALL_API_PORT", "8000"))
-    app = create_app(PROJECT_ROOT / "reports" / "prediction_history.csv")
+    app = create_app(
+        PROJECT_ROOT / "reports" / "prediction_history.csv",
+        data_root=PROJECT_ROOT / "data",
+        fixture_root=PROJECT_ROOT / "data" / "fixtures",
+    )
     with make_server(host, port, app) as server:
         print(f"Football prediction API listening on http://{host}:{port}")
         server.serve_forever()

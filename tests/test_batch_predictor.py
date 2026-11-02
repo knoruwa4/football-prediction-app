@@ -96,3 +96,21 @@ def test_batch_predictor_rejects_competition_without_prior_matches():
             date(2025, 2, 1),
             competition="La Liga",
         )
+
+
+def test_batch_predictor_supports_experimental_model_candidates():
+    matches = [
+        MatchResult(date(2025, 1, 1), "Premier League", "A", "B", 2, 0),
+        MatchResult(date(2025, 1, 8), "Premier League", "B", "C", 1, 1),
+        MatchResult(date(2025, 1, 15), "Premier League", "C", "A", 0, 1),
+    ]
+
+    dixon = predict_fixtures(
+        matches, [("A", "B")], date(2025, 2, 1), model_type="dixon_coles"
+    )[0][2]
+    elo = predict_fixtures(
+        matches, [("A", "B")], date(2025, 2, 1), model_type="elo_poisson"
+    )[0][2]
+
+    assert dixon.model == "dixon_coles_joint_poisson"
+    assert elo.model == "elo_adjusted_joint_poisson"

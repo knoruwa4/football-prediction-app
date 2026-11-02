@@ -1,0 +1,1441 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season
+ISR,19/08/2017,Ashdod,Maccabi Petah Tikva,1,2,A,2017/18
+ISR,19/08/2017,Hapoel Raanana,Ironi Kiryat Shmona,0,0,D,2017/18
+ISR,19/08/2017,Hapoel Haifa,Hapoel Ashkelon,3,1,H,2017/18
+ISR,19/08/2017,Hapoel Be'er Sheva,Maccabi Netanya,1,1,D,2017/18
+ISR,20/08/2017,Hapoel Acre FC,Bnei Sakhnin,1,2,A,2017/18
+ISR,20/08/2017,Maccabi Tel Aviv,Beitar Jerusalem,0,3,A,2017/18
+ISR,21/08/2017,Bnei Yehuda Tel Aviv,Maccabi Haifa,2,0,H,2017/18
+ISR,26/08/2017,Bnei Sakhnin,Hapoel Raanana,2,1,H,2017/18
+ISR,26/08/2017,Hapoel Ashkelon,Bnei Yehuda Tel Aviv,1,1,D,2017/18
+ISR,26/08/2017,Maccabi Netanya,Hapoel Acre FC,2,2,D,2017/18
+ISR,26/08/2017,Maccabi Petah Tikva,Hapoel Haifa,0,2,A,2017/18
+ISR,27/08/2017,Ironi Kiryat Shmona,Maccabi Tel Aviv,1,2,A,2017/18
+ISR,27/08/2017,Maccabi Haifa,Hapoel Be'er Sheva,3,1,H,2017/18
+ISR,28/08/2017,Beitar Jerusalem,Ashdod,4,1,H,2017/18
+ISR,09/09/2017,Maccabi Tel Aviv,Bnei Sakhnin,2,0,H,2017/18
+ISR,09/09/2017,Hapoel Haifa,Bnei Yehuda Tel Aviv,2,1,H,2017/18
+ISR,09/09/2017,Ashdod,Ironi Kiryat Shmona,0,2,A,2017/18
+ISR,09/09/2017,Hapoel Be'er Sheva,Hapoel Ashkelon,1,0,H,2017/18
+ISR,10/09/2017,Hapoel Raanana,Maccabi Netanya,0,3,A,2017/18
+ISR,10/09/2017,Hapoel Acre FC,Maccabi Haifa,2,0,H,2017/18
+ISR,11/09/2017,Maccabi Petah Tikva,Beitar Jerusalem,1,2,A,2017/18
+ISR,16/09/2017,Ironi Kiryat Shmona,Maccabi Petah Tikva,3,1,H,2017/18
+ISR,16/09/2017,Maccabi Haifa,Hapoel Raanana,4,2,H,2017/18
+ISR,16/09/2017,Hapoel Ashkelon,Hapoel Acre FC,2,1,H,2017/18
+ISR,16/09/2017,Beitar Jerusalem,Hapoel Haifa,3,3,D,2017/18
+ISR,17/09/2017,Bnei Sakhnin,Ashdod,0,0,D,2017/18
+ISR,17/09/2017,Bnei Yehuda Tel Aviv,Hapoel Be'er Sheva,0,1,A,2017/18
+ISR,18/09/2017,Maccabi Netanya,Maccabi Tel Aviv,2,3,A,2017/18
+ISR,23/09/2017,Hapoel Acre FC,Bnei Yehuda Tel Aviv,1,1,D,2017/18
+ISR,23/09/2017,Hapoel Raanana,Hapoel Ashkelon,0,3,A,2017/18
+ISR,23/09/2017,Ashdod,Maccabi Netanya,0,3,A,2017/18
+ISR,23/09/2017,Hapoel Haifa,Hapoel Be'er Sheva,1,1,D,2017/18
+ISR,24/09/2017,Maccabi Petah Tikva,Bnei Sakhnin,1,0,H,2017/18
+ISR,24/09/2017,Maccabi Tel Aviv,Maccabi Haifa,0,0,D,2017/18
+ISR,25/09/2017,Beitar Jerusalem,Ironi Kiryat Shmona,1,1,D,2017/18
+ISR,01/10/2017,Bnei Yehuda Tel Aviv,Hapoel Raanana,1,0,H,2017/18
+ISR,01/10/2017,Ironi Kiryat Shmona,Hapoel Haifa,0,1,A,2017/18
+ISR,01/10/2017,Maccabi Haifa,Ashdod,1,0,H,2017/18
+ISR,01/10/2017,Hapoel Ashkelon,Maccabi Tel Aviv,2,2,D,2017/18
+ISR,02/10/2017,Maccabi Netanya,Maccabi Petah Tikva,4,0,H,2017/18
+ISR,02/10/2017,Bnei Sakhnin,Beitar Jerusalem,3,2,H,2017/18
+ISR,14/10/2017,Maccabi Petah Tikva,Maccabi Haifa,2,2,D,2017/18
+ISR,14/10/2017,Hapoel Haifa,Hapoel Acre FC,4,0,H,2017/18
+ISR,14/10/2017,Ashdod,Hapoel Ashkelon,1,1,D,2017/18
+ISR,14/10/2017,Hapoel Raanana,Hapoel Be'er Sheva,1,3,A,2017/18
+ISR,15/10/2017,Ironi Kiryat Shmona,Bnei Sakhnin,0,0,D,2017/18
+ISR,15/10/2017,Maccabi Tel Aviv,Bnei Yehuda Tel Aviv,2,0,H,2017/18
+ISR,16/10/2017,Beitar Jerusalem,Maccabi Netanya,4,1,H,2017/18
+ISR,21/10/2017,Bnei Yehuda Tel Aviv,Ashdod,1,2,A,2017/18
+ISR,21/10/2017,Hapoel Acre FC,Hapoel Raanana,0,2,A,2017/18
+ISR,21/10/2017,Maccabi Netanya,Ironi Kiryat Shmona,3,1,H,2017/18
+ISR,21/10/2017,Maccabi Haifa,Beitar Jerusalem,1,2,A,2017/18
+ISR,22/10/2017,Hapoel Ashkelon,Maccabi Petah Tikva,1,3,A,2017/18
+ISR,22/10/2017,Bnei Sakhnin,Hapoel Haifa,0,1,A,2017/18
+ISR,23/10/2017,Hapoel Be'er Sheva,Maccabi Tel Aviv,2,1,H,2017/18
+ISR,28/10/2017,Bnei Sakhnin,Maccabi Netanya,0,0,D,2017/18
+ISR,28/10/2017,Hapoel Haifa,Hapoel Raanana,2,0,H,2017/18
+ISR,28/10/2017,Ironi Kiryat Shmona,Maccabi Haifa,1,0,H,2017/18
+ISR,28/10/2017,Beitar Jerusalem,Hapoel Ashkelon,2,0,H,2017/18
+ISR,29/10/2017,Maccabi Tel Aviv,Hapoel Acre FC,5,2,H,2017/18
+ISR,29/10/2017,Ashdod,Hapoel Be'er Sheva,1,3,A,2017/18
+ISR,30/10/2017,Maccabi Petah Tikva,Bnei Yehuda Tel Aviv,1,2,A,2017/18
+ISR,04/11/2017,Hapoel Acre FC,Ashdod,1,0,H,2017/18
+ISR,04/11/2017,Maccabi Netanya,Hapoel Haifa,2,0,H,2017/18
+ISR,04/11/2017,Bnei Yehuda Tel Aviv,Beitar Jerusalem,3,2,H,2017/18
+ISR,05/11/2017,Maccabi Petah Tikva,Hapoel Be'er Sheva,0,2,A,2017/18
+ISR,05/11/2017,Hapoel Raanana,Maccabi Tel Aviv,0,1,A,2017/18
+ISR,05/11/2017,Maccabi Haifa,Bnei Sakhnin,2,0,H,2017/18
+ISR,06/11/2017,Hapoel Ashkelon,Ironi Kiryat Shmona,0,0,D,2017/18
+ISR,18/11/2017,Hapoel Be'er Sheva,Hapoel Acre FC,3,1,H,2017/18
+ISR,25/11/2017,Bnei Sakhnin,Hapoel Ashkelon,2,1,H,2017/18
+ISR,25/11/2017,Ironi Kiryat Shmona,Bnei Yehuda Tel Aviv,2,1,H,2017/18
+ISR,25/11/2017,Hapoel Acre FC,Maccabi Petah Tikva,0,3,A,2017/18
+ISR,25/11/2017,Maccabi Netanya,Maccabi Haifa,1,1,D,2017/18
+ISR,26/11/2017,Ashdod,Hapoel Raanana,0,1,A,2017/18
+ISR,26/11/2017,Hapoel Haifa,Maccabi Tel Aviv,2,2,D,2017/18
+ISR,27/11/2017,Beitar Jerusalem,Hapoel Be'er Sheva,2,2,D,2017/18
+ISR,02/12/2017,Maccabi Tel Aviv,Ashdod,1,1,D,2017/18
+ISR,02/12/2017,Bnei Yehuda Tel Aviv,Bnei Sakhnin,3,0,H,2017/18
+ISR,02/12/2017,Hapoel Ashkelon,Maccabi Netanya,1,1,D,2017/18
+ISR,02/12/2017,Hapoel Acre FC,Beitar Jerusalem,1,3,A,2017/18
+ISR,03/12/2017,Hapoel Raanana,Maccabi Petah Tikva,0,0,D,2017/18
+ISR,03/12/2017,Hapoel Be'er Sheva,Ironi Kiryat Shmona,3,1,H,2017/18
+ISR,04/12/2017,Hapoel Haifa,Maccabi Haifa,1,0,H,2017/18
+ISR,09/12/2017,Ashdod,Hapoel Haifa,1,1,D,2017/18
+ISR,09/12/2017,Maccabi Netanya,Bnei Yehuda Tel Aviv,1,2,A,2017/18
+ISR,09/12/2017,Maccabi Haifa,Hapoel Ashkelon,1,1,D,2017/18
+ISR,09/12/2017,Beitar Jerusalem,Hapoel Raanana,3,2,H,2017/18
+ISR,10/12/2017,Ironi Kiryat Shmona,Hapoel Acre FC,4,0,H,2017/18
+ISR,10/12/2017,Bnei Sakhnin,Hapoel Be'er Sheva,1,3,A,2017/18
+ISR,11/12/2017,Maccabi Petah Tikva,Maccabi Tel Aviv,0,0,D,2017/18
+ISR,16/12/2017,Maccabi Petah Tikva,Ashdod,1,1,D,2017/18
+ISR,16/12/2017,Bnei Sakhnin,Hapoel Acre FC,2,1,H,2017/18
+ISR,16/12/2017,Hapoel Ashkelon,Hapoel Haifa,0,0,D,2017/18
+ISR,16/12/2017,Maccabi Haifa,Bnei Yehuda Tel Aviv,0,2,A,2017/18
+ISR,17/12/2017,Ironi Kiryat Shmona,Hapoel Raanana,0,2,A,2017/18
+ISR,17/12/2017,Maccabi Netanya,Hapoel Be'er Sheva,1,0,H,2017/18
+ISR,18/12/2017,Beitar Jerusalem,Maccabi Tel Aviv,1,2,A,2017/18
+ISR,23/12/2017,Hapoel Acre FC,Maccabi Netanya,0,3,A,2017/18
+ISR,23/12/2017,Bnei Yehuda Tel Aviv,Hapoel Ashkelon,3,1,H,2017/18
+ISR,23/12/2017,Hapoel Haifa,Maccabi Petah Tikva,2,0,H,2017/18
+ISR,23/12/2017,Maccabi Tel Aviv,Ironi Kiryat Shmona,2,1,H,2017/18
+ISR,24/12/2017,Hapoel Raanana,Bnei Sakhnin,1,1,D,2017/18
+ISR,24/12/2017,Ashdod,Beitar Jerusalem,1,3,A,2017/18
+ISR,25/12/2017,Hapoel Be'er Sheva,Maccabi Haifa,2,0,H,2017/18
+ISR,30/12/2017,Bnei Yehuda Tel Aviv,Hapoel Haifa,0,1,A,2017/18
+ISR,30/12/2017,Maccabi Haifa,Hapoel Acre FC,0,1,A,2017/18
+ISR,30/12/2017,Maccabi Netanya,Hapoel Raanana,2,2,D,2017/18
+ISR,30/12/2017,Beitar Jerusalem,Maccabi Petah Tikva,1,0,H,2017/18
+ISR,31/12/2017,Ironi Kiryat Shmona,Ashdod,1,2,A,2017/18
+ISR,31/12/2017,Hapoel Ashkelon,Hapoel Be'er Sheva,0,1,A,2017/18
+ISR,01/01/2018,Bnei Sakhnin,Maccabi Tel Aviv,0,1,A,2017/18
+ISR,08/01/2018,Ashdod,Bnei Sakhnin,1,2,A,2017/18
+ISR,08/01/2018,Hapoel Acre FC,Hapoel Ashkelon,0,1,A,2017/18
+ISR,08/01/2018,Hapoel Haifa,Beitar Jerusalem,0,2,A,2017/18
+ISR,09/01/2018,Maccabi Petah Tikva,Ironi Kiryat Shmona,2,0,H,2017/18
+ISR,09/01/2018,Hapoel Be'er Sheva,Bnei Yehuda Tel Aviv,0,0,D,2017/18
+ISR,09/01/2018,Maccabi Tel Aviv,Maccabi Netanya,3,0,H,2017/18
+ISR,10/01/2018,Hapoel Raanana,Maccabi Haifa,0,3,A,2017/18
+ISR,13/01/2018,Bnei Yehuda Tel Aviv,Hapoel Acre FC,2,1,H,2017/18
+ISR,13/01/2018,Bnei Sakhnin,Maccabi Petah Tikva,0,2,A,2017/18
+ISR,13/01/2018,Maccabi Netanya,Ashdod,2,2,D,2017/18
+ISR,13/01/2018,Ironi Kiryat Shmona,Beitar Jerusalem,1,1,D,2017/18
+ISR,14/01/2018,Hapoel Ashkelon,Hapoel Raanana,0,1,A,2017/18
+ISR,14/01/2018,Hapoel Be'er Sheva,Hapoel Haifa,1,1,D,2017/18
+ISR,15/01/2018,Maccabi Haifa,Maccabi Tel Aviv,1,3,A,2017/18
+ISR,20/01/2018,Hapoel Haifa,Ironi Kiryat Shmona,0,2,A,2017/18
+ISR,20/01/2018,Hapoel Raanana,Bnei Yehuda Tel Aviv,1,1,D,2017/18
+ISR,20/01/2018,Ashdod,Maccabi Haifa,0,0,D,2017/18
+ISR,20/01/2018,Hapoel Acre FC,Hapoel Be'er Sheva,0,1,A,2017/18
+ISR,21/01/2018,Maccabi Petah Tikva,Maccabi Netanya,1,1,D,2017/18
+ISR,21/01/2018,Maccabi Tel Aviv,Hapoel Ashkelon,3,1,H,2017/18
+ISR,22/01/2018,Beitar Jerusalem,Bnei Sakhnin,4,2,H,2017/18
+ISR,27/01/2018,Hapoel Acre FC,Hapoel Haifa,0,1,A,2017/18
+ISR,27/01/2018,Hapoel Ashkelon,Ashdod,1,2,A,2017/18
+ISR,27/01/2018,Maccabi Haifa,Maccabi Petah Tikva,1,1,D,2017/18
+ISR,27/01/2018,Hapoel Be'er Sheva,Hapoel Raanana,3,1,H,2017/18
+ISR,28/01/2018,Bnei Sakhnin,Ironi Kiryat Shmona,1,2,A,2017/18
+ISR,28/01/2018,Bnei Yehuda Tel Aviv,Maccabi Tel Aviv,0,0,D,2017/18
+ISR,29/01/2018,Maccabi Netanya,Beitar Jerusalem,2,1,H,2017/18
+ISR,03/02/2018,Hapoel Haifa,Bnei Sakhnin,1,0,H,2017/18
+ISR,03/02/2018,Hapoel Raanana,Hapoel Acre FC,0,1,A,2017/18
+ISR,03/02/2018,Ironi Kiryat Shmona,Maccabi Netanya,1,2,A,2017/18
+ISR,03/02/2018,Beitar Jerusalem,Maccabi Haifa,3,1,H,2017/18
+ISR,04/02/2018,Ashdod,Bnei Yehuda Tel Aviv,1,1,D,2017/18
+ISR,04/02/2018,Maccabi Tel Aviv,Hapoel Be'er Sheva,1,0,H,2017/18
+ISR,05/02/2018,Maccabi Petah Tikva,Hapoel Ashkelon,3,0,H,2017/18
+ISR,10/02/2018,Hapoel Raanana,Hapoel Haifa,1,1,D,2017/18
+ISR,10/02/2018,Bnei Yehuda Tel Aviv,Maccabi Petah Tikva,2,1,H,2017/18
+ISR,10/02/2018,Maccabi Haifa,Ironi Kiryat Shmona,4,0,H,2017/18
+ISR,10/02/2018,Hapoel Ashkelon,Beitar Jerusalem,1,3,A,2017/18
+ISR,11/02/2018,Maccabi Netanya,Bnei Sakhnin,1,1,D,2017/18
+ISR,11/02/2018,Hapoel Acre FC,Maccabi Tel Aviv,0,2,A,2017/18
+ISR,12/02/2018,Hapoel Be'er Sheva,Ashdod,2,0,H,2017/18
+ISR,17/02/2018,Maccabi Tel Aviv,Hapoel Raanana,0,1,A,2017/18
+ISR,17/02/2018,Ashdod,Hapoel Acre FC,3,2,H,2017/18
+ISR,17/02/2018,Bnei Sakhnin,Maccabi Haifa,1,0,H,2017/18
+ISR,17/02/2018,Hapoel Be'er Sheva,Maccabi Petah Tikva,3,0,H,2017/18
+ISR,18/02/2018,Ironi Kiryat Shmona,Hapoel Ashkelon,1,0,H,2017/18
+ISR,18/02/2018,Hapoel Haifa,Maccabi Netanya,2,0,H,2017/18
+ISR,19/02/2018,Beitar Jerusalem,Bnei Yehuda Tel Aviv,2,0,H,2017/18
+ISR,24/02/2018,Hapoel Raanana,Ashdod,2,1,H,2017/18
+ISR,24/02/2018,Hapoel Ashkelon,Bnei Sakhnin,0,2,A,2017/18
+ISR,24/02/2018,Maccabi Haifa,Maccabi Netanya,1,2,A,2017/18
+ISR,24/02/2018,Maccabi Tel Aviv,Hapoel Haifa,4,0,H,2017/18
+ISR,25/02/2018,Bnei Yehuda Tel Aviv,Ironi Kiryat Shmona,1,0,H,2017/18
+ISR,25/02/2018,Hapoel Be'er Sheva,Beitar Jerusalem,1,1,D,2017/18
+ISR,26/02/2018,Maccabi Petah Tikva,Hapoel Acre FC,2,1,H,2017/18
+ISR,03/03/2018,Maccabi Petah Tikva,Hapoel Raanana,3,2,H,2017/18
+ISR,03/03/2018,Maccabi Netanya,Hapoel Ashkelon,2,0,H,2017/18
+ISR,03/03/2018,Bnei Sakhnin,Bnei Yehuda Tel Aviv,2,2,D,2017/18
+ISR,03/03/2018,Ashdod,Maccabi Tel Aviv,0,0,D,2017/18
+ISR,04/03/2018,Ironi Kiryat Shmona,Hapoel Be'er Sheva,0,1,A,2017/18
+ISR,04/03/2018,Beitar Jerusalem,Hapoel Acre FC,3,0,H,2017/18
+ISR,05/03/2018,Maccabi Haifa,Hapoel Haifa,0,3,A,2017/18
+ISR,10/03/2018,Bnei Yehuda Tel Aviv,Maccabi Netanya,0,1,A,2017/18
+ISR,10/03/2018,Hapoel Haifa,Ashdod,1,0,H,2017/18
+ISR,10/03/2018,Hapoel Ashkelon,Maccabi Haifa,0,0,D,2017/18
+ISR,10/03/2018,Hapoel Be'er Sheva,Bnei Sakhnin,2,0,H,2017/18
+ISR,11/03/2018,Hapoel Acre FC,Ironi Kiryat Shmona,0,3,A,2017/18
+ISR,11/03/2018,Hapoel Raanana,Beitar Jerusalem,0,2,A,2017/18
+ISR,12/03/2018,Maccabi Tel Aviv,Maccabi Petah Tikva,2,0,H,2017/18
+ISR,17/03/2018,Beitar Jerusalem,Maccabi Netanya,2,0,H,2017/18
+ISR,17/03/2018,Maccabi Haifa,Hapoel Acre FC,4,0,H,2017/18
+ISR,17/03/2018,Ironi Kiryat Shmona,Hapoel Ashkelon,1,1,D,2017/18
+ISR,17/03/2018,Bnei Sakhnin,Ashdod,2,1,H,2017/18
+ISR,18/03/2018,Hapoel Be'er Sheva,Bnei Yehuda Tel Aviv,1,0,H,2017/18
+ISR,18/03/2018,Maccabi Tel Aviv,Hapoel Haifa,1,2,A,2017/18
+ISR,18/03/2018,Maccabi Petah Tikva,Hapoel Raanana,1,3,A,2017/18
+ISR,03/04/2018,Maccabi Netanya,Maccabi Tel Aviv,4,1,H,2017/18
+ISR,04/04/2018,Bnei Yehuda Tel Aviv,Hapoel Haifa,3,0,H,2017/18
+ISR,04/04/2018,Hapoel Be'er Sheva,Beitar Jerusalem,3,1,H,2017/18
+ISR,07/04/2018,Maccabi Petah Tikva,Ironi Kiryat Shmona,2,0,H,2017/18
+ISR,07/04/2018,Hapoel Raanana,Hapoel Acre FC,1,1,D,2017/18
+ISR,07/04/2018,Hapoel Ashkelon,Bnei Sakhnin,2,0,H,2017/18
+ISR,07/04/2018,Ashdod,Maccabi Haifa,2,1,H,2017/18
+ISR,08/04/2018,Hapoel Haifa,Maccabi Netanya,1,1,D,2017/18
+ISR,08/04/2018,Beitar Jerusalem,Bnei Yehuda Tel Aviv,1,1,D,2017/18
+ISR,09/04/2018,Maccabi Tel Aviv,Hapoel Be'er Sheva,0,1,A,2017/18
+ISR,14/04/2018,Bnei Yehuda Tel Aviv,Maccabi Netanya,1,3,A,2017/18
+ISR,14/04/2018,Ironi Kiryat Shmona,Hapoel Raanana,0,1,A,2017/18
+ISR,14/04/2018,Hapoel Acre FC,Ashdod,1,1,D,2017/18
+ISR,14/04/2018,Maccabi Haifa,Hapoel Ashkelon,2,1,H,2017/18
+ISR,15/04/2018,Hapoel Be'er Sheva,Hapoel Haifa,2,2,D,2017/18
+ISR,15/04/2018,Bnei Sakhnin,Maccabi Petah Tikva,2,2,D,2017/18
+ISR,16/04/2018,Beitar Jerusalem,Maccabi Tel Aviv,3,2,H,2017/18
+ISR,21/04/2018,Maccabi Tel Aviv,Bnei Yehuda Tel Aviv,2,0,H,2017/18
+ISR,21/04/2018,Ironi Kiryat Shmona,Bnei Sakhnin,2,0,H,2017/18
+ISR,21/04/2018,Maccabi Petah Tikva,Maccabi Haifa,0,1,A,2017/18
+ISR,21/04/2018,Hapoel Ashkelon,Hapoel Acre FC,0,2,A,2017/18
+ISR,22/04/2018,Maccabi Netanya,Hapoel Be'er Sheva,1,5,A,2017/18
+ISR,23/04/2018,Hapoel Haifa,Beitar Jerusalem,0,1,A,2017/18
+ISR,23/04/2018,Hapoel Raanana,Ashdod,1,0,H,2017/18
+ISR,28/04/2018,Bnei Yehuda Tel Aviv,Hapoel Be'er Sheva,1,1,D,2017/18
+ISR,28/04/2018,Hapoel Acre FC,Maccabi Petah Tikva,2,1,H,2017/18
+ISR,28/04/2018,Maccabi Haifa,Ironi Kiryat Shmona,1,2,A,2017/18
+ISR,28/04/2018,Bnei Sakhnin,Hapoel Raanana,1,3,A,2017/18
+ISR,29/04/2018,Hapoel Haifa,Maccabi Tel Aviv,2,2,D,2017/18
+ISR,29/04/2018,Ashdod,Hapoel Ashkelon,1,0,H,2017/18
+ISR,30/04/2018,Maccabi Netanya,Beitar Jerusalem,4,1,H,2017/18
+ISR,05/05/2018,Hapoel Haifa,Bnei Yehuda Tel Aviv,2,1,H,2017/18
+ISR,05/05/2018,Beitar Jerusalem,Hapoel Be'er Sheva,1,4,A,2017/18
+ISR,05/05/2018,Ironi Kiryat Shmona,Hapoel Acre FC,4,0,H,2017/18
+ISR,05/05/2018,Bnei Sakhnin,Maccabi Haifa,1,1,D,2017/18
+ISR,06/05/2018,Hapoel Raanana,Hapoel Ashkelon,4,0,H,2017/18
+ISR,06/05/2018,Maccabi Petah Tikva,Ashdod,2,1,H,2017/18
+ISR,07/05/2018,Maccabi Tel Aviv,Maccabi Netanya,2,0,H,2017/18
+ISR,12/05/2018,Maccabi Netanya,Hapoel Haifa,2,1,H,2017/18
+ISR,12/05/2018,Bnei Yehuda Tel Aviv,Beitar Jerusalem,3,3,D,2017/18
+ISR,12/05/2018,Hapoel Be'er Sheva,Maccabi Tel Aviv,0,1,A,2017/18
+ISR,13/05/2018,Maccabi Haifa,Hapoel Raanana,2,0,H,2017/18
+ISR,13/05/2018,Hapoel Acre FC,Bnei Sakhnin,1,2,A,2017/18
+ISR,13/05/2018,Ashdod,Ironi Kiryat Shmona,1,2,A,2017/18
+ISR,13/05/2018,Hapoel Ashkelon,Maccabi Petah Tikva,0,2,A,2017/18
+ISR,15/05/2018,Hapoel Haifa,Hapoel Be'er Sheva,1,4,A,2017/18
+ISR,15/05/2018,Maccabi Tel Aviv,Beitar Jerusalem,3,1,H,2017/18
+ISR,16/05/2018,Maccabi Netanya,Bnei Yehuda Tel Aviv,0,5,A,2017/18
+ISR,21/05/2018,Bnei Yehuda Tel Aviv,Maccabi Tel Aviv,0,2,A,2017/18
+ISR,21/05/2018,Beitar Jerusalem,Hapoel Haifa,1,1,D,2017/18
+ISR,21/05/2018,Hapoel Be'er Sheva,Maccabi Netanya,6,1,H,2017/18
+ISR,25/08/2018,Ashdod,Bnei Yehuda Tel Aviv,1,0,H,2018/19
+ISR,25/08/2018,Hapoel Hadera,Hapoel Tel Aviv,2,1,H,2018/19
+ISR,25/08/2018,Hapoel Haifa,Maccabi Netanya,5,0,H,2018/19
+ISR,25/08/2018,Ironi Kiryat Shmona,Hapoel Be'er Sheva,1,1,D,2018/19
+ISR,26/08/2018,Bnei Sakhnin,Hapoel Raanana,0,0,D,2018/19
+ISR,26/08/2018,Maccabi Tel Aviv,Maccabi Haifa,2,0,H,2018/19
+ISR,27/08/2018,Maccabi Petah Tikva,Beitar Jerusalem,4,1,H,2018/19
+ISR,01/09/2018,Hapoel Raanana,Ironi Kiryat Shmona,2,1,H,2018/19
+ISR,01/09/2018,Maccabi Haifa,Ashdod,2,0,H,2018/19
+ISR,01/09/2018,Maccabi Netanya,Bnei Sakhnin,1,1,D,2018/19
+ISR,01/09/2018,Hapoel Tel Aviv,Hapoel Haifa,1,0,H,2018/19
+ISR,02/09/2018,Bnei Yehuda Tel Aviv,Maccabi Petah Tikva,2,2,D,2018/19
+ISR,02/09/2018,Hapoel Be'er Sheva,Maccabi Tel Aviv,1,1,D,2018/19
+ISR,03/09/2018,Beitar Jerusalem,Hapoel Hadera,0,1,A,2018/19
+ISR,15/09/2018,Maccabi Tel Aviv,Hapoel Raanana,4,1,H,2018/19
+ISR,15/09/2018,Maccabi Petah Tikva,Hapoel Hadera,1,1,D,2018/19
+ISR,15/09/2018,Bnei Sakhnin,Hapoel Tel Aviv,1,1,D,2018/19
+ISR,15/09/2018,Ashdod,Hapoel Be'er Sheva,1,0,H,2018/19
+ISR,16/09/2018,Ironi Kiryat Shmona,Maccabi Netanya,1,0,H,2018/19
+ISR,16/09/2018,Bnei Yehuda Tel Aviv,Maccabi Haifa,1,1,D,2018/19
+ISR,17/09/2018,Hapoel Haifa,Beitar Jerusalem,2,2,D,2018/19
+ISR,22/09/2018,Hapoel Tel Aviv,Ironi Kiryat Shmona,0,0,D,2018/19
+ISR,22/09/2018,Hapoel Raanana,Ashdod,1,1,D,2018/19
+ISR,22/09/2018,Maccabi Haifa,Maccabi Petah Tikva,1,2,A,2018/19
+ISR,22/09/2018,Maccabi Netanya,Maccabi Tel Aviv,1,2,A,2018/19
+ISR,24/09/2018,Hapoel Hadera,Hapoel Haifa,2,0,H,2018/19
+ISR,24/09/2018,Hapoel Be'er Sheva,Bnei Yehuda Tel Aviv,0,0,D,2018/19
+ISR,24/09/2018,Beitar Jerusalem,Bnei Sakhnin,3,2,H,2018/19
+ISR,29/09/2018,Maccabi Petah Tikva,Hapoel Haifa,1,1,D,2018/19
+ISR,29/09/2018,Bnei Sakhnin,Hapoel Hadera,1,2,A,2018/19
+ISR,29/09/2018,Ashdod,Maccabi Netanya,1,4,A,2018/19
+ISR,29/09/2018,Ironi Kiryat Shmona,Beitar Jerusalem,2,0,H,2018/19
+ISR,01/10/2018,Bnei Yehuda Tel Aviv,Hapoel Raanana,3,0,H,2018/19
+ISR,01/10/2018,Maccabi Haifa,Hapoel Be'er Sheva,0,0,D,2018/19
+ISR,01/10/2018,Maccabi Tel Aviv,Hapoel Tel Aviv,0,0,D,2018/19
+ISR,06/10/2018,Hapoel Raanana,Maccabi Haifa,1,1,D,2018/19
+ISR,06/10/2018,Hapoel Haifa,Bnei Sakhnin,0,3,A,2018/19
+ISR,06/10/2018,Maccabi Netanya,Bnei Yehuda Tel Aviv,1,3,A,2018/19
+ISR,06/10/2018,Hapoel Be'er Sheva,Maccabi Petah Tikva,4,1,H,2018/19
+ISR,07/10/2018,Hapoel Hadera,Ironi Kiryat Shmona,1,0,H,2018/19
+ISR,07/10/2018,Beitar Jerusalem,Maccabi Tel Aviv,0,2,A,2018/19
+ISR,08/10/2018,Hapoel Tel Aviv,Ashdod,0,0,D,2018/19
+ISR,20/10/2018,Maccabi Tel Aviv,Hapoel Hadera,4,0,H,2018/19
+ISR,20/10/2018,Ironi Kiryat Shmona,Hapoel Haifa,1,1,D,2018/19
+ISR,20/10/2018,Bnei Yehuda Tel Aviv,Hapoel Tel Aviv,0,0,D,2018/19
+ISR,20/10/2018,Hapoel Be'er Sheva,Hapoel Raanana,2,0,H,2018/19
+ISR,21/10/2018,Maccabi Petah Tikva,Bnei Sakhnin,0,0,D,2018/19
+ISR,21/10/2018,Ashdod,Beitar Jerusalem,1,1,D,2018/19
+ISR,22/10/2018,Maccabi Haifa,Maccabi Netanya,0,2,A,2018/19
+ISR,27/10/2018,Hapoel Raanana,Maccabi Petah Tikva,1,0,H,2018/19
+ISR,27/10/2018,Bnei Sakhnin,Ironi Kiryat Shmona,0,3,A,2018/19
+ISR,27/10/2018,Maccabi Netanya,Hapoel Be'er Sheva,1,0,H,2018/19
+ISR,27/10/2018,Beitar Jerusalem,Bnei Yehuda Tel Aviv,1,5,A,2018/19
+ISR,28/10/2018,Hapoel Hadera,Ashdod,3,2,H,2018/19
+ISR,28/10/2018,Hapoel Haifa,Maccabi Tel Aviv,1,3,A,2018/19
+ISR,29/10/2018,Hapoel Tel Aviv,Maccabi Haifa,1,2,A,2018/19
+ISR,03/11/2018,Hapoel Raanana,Maccabi Netanya,1,2,A,2018/19
+ISR,03/11/2018,Maccabi Petah Tikva,Ironi Kiryat Shmona,0,1,A,2018/19
+ISR,03/11/2018,Ashdod,Hapoel Haifa,0,3,A,2018/19
+ISR,03/11/2018,Maccabi Tel Aviv,Bnei Sakhnin,3,0,H,2018/19
+ISR,04/11/2018,Bnei Yehuda Tel Aviv,Hapoel Hadera,2,0,H,2018/19
+ISR,04/11/2018,Hapoel Be'er Sheva,Hapoel Tel Aviv,2,1,H,2018/19
+ISR,05/11/2018,Maccabi Haifa,Beitar Jerusalem,1,2,A,2018/19
+ISR,10/11/2018,Maccabi Netanya,Maccabi Petah Tikva,0,1,A,2018/19
+ISR,10/11/2018,Hapoel Haifa,Bnei Yehuda Tel Aviv,0,2,A,2018/19
+ISR,10/11/2018,Hapoel Tel Aviv,Hapoel Raanana,0,0,D,2018/19
+ISR,10/11/2018,Hapoel Hadera,Maccabi Haifa,1,2,A,2018/19
+ISR,11/11/2018,Ironi Kiryat Shmona,Maccabi Tel Aviv,1,2,A,2018/19
+ISR,11/11/2018,Beitar Jerusalem,Hapoel Be'er Sheva,2,3,A,2018/19
+ISR,12/11/2018,Bnei Sakhnin,Ashdod,4,3,H,2018/19
+ISR,01/12/2018,Bnei Yehuda Tel Aviv,Bnei Sakhnin,0,1,A,2018/19
+ISR,01/12/2018,Ashdod,Ironi Kiryat Shmona,1,0,H,2018/19
+ISR,01/12/2018,Hapoel Be'er Sheva,Hapoel Hadera,2,2,D,2018/19
+ISR,01/12/2018,Maccabi Petah Tikva,Maccabi Tel Aviv,1,1,D,2018/19
+ISR,01/12/2018,Maccabi Haifa,Hapoel Haifa,1,3,A,2018/19
+ISR,02/12/2018,Hapoel Raanana,Beitar Jerusalem,2,1,H,2018/19
+ISR,02/12/2018,Maccabi Netanya,Hapoel Tel Aviv,1,1,D,2018/19
+ISR,04/12/2018,Ironi Kiryat Shmona,Bnei Yehuda Tel Aviv,0,2,A,2018/19
+ISR,04/12/2018,Bnei Sakhnin,Maccabi Haifa,0,2,A,2018/19
+ISR,04/12/2018,Maccabi Tel Aviv,Ashdod,4,0,H,2018/19
+ISR,04/12/2018,Hapoel Haifa,Hapoel Be'er Sheva,4,4,D,2018/19
+ISR,05/12/2018,Hapoel Hadera,Hapoel Raanana,0,0,D,2018/19
+ISR,05/12/2018,Maccabi Petah Tikva,Hapoel Tel Aviv,0,0,D,2018/19
+ISR,05/12/2018,Beitar Jerusalem,Maccabi Netanya,1,1,D,2018/19
+ISR,08/12/2018,Maccabi Haifa,Ironi Kiryat Shmona,2,2,D,2018/19
+ISR,08/12/2018,Ashdod,Maccabi Petah Tikva,1,1,D,2018/19
+ISR,08/12/2018,Hapoel Be'er Sheva,Bnei Sakhnin,1,1,D,2018/19
+ISR,08/12/2018,Bnei Yehuda Tel Aviv,Maccabi Tel Aviv,1,3,A,2018/19
+ISR,09/12/2018,Hapoel Raanana,Hapoel Haifa,0,3,A,2018/19
+ISR,09/12/2018,Maccabi Netanya,Hapoel Hadera,1,0,H,2018/19
+ISR,10/12/2018,Hapoel Tel Aviv,Beitar Jerusalem,0,3,A,2018/19
+ISR,15/12/2018,Hapoel Tel Aviv,Hapoel Hadera,1,1,D,2018/19
+ISR,15/12/2018,Hapoel Raanana,Bnei Sakhnin,2,1,H,2018/19
+ISR,15/12/2018,Maccabi Netanya,Hapoel Haifa,1,2,A,2018/19
+ISR,15/12/2018,Hapoel Be'er Sheva,Ironi Kiryat Shmona,2,1,H,2018/19
+ISR,16/12/2018,Bnei Yehuda Tel Aviv,Ashdod,2,0,H,2018/19
+ISR,16/12/2018,Beitar Jerusalem,Maccabi Petah Tikva,0,0,D,2018/19
+ISR,17/12/2018,Maccabi Haifa,Maccabi Tel Aviv,1,3,A,2018/19
+ISR,25/12/2018,Maccabi Petah Tikva,Bnei Yehuda Tel Aviv,1,1,D,2018/19
+ISR,25/12/2018,Bnei Sakhnin,Maccabi Netanya,0,2,A,2018/19
+ISR,25/12/2018,Maccabi Tel Aviv,Hapoel Be'er Sheva,3,0,H,2018/19
+ISR,26/12/2018,Ironi Kiryat Shmona,Hapoel Raanana,1,1,D,2018/19
+ISR,26/12/2018,Hapoel Haifa,Hapoel Tel Aviv,1,1,D,2018/19
+ISR,26/12/2018,Ashdod,Maccabi Haifa,0,1,A,2018/19
+ISR,27/12/2018,Hapoel Hadera,Beitar Jerusalem,0,3,A,2018/19
+ISR,29/12/2018,Hapoel Raanana,Maccabi Tel Aviv,0,2,A,2018/19
+ISR,29/12/2018,Maccabi Netanya,Ironi Kiryat Shmona,1,0,H,2018/19
+ISR,29/12/2018,Hapoel Be'er Sheva,Ashdod,1,0,H,2018/19
+ISR,29/12/2018,Maccabi Haifa,Bnei Yehuda Tel Aviv,1,0,H,2018/19
+ISR,30/12/2018,Hapoel Hadera,Maccabi Petah Tikva,3,0,H,2018/19
+ISR,30/12/2018,Hapoel Tel Aviv,Bnei Sakhnin,2,0,H,2018/19
+ISR,31/12/2018,Beitar Jerusalem,Hapoel Haifa,1,1,D,2018/19
+ISR,05/01/2019,Ironi Kiryat Shmona,Hapoel Tel Aviv,1,0,H,2018/19
+ISR,05/01/2019,Hapoel Haifa,Hapoel Hadera,1,1,D,2018/19
+ISR,05/01/2019,Maccabi Petah Tikva,Maccabi Haifa,1,2,A,2018/19
+ISR,05/01/2019,Bnei Sakhnin,Beitar Jerusalem,0,0,D,2018/19
+ISR,06/01/2019,Ashdod,Hapoel Raanana,1,1,D,2018/19
+ISR,06/01/2019,Bnei Yehuda Tel Aviv,Hapoel Be'er Sheva,3,1,H,2018/19
+ISR,07/01/2019,Maccabi Tel Aviv,Maccabi Netanya,4,1,H,2018/19
+ISR,12/01/2019,Maccabi Netanya,Ashdod,1,0,H,2018/19
+ISR,12/01/2019,Hapoel Raanana,Bnei Yehuda Tel Aviv,0,0,D,2018/19
+ISR,12/01/2019,Hapoel Haifa,Maccabi Petah Tikva,4,2,H,2018/19
+ISR,12/01/2019,Hapoel Hadera,Bnei Sakhnin,2,1,H,2018/19
+ISR,12/01/2019,Hapoel Be'er Sheva,Maccabi Haifa,0,2,A,2018/19
+ISR,13/01/2019,Beitar Jerusalem,Ironi Kiryat Shmona,0,0,D,2018/19
+ISR,14/01/2019,Hapoel Tel Aviv,Maccabi Tel Aviv,1,1,D,2018/19
+ISR,19/01/2019,Bnei Yehuda Tel Aviv,Maccabi Netanya,0,0,D,2018/19
+ISR,19/01/2019,Bnei Sakhnin,Hapoel Haifa,0,4,A,2018/19
+ISR,19/01/2019,Maccabi Haifa,Hapoel Raanana,0,0,D,2018/19
+ISR,19/01/2019,Maccabi Petah Tikva,Hapoel Be'er Sheva,1,3,A,2018/19
+ISR,21/01/2019,Ironi Kiryat Shmona,Hapoel Hadera,3,1,H,2018/19
+ISR,21/01/2019,Ashdod,Hapoel Tel Aviv,1,1,D,2018/19
+ISR,21/01/2019,Maccabi Tel Aviv,Beitar Jerusalem,1,0,H,2018/19
+ISR,26/01/2019,Hapoel Tel Aviv,Bnei Yehuda Tel Aviv,3,2,H,2018/19
+ISR,26/01/2019,Hapoel Haifa,Ironi Kiryat Shmona,1,1,D,2018/19
+ISR,26/01/2019,Hapoel Raanana,Hapoel Be'er Sheva,3,1,H,2018/19
+ISR,26/01/2019,Beitar Jerusalem,Ashdod,4,1,H,2018/19
+ISR,27/01/2019,Bnei Sakhnin,Maccabi Petah Tikva,0,1,A,2018/19
+ISR,27/01/2019,Maccabi Netanya,Maccabi Haifa,0,0,D,2018/19
+ISR,28/01/2019,Hapoel Hadera,Maccabi Tel Aviv,0,2,A,2018/19
+ISR,02/02/2019,Maccabi Petah Tikva,Hapoel Raanana,1,1,D,2018/19
+ISR,02/02/2019,Ashdod,Hapoel Hadera,2,3,A,2018/19
+ISR,02/02/2019,Hapoel Be'er Sheva,Maccabi Netanya,1,1,D,2018/19
+ISR,02/02/2019,Bnei Yehuda Tel Aviv,Beitar Jerusalem,0,2,A,2018/19
+ISR,03/02/2019,Ironi Kiryat Shmona,Bnei Sakhnin,2,2,D,2018/19
+ISR,03/02/2019,Maccabi Tel Aviv,Hapoel Haifa,1,1,D,2018/19
+ISR,04/02/2019,Maccabi Haifa,Hapoel Tel Aviv,3,2,H,2018/19
+ISR,09/02/2019,Hapoel Haifa,Ashdod,0,1,A,2018/19
+ISR,09/02/2019,Ironi Kiryat Shmona,Maccabi Petah Tikva,0,2,A,2018/19
+ISR,09/02/2019,Maccabi Netanya,Hapoel Raanana,1,0,H,2018/19
+ISR,09/02/2019,Hapoel Tel Aviv,Hapoel Be'er Sheva,1,0,H,2018/19
+ISR,10/02/2019,Hapoel Hadera,Bnei Yehuda Tel Aviv,0,4,A,2018/19
+ISR,10/02/2019,Beitar Jerusalem,Maccabi Haifa,1,1,D,2018/19
+ISR,11/02/2019,Bnei Sakhnin,Maccabi Tel Aviv,0,0,D,2018/19
+ISR,16/02/2019,Hapoel Raanana,Hapoel Tel Aviv,0,0,D,2018/19
+ISR,16/02/2019,Ashdod,Bnei Sakhnin,2,1,H,2018/19
+ISR,16/02/2019,Bnei Yehuda Tel Aviv,Hapoel Haifa,4,2,H,2018/19
+ISR,16/02/2019,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,0,H,2018/19
+ISR,17/02/2019,Maccabi Petah Tikva,Maccabi Netanya,1,4,A,2018/19
+ISR,17/02/2019,Maccabi Haifa,Hapoel Hadera,3,1,H,2018/19
+ISR,18/02/2019,Hapoel Be'er Sheva,Beitar Jerusalem,3,1,H,2018/19
+ISR,23/02/2019,Maccabi Tel Aviv,Maccabi Petah Tikva,2,0,H,2018/19
+ISR,23/02/2019,Bnei Sakhnin,Bnei Yehuda Tel Aviv,2,1,H,2018/19
+ISR,23/02/2019,Hapoel Tel Aviv,Maccabi Netanya,1,2,A,2018/19
+ISR,23/02/2019,Beitar Jerusalem,Hapoel Raanana,2,0,H,2018/19
+ISR,24/02/2019,Ironi Kiryat Shmona,Ashdod,0,0,D,2018/19
+ISR,24/02/2019,Hapoel Hadera,Hapoel Be'er Sheva,1,2,A,2018/19
+ISR,25/02/2019,Hapoel Haifa,Maccabi Haifa,0,0,D,2018/19
+ISR,02/03/2019,Maccabi Haifa,Bnei Sakhnin,2,0,H,2018/19
+ISR,02/03/2019,Bnei Yehuda Tel Aviv,Ironi Kiryat Shmona,0,1,A,2018/19
+ISR,02/03/2019,Ashdod,Maccabi Tel Aviv,0,2,A,2018/19
+ISR,02/03/2019,Maccabi Netanya,Beitar Jerusalem,3,1,H,2018/19
+ISR,03/03/2019,Hapoel Raanana,Hapoel Hadera,1,0,H,2018/19
+ISR,03/03/2019,Hapoel Tel Aviv,Maccabi Petah Tikva,6,0,H,2018/19
+ISR,04/03/2019,Hapoel Be'er Sheva,Hapoel Haifa,2,0,H,2018/19
+ISR,09/03/2019,Ironi Kiryat Shmona,Maccabi Haifa,2,3,A,2018/19
+ISR,09/03/2019,Hapoel Haifa,Hapoel Raanana,2,2,D,2018/19
+ISR,09/03/2019,Hapoel Hadera,Maccabi Netanya,2,2,D,2018/19
+ISR,09/03/2019,Beitar Jerusalem,Hapoel Tel Aviv,0,1,A,2018/19
+ISR,10/03/2019,Maccabi Petah Tikva,Ashdod,2,0,H,2018/19
+ISR,10/03/2019,Bnei Sakhnin,Hapoel Be'er Sheva,0,0,D,2018/19
+ISR,11/03/2019,Maccabi Tel Aviv,Bnei Yehuda Tel Aviv,2,1,H,2018/19
+ISR,16/03/2019,Maccabi Tel Aviv,Hapoel Hadera,2,0,H,2018/19
+ISR,16/03/2019,Maccabi Haifa,Bnei Yehuda Tel Aviv,0,2,A,2018/19
+ISR,16/03/2019,Hapoel Raanana,Bnei Sakhnin,2,2,D,2018/19
+ISR,16/03/2019,Hapoel Tel Aviv,Ashdod,5,1,H,2018/19
+ISR,17/03/2019,Maccabi Netanya,Hapoel Be'er Sheva,0,1,A,2018/19
+ISR,17/03/2019,Ironi Kiryat Shmona,Maccabi Petah Tikva,0,1,A,2018/19
+ISR,17/03/2019,Hapoel Haifa,Beitar Jerusalem,0,0,D,2018/19
+ISR,30/03/2019,Hapoel Hadera,Hapoel Be'er Sheva,1,4,A,2018/19
+ISR,30/03/2019,Bnei Yehuda Tel Aviv,Maccabi Netanya,1,1,D,2018/19
+ISR,30/03/2019,Maccabi Tel Aviv,Maccabi Haifa,1,0,H,2018/19
+ISR,30/03/2019,Ashdod,Ironi Kiryat Shmona,3,2,H,2018/19
+ISR,31/03/2019,Maccabi Petah Tikva,Hapoel Raanana,1,1,D,2018/19
+ISR,31/03/2019,Beitar Jerusalem,Bnei Sakhnin,0,0,D,2018/19
+ISR,01/04/2019,Hapoel Haifa,Hapoel Tel Aviv,0,0,D,2018/19
+ISR,06/04/2019,Hapoel Be'er Sheva,Bnei Yehuda Tel Aviv,2,1,H,2018/19
+ISR,06/04/2019,Maccabi Haifa,Hapoel Hadera,1,3,A,2018/19
+ISR,06/04/2019,Ironi Kiryat Shmona,Hapoel Haifa,3,0,H,2018/19
+ISR,06/04/2019,Bnei Sakhnin,Maccabi Petah Tikva,1,1,D,2018/19
+ISR,07/04/2019,Maccabi Netanya,Maccabi Tel Aviv,1,4,A,2018/19
+ISR,07/04/2019,Hapoel Raanana,Ashdod,1,2,A,2018/19
+ISR,08/04/2019,Hapoel Tel Aviv,Beitar Jerusalem,1,2,A,2018/19
+ISR,13/04/2019,Hapoel Haifa,Hapoel Raanana,0,2,A,2018/19
+ISR,13/04/2019,Hapoel Tel Aviv,Ironi Kiryat Shmona,2,2,D,2018/19
+ISR,13/04/2019,Ashdod,Bnei Sakhnin,1,2,A,2018/19
+ISR,13/04/2019,Beitar Jerusalem,Maccabi Petah Tikva,4,1,H,2018/19
+ISR,14/04/2019,Hapoel Hadera,Bnei Yehuda Tel Aviv,2,3,A,2018/19
+ISR,14/04/2019,Maccabi Haifa,Maccabi Netanya,2,1,H,2018/19
+ISR,15/04/2019,Maccabi Tel Aviv,Hapoel Be'er Sheva,0,0,D,2018/19
+ISR,22/04/2019,Hapoel Be'er Sheva,Maccabi Haifa,0,1,A,2018/19
+ISR,23/04/2019,Maccabi Netanya,Hapoel Hadera,3,2,H,2018/19
+ISR,23/04/2019,Bnei Yehuda Tel Aviv,Maccabi Tel Aviv,0,2,A,2018/19
+ISR,27/04/2019,Hapoel Hadera,Maccabi Tel Aviv,0,1,A,2018/19
+ISR,27/04/2019,Ironi Kiryat Shmona,Beitar Jerusalem,0,1,A,2018/19
+ISR,27/04/2019,Hapoel Raanana,Hapoel Tel Aviv,2,1,H,2018/19
+ISR,27/04/2019,Bnei Sakhnin,Hapoel Haifa,1,2,A,2018/19
+ISR,27/04/2019,Maccabi Petah Tikva,Ashdod,0,3,A,2018/19
+ISR,28/04/2019,Hapoel Be'er Sheva,Maccabi Netanya,0,2,A,2018/19
+ISR,29/04/2019,Bnei Yehuda Tel Aviv,Maccabi Haifa,2,2,D,2018/19
+ISR,04/05/2019,Hapoel Hadera,Maccabi Netanya,1,2,A,2018/19
+ISR,04/05/2019,Beitar Jerusalem,Ashdod,2,3,A,2018/19
+ISR,04/05/2019,Hapoel Haifa,Maccabi Petah Tikva,0,3,A,2018/19
+ISR,04/05/2019,Hapoel Tel Aviv,Bnei Sakhnin,3,0,H,2018/19
+ISR,04/05/2019,Ironi Kiryat Shmona,Hapoel Raanana,0,0,D,2018/19
+ISR,05/05/2019,Maccabi Tel Aviv,Bnei Yehuda Tel Aviv,2,3,A,2018/19
+ISR,06/05/2019,Maccabi Haifa,Hapoel Be'er Sheva,3,1,H,2018/19
+ISR,11/05/2019,Maccabi Tel Aviv,Maccabi Netanya,3,0,H,2018/19
+ISR,11/05/2019,Bnei Yehuda Tel Aviv,Hapoel Be'er Sheva,2,3,A,2018/19
+ISR,11/05/2019,Hapoel Raanana,Beitar Jerusalem,1,2,A,2018/19
+ISR,12/05/2019,Bnei Sakhnin,Ironi Kiryat Shmona,0,2,A,2018/19
+ISR,12/05/2019,Maccabi Petah Tikva,Hapoel Tel Aviv,0,2,A,2018/19
+ISR,12/05/2019,Ashdod,Hapoel Haifa,1,0,H,2018/19
+ISR,13/05/2019,Hapoel Hadera,Maccabi Haifa,2,0,H,2018/19
+ISR,19/05/2019,Hapoel Be'er Sheva,Hapoel Hadera,1,0,H,2018/19
+ISR,19/05/2019,Maccabi Netanya,Bnei Yehuda Tel Aviv,0,2,A,2018/19
+ISR,19/05/2019,Maccabi Haifa,Maccabi Tel Aviv,1,1,D,2018/19
+ISR,25/05/2019,Bnei Yehuda Tel Aviv,Hapoel Hadera,1,2,A,2018/19
+ISR,25/05/2019,Hapoel Be'er Sheva,Maccabi Tel Aviv,0,4,A,2018/19
+ISR,25/05/2019,Maccabi Netanya,Maccabi Haifa,1,2,A,2018/19
+ISR,24/08/2019,Maccabi Haifa,Hapoel Raanana,4,3,H,2019/20
+ISR,24/08/2019,Hapoel Hadera,Ashdod,1,1,D,2019/20
+ISR,24/08/2019,Sektzia Nes Tziona,Maccabi Tel Aviv,0,2,A,2019/20
+ISR,25/08/2019,Hapoel KSar Saba FC,Hapoel Haifa,0,1,A,2019/20
+ISR,25/08/2019,Bnei Yehuda Tel Aviv,Ironi Kiryat Shmona,2,1,H,2019/20
+ISR,25/08/2019,Beitar Jerusalem,Hapoel Be'er Sheva,0,0,D,2019/20
+ISR,26/08/2019,Hapoel Tel Aviv,Maccabi Netanya,0,0,D,2019/20
+ISR,31/08/2019,Ashdod,Hapoel Tel Aviv,2,1,H,2019/20
+ISR,31/08/2019,Maccabi Netanya,Sektzia Nes Tziona,3,0,H,2019/20
+ISR,31/08/2019,Hapoel Haifa,Maccabi Haifa,0,0,D,2019/20
+ISR,01/09/2019,Hapoel Be'er Sheva,Hapoel Hadera,3,0,H,2019/20
+ISR,01/09/2019,Hapoel Raanana,Beitar Jerusalem,2,1,H,2019/20
+ISR,01/09/2019,Maccabi Tel Aviv,Bnei Yehuda Tel Aviv,0,0,D,2019/20
+ISR,02/09/2019,Ironi Kiryat Shmona,Hapoel KSar Saba FC,1,3,A,2019/20
+ISR,14/09/2019,Maccabi Haifa,Ironi Kiryat Shmona,2,0,H,2019/20
+ISR,14/09/2019,Hapoel Tel Aviv,Sektzia Nes Tziona,1,1,D,2019/20
+ISR,14/09/2019,Hapoel Hadera,Hapoel Raanana,4,0,H,2019/20
+ISR,14/09/2019,Hapoel KSar Saba FC,Maccabi Tel Aviv,0,1,A,2019/20
+ISR,15/09/2019,Bnei Yehuda Tel Aviv,Maccabi Netanya,0,0,D,2019/20
+ISR,15/09/2019,Ashdod,Hapoel Be'er Sheva,2,2,D,2019/20
+ISR,16/09/2019,Beitar Jerusalem,Hapoel Haifa,0,2,A,2019/20
+ISR,21/09/2019,Maccabi Netanya,Hapoel KSar Saba FC,2,2,D,2019/20
+ISR,21/09/2019,Sektzia Nes Tziona,Bnei Yehuda Tel Aviv,0,1,A,2019/20
+ISR,21/09/2019,Ironi Kiryat Shmona,Beitar Jerusalem,0,2,A,2019/20
+ISR,21/09/2019,Maccabi Tel Aviv,Maccabi Haifa,1,0,H,2019/20
+ISR,22/09/2019,Hapoel Raanana,Ashdod,1,1,D,2019/20
+ISR,22/09/2019,Hapoel Haifa,Hapoel Hadera,1,2,A,2019/20
+ISR,23/09/2019,Hapoel Be'er Sheva,Hapoel Tel Aviv,3,0,H,2019/20
+ISR,25/09/2019,Hapoel KSar Saba FC,Sektzia Nes Tziona,1,1,D,2019/20
+ISR,25/09/2019,Maccabi Haifa,Maccabi Netanya,3,0,H,2019/20
+ISR,28/09/2019,Hapoel Hadera,Ironi Kiryat Shmona,2,2,D,2019/20
+ISR,28/09/2019,Ashdod,Hapoel Haifa,1,1,D,2019/20
+ISR,28/09/2019,Hapoel Tel Aviv,Bnei Yehuda Tel Aviv,1,1,D,2019/20
+ISR,28/09/2019,Beitar Jerusalem,Maccabi Tel Aviv,0,4,A,2019/20
+ISR,28/09/2019,Hapoel Be'er Sheva,Hapoel Raanana,1,0,H,2019/20
+ISR,05/10/2019,Maccabi Tel Aviv,Hapoel Hadera,0,0,D,2019/20
+ISR,05/10/2019,Sektzia Nes Tziona,Maccabi Haifa,0,3,A,2019/20
+ISR,05/10/2019,Hapoel Haifa,Hapoel Be'er Sheva,0,3,A,2019/20
+ISR,06/10/2019,Bnei Yehuda Tel Aviv,Hapoel KSar Saba FC,0,1,A,2019/20
+ISR,06/10/2019,Hapoel Raanana,Hapoel Tel Aviv,2,2,D,2019/20
+ISR,06/10/2019,Maccabi Netanya,Beitar Jerusalem,0,3,A,2019/20
+ISR,07/10/2019,Ironi Kiryat Shmona,Ashdod,2,0,H,2019/20
+ISR,19/10/2019,Hapoel Tel Aviv,Hapoel KSar Saba FC,2,1,H,2019/20
+ISR,19/10/2019,Hapoel Hadera,Maccabi Netanya,1,0,H,2019/20
+ISR,19/10/2019,Hapoel Be'er Sheva,Ironi Kiryat Shmona,2,1,H,2019/20
+ISR,19/10/2019,Sektzia Nes Tziona,Beitar Jerusalem,0,4,A,2019/20
+ISR,21/10/2019,Hapoel Raanana,Hapoel Haifa,0,0,D,2019/20
+ISR,21/10/2019,Ashdod,Maccabi Tel Aviv,0,1,A,2019/20
+ISR,21/10/2019,Maccabi Haifa,Bnei Yehuda Tel Aviv,1,1,D,2019/20
+ISR,26/10/2019,Hapoel Haifa,Hapoel Tel Aviv,3,0,H,2019/20
+ISR,26/10/2019,Ironi Kiryat Shmona,Hapoel Raanana,2,1,H,2019/20
+ISR,26/10/2019,Maccabi Netanya,Ashdod,2,4,A,2019/20
+ISR,26/10/2019,Hapoel KSar Saba FC,Maccabi Haifa,0,3,A,2019/20
+ISR,27/10/2019,Sektzia Nes Tziona,Hapoel Hadera,2,2,D,2019/20
+ISR,27/10/2019,Bnei Yehuda Tel Aviv,Beitar Jerusalem,0,2,A,2019/20
+ISR,28/10/2019,Maccabi Tel Aviv,Hapoel Be'er Sheva,2,0,H,2019/20
+ISR,02/11/2019,Hapoel Haifa,Ironi Kiryat Shmona,2,1,H,2019/20
+ISR,02/11/2019,Hapoel Raanana,Maccabi Tel Aviv,0,2,A,2019/20
+ISR,02/11/2019,Hapoel Hadera,Bnei Yehuda Tel Aviv,0,0,D,2019/20
+ISR,02/11/2019,Beitar Jerusalem,Hapoel KSar Saba FC,1,0,H,2019/20
+ISR,03/11/2019,Ashdod,Sektzia Nes Tziona,2,2,D,2019/20
+ISR,03/11/2019,Hapoel Be'er Sheva,Maccabi Netanya,2,0,H,2019/20
+ISR,04/11/2019,Hapoel Tel Aviv,Maccabi Haifa,1,2,A,2019/20
+ISR,09/11/2019,Ironi Kiryat Shmona,Hapoel Tel Aviv,0,1,A,2019/20
+ISR,09/11/2019,Sektzia Nes Tziona,Hapoel Be'er Sheva,2,1,H,2019/20
+ISR,09/11/2019,Maccabi Netanya,Hapoel Raanana,1,0,H,2019/20
+ISR,09/11/2019,Maccabi Tel Aviv,Hapoel Haifa,3,0,H,2019/20
+ISR,10/11/2019,Hapoel KSar Saba FC,Hapoel Hadera,0,0,D,2019/20
+ISR,10/11/2019,Bnei Yehuda Tel Aviv,Ashdod,2,0,H,2019/20
+ISR,10/11/2019,Maccabi Haifa,Beitar Jerusalem,3,1,H,2019/20
+ISR,30/11/2019,Hapoel Raanana,Sektzia Nes Tziona,0,0,D,2019/20
+ISR,30/11/2019,Hapoel Haifa,Maccabi Netanya,1,3,A,2019/20
+ISR,30/11/2019,Ironi Kiryat Shmona,Maccabi Tel Aviv,0,1,A,2019/20
+ISR,30/11/2019,Ashdod,Hapoel KSar Saba FC,0,0,D,2019/20
+ISR,30/11/2019,Hapoel Be'er Sheva,Bnei Yehuda Tel Aviv,1,2,A,2019/20
+ISR,01/12/2019,Hapoel Hadera,Maccabi Haifa,0,3,A,2019/20
+ISR,01/12/2019,Hapoel Tel Aviv,Beitar Jerusalem,0,1,A,2019/20
+ISR,03/12/2019,Bnei Yehuda Tel Aviv,Hapoel Raanana,1,1,D,2019/20
+ISR,03/12/2019,Maccabi Netanya,Ironi Kiryat Shmona,1,0,H,2019/20
+ISR,03/12/2019,Hapoel KSar Saba FC,Hapoel Be'er Sheva,0,1,A,2019/20
+ISR,04/12/2019,Sektzia Nes Tziona,Hapoel Haifa,1,2,A,2019/20
+ISR,04/12/2019,Beitar Jerusalem,Hapoel Hadera,2,0,H,2019/20
+ISR,04/12/2019,Maccabi Haifa,Ashdod,3,3,D,2019/20
+ISR,04/12/2019,Hapoel Tel Aviv,Maccabi Tel Aviv,0,3,A,2019/20
+ISR,07/12/2019,Hapoel Raanana,Hapoel KSar Saba FC,1,1,D,2019/20
+ISR,07/12/2019,Hapoel Haifa,Bnei Yehuda Tel Aviv,3,0,H,2019/20
+ISR,07/12/2019,Ironi Kiryat Shmona,Sektzia Nes Tziona,1,0,H,2019/20
+ISR,07/12/2019,Maccabi Tel Aviv,Maccabi Netanya,0,0,D,2019/20
+ISR,08/12/2019,Hapoel Hadera,Hapoel Tel Aviv,0,1,A,2019/20
+ISR,08/12/2019,Ashdod,Beitar Jerusalem,2,2,D,2019/20
+ISR,09/12/2019,Hapoel Be'er Sheva,Maccabi Haifa,0,2,A,2019/20
+ISR,14/12/2019,Maccabi Tel Aviv,Sektzia Nes Tziona,1,1,D,2019/20
+ISR,14/12/2019,Ironi Kiryat Shmona,Bnei Yehuda Tel Aviv,2,1,H,2019/20
+ISR,14/12/2019,Hapoel Haifa,Hapoel KSar Saba FC,0,2,A,2019/20
+ISR,14/12/2019,Hapoel Raanana,Maccabi Haifa,0,0,D,2019/20
+ISR,15/12/2019,Ashdod,Hapoel Hadera,0,2,A,2019/20
+ISR,15/12/2019,Maccabi Netanya,Hapoel Tel Aviv,4,0,H,2019/20
+ISR,16/12/2019,Hapoel Be'er Sheva,Beitar Jerusalem,0,1,A,2019/20
+ISR,24/12/2019,Hapoel KSar Saba FC,Ironi Kiryat Shmona,0,3,A,2019/20
+ISR,24/12/2019,Hapoel Hadera,Hapoel Be'er Sheva,0,1,A,2019/20
+ISR,24/12/2019,Maccabi Haifa,Hapoel Haifa,3,0,H,2019/20
+ISR,24/12/2019,Bnei Yehuda Tel Aviv,Maccabi Tel Aviv,0,3,A,2019/20
+ISR,25/12/2019,Sektzia Nes Tziona,Maccabi Netanya,1,0,H,2019/20
+ISR,25/12/2019,Hapoel Tel Aviv,Ashdod,0,0,D,2019/20
+ISR,25/12/2019,Beitar Jerusalem,Hapoel Raanana,2,0,H,2019/20
+ISR,28/12/2019,Maccabi Tel Aviv,Hapoel KSar Saba FC,4,0,H,2019/20
+ISR,28/12/2019,Ironi Kiryat Shmona,Maccabi Haifa,1,2,A,2019/20
+ISR,28/12/2019,Hapoel Raanana,Hapoel Hadera,1,1,D,2019/20
+ISR,28/12/2019,Hapoel Be'er Sheva,Ashdod,2,1,H,2019/20
+ISR,29/12/2019,Maccabi Netanya,Bnei Yehuda Tel Aviv,0,3,A,2019/20
+ISR,29/12/2019,Sektzia Nes Tziona,Hapoel Tel Aviv,0,1,A,2019/20
+ISR,30/12/2019,Hapoel Haifa,Beitar Jerusalem,1,4,A,2019/20
+ISR,04/01/2020,Hapoel KSar Saba FC,Maccabi Netanya,1,2,A,2019/20
+ISR,04/01/2020,Hapoel Hadera,Hapoel Haifa,2,0,H,2019/20
+ISR,04/01/2020,Beitar Jerusalem,Ironi Kiryat Shmona,2,2,D,2019/20
+ISR,05/01/2020,Ashdod,Hapoel Raanana,3,0,H,2019/20
+ISR,05/01/2020,Hapoel Tel Aviv,Hapoel Be'er Sheva,1,0,H,2019/20
+ISR,06/01/2020,Bnei Yehuda Tel Aviv,Sektzia Nes Tziona,1,2,A,2019/20
+ISR,06/01/2020,Maccabi Haifa,Maccabi Tel Aviv,3,4,A,2019/20
+ISR,11/01/2020,Hapoel Haifa,Ashdod,1,0,H,2019/20
+ISR,11/01/2020,Hapoel Raanana,Hapoel Be'er Sheva,2,1,H,2019/20
+ISR,11/01/2020,Ironi Kiryat Shmona,Hapoel Hadera,0,1,A,2019/20
+ISR,11/01/2020,Maccabi Netanya,Maccabi Haifa,0,2,A,2019/20
+ISR,12/01/2020,Sektzia Nes Tziona,Hapoel KSar Saba FC,0,1,A,2019/20
+ISR,12/01/2020,Bnei Yehuda Tel Aviv,Hapoel Tel Aviv,1,2,A,2019/20
+ISR,13/01/2020,Maccabi Tel Aviv,Beitar Jerusalem,0,0,D,2019/20
+ISR,18/01/2020,Ashdod,Ironi Kiryat Shmona,1,0,H,2019/20
+ISR,18/01/2020,Maccabi Haifa,Sektzia Nes Tziona,4,0,H,2019/20
+ISR,18/01/2020,Hapoel Hadera,Maccabi Tel Aviv,0,3,A,2019/20
+ISR,19/01/2020,Hapoel Tel Aviv,Hapoel Raanana,3,1,H,2019/20
+ISR,20/01/2020,Hapoel KSar Saba FC,Bnei Yehuda Tel Aviv,0,1,A,2019/20
+ISR,20/01/2020,Hapoel Be'er Sheva,Hapoel Haifa,1,0,H,2019/20
+ISR,20/01/2020,Beitar Jerusalem,Maccabi Netanya,3,1,H,2019/20
+ISR,25/01/2020,Hapoel KSar Saba FC,Hapoel Tel Aviv,1,2,A,2019/20
+ISR,25/01/2020,Ironi Kiryat Shmona,Hapoel Be'er Sheva,0,0,D,2019/20
+ISR,25/01/2020,Hapoel Haifa,Hapoel Raanana,2,2,D,2019/20
+ISR,25/01/2020,Maccabi Tel Aviv,Ashdod,2,0,H,2019/20
+ISR,26/01/2020,Maccabi Netanya,Hapoel Hadera,1,0,H,2019/20
+ISR,26/01/2020,Beitar Jerusalem,Sektzia Nes Tziona,1,0,H,2019/20
+ISR,27/01/2020,Bnei Yehuda Tel Aviv,Maccabi Haifa,1,3,A,2019/20
+ISR,29/01/2020,Hapoel Raanana,Ironi Kiryat Shmona,1,1,D,2019/20
+ISR,29/01/2020,Hapoel Be'er Sheva,Maccabi Tel Aviv,1,1,D,2019/20
+ISR,01/02/2020,Ashdod,Maccabi Netanya,0,0,D,2019/20
+ISR,01/02/2020,Maccabi Haifa,Hapoel KSar Saba FC,0,1,A,2019/20
+ISR,01/02/2020,Hapoel Hadera,Sektzia Nes Tziona,1,0,H,2019/20
+ISR,01/02/2020,Hapoel Tel Aviv,Hapoel Haifa,0,1,A,2019/20
+ISR,02/02/2020,Beitar Jerusalem,Bnei Yehuda Tel Aviv,1,3,A,2019/20
+ISR,03/02/2020,Maccabi Tel Aviv,Hapoel Raanana,2,1,H,2019/20
+ISR,04/02/2020,Sektzia Nes Tziona,Ashdod,0,2,A,2019/20
+ISR,04/02/2020,Ironi Kiryat Shmona,Hapoel Haifa,1,2,A,2019/20
+ISR,04/02/2020,Maccabi Haifa,Hapoel Tel Aviv,5,0,H,2019/20
+ISR,05/02/2020,Bnei Yehuda Tel Aviv,Hapoel Hadera,0,1,A,2019/20
+ISR,05/02/2020,Maccabi Netanya,Hapoel Be'er Sheva,1,1,D,2019/20
+ISR,05/02/2020,Hapoel KSar Saba FC,Beitar Jerusalem,2,1,H,2019/20
+ISR,08/02/2020,Hapoel Tel Aviv,Ironi Kiryat Shmona,2,0,H,2019/20
+ISR,08/02/2020,Hapoel Raanana,Maccabi Netanya,1,2,A,2019/20
+ISR,08/02/2020,Hapoel Hadera,Hapoel KSar Saba FC,2,0,H,2019/20
+ISR,08/02/2020,Hapoel Haifa,Maccabi Tel Aviv,1,1,D,2019/20
+ISR,09/02/2020,Ashdod,Bnei Yehuda Tel Aviv,0,1,A,2019/20
+ISR,09/02/2020,Hapoel Be'er Sheva,Sektzia Nes Tziona,3,0,H,2019/20
+ISR,10/02/2020,Beitar Jerusalem,Maccabi Haifa,2,0,H,2019/20
+ISR,15/02/2020,Maccabi Netanya,Hapoel Haifa,0,0,D,2019/20
+ISR,15/02/2020,Bnei Yehuda Tel Aviv,Hapoel Be'er Sheva,0,1,A,2019/20
+ISR,15/02/2020,Hapoel KSar Saba FC,Ashdod,1,3,A,2019/20
+ISR,15/02/2020,Maccabi Haifa,Hapoel Hadera,1,0,H,2019/20
+ISR,16/02/2020,Sektzia Nes Tziona,Hapoel Raanana,3,0,H,2019/20
+ISR,16/02/2020,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,0,H,2019/20
+ISR,17/02/2020,Beitar Jerusalem,Hapoel Tel Aviv,0,1,A,2019/20
+ISR,22/02/2020,Ironi Kiryat Shmona,Maccabi Netanya,3,0,H,2019/20
+ISR,22/02/2020,Ashdod,Maccabi Haifa,1,2,A,2019/20
+ISR,22/02/2020,Hapoel Haifa,Sektzia Nes Tziona,2,0,H,2019/20
+ISR,22/02/2020,Hapoel Hadera,Beitar Jerusalem,1,4,A,2019/20
+ISR,23/02/2020,Hapoel Raanana,Bnei Yehuda Tel Aviv,0,1,A,2019/20
+ISR,23/02/2020,Hapoel Be'er Sheva,Hapoel KSar Saba FC,3,1,H,2019/20
+ISR,24/02/2020,Maccabi Tel Aviv,Hapoel Tel Aviv,3,0,H,2019/20
+ISR,29/02/2020,Hapoel KSar Saba FC,Hapoel Raanana,3,0,H,2019/20
+ISR,29/02/2020,Maccabi Netanya,Maccabi Tel Aviv,0,1,A,2019/20
+ISR,29/02/2020,Hapoel Tel Aviv,Hapoel Hadera,2,1,H,2019/20
+ISR,29/02/2020,Bnei Yehuda Tel Aviv,Hapoel Haifa,0,0,D,2019/20
+ISR,01/03/2020,Sektzia Nes Tziona,Ironi Kiryat Shmona,1,0,H,2019/20
+ISR,01/03/2020,Beitar Jerusalem,Ashdod,2,1,H,2019/20
+ISR,01/03/2020,Maccabi Haifa,Hapoel Be'er Sheva,4,0,H,2019/20
+ISR,30/05/2020,Maccabi Tel Aviv,Hapoel Haifa,2,0,H,2019/20
+ISR,30/05/2020,Beitar Jerusalem,Hapoel Be'er Sheva,1,1,D,2019/20
+ISR,30/05/2020,Maccabi Haifa,Hapoel Tel Aviv,1,2,A,2019/20
+ISR,01/06/2020,Bnei Yehuda Tel Aviv,Hapoel KSar Saba FC,0,0,D,2019/20
+ISR,02/06/2020,Hapoel Tel Aviv,Beitar Jerusalem,3,0,H,2019/20
+ISR,02/06/2020,Ashdod,Hapoel Raanana,3,2,H,2019/20
+ISR,02/06/2020,Maccabi Netanya,Ironi Kiryat Shmona,3,1,H,2019/20
+ISR,03/06/2020,Hapoel Haifa,Hapoel Be'er Sheva,1,1,D,2019/20
+ISR,03/06/2020,Maccabi Tel Aviv,Maccabi Haifa,2,0,H,2019/20
+ISR,03/06/2020,Hapoel Hadera,Sektzia Nes Tziona,2,2,D,2019/20
+ISR,06/06/2020,Hapoel Be'er Sheva,Hapoel Tel Aviv,0,0,D,2019/20
+ISR,06/06/2020,Ironi Kiryat Shmona,Ashdod,3,0,H,2019/20
+ISR,06/06/2020,Bnei Yehuda Tel Aviv,Hapoel Hadera,5,0,H,2019/20
+ISR,06/06/2020,Hapoel KSar Saba FC,Hapoel Raanana,2,0,H,2019/20
+ISR,07/06/2020,Maccabi Haifa,Hapoel Haifa,2,2,D,2019/20
+ISR,07/06/2020,Sektzia Nes Tziona,Maccabi Netanya,1,0,H,2019/20
+ISR,08/06/2020,Beitar Jerusalem,Maccabi Tel Aviv,0,0,D,2019/20
+ISR,13/06/2020,Maccabi Haifa,Beitar Jerusalem,0,0,D,2019/20
+ISR,13/06/2020,Hapoel Hadera,Hapoel KSar Saba FC,0,0,D,2019/20
+ISR,13/06/2020,Hapoel Raanana,Ironi Kiryat Shmona,0,1,A,2019/20
+ISR,13/06/2020,Ashdod,Sektzia Nes Tziona,2,0,H,2019/20
+ISR,14/06/2020,Hapoel Haifa,Hapoel Tel Aviv,4,0,H,2019/20
+ISR,15/06/2020,Maccabi Tel Aviv,Hapoel Be'er Sheva,1,1,D,2019/20
+ISR,15/06/2020,Maccabi Netanya,Bnei Yehuda Tel Aviv,1,3,A,2019/20
+ISR,17/06/2020,Beitar Jerusalem,Hapoel Haifa,1,1,D,2019/20
+ISR,18/06/2020,Sektzia Nes Tziona,Hapoel Raanana,2,1,H,2019/20
+ISR,18/06/2020,Hapoel Hadera,Maccabi Netanya,1,2,A,2019/20
+ISR,20/06/2020,Hapoel Be'er Sheva,Maccabi Haifa,0,1,A,2019/20
+ISR,20/06/2020,Hapoel Tel Aviv,Maccabi Tel Aviv,0,2,A,2019/20
+ISR,20/06/2020,Hapoel KSar Saba FC,Ironi Kiryat Shmona,0,0,D,2019/20
+ISR,21/06/2020,Bnei Yehuda Tel Aviv,Ashdod,3,3,D,2019/20
+ISR,23/06/2020,Hapoel Be'er Sheva,Beitar Jerusalem,2,2,D,2019/20
+ISR,23/06/2020,Hapoel Haifa,Maccabi Tel Aviv,0,3,A,2019/20
+ISR,23/06/2020,Hapoel Tel Aviv,Maccabi Haifa,1,3,A,2019/20
+ISR,23/06/2020,Hapoel Raanana,Maccabi Netanya,2,4,A,2019/20
+ISR,24/06/2020,Ashdod,Hapoel KSar Saba FC,2,3,A,2019/20
+ISR,24/06/2020,Sektzia Nes Tziona,Bnei Yehuda Tel Aviv,0,0,D,2019/20
+ISR,24/06/2020,Ironi Kiryat Shmona,Hapoel Hadera,0,3,A,2019/20
+ISR,27/06/2020,Maccabi Haifa,Hapoel Be'er Sheva,2,1,H,2019/20
+ISR,27/06/2020,Maccabi Tel Aviv,Hapoel Tel Aviv,3,0,H,2019/20
+ISR,27/06/2020,Hapoel Hadera,Hapoel Raanana,2,2,D,2019/20
+ISR,28/06/2020,Hapoel Haifa,Beitar Jerusalem,0,0,D,2019/20
+ISR,28/06/2020,Hapoel KSar Saba FC,Sektzia Nes Tziona,0,1,A,2019/20
+ISR,28/06/2020,Bnei Yehuda Tel Aviv,Ironi Kiryat Shmona,2,0,H,2019/20
+ISR,28/06/2020,Maccabi Netanya,Ashdod,2,5,A,2019/20
+ISR,30/06/2020,Hapoel Tel Aviv,Hapoel Be'er Sheva,1,0,H,2019/20
+ISR,01/07/2020,Hapoel Haifa,Maccabi Haifa,1,4,A,2020/21
+ISR,01/07/2020,Maccabi Tel Aviv,Beitar Jerusalem,1,0,H,2020/21
+ISR,01/07/2020,Hapoel Raanana,Bnei Yehuda Tel Aviv,0,4,A,2020/21
+ISR,02/07/2020,Maccabi Netanya,Hapoel KSar Saba FC,0,1,A,2020/21
+ISR,02/07/2020,Ashdod,Hapoel Hadera,3,1,H,2020/21
+ISR,02/07/2020,Ironi Kiryat Shmona,Sektzia Nes Tziona,1,0,H,2020/21
+ISR,04/07/2020,Beitar Jerusalem,Hapoel Tel Aviv,3,0,H,2020/21
+ISR,04/07/2020,Hapoel Be'er Sheva,Hapoel Haifa,3,1,H,2020/21
+ISR,04/07/2020,Maccabi Haifa,Maccabi Tel Aviv,0,1,A,2020/21
+ISR,07/07/2020,Hapoel Tel Aviv,Hapoel Haifa,0,3,A,2020/21
+ISR,07/07/2020,Hapoel Be'er Sheva,Maccabi Tel Aviv,2,0,H,2020/21
+ISR,07/07/2020,Beitar Jerusalem,Maccabi Haifa,2,2,D,2020/21
+ISR,29/08/2020,Ashdod,Ironi Kiryat Shmona,0,2,A,2020/21
+ISR,29/08/2020,Bnei Sakhnin,Bnei Yehuda Tel Aviv,0,3,A,2020/21
+ISR,29/08/2020,Hapoel KSar Saba FC,Hapoel Tel Aviv,2,1,H,2020/21
+ISR,30/08/2020,Hapoel Be'er Sheva,Maccabi Netanya,3,2,H,2020/21
+ISR,30/08/2020,Hapoel Haifa,Beitar Jerusalem,0,1,A,2020/21
+ISR,30/08/2020,Hapoel Hadera,Maccabi Haifa,1,2,A,2020/21
+ISR,30/08/2020,Maccabi Tel Aviv,Maccabi Petah Tikva,1,2,A,2020/21
+ISR,12/09/2020,Ironi Kiryat Shmona,Hapoel Haifa,1,1,D,2020/21
+ISR,12/09/2020,Maccabi Petah Tikva,Hapoel KSar Saba FC,2,0,H,2020/21
+ISR,12/09/2020,Bnei Yehuda Tel Aviv,Maccabi Tel Aviv,2,2,D,2020/21
+ISR,13/09/2020,Hapoel Tel Aviv,Ashdod,0,2,A,2020/21
+ISR,13/09/2020,Maccabi Haifa,Hapoel Be'er Sheva,3,1,H,2020/21
+ISR,14/09/2020,Maccabi Netanya,Bnei Sakhnin,7,0,H,2020/21
+ISR,21/09/2020,Ashdod,Maccabi Petah Tikva,1,0,H,2020/21
+ISR,21/09/2020,Hapoel KSar Saba FC,Bnei Yehuda Tel Aviv,3,1,H,2020/21
+ISR,25/10/2020,Maccabi Tel Aviv,Hapoel Be'er Sheva,0,0,D,2020/21
+ISR,31/10/2020,Maccabi Petah Tikva,Hapoel Haifa,2,0,H,2020/21
+ISR,31/10/2020,Maccabi Netanya,Hapoel KSar Saba FC,3,0,H,2020/21
+ISR,31/10/2020,Ironi Kiryat Shmona,Hapoel Hadera,1,1,D,2020/21
+ISR,31/10/2020,Hapoel Tel Aviv,Beitar Jerusalem,1,1,D,2020/21
+ISR,01/11/2020,Bnei Yehuda Tel Aviv,Ashdod,1,0,H,2020/21
+ISR,02/11/2020,Hapoel Be'er Sheva,Bnei Sakhnin,2,2,D,2020/21
+ISR,02/11/2020,Maccabi Haifa,Maccabi Tel Aviv,2,2,D,2020/21
+ISR,04/11/2020,Beitar Jerusalem,Hapoel Hadera,4,0,H,2020/21
+ISR,07/11/2020,Maccabi Netanya,Hapoel Haifa,2,1,H,2020/21
+ISR,07/11/2020,Maccabi Haifa,Ashdod,2,1,H,2020/21
+ISR,07/11/2020,Bnei Yehuda Tel Aviv,Beitar Jerusalem,1,0,H,2020/21
+ISR,08/11/2020,Maccabi Petah Tikva,Ironi Kiryat Shmona,0,1,A,2020/21
+ISR,08/11/2020,Bnei Sakhnin,Maccabi Tel Aviv,1,2,A,2020/21
+ISR,08/11/2020,Hapoel Be'er Sheva,Hapoel KSar Saba FC,0,0,D,2020/21
+ISR,09/11/2020,Hapoel Tel Aviv,Hapoel Hadera,1,0,H,2020/21
+ISR,21/11/2020,Hapoel Tel Aviv,Maccabi Petah Tikva,0,0,D,2020/21
+ISR,21/11/2020,Ironi Kiryat Shmona,Bnei Yehuda Tel Aviv,2,0,H,2020/21
+ISR,21/11/2020,Ashdod,Hapoel Be'er Sheva,2,0,H,2020/21
+ISR,21/11/2020,Hapoel KSar Saba FC,Bnei Sakhnin,0,1,A,2020/21
+ISR,21/11/2020,Hapoel Haifa,Maccabi Haifa,2,1,H,2020/21
+ISR,22/11/2020,Hapoel Hadera,Maccabi Tel Aviv,0,1,A,2020/21
+ISR,22/11/2020,Beitar Jerusalem,Maccabi Netanya,1,1,D,2020/21
+ISR,24/11/2020,Hapoel Haifa,Bnei Yehuda Tel Aviv,2,1,H,2020/21
+ISR,24/11/2020,Ironi Kiryat Shmona,Hapoel Tel Aviv,1,0,H,2020/21
+ISR,24/11/2020,Hapoel KSar Saba FC,Maccabi Haifa,3,2,H,2020/21
+ISR,25/11/2020,Hapoel Hadera,Bnei Sakhnin,4,0,H,2020/21
+ISR,25/11/2020,Ashdod,Maccabi Netanya,4,0,H,2020/21
+ISR,25/11/2020,Beitar Jerusalem,Maccabi Petah Tikva,1,2,A,2020/21
+ISR,28/11/2020,Maccabi Petah Tikva,Hapoel Hadera,1,0,H,2020/21
+ISR,28/11/2020,Bnei Sakhnin,Ashdod,1,0,H,2020/21
+ISR,28/11/2020,Bnei Yehuda Tel Aviv,Hapoel Tel Aviv,1,0,H,2020/21
+ISR,29/11/2020,Maccabi Netanya,Ironi Kiryat Shmona,0,0,D,2020/21
+ISR,29/11/2020,Maccabi Tel Aviv,Hapoel KSar Saba FC,3,0,H,2020/21
+ISR,30/11/2020,Hapoel Be'er Sheva,Hapoel Haifa,2,2,D,2020/21
+ISR,30/11/2020,Maccabi Haifa,Beitar Jerusalem,2,0,H,2020/21
+ISR,05/12/2020,Ironi Kiryat Shmona,Maccabi Haifa,0,3,A,2020/21
+ISR,05/12/2020,Maccabi Petah Tikva,Bnei Yehuda Tel Aviv,1,0,H,2020/21
+ISR,05/12/2020,Hapoel Haifa,Bnei Sakhnin,0,2,A,2020/21
+ISR,05/12/2020,Hapoel Tel Aviv,Maccabi Netanya,0,0,D,2020/21
+ISR,06/12/2020,Hapoel Hadera,Hapoel KSar Saba FC,1,1,D,2020/21
+ISR,07/12/2020,Ashdod,Maccabi Tel Aviv,3,2,H,2020/21
+ISR,07/12/2020,Beitar Jerusalem,Hapoel Be'er Sheva,1,2,A,2020/21
+ISR,08/12/2020,Bnei Sakhnin,Maccabi Haifa,0,3,A,2020/21
+ISR,09/12/2020,Hapoel Haifa,Hapoel Tel Aviv,2,0,H,2020/21
+ISR,12/12/2020,Hapoel KSar Saba FC,Ashdod,0,1,A,2020/21
+ISR,12/12/2020,Bnei Yehuda Tel Aviv,Hapoel Hadera,0,3,A,2020/21
+ISR,12/12/2020,Maccabi Netanya,Maccabi Petah Tikva,3,2,H,2020/21
+ISR,13/12/2020,Hapoel Be'er Sheva,Ironi Kiryat Shmona,2,1,H,2020/21
+ISR,13/12/2020,Maccabi Tel Aviv,Hapoel Haifa,4,3,H,2020/21
+ISR,14/12/2020,Maccabi Haifa,Hapoel Tel Aviv,1,0,H,2020/21
+ISR,16/12/2020,Hapoel Hadera,Hapoel Be'er Sheva,2,2,D,2020/21
+ISR,16/12/2020,Maccabi Tel Aviv,Maccabi Netanya,2,2,D,2020/21
+ISR,17/12/2020,Beitar Jerusalem,Ironi Kiryat Shmona,1,0,H,2020/21
+ISR,19/12/2020,Hapoel Haifa,Hapoel KSar Saba FC,2,1,H,2020/21
+ISR,19/12/2020,Hapoel Hadera,Ashdod,1,1,D,2020/21
+ISR,19/12/2020,Bnei Yehuda Tel Aviv,Maccabi Netanya,1,1,D,2020/21
+ISR,19/12/2020,Maccabi Petah Tikva,Maccabi Haifa,1,2,A,2020/21
+ISR,20/12/2020,Ironi Kiryat Shmona,Bnei Sakhnin,0,1,A,2020/21
+ISR,20/12/2020,Hapoel Tel Aviv,Hapoel Be'er Sheva,0,3,A,2020/21
+ISR,21/12/2020,Beitar Jerusalem,Maccabi Tel Aviv,0,0,D,2020/21
+ISR,22/12/2020,Ashdod,Hapoel Haifa,0,1,A,2020/21
+ISR,22/12/2020,Hapoel Hadera,Maccabi Netanya,2,1,H,2020/21
+ISR,22/12/2020,Maccabi Haifa,Bnei Yehuda Tel Aviv,3,0,H,2020/21
+ISR,23/12/2020,Bnei Sakhnin,Hapoel Tel Aviv,0,1,A,2020/21
+ISR,23/12/2020,Hapoel Be'er Sheva,Maccabi Petah Tikva,1,2,A,2020/21
+ISR,24/12/2020,Maccabi Tel Aviv,Ironi Kiryat Shmona,1,0,H,2020/21
+ISR,24/12/2020,Hapoel KSar Saba FC,Beitar Jerusalem,1,1,D,2020/21
+ISR,26/12/2020,Hapoel Haifa,Hapoel Hadera,0,0,D,2020/21
+ISR,26/12/2020,Maccabi Netanya,Maccabi Haifa,0,2,A,2020/21
+ISR,27/12/2020,Maccabi Petah Tikva,Bnei Sakhnin,0,0,D,2020/21
+ISR,27/12/2020,Ironi Kiryat Shmona,Hapoel KSar Saba FC,1,0,H,2020/21
+ISR,27/12/2020,Bnei Yehuda Tel Aviv,Hapoel Be'er Sheva,0,2,A,2020/21
+ISR,28/12/2020,Beitar Jerusalem,Ashdod,1,2,A,2020/21
+ISR,28/12/2020,Hapoel Tel Aviv,Maccabi Tel Aviv,0,4,A,2020/21
+ISR,02/01/2021,Hapoel Tel Aviv,Hapoel KSar Saba FC,1,1,D,2020/21
+ISR,02/01/2021,Maccabi Haifa,Hapoel Hadera,1,0,H,2020/21
+ISR,02/01/2021,Maccabi Netanya,Hapoel Be'er Sheva,0,1,A,2020/21
+ISR,02/01/2021,Beitar Jerusalem,Hapoel Haifa,3,3,D,2020/21
+ISR,03/01/2021,Bnei Yehuda Tel Aviv,Bnei Sakhnin,1,1,D,2020/21
+ISR,04/01/2021,Maccabi Petah Tikva,Maccabi Tel Aviv,0,1,A,2020/21
+ISR,05/01/2021,Hapoel Haifa,Ironi Kiryat Shmona,0,2,A,2020/21
+ISR,05/01/2021,Hapoel Be'er Sheva,Maccabi Haifa,1,1,D,2020/21
+ISR,06/01/2021,Bnei Sakhnin,Maccabi Netanya,0,1,A,2020/21
+ISR,06/01/2021,Hapoel Hadera,Beitar Jerusalem,0,4,A,2020/21
+ISR,07/01/2021,Hapoel KSar Saba FC,Maccabi Petah Tikva,2,0,H,2020/21
+ISR,07/01/2021,Ashdod,Hapoel Tel Aviv,2,1,H,2020/21
+ISR,07/01/2021,Maccabi Tel Aviv,Bnei Yehuda Tel Aviv,0,0,D,2020/21
+ISR,23/01/2021,Hapoel Tel Aviv,Hapoel Haifa,2,2,D,2020/21
+ISR,23/01/2021,Maccabi Petah Tikva,Ashdod,2,1,H,2020/21
+ISR,23/01/2021,Ironi Kiryat Shmona,Beitar Jerusalem,0,2,A,2020/21
+ISR,23/01/2021,Maccabi Haifa,Bnei Sakhnin,3,0,H,2020/21
+ISR,23/01/2021,Maccabi Netanya,Maccabi Tel Aviv,1,3,A,2020/21
+ISR,24/01/2021,Bnei Yehuda Tel Aviv,Hapoel KSar Saba FC,1,3,A,2020/21
+ISR,25/01/2021,Hapoel Be'er Sheva,Hapoel Hadera,1,0,H,2020/21
+ISR,26/01/2021,Hapoel Haifa,Maccabi Petah Tikva,1,2,A,2020/21
+ISR,26/01/2021,Beitar Jerusalem,Hapoel Tel Aviv,0,1,A,2020/21
+ISR,27/01/2021,Ashdod,Bnei Yehuda Tel Aviv,4,0,H,2020/21
+ISR,27/01/2021,Hapoel KSar Saba FC,Maccabi Netanya,0,1,A,2020/21
+ISR,27/01/2021,Maccabi Tel Aviv,Maccabi Haifa,2,1,H,2020/21
+ISR,28/01/2021,Hapoel Hadera,Ironi Kiryat Shmona,0,1,A,2020/21
+ISR,28/01/2021,Bnei Sakhnin,Hapoel Be'er Sheva,1,0,H,2020/21
+ISR,30/01/2021,Maccabi Netanya,Ashdod,3,0,H,2020/21
+ISR,31/01/2021,Hapoel Tel Aviv,Ironi Kiryat Shmona,1,1,D,2020/21
+ISR,31/01/2021,Maccabi Haifa,Hapoel KSar Saba FC,3,0,H,2020/21
+ISR,01/02/2021,Bnei Yehuda Tel Aviv,Hapoel Haifa,0,2,A,2020/21
+ISR,01/02/2021,Bnei Sakhnin,Hapoel Hadera,0,2,A,2020/21
+ISR,01/02/2021,Hapoel Be'er Sheva,Maccabi Tel Aviv,0,1,A,2020/21
+ISR,06/02/2021,Hapoel Haifa,Maccabi Netanya,0,0,D,2020/21
+ISR,06/02/2021,Hapoel KSar Saba FC,Hapoel Be'er Sheva,0,1,A,2020/21
+ISR,06/02/2021,Maccabi Tel Aviv,Bnei Sakhnin,1,0,H,2020/21
+ISR,06/02/2021,Ashdod,Maccabi Haifa,1,0,H,2020/21
+ISR,07/02/2021,Hapoel Hadera,Hapoel Tel Aviv,1,1,D,2020/21
+ISR,09/02/2021,Bnei Sakhnin,Hapoel KSar Saba FC,0,1,A,2020/21
+ISR,09/02/2021,Hapoel Be'er Sheva,Ashdod,0,3,A,2020/21
+ISR,10/02/2021,Maccabi Petah Tikva,Hapoel Tel Aviv,0,2,A,2020/21
+ISR,10/02/2021,Maccabi Tel Aviv,Hapoel Hadera,3,1,H,2020/21
+ISR,10/02/2021,Maccabi Haifa,Hapoel Haifa,2,0,H,2020/21
+ISR,11/02/2021,Maccabi Netanya,Beitar Jerusalem,1,2,A,2020/21
+ISR,13/02/2021,Hapoel Haifa,Hapoel Be'er Sheva,2,2,D,2020/21
+ISR,13/02/2021,Ashdod,Bnei Sakhnin,0,0,D,2020/21
+ISR,13/02/2021,Hapoel KSar Saba FC,Maccabi Tel Aviv,0,1,A,2020/21
+ISR,14/02/2021,Hapoel Hadera,Maccabi Petah Tikva,1,0,H,2020/21
+ISR,15/02/2021,Ironi Kiryat Shmona,Maccabi Netanya,1,4,A,2020/21
+ISR,15/02/2021,Hapoel Tel Aviv,Bnei Yehuda Tel Aviv,0,0,D,2020/21
+ISR,15/02/2021,Beitar Jerusalem,Maccabi Haifa,0,3,A,2020/21
+ISR,18/02/2021,Ironi Kiryat Shmona,Ashdod,2,1,H,2020/21
+ISR,18/02/2021,Bnei Sakhnin,Beitar Jerusalem,0,0,D,2020/21
+ISR,24/02/2021,Bnei Yehuda Tel Aviv,Ironi Kiryat Shmona,1,0,H,2020/21
+ISR,24/02/2021,Maccabi Petah Tikva,Beitar Jerusalem,0,1,A,2020/21
+ISR,27/02/2021,Bnei Sakhnin,Hapoel Haifa,0,1,A,2020/21
+ISR,27/02/2021,Hapoel KSar Saba FC,Hapoel Hadera,0,1,A,2020/21
+ISR,27/02/2021,Bnei Yehuda Tel Aviv,Maccabi Petah Tikva,0,1,A,2020/21
+ISR,27/02/2021,Maccabi Netanya,Hapoel Tel Aviv,0,1,A,2020/21
+ISR,27/02/2021,Maccabi Haifa,Ironi Kiryat Shmona,4,2,H,2020/21
+ISR,28/02/2021,Hapoel Be'er Sheva,Beitar Jerusalem,1,1,D,2020/21
+ISR,01/03/2021,Maccabi Tel Aviv,Ashdod,3,1,H,2020/21
+ISR,02/03/2021,Hapoel Hadera,Bnei Yehuda Tel Aviv,0,0,D,2020/21
+ISR,03/03/2021,Maccabi Petah Tikva,Maccabi Netanya,1,1,D,2020/21
+ISR,03/03/2021,Ironi Kiryat Shmona,Hapoel Be'er Sheva,2,2,D,2020/21
+ISR,03/03/2021,Hapoel Tel Aviv,Maccabi Haifa,1,2,A,2020/21
+ISR,04/03/2021,Ashdod,Hapoel KSar Saba FC,2,0,H,2020/21
+ISR,04/03/2021,Beitar Jerusalem,Bnei Sakhnin,2,3,A,2020/21
+ISR,04/03/2021,Hapoel Haifa,Maccabi Tel Aviv,0,2,A,2020/21
+ISR,06/03/2021,Maccabi Netanya,Bnei Yehuda Tel Aviv,1,0,H,2020/21
+ISR,06/03/2021,Maccabi Haifa,Maccabi Petah Tikva,0,2,A,2020/21
+ISR,07/03/2021,Bnei Sakhnin,Ironi Kiryat Shmona,0,2,A,2020/21
+ISR,07/03/2021,Hapoel KSar Saba FC,Hapoel Haifa,0,0,D,2020/21
+ISR,07/03/2021,Hapoel Be'er Sheva,Hapoel Tel Aviv,0,1,A,2020/21
+ISR,08/03/2021,Ashdod,Hapoel Hadera,1,1,D,2020/21
+ISR,08/03/2021,Maccabi Tel Aviv,Beitar Jerusalem,4,1,H,2020/21
+ISR,10/03/2021,Ironi Kiryat Shmona,Maccabi Petah Tikva,2,1,H,2020/21
+ISR,11/03/2021,Beitar Jerusalem,Bnei Yehuda Tel Aviv,1,1,D,2020/21
+ISR,13/03/2021,Hapoel Tel Aviv,Bnei Sakhnin,0,1,A,2020/21
+ISR,13/03/2021,Maccabi Netanya,Hapoel Hadera,0,1,A,2020/21
+ISR,13/03/2021,Hapoel Haifa,Ashdod,2,2,D,2020/21
+ISR,13/03/2021,Ironi Kiryat Shmona,Maccabi Tel Aviv,0,2,A,2020/21
+ISR,14/03/2021,Maccabi Petah Tikva,Hapoel Be'er Sheva,0,0,D,2020/21
+ISR,14/03/2021,Beitar Jerusalem,Hapoel KSar Saba FC,2,1,H,2020/21
+ISR,14/03/2021,Bnei Yehuda Tel Aviv,Maccabi Haifa,0,2,A,2020/21
+ISR,20/03/2021,Ashdod,Beitar Jerusalem,2,0,H,2020/21
+ISR,20/03/2021,Hapoel KSar Saba FC,Ironi Kiryat Shmona,0,1,A,2020/21
+ISR,20/03/2021,Bnei Sakhnin,Maccabi Petah Tikva,1,0,H,2020/21
+ISR,20/03/2021,Hapoel Be'er Sheva,Bnei Yehuda Tel Aviv,2,0,H,2020/21
+ISR,20/03/2021,Maccabi Haifa,Maccabi Netanya,2,0,H,2020/21
+ISR,20/03/2021,Maccabi Tel Aviv,Hapoel Tel Aviv,1,1,D,2020/21
+ISR,22/03/2021,Hapoel Hadera,Hapoel Haifa,3,1,H,2020/21
+ISR,03/04/2021,Ashdod,Ironi Kiryat Shmona,1,1,D,2020/21
+ISR,03/04/2021,Maccabi Haifa,Maccabi Petah Tikva,1,1,D,2020/21
+ISR,03/04/2021,Maccabi Tel Aviv,Hapoel Be'er Sheva,2,1,H,2020/21
+ISR,03/04/2021,Hapoel Hadera,Hapoel Tel Aviv,0,1,A,2020/21
+ISR,04/04/2021,Maccabi Netanya,Bnei Sakhnin,0,0,D,2020/21
+ISR,04/04/2021,Hapoel Haifa,Bnei Yehuda Tel Aviv,1,3,A,2020/21
+ISR,05/04/2021,Beitar Jerusalem,Hapoel KSar Saba FC,3,1,H,2020/21
+ISR,06/04/2021,Maccabi Petah Tikva,Ironi Kiryat Shmona,2,0,H,2020/21
+ISR,06/04/2021,Hapoel Be'er Sheva,Ashdod,1,2,A,2020/21
+ISR,06/04/2021,Maccabi Haifa,Maccabi Tel Aviv,1,1,D,2020/21
+ISR,10/04/2021,Ironi Kiryat Shmona,Hapoel Be'er Sheva,1,1,D,2020/21
+ISR,10/04/2021,Hapoel Tel Aviv,Hapoel Haifa,0,2,A,2020/21
+ISR,10/04/2021,Bnei Sakhnin,Bnei Yehuda Tel Aviv,1,1,D,2020/21
+ISR,10/04/2021,Maccabi Netanya,Beitar Jerusalem,1,0,H,2020/21
+ISR,11/04/2021,Maccabi Tel Aviv,Maccabi Petah Tikva,3,1,H,2020/21
+ISR,11/04/2021,Hapoel KSar Saba FC,Hapoel Hadera,1,2,A,2020/21
+ISR,12/04/2021,Ashdod,Maccabi Haifa,0,3,A,2020/21
+ISR,17/04/2021,Maccabi Petah Tikva,Hapoel Be'er Sheva,0,0,D,2020/21
+ISR,17/04/2021,Maccabi Haifa,Ironi Kiryat Shmona,4,0,H,2020/21
+ISR,17/04/2021,Bnei Sakhnin,Hapoel KSar Saba FC,3,0,H,2020/21
+ISR,17/04/2021,Maccabi Netanya,Hapoel Tel Aviv,0,1,A,2020/21
+ISR,18/04/2021,Maccabi Tel Aviv,Ashdod,1,1,D,2020/21
+ISR,18/04/2021,Hapoel Hadera,Hapoel Haifa,3,0,H,2020/21
+ISR,19/04/2021,Beitar Jerusalem,Bnei Yehuda Tel Aviv,2,2,D,2020/21
+ISR,24/04/2021,Hapoel Haifa,Bnei Sakhnin,1,0,H,2020/21
+ISR,24/04/2021,Hapoel KSar Saba FC,Maccabi Netanya,0,1,A,2020/21
+ISR,24/04/2021,Hapoel Tel Aviv,Beitar Jerusalem,0,0,D,2020/21
+ISR,25/04/2021,Ashdod,Maccabi Petah Tikva,0,0,D,2020/21
+ISR,25/04/2021,Ironi Kiryat Shmona,Maccabi Tel Aviv,2,0,H,2020/21
+ISR,25/04/2021,Bnei Yehuda Tel Aviv,Hapoel Hadera,2,3,A,2020/21
+ISR,26/04/2021,Hapoel Be'er Sheva,Maccabi Haifa,1,1,D,2020/21
+ISR,01/05/2021,Ironi Kiryat Shmona,Ashdod,1,1,D,2020/21
+ISR,01/05/2021,Maccabi Petah Tikva,Maccabi Haifa,1,2,A,2020/21
+ISR,01/05/2021,Bnei Yehuda Tel Aviv,Maccabi Netanya,1,2,A,2020/21
+ISR,01/05/2021,Hapoel Hadera,Bnei Sakhnin,1,0,H,2020/21
+ISR,03/05/2021,Hapoel Be'er Sheva,Maccabi Tel Aviv,1,1,D,2020/21
+ISR,03/05/2021,Hapoel Tel Aviv,Hapoel KSar Saba FC,2,2,D,2020/21
+ISR,03/05/2021,Hapoel Haifa,Beitar Jerusalem,3,1,H,2020/21
+ISR,08/05/2021,Ironi Kiryat Shmona,Maccabi Petah Tikva,1,2,A,2020/21
+ISR,08/05/2021,Bnei Yehuda Tel Aviv,Hapoel Tel Aviv,1,0,H,2020/21
+ISR,08/05/2021,Hapoel Haifa,Hapoel KSar Saba FC,3,2,H,2020/21
+ISR,08/05/2021,Beitar Jerusalem,Bnei Sakhnin,3,1,H,2020/21
+ISR,09/05/2021,Maccabi Tel Aviv,Maccabi Haifa,2,2,D,2020/21
+ISR,09/05/2021,Hapoel Hadera,Maccabi Netanya,2,2,D,2020/21
+ISR,19/05/2021,Beitar Jerusalem,Hapoel Hadera,0,3,A,2020/21
+ISR,20/05/2021,Ashdod,Hapoel Be'er Sheva,2,2,D,2020/21
+ISR,20/05/2021,Maccabi Netanya,Hapoel Haifa,2,0,H,2020/21
+ISR,20/05/2021,Hapoel KSar Saba FC,Bnei Yehuda Tel Aviv,1,2,A,2020/21
+ISR,23/05/2021,Maccabi Petah Tikva,Maccabi Tel Aviv,0,3,A,2020/21
+ISR,23/05/2021,Maccabi Haifa,Ashdod,2,0,H,2020/21
+ISR,23/05/2021,Hapoel Be'er Sheva,Ironi Kiryat Shmona,3,2,H,2020/21
+ISR,24/05/2021,Bnei Sakhnin,Hapoel Tel Aviv,2,3,A,2020/21
+ISR,26/05/2021,Hapoel Be'er Sheva,Maccabi Petah Tikva,2,0,H,2020/21
+ISR,26/05/2021,Ironi Kiryat Shmona,Maccabi Haifa,1,1,D,2020/21
+ISR,26/05/2021,Ashdod,Maccabi Tel Aviv,1,2,A,2020/21
+ISR,30/05/2021,Maccabi Petah Tikva,Ashdod,1,3,A,2020/21
+ISR,30/05/2021,Maccabi Tel Aviv,Ironi Kiryat Shmona,2,2,D,2020/21
+ISR,30/05/2021,Maccabi Haifa,Hapoel Be'er Sheva,3,2,H,2020/21
+ISR,28/08/2021,Hapoel Haifa,Maccabi Netanya,0,0,D,2021/22
+ISR,28/08/2021,Maccabi Petah Tikva,Ironi Kiryat Shmona,1,1,D,2021/22
+ISR,28/08/2021,Hapoel Tel Aviv,Ashdod,2,1,H,2021/22
+ISR,29/08/2021,Bnei Sakhnin,Maccabi Tel Aviv,3,1,H,2021/22
+ISR,29/08/2021,Hapoel Hadera,Maccabi Haifa,0,0,D,2021/22
+ISR,29/08/2021,Beitar Jerusalem,Hapoel Be'er Sheva,0,2,A,2021/22
+ISR,30/08/2021,Hapoel Nazareth Illit FC,null,0,0,D,2021/22
+ISR,11/09/2021,Ironi Kiryat Shmona,Hapoel Tel Aviv,0,2,A,2021/22
+ISR,11/09/2021,Maccabi Netanya,Hapoel Nazareth Illit FC,1,3,A,2021/22
+ISR,11/09/2021,Maccabi Tel Aviv,Maccabi Petah Tikva,1,1,D,2021/22
+ISR,11/09/2021,Maccabi Haifa,Bnei Sakhnin,2,1,H,2021/22
+ISR,12/09/2021,Ashdod,Hapoel Haifa,1,3,A,2021/22
+ISR,12/09/2021,Hapoel Be'er Sheva,Hapoel Hadera,2,2,D,2021/22
+ISR,13/09/2021,null,Beitar Jerusalem,0,3,A,2021/22
+ISR,18/09/2021,Hapoel Nazareth Illit FC,Ashdod,2,0,H,2021/22
+ISR,18/09/2021,Bnei Sakhnin,Hapoel Be'er Sheva,0,0,D,2021/22
+ISR,18/09/2021,Maccabi Petah Tikva,Hapoel Tel Aviv,1,1,D,2021/22
+ISR,18/09/2021,Maccabi Tel Aviv,Maccabi Haifa,2,1,H,2021/22
+ISR,19/09/2021,Hapoel Hadera,null,0,0,D,2021/22
+ISR,19/09/2021,Hapoel Haifa,Ironi Kiryat Shmona,1,0,H,2021/22
+ISR,19/09/2021,Beitar Jerusalem,Maccabi Netanya,1,1,D,2021/22
+ISR,25/09/2021,null,Bnei Sakhnin,0,0,D,2021/22
+ISR,25/09/2021,Ironi Kiryat Shmona,Hapoel Nazareth Illit FC,1,0,H,2021/22
+ISR,25/09/2021,Hapoel Tel Aviv,Hapoel Haifa,0,2,A,2021/22
+ISR,25/09/2021,Hapoel Be'er Sheva,Maccabi Tel Aviv,2,0,H,2021/22
+ISR,26/09/2021,Maccabi Netanya,Hapoel Hadera,0,2,A,2021/22
+ISR,26/09/2021,Ashdod,Beitar Jerusalem,2,0,H,2021/22
+ISR,26/09/2021,Maccabi Haifa,Maccabi Petah Tikva,2,0,H,2021/22
+ISR,02/10/2021,Hapoel Nazareth Illit FC,Hapoel Tel Aviv,2,2,D,2021/22
+ISR,02/10/2021,Maccabi Petah Tikva,Hapoel Haifa,2,0,H,2021/22
+ISR,02/10/2021,Beitar Jerusalem,Ironi Kiryat Shmona,1,1,D,2021/22
+ISR,02/10/2021,Bnei Sakhnin,Maccabi Netanya,1,3,A,2021/22
+ISR,03/10/2021,Ashdod,Hapoel Hadera,1,2,A,2021/22
+ISR,03/10/2021,Maccabi Tel Aviv,null,1,0,H,2021/22
+ISR,03/10/2021,Maccabi Haifa,Hapoel Be'er Sheva,1,2,A,2021/22
+ISR,16/10/2021,null,Maccabi Haifa,1,4,A,2021/22
+ISR,16/10/2021,Ashdod,Bnei Sakhnin,0,1,A,2021/22
+ISR,16/10/2021,Hapoel Haifa,Hapoel Nazareth Illit FC,3,1,H,2021/22
+ISR,16/10/2021,Maccabi Netanya,Maccabi Tel Aviv,4,2,H,2021/22
+ISR,17/10/2021,Ironi Kiryat Shmona,Hapoel Hadera,0,1,A,2021/22
+ISR,17/10/2021,Hapoel Be'er Sheva,Maccabi Petah Tikva,1,0,H,2021/22
+ISR,18/10/2021,Hapoel Tel Aviv,Beitar Jerusalem,1,0,H,2021/22
+ISR,23/10/2021,Hapoel Hadera,Hapoel Tel Aviv,0,3,A,2021/22
+ISR,23/10/2021,Bnei Sakhnin,Ironi Kiryat Shmona,0,3,A,2021/22
+ISR,23/10/2021,Maccabi Petah Tikva,Hapoel Nazareth Illit FC,4,0,H,2021/22
+ISR,23/10/2021,Hapoel Be'er Sheva,null,3,1,H,2021/22
+ISR,24/10/2021,Beitar Jerusalem,Hapoel Haifa,2,1,H,2021/22
+ISR,25/10/2021,Maccabi Tel Aviv,Ashdod,0,2,A,2021/22
+ISR,25/10/2021,Maccabi Haifa,Maccabi Netanya,2,0,H,2021/22
+ISR,30/10/2021,Ironi Kiryat Shmona,Maccabi Tel Aviv,1,3,A,2021/22
+ISR,30/10/2021,null,Maccabi Petah Tikva,1,0,H,2021/22
+ISR,30/10/2021,Maccabi Netanya,Hapoel Be'er Sheva,1,1,D,2021/22
+ISR,30/10/2021,Ashdod,Maccabi Haifa,2,2,D,2021/22
+ISR,31/10/2021,Hapoel Haifa,Hapoel Hadera,3,0,H,2021/22
+ISR,31/10/2021,Hapoel Tel Aviv,Bnei Sakhnin,0,3,A,2021/22
+ISR,01/11/2021,Hapoel Nazareth Illit FC,Beitar Jerusalem,1,0,H,2021/22
+ISR,06/11/2021,null,Maccabi Netanya,2,1,H,2021/22
+ISR,06/11/2021,Hapoel Be'er Sheva,Ashdod,1,1,D,2021/22
+ISR,06/11/2021,Bnei Sakhnin,Hapoel Haifa,2,2,D,2021/22
+ISR,06/11/2021,Maccabi Petah Tikva,Beitar Jerusalem,0,3,A,2021/22
+ISR,07/11/2021,Hapoel Hadera,Hapoel Nazareth Illit FC,0,0,D,2021/22
+ISR,07/11/2021,Maccabi Haifa,Ironi Kiryat Shmona,4,0,H,2021/22
+ISR,07/11/2021,Maccabi Tel Aviv,Hapoel Tel Aviv,1,1,D,2021/22
+ISR,27/11/2021,Ironi Kiryat Shmona,Hapoel Be'er Sheva,1,2,A,2021/22
+ISR,27/11/2021,Hapoel Nazareth Illit FC,Bnei Sakhnin,1,2,A,2021/22
+ISR,27/11/2021,Maccabi Netanya,Maccabi Petah Tikva,2,0,H,2021/22
+ISR,27/11/2021,Ashdod,null,1,0,H,2021/22
+ISR,27/11/2021,Beitar Jerusalem,Hapoel Hadera,0,0,D,2021/22
+ISR,28/11/2021,Hapoel Haifa,Maccabi Tel Aviv,1,3,A,2021/22
+ISR,28/11/2021,Hapoel Tel Aviv,Maccabi Haifa,1,3,A,2021/22
+ISR,30/11/2021,Maccabi Petah Tikva,Hapoel Hadera,1,1,D,2021/22
+ISR,30/11/2021,Maccabi Netanya,Ashdod,0,1,A,2021/22
+ISR,30/11/2021,Bnei Sakhnin,Beitar Jerusalem,2,0,H,2021/22
+ISR,01/12/2021,null,Ironi Kiryat Shmona,0,1,A,2021/22
+ISR,01/12/2021,Maccabi Tel Aviv,Hapoel Nazareth Illit FC,1,1,D,2021/22
+ISR,01/12/2021,Hapoel Be'er Sheva,Hapoel Tel Aviv,2,1,H,2021/22
+ISR,02/12/2021,Maccabi Haifa,Hapoel Haifa,5,1,H,2021/22
+ISR,04/12/2021,Hapoel Hadera,Bnei Sakhnin,2,1,H,2021/22
+ISR,04/12/2021,Maccabi Petah Tikva,Ashdod,0,1,A,2021/22
+ISR,04/12/2021,Ironi Kiryat Shmona,Maccabi Netanya,2,1,H,2021/22
+ISR,05/12/2021,Hapoel Tel Aviv,null,1,1,D,2021/22
+ISR,05/12/2021,Hapoel Nazareth Illit FC,Maccabi Haifa,0,4,A,2021/22
+ISR,05/12/2021,Beitar Jerusalem,Maccabi Tel Aviv,1,2,A,2021/22
+ISR,06/12/2021,Hapoel Haifa,Hapoel Be'er Sheva,0,1,A,2021/22
+ISR,11/12/2021,Bnei Sakhnin,Maccabi Petah Tikva,1,0,H,2021/22
+ISR,11/12/2021,null,Hapoel Haifa,1,1,D,2021/22
+ISR,11/12/2021,Ashdod,Ironi Kiryat Shmona,0,2,A,2021/22
+ISR,11/12/2021,Maccabi Netanya,Hapoel Tel Aviv,1,1,D,2021/22
+ISR,12/12/2021,Hapoel Be'er Sheva,Hapoel Nazareth Illit FC,2,0,H,2021/22
+ISR,13/12/2021,Maccabi Tel Aviv,Hapoel Hadera,3,0,H,2021/22
+ISR,13/12/2021,Maccabi Haifa,Beitar Jerusalem,2,1,H,2021/22
+ISR,21/12/2021,null,Hapoel Nazareth Illit FC,3,1,H,2021/22
+ISR,21/12/2021,Maccabi Netanya,Hapoel Haifa,1,0,H,2021/22
+ISR,21/12/2021,Ashdod,Hapoel Tel Aviv,1,4,A,2021/22
+ISR,21/12/2021,Maccabi Haifa,Hapoel Hadera,1,0,H,2021/22
+ISR,22/12/2021,Ironi Kiryat Shmona,Maccabi Petah Tikva,1,0,H,2021/22
+ISR,22/12/2021,Maccabi Tel Aviv,Bnei Sakhnin,1,1,D,2021/22
+ISR,22/12/2021,Hapoel Be'er Sheva,Beitar Jerusalem,3,1,H,2021/22
+ISR,25/12/2021,Hapoel Haifa,Ashdod,2,1,H,2021/22
+ISR,25/12/2021,Hapoel Tel Aviv,Ironi Kiryat Shmona,2,0,H,2021/22
+ISR,25/12/2021,Hapoel Nazareth Illit FC,Maccabi Netanya,0,1,A,2021/22
+ISR,25/12/2021,Bnei Sakhnin,Maccabi Haifa,0,6,A,2021/22
+ISR,26/12/2021,Hapoel Hadera,Hapoel Be'er Sheva,1,2,A,2021/22
+ISR,26/12/2021,Beitar Jerusalem,null,3,0,H,2021/22
+ISR,27/12/2021,Maccabi Petah Tikva,Maccabi Tel Aviv,1,2,A,2021/22
+ISR,01/01/2022,Hapoel Tel Aviv,Maccabi Petah Tikva,2,1,H,2021/22
+ISR,01/01/2022,Ironi Kiryat Shmona,Hapoel Haifa,2,2,D,2021/22
+ISR,01/01/2022,null,Hapoel Hadera,1,1,D,2021/22
+ISR,01/01/2022,Maccabi Netanya,Beitar Jerusalem,0,0,D,2021/22
+ISR,02/01/2022,Ashdod,Hapoel Nazareth Illit FC,3,0,H,2021/22
+ISR,02/01/2022,Hapoel Be'er Sheva,Bnei Sakhnin,3,0,H,2021/22
+ISR,03/01/2022,Maccabi Haifa,Maccabi Tel Aviv,3,2,H,2021/22
+ISR,08/01/2022,Hapoel Haifa,Hapoel Tel Aviv,0,2,A,2021/22
+ISR,08/01/2022,Hapoel Nazareth Illit FC,Ironi Kiryat Shmona,2,6,A,2021/22
+ISR,08/01/2022,Maccabi Petah Tikva,Maccabi Haifa,0,4,A,2021/22
+ISR,08/01/2022,Maccabi Tel Aviv,Hapoel Be'er Sheva,1,0,H,2021/22
+ISR,09/01/2022,Hapoel Hadera,Maccabi Netanya,1,1,D,2021/22
+ISR,09/01/2022,Beitar Jerusalem,Ashdod,0,2,A,2021/22
+ISR,10/01/2022,Bnei Sakhnin,null,2,1,H,2021/22
+ISR,15/01/2022,Hapoel Tel Aviv,Hapoel Nazareth Illit FC,2,2,D,2021/22
+ISR,15/01/2022,Hapoel Haifa,Maccabi Petah Tikva,2,2,D,2021/22
+ISR,15/01/2022,null,Maccabi Tel Aviv,1,3,A,2021/22
+ISR,16/01/2022,Hapoel Hadera,Ashdod,2,1,H,2021/22
+ISR,16/01/2022,Ironi Kiryat Shmona,Beitar Jerusalem,2,2,D,2021/22
+ISR,17/01/2022,Maccabi Netanya,Bnei Sakhnin,1,0,H,2021/22
+ISR,17/01/2022,Hapoel Be'er Sheva,Maccabi Haifa,1,2,A,2021/22
+ISR,22/01/2022,Hapoel Nazareth Illit FC,Hapoel Haifa,0,1,A,2021/22
+ISR,22/01/2022,Maccabi Tel Aviv,Maccabi Netanya,2,2,D,2021/22
+ISR,22/01/2022,Hapoel Hadera,Ironi Kiryat Shmona,2,0,H,2021/22
+ISR,22/01/2022,Maccabi Haifa,null,1,1,D,2021/22
+ISR,23/01/2022,Bnei Sakhnin,Ashdod,0,1,A,2021/22
+ISR,23/01/2022,Maccabi Petah Tikva,Hapoel Be'er Sheva,0,1,A,2021/22
+ISR,24/01/2022,Beitar Jerusalem,Hapoel Tel Aviv,0,2,A,2021/22
+ISR,29/01/2022,null,Hapoel Be'er Sheva,0,1,A,2021/22
+ISR,29/01/2022,Ashdod,Maccabi Tel Aviv,1,3,A,2021/22
+ISR,29/01/2022,Hapoel Nazareth Illit FC,Maccabi Petah Tikva,1,0,H,2021/22
+ISR,29/01/2022,Hapoel Haifa,Beitar Jerusalem,5,1,H,2021/22
+ISR,30/01/2022,Hapoel Tel Aviv,Hapoel Hadera,0,1,A,2021/22
+ISR,30/01/2022,Maccabi Netanya,Maccabi Haifa,1,1,D,2021/22
+ISR,31/01/2022,Ironi Kiryat Shmona,Bnei Sakhnin,0,1,A,2021/22
+ISR,05/02/2022,Bnei Sakhnin,Hapoel Tel Aviv,1,0,H,2021/22
+ISR,05/02/2022,Maccabi Tel Aviv,Ironi Kiryat Shmona,1,0,H,2021/22
+ISR,05/02/2022,Maccabi Petah Tikva,null,3,1,H,2021/22
+ISR,05/02/2022,Hapoel Be'er Sheva,Maccabi Netanya,0,1,A,2021/22
+ISR,06/02/2022,Hapoel Hadera,Hapoel Haifa,1,0,H,2021/22
+ISR,06/02/2022,Beitar Jerusalem,Hapoel Nazareth Illit FC,0,0,D,2021/22
+ISR,07/02/2022,Maccabi Haifa,Ashdod,6,0,H,2021/22
+ISR,12/02/2022,Maccabi Netanya,null,2,0,H,2021/22
+ISR,12/02/2022,Ashdod,Hapoel Be'er Sheva,1,1,D,2021/22
+ISR,12/02/2022,Hapoel Nazareth Illit FC,Hapoel Hadera,1,1,D,2021/22
+ISR,12/02/2022,Hapoel Tel Aviv,Maccabi Tel Aviv,2,3,A,2021/22
+ISR,13/02/2022,Hapoel Haifa,Bnei Sakhnin,1,1,D,2021/22
+ISR,13/02/2022,Beitar Jerusalem,Maccabi Petah Tikva,2,1,H,2021/22
+ISR,14/02/2022,Ironi Kiryat Shmona,Maccabi Haifa,2,1,H,2021/22
+ISR,19/02/2022,Maccabi Petah Tikva,Maccabi Netanya,1,1,D,2021/22
+ISR,19/02/2022,Hapoel Be'er Sheva,Ironi Kiryat Shmona,0,0,D,2021/22
+ISR,19/02/2022,null,Ashdod,2,0,H,2021/22
+ISR,19/02/2022,Hapoel Hadera,Beitar Jerusalem,1,0,H,2021/22
+ISR,20/02/2022,Bnei Sakhnin,Hapoel Nazareth Illit FC,2,0,H,2021/22
+ISR,20/02/2022,Maccabi Tel Aviv,Hapoel Haifa,2,0,H,2021/22
+ISR,21/02/2022,Maccabi Haifa,Hapoel Tel Aviv,2,0,H,2021/22
+ISR,26/02/2022,Ashdod,Maccabi Netanya,1,3,A,2021/22
+ISR,26/02/2022,Hapoel Hadera,Maccabi Petah Tikva,1,4,A,2021/22
+ISR,26/02/2022,Hapoel Tel Aviv,Hapoel Be'er Sheva,1,1,D,2021/22
+ISR,26/02/2022,Hapoel Haifa,Maccabi Haifa,0,1,A,2021/22
+ISR,27/02/2022,Ironi Kiryat Shmona,null,0,0,D,2021/22
+ISR,27/02/2022,Beitar Jerusalem,Bnei Sakhnin,1,1,D,2021/22
+ISR,28/02/2022,Hapoel Nazareth Illit FC,Maccabi Tel Aviv,1,3,A,2021/22
+ISR,05/03/2022,Maccabi Haifa,Hapoel Nazareth Illit FC,1,1,D,2021/22
+ISR,05/03/2022,Maccabi Netanya,Ironi Kiryat Shmona,3,1,H,2021/22
+ISR,05/03/2022,Bnei Sakhnin,Hapoel Hadera,1,0,H,2021/22
+ISR,05/03/2022,null,Hapoel Tel Aviv,0,1,A,2021/22
+ISR,06/03/2022,Ashdod,Maccabi Petah Tikva,3,4,A,2021/22
+ISR,06/03/2022,Hapoel Be'er Sheva,Hapoel Haifa,3,1,H,2021/22
+ISR,07/03/2022,Maccabi Tel Aviv,Beitar Jerusalem,3,1,H,2021/22
+ISR,12/03/2022,Ironi Kiryat Shmona,Ashdod,2,0,H,2021/22
+ISR,12/03/2022,Maccabi Petah Tikva,Bnei Sakhnin,0,1,A,2021/22
+ISR,12/03/2022,Hapoel Hadera,Maccabi Tel Aviv,0,2,A,2021/22
+ISR,12/03/2022,Hapoel Tel Aviv,Maccabi Netanya,2,2,D,2021/22
+ISR,13/03/2022,Hapoel Haifa,null,1,2,A,2021/22
+ISR,13/03/2022,Hapoel Nazareth Illit FC,Hapoel Be'er Sheva,0,2,A,2021/22
+ISR,14/03/2022,Beitar Jerusalem,Maccabi Haifa,0,1,A,2021/22
+ISR,19/03/2022,Maccabi Tel Aviv,Bnei Sakhnin,0,0,D,2021/22
+ISR,19/03/2022,Hapoel Be'er Sheva,Maccabi Netanya,4,1,H,2021/22
+ISR,19/03/2022,Maccabi Haifa,Hapoel Tel Aviv,3,0,H,2021/22
+ISR,19/03/2022,Ashdod,Hapoel Nazareth Illit FC,2,0,H,2021/22
+ISR,20/03/2022,Ironi Kiryat Shmona,Maccabi Petah Tikva,1,1,D,2021/22
+ISR,20/03/2022,Hapoel Haifa,Beitar Jerusalem,1,1,D,2021/22
+ISR,21/03/2022,Hapoel Hadera,null,3,1,H,2021/22
+ISR,02/04/2022,Hapoel Tel Aviv,Bnei Sakhnin,2,1,H,2021/22
+ISR,02/04/2022,Maccabi Netanya,Maccabi Tel Aviv,1,1,D,2021/22
+ISR,02/04/2022,null,Hapoel Nazareth Illit FC,0,0,D,2021/22
+ISR,02/04/2022,Maccabi Petah Tikva,Hapoel Haifa,0,0,D,2021/22
+ISR,03/04/2022,Hapoel Hadera,Ironi Kiryat Shmona,1,4,A,2021/22
+ISR,03/04/2022,Beitar Jerusalem,Ashdod,1,0,H,2021/22
+ISR,04/04/2022,Maccabi Haifa,Hapoel Be'er Sheva,2,0,H,2021/22
+ISR,09/04/2022,Ironi Kiryat Shmona,null,2,1,H,2021/22
+ISR,09/04/2022,Ashdod,Maccabi Petah Tikva,1,0,H,2021/22
+ISR,09/04/2022,Hapoel Haifa,Hapoel Hadera,1,0,H,2021/22
+ISR,09/04/2022,Hapoel Nazareth Illit FC,Beitar Jerusalem,0,2,A,2021/22
+ISR,10/04/2022,Bnei Sakhnin,Maccabi Netanya,1,1,D,2021/22
+ISR,10/04/2022,Hapoel Be'er Sheva,Hapoel Tel Aviv,2,2,D,2021/22
+ISR,11/04/2022,Maccabi Tel Aviv,Maccabi Haifa,1,1,D,2021/22
+ISR,16/04/2022,Maccabi Haifa,Bnei Sakhnin,1,0,H,2021/22
+ISR,17/04/2022,Hapoel Be'er Sheva,Maccabi Tel Aviv,1,0,H,2021/22
+ISR,18/04/2022,Hapoel Tel Aviv,Maccabi Netanya,2,0,H,2021/22
+ISR,23/04/2022,Maccabi Netanya,Maccabi Haifa,3,0,H,2021/22
+ISR,23/04/2022,Maccabi Petah Tikva,Hapoel Nazareth Illit FC,0,4,A,2021/22
+ISR,23/04/2022,Ironi Kiryat Shmona,Hapoel Haifa,4,0,H,2021/22
+ISR,23/04/2022,null,Beitar Jerusalem,0,1,A,2021/22
+ISR,24/04/2022,Bnei Sakhnin,Hapoel Be'er Sheva,1,1,D,2021/22
+ISR,24/04/2022,Hapoel Hadera,Ashdod,2,3,A,2021/22
+ISR,25/04/2022,Maccabi Tel Aviv,Hapoel Tel Aviv,5,0,H,2021/22
+ISR,30/04/2022,Bnei Sakhnin,Maccabi Tel Aviv,1,0,H,2021/22
+ISR,30/04/2022,Hapoel Haifa,null,0,2,A,2021/22
+ISR,30/04/2022,Hapoel Nazareth Illit FC,Hapoel Hadera,0,2,A,2021/22
+ISR,30/04/2022,Beitar Jerusalem,Maccabi Petah Tikva,2,2,D,2021/22
+ISR,01/05/2022,Maccabi Netanya,Hapoel Be'er Sheva,3,0,H,2021/22
+ISR,01/05/2022,Ashdod,Ironi Kiryat Shmona,1,3,A,2021/22
+ISR,02/05/2022,Hapoel Tel Aviv,Maccabi Haifa,0,2,A,2021/22
+ISR,07/05/2022,Bnei Sakhnin,Hapoel Tel Aviv,0,0,D,2021/22
+ISR,07/05/2022,Maccabi Tel Aviv,Maccabi Netanya,2,1,H,2021/22
+ISR,07/05/2022,Hapoel Be'er Sheva,Maccabi Haifa,1,0,H,2021/22
+ISR,08/05/2022,null,Maccabi Petah Tikva,1,0,H,2021/22
+ISR,08/05/2022,Ironi Kiryat Shmona,Hapoel Nazareth Illit FC,2,0,H,2021/22
+ISR,08/05/2022,Hapoel Hadera,Beitar Jerusalem,1,2,A,2021/22
+ISR,09/05/2022,Hapoel Haifa,Ashdod,1,2,A,2021/22
+ISR,10/05/2022,Hapoel Tel Aviv,Hapoel Be'er Sheva,2,1,H,2021/22
+ISR,10/05/2022,Maccabi Haifa,Maccabi Tel Aviv,1,3,A,2021/22
+ISR,10/05/2022,Maccabi Netanya,Bnei Sakhnin,3,0,H,2021/22
+ISR,14/05/2022,Beitar Jerusalem,Ironi Kiryat Shmona,3,3,D,2021/22
+ISR,14/05/2022,Ashdod,null,0,1,A,2021/22
+ISR,14/05/2022,Hapoel Nazareth Illit FC,Hapoel Haifa,1,0,H,2021/22
+ISR,14/05/2022,Maccabi Petah Tikva,Hapoel Hadera,4,3,H,2021/22
+ISR,16/05/2022,Maccabi Netanya,Hapoel Tel Aviv,0,0,D,2021/22
+ISR,16/05/2022,Bnei Sakhnin,Maccabi Haifa,0,3,A,2021/22
+ISR,16/05/2022,Maccabi Tel Aviv,Hapoel Be'er Sheva,1,1,D,2021/22
+ISR,21/05/2022,Hapoel Tel Aviv,Maccabi Tel Aviv,0,2,A,2021/22
+ISR,21/05/2022,Hapoel Be'er Sheva,Bnei Sakhnin,3,1,H,2021/22
+ISR,21/05/2022,Maccabi Haifa,Maccabi Netanya,4,0,H,2021/22
+ISR,20/08/2022,Hapoel Haifa,Hapoel Tel Aviv,2,0,H,2022/23
+ISR,20/08/2022,null,Hapoel Hadera,1,1,D,2022/23
+ISR,20/08/2022,Maccabi Netanya,Beitar Jerusalem,4,1,H,2022/23
+ISR,21/08/2022,Maccabi Tel Aviv,Maccabi Bnei Raina,5,0,H,2022/23
+ISR,22/08/2022,Sektzia Nes Tziona,Ironi Kiryat Shmona,0,2,A,2022/23
+ISR,27/08/2022,Ironi Kiryat Shmona,null,1,1,D,2022/23
+ISR,27/08/2022,Hapoel Tel Aviv,Bnei Sakhnin,0,2,A,2022/23
+ISR,27/08/2022,Maccabi Haifa,Maccabi Netanya,4,1,H,2022/23
+ISR,27/08/2022,Ashdod,Sektzia Nes Tziona,1,0,H,2022/23
+ISR,28/08/2022,Maccabi Bnei Raina,Hapoel Haifa,1,1,D,2022/23
+ISR,28/08/2022,Beitar Jerusalem,Hapoel Be'er Sheva,0,5,A,2022/23
+ISR,29/08/2022,Hapoel Hadera,Maccabi Tel Aviv,0,6,A,2022/23
+ISR,30/08/2022,Bnei Sakhnin,Maccabi Haifa,0,1,A,2022/23
+ISR,31/08/2022,Hapoel Be'er Sheva,Ashdod,1,2,A,2022/23
+ISR,03/09/2022,Maccabi Tel Aviv,Ironi Kiryat Shmona,3,1,H,2022/23
+ISR,03/09/2022,null,Ashdod,3,0,H,2022/23
+ISR,03/09/2022,Hapoel Haifa,Bnei Sakhnin,1,2,A,2022/23
+ISR,03/09/2022,Hapoel Be'er Sheva,Maccabi Haifa,1,2,A,2022/23
+ISR,04/09/2022,Maccabi Bnei Raina,Hapoel Hadera,1,2,A,2022/23
+ISR,04/09/2022,Sektzia Nes Tziona,Beitar Jerusalem,0,3,A,2022/23
+ISR,05/09/2022,Maccabi Netanya,Hapoel Tel Aviv,0,2,A,2022/23
+ISR,10/09/2022,Maccabi Haifa,Sektzia Nes Tziona,3,1,H,2022/23
+ISR,10/09/2022,Hapoel Hadera,Hapoel Haifa,1,1,D,2022/23
+ISR,10/09/2022,Bnei Sakhnin,Maccabi Netanya,0,0,D,2022/23
+ISR,10/09/2022,Ashdod,Maccabi Tel Aviv,0,0,D,2022/23
+ISR,11/09/2022,Ironi Kiryat Shmona,Maccabi Bnei Raina,1,1,D,2022/23
+ISR,11/09/2022,Hapoel Tel Aviv,Hapoel Be'er Sheva,2,3,A,2022/23
+ISR,12/09/2022,Beitar Jerusalem,null,0,1,A,2022/23
+ISR,17/09/2022,Sektzia Nes Tziona,Hapoel Tel Aviv,4,3,H,2022/23
+ISR,17/09/2022,Maccabi Bnei Raina,Ashdod,1,1,D,2022/23
+ISR,17/09/2022,Hapoel Haifa,Maccabi Netanya,0,0,D,2022/23
+ISR,17/09/2022,Maccabi Tel Aviv,Beitar Jerusalem,4,0,H,2022/23
+ISR,18/09/2022,Hapoel Hadera,Ironi Kiryat Shmona,1,1,D,2022/23
+ISR,18/09/2022,Hapoel Be'er Sheva,Bnei Sakhnin,1,0,H,2022/23
+ISR,18/09/2022,null,Maccabi Haifa,3,0,H,2022/23
+ISR,01/10/2022,Ironi Kiryat Shmona,Hapoel Haifa,1,1,D,2022/23
+ISR,01/10/2022,Ashdod,Hapoel Hadera,1,1,D,2022/23
+ISR,01/10/2022,Maccabi Netanya,Hapoel Be'er Sheva,1,2,A,2022/23
+ISR,01/10/2022,Maccabi Haifa,Maccabi Tel Aviv,2,0,H,2022/23
+ISR,02/10/2022,Bnei Sakhnin,Sektzia Nes Tziona,2,0,H,2022/23
+ISR,02/10/2022,Hapoel Tel Aviv,null,1,3,A,2022/23
+ISR,03/10/2022,Beitar Jerusalem,Maccabi Bnei Raina,2,3,A,2022/23
+ISR,08/10/2022,Sektzia Nes Tziona,Maccabi Netanya,1,1,D,2022/23
+ISR,08/10/2022,null,Bnei Sakhnin,1,2,A,2022/23
+ISR,08/10/2022,Hapoel Hadera,Beitar Jerusalem,2,1,H,2022/23
+ISR,08/10/2022,Maccabi Bnei Raina,Maccabi Haifa,1,0,H,2022/23
+ISR,10/10/2022,Ironi Kiryat Shmona,Ashdod,1,1,D,2022/23
+ISR,10/10/2022,Hapoel Be'er Sheva,Hapoel Haifa,2,2,D,2022/23
+ISR,10/10/2022,Maccabi Tel Aviv,Hapoel Tel Aviv,3,0,H,2022/23
+ISR,15/10/2022,Hapoel Tel Aviv,Maccabi Bnei Raina,2,0,H,2022/23
+ISR,15/10/2022,Ashdod,Hapoel Haifa,4,0,H,2022/23
+ISR,15/10/2022,Beitar Jerusalem,Ironi Kiryat Shmona,2,0,H,2022/23
+ISR,15/10/2022,Bnei Sakhnin,Maccabi Tel Aviv,0,1,A,2022/23
+ISR,17/10/2022,Maccabi Netanya,null,0,2,A,2022/23
+ISR,17/10/2022,Hapoel Be'er Sheva,Sektzia Nes Tziona,1,1,D,2022/23
+ISR,17/10/2022,Maccabi Haifa,Hapoel Hadera,1,0,H,2022/23
+ISR,22/10/2022,null,Hapoel Be'er Sheva,1,4,A,2022/23
+ISR,22/10/2022,Hapoel Haifa,Sektzia Nes Tziona,0,1,A,2022/23
+ISR,22/10/2022,Ashdod,Beitar Jerusalem,0,2,A,2022/23
+ISR,22/10/2022,Ironi Kiryat Shmona,Maccabi Haifa,2,3,A,2022/23
+ISR,23/10/2022,Maccabi Bnei Raina,Bnei Sakhnin,2,0,H,2022/23
+ISR,23/10/2022,Hapoel Hadera,Hapoel Tel Aviv,0,0,D,2022/23
+ISR,24/10/2022,Maccabi Tel Aviv,Maccabi Netanya,3,0,H,2022/23
+ISR,29/10/2022,Maccabi Haifa,Ashdod,3,1,H,2022/23
+ISR,29/10/2022,Bnei Sakhnin,Hapoel Hadera,1,4,A,2022/23
+ISR,29/10/2022,Sektzia Nes Tziona,null,0,2,A,2022/23
+ISR,29/10/2022,Maccabi Netanya,Maccabi Bnei Raina,2,1,H,2022/23
+ISR,29/10/2022,Beitar Jerusalem,Hapoel Haifa,0,0,D,2022/23
+ISR,30/10/2022,Hapoel Tel Aviv,Ironi Kiryat Shmona,2,1,H,2022/23
+ISR,31/10/2022,Hapoel Be'er Sheva,Maccabi Tel Aviv,2,0,H,2022/23
+ISR,05/11/2022,Maccabi Tel Aviv,Sektzia Nes Tziona,1,1,D,2022/23
+ISR,05/11/2022,Hapoel Hadera,Maccabi Netanya,3,1,H,2022/23
+ISR,05/11/2022,Hapoel Haifa,null,1,0,H,2022/23
+ISR,05/11/2022,Ironi Kiryat Shmona,Bnei Sakhnin,1,1,D,2022/23
+ISR,05/11/2022,Ashdod,Hapoel Tel Aviv,1,0,H,2022/23
+ISR,06/11/2022,Maccabi Bnei Raina,Hapoel Be'er Sheva,0,3,A,2022/23
+ISR,06/11/2022,Beitar Jerusalem,Maccabi Haifa,1,4,A,2022/23
+ISR,08/11/2022,Bnei Sakhnin,Ashdod,1,1,D,2022/23
+ISR,08/11/2022,Maccabi Netanya,Ironi Kiryat Shmona,1,0,H,2022/23
+ISR,08/11/2022,null,Maccabi Tel Aviv,0,3,A,2022/23
+ISR,09/11/2022,Sektzia Nes Tziona,Maccabi Bnei Raina,3,3,D,2022/23
+ISR,09/11/2022,Hapoel Be'er Sheva,Hapoel Hadera,3,0,H,2022/23
+ISR,09/11/2022,Hapoel Tel Aviv,Beitar Jerusalem,2,1,H,2022/23
+ISR,09/11/2022,Hapoel Haifa,Maccabi Haifa,0,1,A,2022/23
+ISR,12/11/2022,Ashdod,Maccabi Netanya,2,3,A,2022/23
+ISR,12/11/2022,Hapoel Hadera,Sektzia Nes Tziona,0,0,D,2022/23
+ISR,12/11/2022,Maccabi Tel Aviv,Hapoel Haifa,1,0,H,2022/23
+ISR,13/11/2022,Maccabi Bnei Raina,null,0,2,A,2022/23
+ISR,13/11/2022,Ironi Kiryat Shmona,Hapoel Be'er Sheva,0,2,A,2022/23
+ISR,13/11/2022,Maccabi Haifa,Hapoel Tel Aviv,5,2,H,2022/23
+ISR,14/11/2022,Beitar Jerusalem,Bnei Sakhnin,2,1,H,2022/23
+ISR,17/12/2022,Hapoel Tel Aviv,Hapoel Haifa,3,3,D,2022/23
+ISR,17/12/2022,Hapoel Hadera,null,0,0,D,2022/23
+ISR,17/12/2022,Beitar Jerusalem,Maccabi Netanya,6,3,H,2022/23
+ISR,17/12/2022,Ashdod,Hapoel Be'er Sheva,0,1,A,2022/23
+ISR,19/12/2022,Ironi Kiryat Shmona,Sektzia Nes Tziona,3,3,D,2022/23
+ISR,19/12/2022,Maccabi Bnei Raina,Maccabi Tel Aviv,0,2,A,2022/23
+ISR,19/12/2022,Maccabi Haifa,Bnei Sakhnin,3,1,H,2022/23
+ISR,24/12/2022,Maccabi Tel Aviv,Hapoel Hadera,5,0,H,2022/23
+ISR,24/12/2022,null,Ironi Kiryat Shmona,1,1,D,2022/23
+ISR,24/12/2022,Hapoel Haifa,Maccabi Bnei Raina,0,0,D,2022/23
+ISR,24/12/2022,Sektzia Nes Tziona,Ashdod,2,0,H,2022/23
+ISR,24/12/2022,Hapoel Be'er Sheva,Beitar Jerusalem,3,2,H,2022/23
+ISR,25/12/2022,Bnei Sakhnin,Hapoel Tel Aviv,1,1,D,2022/23
+ISR,26/12/2022,Maccabi Netanya,Maccabi Haifa,0,2,A,2022/23
+ISR,31/12/2022,Beitar Jerusalem,Sektzia Nes Tziona,3,2,H,2022/23
+ISR,31/12/2022,Hapoel Tel Aviv,Maccabi Netanya,1,1,D,2022/23
+ISR,31/12/2022,Bnei Sakhnin,Hapoel Haifa,1,2,A,2022/23
+ISR,31/12/2022,Ashdod,null,1,1,D,2022/23
+ISR,31/12/2022,Ironi Kiryat Shmona,Maccabi Tel Aviv,1,1,D,2022/23
+ISR,01/01/2023,Hapoel Hadera,Maccabi Bnei Raina,2,2,D,2022/23
+ISR,01/01/2023,Maccabi Haifa,Hapoel Be'er Sheva,2,0,H,2022/23
+ISR,07/01/2023,Maccabi Netanya,Bnei Sakhnin,0,0,D,2022/23
+ISR,07/01/2023,Maccabi Tel Aviv,Ashdod,3,0,H,2022/23
+ISR,07/01/2023,Hapoel Haifa,Hapoel Hadera,3,0,H,2022/23
+ISR,07/01/2023,null,Beitar Jerusalem,1,1,D,2022/23
+ISR,08/01/2023,Maccabi Bnei Raina,Ironi Kiryat Shmona,0,1,A,2022/23
+ISR,08/01/2023,Sektzia Nes Tziona,Maccabi Haifa,0,2,A,2022/23
+ISR,09/01/2023,Hapoel Be'er Sheva,Hapoel Tel Aviv,6,0,H,2022/23
+ISR,14/01/2023,Hapoel Tel Aviv,Sektzia Nes Tziona,1,1,D,2022/23
+ISR,14/01/2023,Ironi Kiryat Shmona,Hapoel Hadera,2,2,D,2022/23
+ISR,14/01/2023,Ashdod,Maccabi Bnei Raina,3,0,H,2022/23
+ISR,14/01/2023,Maccabi Netanya,Hapoel Haifa,1,0,H,2022/23
+ISR,15/01/2023,Maccabi Haifa,null,2,1,H,2022/23
+ISR,16/01/2023,Beitar Jerusalem,Maccabi Tel Aviv,2,2,D,2022/23
+ISR,21/01/2023,null,Hapoel Tel Aviv,0,0,D,2022/23
+ISR,21/01/2023,Hapoel Haifa,Ironi Kiryat Shmona,1,0,H,2022/23
+ISR,21/01/2023,Hapoel Hadera,Ashdod,0,2,A,2022/23
+ISR,21/01/2023,Sektzia Nes Tziona,Bnei Sakhnin,0,0,D,2022/23
+ISR,21/01/2023,Maccabi Bnei Raina,Beitar Jerusalem,0,2,A,2022/23
+ISR,22/01/2023,Hapoel Be'er Sheva,Maccabi Netanya,2,2,D,2022/23
+ISR,23/01/2023,Maccabi Tel Aviv,Maccabi Haifa,3,0,H,2022/23
+ISR,28/01/2023,Maccabi Haifa,Maccabi Bnei Raina,0,0,D,2022/23
+ISR,28/01/2023,Ashdod,Ironi Kiryat Shmona,1,1,D,2022/23
+ISR,28/01/2023,Maccabi Netanya,Sektzia Nes Tziona,3,0,H,2022/23
+ISR,28/01/2023,Beitar Jerusalem,Hapoel Hadera,0,2,A,2022/23
+ISR,28/01/2023,Hapoel Tel Aviv,Maccabi Tel Aviv,0,0,D,2022/23
+ISR,29/01/2023,Hapoel Haifa,Hapoel Be'er Sheva,0,1,A,2022/23
+ISR,30/01/2023,Bnei Sakhnin,null,2,1,H,2022/23
+ISR,04/02/2023,Sektzia Nes Tziona,Hapoel Be'er Sheva,0,1,A,2022/23
+ISR,04/02/2023,Maccabi Tel Aviv,Bnei Sakhnin,1,1,D,2022/23
+ISR,04/02/2023,Hapoel Haifa,Ashdod,1,1,D,2022/23
+ISR,04/02/2023,null,Maccabi Netanya,0,2,A,2022/23
+ISR,04/02/2023,Ironi Kiryat Shmona,Beitar Jerusalem,0,3,A,2022/23
+ISR,05/02/2023,Maccabi Bnei Raina,Hapoel Tel Aviv,1,1,D,2022/23
+ISR,08/02/2023,Bnei Sakhnin,Hapoel Be'er Sheva,0,1,A,2022/23
+ISR,08/02/2023,Hapoel Hadera,Maccabi Haifa,1,1,D,2022/23
+ISR,11/02/2023,Beitar Jerusalem,Ashdod,2,1,H,2022/23
+ISR,11/02/2023,Hapoel Be'er Sheva,null,0,0,D,2022/23
+ISR,11/02/2023,Sektzia Nes Tziona,Hapoel Haifa,0,2,A,2022/23
+ISR,11/02/2023,Bnei Sakhnin,Maccabi Bnei Raina,1,1,D,2022/23
+ISR,11/02/2023,Maccabi Haifa,Ironi Kiryat Shmona,2,0,H,2022/23
+ISR,12/02/2023,Hapoel Tel Aviv,Hapoel Hadera,0,0,D,2022/23
+ISR,13/02/2023,Maccabi Netanya,Maccabi Tel Aviv,2,1,H,2022/23
+ISR,18/02/2023,Ironi Kiryat Shmona,Hapoel Tel Aviv,0,1,A,2022/23
+ISR,18/02/2023,Maccabi Bnei Raina,Maccabi Netanya,1,2,A,2022/23
+ISR,18/02/2023,Hapoel Hadera,Bnei Sakhnin,1,3,A,2022/23
+ISR,18/02/2023,null,Sektzia Nes Tziona,1,0,H,2022/23
+ISR,18/02/2023,Ashdod,Maccabi Haifa,3,1,H,2022/23
+ISR,19/02/2023,Hapoel Haifa,Beitar Jerusalem,0,0,D,2022/23
+ISR,20/02/2023,Maccabi Tel Aviv,Hapoel Be'er Sheva,1,0,H,2022/23
+ISR,25/02/2023,Hapoel Tel Aviv,Ashdod,1,2,A,2022/23
+ISR,25/02/2023,Sektzia Nes Tziona,Maccabi Tel Aviv,0,2,A,2022/23
+ISR,25/02/2023,Bnei Sakhnin,Ironi Kiryat Shmona,1,3,A,2022/23
+ISR,25/02/2023,Maccabi Netanya,Hapoel Hadera,1,0,H,2022/23
+ISR,25/02/2023,Maccabi Haifa,Beitar Jerusalem,2,1,H,2022/23
+ISR,26/02/2023,null,Hapoel Haifa,2,2,D,2022/23
+ISR,27/02/2023,Hapoel Be'er Sheva,Maccabi Bnei Raina,2,0,H,2022/23
+ISR,04/03/2023,Ironi Kiryat Shmona,Maccabi Netanya,2,2,D,2022/23
+ISR,04/03/2023,Hapoel Hadera,Hapoel Be'er Sheva,0,3,A,2022/23
+ISR,04/03/2023,Ashdod,Bnei Sakhnin,1,1,D,2022/23
+ISR,04/03/2023,Maccabi Bnei Raina,Sektzia Nes Tziona,3,2,H,2022/23
+ISR,04/03/2023,Maccabi Tel Aviv,null,1,2,A,2022/23
+ISR,05/03/2023,Beitar Jerusalem,Hapoel Tel Aviv,1,3,A,2022/23
+ISR,06/03/2023,Maccabi Haifa,Hapoel Haifa,4,1,H,2022/23
+ISR,11/03/2023,Hapoel Haifa,Maccabi Tel Aviv,1,1,D,2022/23
+ISR,11/03/2023,null,Maccabi Bnei Raina,0,1,A,2022/23
+ISR,11/03/2023,Sektzia Nes Tziona,Hapoel Hadera,1,3,A,2022/23
+ISR,11/03/2023,Maccabi Netanya,Ashdod,0,2,A,2022/23
+ISR,11/03/2023,Bnei Sakhnin,Beitar Jerusalem,2,0,H,2022/23
+ISR,12/03/2023,Hapoel Be'er Sheva,Ironi Kiryat Shmona,2,1,H,2022/23
+ISR,13/03/2023,Hapoel Tel Aviv,Maccabi Haifa,0,1,A,2022/23
+ISR,18/03/2023,Hapoel Be'er Sheva,null,1,0,H,2022/23
+ISR,18/03/2023,Maccabi Tel Aviv,Maccabi Netanya,2,0,H,2022/23
+ISR,18/03/2023,Maccabi Haifa,Ashdod,2,1,H,2022/23
+ISR,18/03/2023,Hapoel Hadera,Sektzia Nes Tziona,1,2,A,2022/23
+ISR,18/03/2023,Beitar Jerusalem,Hapoel Tel Aviv,2,1,H,2022/23
+ISR,19/03/2023,Bnei Sakhnin,Maccabi Bnei Raina,2,2,D,2022/23
+ISR,19/03/2023,Hapoel Haifa,Ironi Kiryat Shmona,1,1,D,2022/23
+ISR,01/04/2023,null,Maccabi Tel Aviv,0,2,A,2022/23
+ISR,01/04/2023,Ashdod,Maccabi Netanya,3,2,H,2022/23
+ISR,01/04/2023,Maccabi Haifa,Hapoel Be'er Sheva,1,0,H,2022/23
+ISR,01/04/2023,Hapoel Tel Aviv,Sektzia Nes Tziona,2,1,H,2022/23
+ISR,02/04/2023,Maccabi Bnei Raina,Hapoel Hadera,1,1,D,2022/23
+ISR,02/04/2023,Ironi Kiryat Shmona,Bnei Sakhnin,2,2,D,2022/23
+ISR,03/04/2023,Beitar Jerusalem,Hapoel Haifa,2,0,H,2022/23
+ISR,04/04/2023,Maccabi Netanya,null,0,2,A,2022/23
+ISR,04/04/2023,Hapoel Be'er Sheva,Ashdod,3,1,H,2022/23
+ISR,04/04/2023,Maccabi Tel Aviv,Maccabi Haifa,1,1,D,2022/23
+ISR,08/04/2023,Ashdod,null,0,1,A,2022/23
+ISR,08/04/2023,Maccabi Haifa,Maccabi Netanya,4,1,H,2022/23
+ISR,10/04/2023,Hapoel Be'er Sheva,Maccabi Tel Aviv,1,2,A,2022/23
+ISR,15/04/2023,null,Maccabi Haifa,2,1,H,2022/23
+ISR,15/04/2023,Maccabi Tel Aviv,Ashdod,1,1,D,2022/23
+ISR,15/04/2023,Hapoel Haifa,Hapoel Tel Aviv,1,0,H,2022/23
+ISR,15/04/2023,Hapoel Hadera,Ironi Kiryat Shmona,1,1,D,2022/23
+ISR,15/04/2023,Sektzia Nes Tziona,Maccabi Bnei Raina,1,2,A,2022/23
+ISR,16/04/2023,Maccabi Netanya,Hapoel Be'er Sheva,1,1,D,2022/23
+ISR,16/04/2023,Bnei Sakhnin,Beitar Jerusalem,4,3,H,2022/23
+ISR,22/04/2023,null,Hapoel Be'er Sheva,1,2,A,2022/23
+ISR,22/04/2023,Maccabi Netanya,Maccabi Tel Aviv,0,0,D,2022/23
+ISR,22/04/2023,Hapoel Tel Aviv,Maccabi Bnei Raina,1,2,A,2022/23
+ISR,22/04/2023,Ironi Kiryat Shmona,Sektzia Nes Tziona,1,1,D,2022/23
+ISR,22/04/2023,Hapoel Haifa,Bnei Sakhnin,2,2,D,2022/23
+ISR,23/04/2023,Ashdod,Maccabi Haifa,1,2,A,2022/23
+ISR,23/04/2023,Beitar Jerusalem,Hapoel Hadera,2,1,H,2022/23
+ISR,29/04/2023,Maccabi Netanya,Ashdod,2,0,H,2022/23
+ISR,29/04/2023,Maccabi Tel Aviv,null,2,1,H,2022/23
+ISR,29/04/2023,Maccabi Bnei Raina,Ironi Kiryat Shmona,1,3,A,2022/23
+ISR,29/04/2023,Sektzia Nes Tziona,Beitar Jerusalem,1,3,A,2022/23
+ISR,30/04/2023,Hapoel Hadera,Hapoel Haifa,1,2,A,2022/23
+ISR,30/04/2023,Bnei Sakhnin,Hapoel Tel Aviv,0,1,A,2022/23
+ISR,01/05/2023,Hapoel Be'er Sheva,Maccabi Haifa,2,1,H,2022/23
+ISR,06/05/2023,Hapoel Haifa,Sektzia Nes Tziona,0,1,A,2022/23
+ISR,06/05/2023,Hapoel Tel Aviv,Ironi Kiryat Shmona,2,2,D,2022/23
+ISR,06/05/2023,Bnei Sakhnin,Hapoel Hadera,2,3,A,2022/23
+ISR,06/05/2023,Beitar Jerusalem,Maccabi Bnei Raina,0,1,A,2022/23
+ISR,07/05/2023,null,Maccabi Netanya,1,4,A,2022/23
+ISR,08/05/2023,Ashdod,Hapoel Be'er Sheva,0,1,A,2022/23
+ISR,08/05/2023,Maccabi Haifa,Maccabi Tel Aviv,3,1,H,2022/23
+ISR,13/05/2023,Sektzia Nes Tziona,Bnei Sakhnin,1,1,D,2022/23
+ISR,13/05/2023,Hapoel Hadera,Hapoel Tel Aviv,1,2,A,2022/23
+ISR,13/05/2023,Maccabi Bnei Raina,Hapoel Haifa,0,4,A,2022/23
+ISR,13/05/2023,Ironi Kiryat Shmona,Beitar Jerusalem,3,2,H,2022/23
+ISR,14/05/2023,null,Ashdod,0,1,A,2022/23
+ISR,15/05/2023,Maccabi Netanya,Maccabi Haifa,1,5,A,2022/23
+ISR,15/05/2023,Maccabi Tel Aviv,Hapoel Be'er Sheva,3,0,H,2022/23
+ISR,20/05/2023,Ashdod,Maccabi Tel Aviv,1,2,A,2022/23
+ISR,20/05/2023,Hapoel Be'er Sheva,Maccabi Netanya,2,0,H,2022/23
+ISR,20/05/2023,Maccabi Haifa,null,5,0,H,2022/23

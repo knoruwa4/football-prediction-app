@@ -8,7 +8,15 @@ export async function proxyBackend(
   target.search = incoming.search;
 
   try {
-    const upstream = await fetch(target, { cache: "no-store" });
+    const method = request.method.toUpperCase();
+    const upstream = await fetch(target, {
+      method,
+      cache: "no-store",
+      headers: method === "GET" || method === "HEAD" ? undefined : {
+        "Content-Type": request.headers.get("content-type") ?? "application/json",
+      },
+      body: method === "GET" || method === "HEAD" ? undefined : await request.text(),
+    });
     return new Response(await upstream.text(), {
       status: upstream.status,
       headers: {

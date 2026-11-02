@@ -21,6 +21,8 @@ from football_prediction.league_data import (
     FIRST_SEASON_YEAR,
     LAST_SEASON_YEAR,
     MAIN_LEAGUE_CODES,
+    EXTRA_LEAGUE_CODES,
+    load_external_competition_history,
     load_extra_league_history,
     load_league_history,
 )
@@ -80,7 +82,7 @@ def main():
     )
     parser.add_argument(
         "--data-root", type=Path, default=DATA_DIR,
-        help="Root containing main-season folders and the extra/ country CSVs",
+        help="Root containing main-season folders, extra/ country CSVs, and external_top_tiers/",
     )
     args = parser.parse_args()
 
@@ -95,14 +97,17 @@ def main():
         matches = load_league_history(
             args.data_root, args.competition_code, years
         )
-    else:
+    elif args.competition_code in EXTRA_LEAGUE_CODES:
         matches = load_extra_league_history(
             args.data_root, args.competition_code, years
         )
+    else:
+        matches = load_external_competition_history(
+            args.data_root, args.competition_code
+        )
     print(
         f"Loaded {len(matches)} {COMPETITIONS[args.competition_code]} "
-        f"matches from seasons {FIRST_SEASON_YEAR}/{str(FIRST_SEASON_YEAR + 1)[-2:]} "
-        f"through {LAST_SEASON_YEAR}/{str(LAST_SEASON_YEAR + 1)[-2:]}"
+        "historical matches"
     )
 
     match_date = args.match_date

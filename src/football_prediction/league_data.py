@@ -24,6 +24,11 @@ EXTRA_LEAGUE_CODES = (
     "ARG", "AUT", "BRA", "CHN", "DNK", "FIN", "IRL", "JPN",
     "MEX", "NOR", "POL", "ROU", "RUS", "SWE", "SWZ", "USA",
 )
+EXTERNAL_COMPETITION_CODES = (
+    "BOL", "CHL", "COL", "URU", "PAR", "PER", "VEN", "ECU", "CRC",
+    "GUA", "IDN", "JAM", "KSA", "IND", "UKR", "QAT", "SVN", "ARM",
+    "ISR", "UCL", "UEL", "ACL",
+)
 
 # Country exports include a League field. Keep cup competitions and lower
 # divisions out of the league histories used by the prediction models.
@@ -246,6 +251,36 @@ def load_extra_league_history(
     )
 
 
+def external_competition_file(data_root: str | Path, competition_code: str) -> Path:
+    '''Return the supplemental CSV for one added competition.'''
+    if competition_code not in EXTERNAL_COMPETITION_CODES:
+        raise ValueError(f"unsupported supplemental competition code: {competition_code!r}")
+    return Path(data_root) / "external_top_tiers" / f"{competition_code}_2017-2023.csv"
+
+
+def load_external_competition_history(
+    data_root: str | Path, competition_code: str
+) -> list[MatchResult]:
+    '''Load one separately stored supplemental competition history.'''
+    path = external_competition_file(data_root, competition_code)
+    if not path.is_file():
+        raise FileNotFoundError(
+            f"Missing {COMPETITIONS[competition_code]} history file: {path}"
+        )
+    matches = load_football_data(path, expected_division_code=competition_code)
+    seen_fixtures: set[tuple[object, str, str]] = set()
+    for match in matches:
+        key = (
+            match.match_date,
+            match.home_team.casefold(),
+            match.away_team.casefold(),
+        )
+        if key in seen_fixtures:
+            raise ValueError(f"Duplicate {COMPETITIONS[competition_code]} fixture: {key}")
+        seen_fixtures.add(key)
+    return matches
+
+
 def load_all_competition_histories(
     data_root: str | Path,
     season_start_years: Iterable[int] = range(
@@ -261,4 +296,6 @@ def load_all_competition_histories(
         histories[code] = load_extra_league_history(
             data_root, code, season_start_years=years
         )
+    for code in EXTERNAL_COMPETITION_CODES:
+        histories[code] = load_external_competition_history(data_root, code)
     return histories

@@ -1,11 +1,14 @@
 import csv
 import io
 import json
+from datetime import datetime, timezone
+from io import BytesIO
+from types import SimpleNamespace
 
 from football_prediction.api import create_app
 
 
-def _request(app, path, method="GET"):
+def _request(app, path, method="GET", payload=None):
     captured = {}
 
     def start_response(status, headers):
@@ -16,6 +19,8 @@ def _request(app, path, method="GET"):
         "REQUEST_METHOD": method,
         "PATH_INFO": path.split("?", 1)[0],
         "QUERY_STRING": path.split("?", 1)[1] if "?" in path else "",
+        "CONTENT_LENGTH": str(len(json.dumps(payload).encode())) if payload is not None else "0",
+        "wsgi.input": BytesIO(json.dumps(payload).encode() if payload is not None else b""),
     }
     body = b"".join(app(environ, start_response))
     return captured["status"], json.loads(body)
@@ -98,6 +103,70 @@ def test_api_has_health_route_and_rejects_invalid_queries_and_methods(tmp_path):
     assert _request(app, "/elsewhere")[0] == "404 Not Found"
 
 
+def test_fixture_catalog_only_offers_verified_future_fixtures(tmp_path):
+    fixture_root = tmp_path / "fixtures"
+    fixture_root.mkdir()
+    (fixture_root / "E0_2026-10-26.csv").write_text(
+        "match_date,kickoff_utc,home_team,away_team,source_url\n"
+        "2026-10-26,11:59,Past FC,Old FC,https://example.com/fixtures\n"
+        "2026-10-26,12:01,Home FC,Away FC,https://example.com/fixtures\n"
+        "2026-10-26,12:02,No Source FC,Other FC,http://example.com/fixtures\n",
+        encoding="utf-8",
+    )
+    app = create_app(
+        tmp_path / "ledger.csv",
+        fixture_root=fixture_root,
+        now_provider=lambda: datetime(2026, 10, 26, 12, 0, tzinfo=timezone.utc),
+    )
+
+    status, result = _request(app, "/api/fixtures?competition=Premier%20League")
+
+    assert status == "200 OK"
+    assert result["count"] == 1
+    assert result["fixtures"][0]["home_team"] == "Home FC"
+    assert result["fixtures"][0]["fixture_id"]
+
+
+def test_site_prediction_uses_history_and_persists_once(tmp_path, monkeypatch):
+    from football_prediction import api
+
+    fixture_root = tmp_path / "fixtures"
+    fixture_root.mkdir()
+    (fixture_root / "E0_2026-10-27.csv").write_text(
+        "match_date,kickoff_utc,home_team,away_team,source_url\n"
+        "2026-10-27,15:00,Home FC,Away FC,https://example.com/fixture\n",
+        encoding="utf-8",
+    )
+    historical = [SimpleNamespace(home_team="Home FC", away_team="Away FC")]
+    monkeypatch.setattr(api, "load_league_history", lambda *args: historical)
+
+    def fake_predict(matches, fixtures, match_date, **kwargs):
+        assert matches is historical
+        assert match_date.isoformat() == "2026-10-27"
+        assert kwargs["competition"] == "Premier League"
+        assert kwargs["model_type"] == "dixon_coles"
+        forecast = SimpleNamespace(
+            home_win=0.5, draw=0.25, away_win=0.25, home_xg=1.4, away_xg=0.9,
+            model="dixon_coles_joint_poisson",
+        )
+        return [(fixtures[0][0], fixtures[0][1], forecast)]
+
+    monkeypatch.setattr(api, "predict_fixtures", fake_predict)
+    now = lambda: datetime(2026, 10, 26, 12, 0, tzinfo=timezone.utc)
+    app = create_app(tmp_path / "ledger.csv", fixture_root=fixture_root, now_provider=now)
+    _, fixtures = _request(app, "/api/fixtures?competition=Premier%20League")
+    fixture_id = fixtures["fixtures"][0]["fixture_id"]
+
+    status, response = _request(app, "/api/predict", method="POST", payload={"fixture_id": fixture_id, "model_type": "dixon_coles"})
+    repeat_status, repeat = _request(app, "/api/predict", method="POST", payload={"fixture_id": fixture_id, "model_type": "dixon_coles"})
+
+    assert status == "201 Created"
+    assert repeat_status == "200 OK"
+    assert repeat["already_saved"] is True
+    assert response["prediction"]["home_win_probability"] == 0.5
+    assert _request(app, "/api/predictions?status=pending")[1]["count"] == 1
+
+
 def test_predictions_and_performance_can_be_filtered_by_competition(tmp_path):
     ledger = tmp_path / "prediction_history.csv"
     _write_ledger(ledger)
@@ -116,3 +185,73 @@ def test_predictions_and_performance_can_be_filtered_by_competition(tmp_path):
     assert performance_status == "200 OK"
     assert performance["evaluated_count"] == 1
     assert performance["pending_count"] == 0
+
+
+def test_competition_catalog_reports_all_data_sources_and_availability(tmp_path):
+    from football_prediction.football_data import COMPETITIONS
+
+    external = tmp_path / "external_top_tiers"
+    external.mkdir()
+    (external / "BOL_2017-2023.csv").write_text(
+        "Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season\n"
+        "BOL,03/05/2023,Home FC,Away FC,2,1,H,2023\n",
+        encoding="utf-8",
+    )
+    app = create_app(
+        tmp_path / "ledger.csv",
+        data_root=tmp_path,
+        fixture_root=tmp_path / "fixtures",
+    )
+
+    status, result = _request(app, "/api/competitions")
+
+    assert status == "200 OK"
+    assert result["count"] == len(COMPETITIONS) == 60
+    by_code = {item["code"]: item for item in result["competitions"]}
+    assert by_code["BOL"]["name"] == "Bolivian División Profesional"
+    assert by_code["BOL"]["data_available"] is True
+    assert by_code["UCL"]["data_available"] is False
+
+
+def test_site_prediction_loads_supplemental_competition_history(tmp_path, monkeypatch):
+    from football_prediction import api
+
+    fixture_root = tmp_path / "fixtures"
+    fixture_root.mkdir()
+    (fixture_root / "BOL_2026-11-03.csv").write_text(
+        "match_date,kickoff_utc,home_team,away_team,source_url\n"
+        "2026-11-03,15:00,Home FC,Away FC,https://example.com/fixture\n",
+        encoding="utf-8",
+    )
+    historical = [SimpleNamespace(home_team="Home FC", away_team="Away FC")]
+    loaded = []
+    def fake_load(data_root, code):
+        loaded.append(code)
+        return historical
+    monkeypatch.setattr(api, "load_external_competition_history", fake_load)
+
+    def fake_predict(matches, fixtures, match_date, **kwargs):
+        assert matches is historical
+        assert kwargs["competition"] == "Bolivian División Profesional"
+        return [(fixtures[0][0], fixtures[0][1], SimpleNamespace(
+            home_win=0.5, draw=0.25, away_win=0.25, home_xg=1.4, away_xg=0.9,
+            model="joint_attack_defence_poisson",
+        ))]
+    monkeypatch.setattr(api, "predict_fixtures", fake_predict)
+    app = create_app(
+        tmp_path / "ledger.csv",
+        data_root=tmp_path,
+        fixture_root=fixture_root,
+        now_provider=lambda: datetime(2026, 11, 2, 12, 0, tzinfo=timezone.utc),
+    )
+    _, catalog = _request(app, "/api/fixtures?competition=Bolivian%20Divisi%C3%B3n%20Profesional")
+    fixture_id = catalog["fixtures"][0]["fixture_id"]
+
+    status, result = _request(
+        app, "/api/predict", method="POST",
+        payload={"fixture_id": fixture_id, "model_type": "joint_attack_defence"},
+    )
+
+    assert status == "201 Created"
+    assert loaded == ["BOL"]
+    assert result["prediction"]["competition"] == "Bolivian División Profesional"

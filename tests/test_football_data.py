@@ -91,6 +91,38 @@ class FootballDataTests(unittest.TestCase):
             with self.assertRaisesRegex(ValueError, "does not match expected"):
                 load_football_data(path, expected_division_code="SP1")
 
+    def test_loads_new_external_competitions(self):
+        competitions = (
+            ("BOL", "Bolivian División Profesional"),
+            ("CHL", "Chilean Primera División"),
+            ("COL", "Colombian Primera A"),
+            ("URU", "Uruguayan Primera División"),
+            ("PAR", "Paraguayan Primera División"),
+            ("PER", "Peruvian Liga 1"),
+            ("VEN", "Venezuelan Primera División"),
+            ("ECU", "Ecuadorian Serie A"),
+            ("CRC", "Costa Rican Primera División"),
+            ("GUA", "Guatemalan Liga Nacional"),
+            ("IDN", "Indonesian Liga 1"),
+            ("JAM", "Jamaica Premier League"),
+            ("KSA", "Saudi Pro League"),
+            ("IND", "Indian Super League"),
+            ("UKR", "Ukrainian Premier League"),
+            ("QAT", "Qatar Stars League"),
+            ("SVN", "Slovenian PrvaLiga"),
+            ("ARM", "Armenian Premier League"),
+            ("ISR", "Israeli Premier League"),
+            ("UCL", "UEFA Champions League"),
+            ("UEL", "UEFA Europa League"),
+            ("ACL", "AFC Champions League"),
+        )
+        for code, competition in competitions:
+            content = VALID_CSV.replace("E0,", f"{code},")
+            with self.subTest(code=code), tempfile.TemporaryDirectory() as folder:
+                path = self.write_csv(folder, content)
+                matches = load_football_data(path, expected_division_code=code)
+            self.assertEqual(matches[0].competition, competition)
+
     def test_loads_windows_1252_team_names(self):
         content = (
             "Div,Date,HomeTeam,AwayTeam,FTHG,FTAG\r\n"

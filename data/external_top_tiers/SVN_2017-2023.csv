@@ -1,0 +1,1081 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season
+SVN,15/07/2017,Mas Tech,Nd Triglav 2000 Kranj,0,0,D,2017/18
+SVN,15/07/2017,Maribor,Nk Aluminij,1,0,H,2017/18
+SVN,16/07/2017,Rudar Velenje,Domžale,2,1,H,2017/18
+SVN,16/07/2017,NK Krsko,Nd Gorica,2,1,H,2017/18
+SVN,16/07/2017,Olimpija,Celje,3,1,H,2017/18
+SVN,21/07/2017,Nk Aluminij,NK Krsko,4,2,H,2017/18
+SVN,22/07/2017,Nd Triglav 2000 Kranj,Maribor,2,3,A,2017/18
+SVN,22/07/2017,Rudar Velenje,Mas Tech,3,1,H,2017/18
+SVN,23/07/2017,Domžale,Celje,4,0,H,2017/18
+SVN,23/07/2017,Nd Gorica,Olimpija,0,2,A,2017/18
+SVN,28/07/2017,NK Krsko,Nd Triglav 2000 Kranj,1,1,D,2017/18
+SVN,29/07/2017,Maribor,Rudar Velenje,1,0,H,2017/18
+SVN,30/07/2017,Olimpija,Nk Aluminij,4,0,H,2017/18
+SVN,30/07/2017,Mas Tech,Domžale,1,3,A,2017/18
+SVN,30/07/2017,Celje,Nd Gorica,1,0,H,2017/18
+SVN,04/08/2017,Nk Aluminij,Celje,2,2,D,2017/18
+SVN,05/08/2017,Nd Triglav 2000 Kranj,Olimpija,0,0,D,2017/18
+SVN,05/08/2017,Rudar Velenje,NK Krsko,0,1,A,2017/18
+SVN,06/08/2017,Mas Tech,Maribor,1,5,A,2017/18
+SVN,06/08/2017,Domžale,Nd Gorica,1,1,D,2017/18
+SVN,11/08/2017,Celje,Nd Triglav 2000 Kranj,1,1,D,2017/18
+SVN,11/08/2017,Maribor,Domžale,0,0,D,2017/18
+SVN,12/08/2017,Nd Gorica,Nk Aluminij,1,0,H,2017/18
+SVN,12/08/2017,Olimpija,Rudar Velenje,4,0,H,2017/18
+SVN,13/08/2017,NK Krsko,Mas Tech,2,2,D,2017/18
+SVN,19/08/2017,Nd Triglav 2000 Kranj,Nd Gorica,1,3,A,2017/18
+SVN,19/08/2017,Maribor,NK Krsko,3,2,H,2017/18
+SVN,20/08/2017,Mas Tech,Olimpija,1,3,A,2017/18
+SVN,20/08/2017,Domžale,Nk Aluminij,2,2,D,2017/18
+SVN,21/08/2017,Rudar Velenje,Celje,2,1,H,2017/18
+SVN,26/08/2017,Celje,Mas Tech,4,1,H,2017/18
+SVN,26/08/2017,Nd Gorica,Rudar Velenje,1,0,H,2017/18
+SVN,27/08/2017,Nk Aluminij,Nd Triglav 2000 Kranj,2,0,H,2017/18
+SVN,27/08/2017,NK Krsko,Domžale,4,2,H,2017/18
+SVN,27/08/2017,Olimpija,Maribor,0,0,D,2017/18
+SVN,08/09/2017,Rudar Velenje,Nk Aluminij,0,0,D,2017/18
+SVN,08/09/2017,Maribor,Celje,0,0,D,2017/18
+SVN,09/09/2017,Mas Tech,Nd Gorica,0,2,A,2017/18
+SVN,09/09/2017,Domžale,Nd Triglav 2000 Kranj,6,1,H,2017/18
+SVN,10/09/2017,NK Krsko,Olimpija,2,4,A,2017/18
+SVN,15/09/2017,Celje,NK Krsko,0,0,D,2017/18
+SVN,16/09/2017,Nd Triglav 2000 Kranj,Rudar Velenje,1,2,A,2017/18
+SVN,16/09/2017,Nk Aluminij,Mas Tech,1,1,D,2017/18
+SVN,16/09/2017,Olimpija,Domžale,1,0,H,2017/18
+SVN,17/09/2017,Nd Gorica,Maribor,0,3,A,2017/18
+SVN,22/09/2017,Nk Aluminij,Maribor,2,3,A,2017/18
+SVN,23/09/2017,Nd Triglav 2000 Kranj,Mas Tech,1,3,A,2017/18
+SVN,23/09/2017,Nd Gorica,NK Krsko,2,1,H,2017/18
+SVN,23/09/2017,Celje,Olimpija,0,0,D,2017/18
+SVN,24/09/2017,Domžale,Rudar Velenje,0,1,A,2017/18
+SVN,29/09/2017,Celje,Domžale,1,1,D,2017/18
+SVN,30/09/2017,Mas Tech,Rudar Velenje,0,3,A,2017/18
+SVN,30/09/2017,NK Krsko,Nk Aluminij,2,0,H,2017/18
+SVN,30/09/2017,Maribor,Nd Triglav 2000 Kranj,0,0,D,2017/18
+SVN,01/10/2017,Olimpija,Nd Gorica,2,1,H,2017/18
+SVN,13/10/2017,Rudar Velenje,Maribor,1,2,A,2017/18
+SVN,14/10/2017,Nd Triglav 2000 Kranj,NK Krsko,3,1,H,2017/18
+SVN,14/10/2017,Nd Gorica,Celje,2,1,H,2017/18
+SVN,14/10/2017,Domžale,Mas Tech,6,0,H,2017/18
+SVN,14/10/2017,Nk Aluminij,Olimpija,1,2,A,2017/18
+SVN,20/10/2017,Olimpija,Nd Triglav 2000 Kranj,3,0,H,2017/18
+SVN,21/10/2017,Celje,Nk Aluminij,1,2,A,2017/18
+SVN,21/10/2017,Nd Gorica,Domžale,1,3,A,2017/18
+SVN,21/10/2017,Maribor,Mas Tech,1,0,H,2017/18
+SVN,24/10/2017,NK Krsko,Rudar Velenje,0,3,A,2017/18
+SVN,28/10/2017,Mas Tech,NK Krsko,1,1,D,2017/18
+SVN,28/10/2017,Nd Triglav 2000 Kranj,Celje,0,2,A,2017/18
+SVN,28/10/2017,Domžale,Maribor,0,1,A,2017/18
+SVN,29/10/2017,Rudar Velenje,Olimpija,0,0,D,2017/18
+SVN,29/10/2017,Nk Aluminij,Nd Gorica,0,3,A,2017/18
+SVN,03/11/2017,Celje,Rudar Velenje,2,1,H,2017/18
+SVN,04/11/2017,Nd Gorica,Nd Triglav 2000 Kranj,0,3,A,2017/18
+SVN,04/11/2017,Nk Aluminij,Domžale,0,1,A,2017/18
+SVN,04/11/2017,NK Krsko,Maribor,0,5,A,2017/18
+SVN,05/11/2017,Olimpija,Mas Tech,1,0,H,2017/18
+SVN,17/11/2017,Maribor,Olimpija,1,0,H,2017/18
+SVN,18/11/2017,Mas Tech,Celje,1,2,A,2017/18
+SVN,18/11/2017,Nd Triglav 2000 Kranj,Nk Aluminij,0,3,A,2017/18
+SVN,19/11/2017,Domžale,NK Krsko,1,0,H,2017/18
+SVN,20/11/2017,Rudar Velenje,Nd Gorica,2,0,H,2017/18
+SVN,25/11/2017,Nd Triglav 2000 Kranj,Domžale,0,1,A,2017/18
+SVN,25/11/2017,Nd Gorica,Mas Tech,2,2,D,2017/18
+SVN,25/11/2017,Celje,Maribor,2,1,H,2017/18
+SVN,26/11/2017,Olimpija,NK Krsko,1,0,H,2017/18
+SVN,26/11/2017,Nk Aluminij,Rudar Velenje,0,2,A,2017/18
+SVN,02/12/2017,Rudar Velenje,Nd Triglav 2000 Kranj,1,2,A,2017/18
+SVN,02/12/2017,Maribor,Nd Gorica,2,1,H,2017/18
+SVN,03/12/2017,NK Krsko,Celje,3,1,H,2017/18
+SVN,03/12/2017,Domžale,Olimpija,1,0,H,2017/18
+SVN,20/02/2018,Mas Tech,Nk Aluminij,1,1,D,2017/18
+SVN,24/02/2018,Mas Tech,Nd Triglav 2000 Kranj,2,0,H,2017/18
+SVN,25/02/2018,Maribor,Nk Aluminij,0,0,D,2017/18
+SVN,25/02/2018,Olimpija,Celje,2,1,H,2017/18
+SVN,04/03/2018,Nd Gorica,Olimpija,0,1,A,2017/18
+SVN,06/03/2018,Mas Tech,Domžale,0,4,A,2017/18
+SVN,06/03/2018,Maribor,Rudar Velenje,2,2,D,2017/18
+SVN,07/03/2018,Celje,Nd Gorica,2,0,H,2017/18
+SVN,07/03/2018,Olimpija,Nk Aluminij,5,1,H,2017/18
+SVN,10/03/2018,Rudar Velenje,NK Krsko,3,0,H,2017/18
+SVN,10/03/2018,Mas Tech,Maribor,0,3,A,2017/18
+SVN,10/03/2018,Domžale,Nd Gorica,3,0,H,2017/18
+SVN,11/03/2018,Nd Triglav 2000 Kranj,Olimpija,0,1,A,2017/18
+SVN,11/03/2018,Nk Aluminij,Celje,1,2,A,2017/18
+SVN,13/03/2018,Maribor,Domžale,1,2,A,2017/18
+SVN,13/03/2018,NK Krsko,Mas Tech,1,1,D,2017/18
+SVN,14/03/2018,Celje,Nd Triglav 2000 Kranj,5,2,H,2017/18
+SVN,14/03/2018,Olimpija,Rudar Velenje,4,0,H,2017/18
+SVN,15/03/2018,Nd Gorica,Nk Aluminij,1,0,H,2017/18
+SVN,17/03/2018,Rudar Velenje,Celje,2,1,H,2017/18
+SVN,17/03/2018,Maribor,NK Krsko,0,2,A,2017/18
+SVN,18/03/2018,Mas Tech,Olimpija,0,3,A,2017/18
+SVN,18/03/2018,Nd Triglav 2000 Kranj,Nd Gorica,1,1,D,2017/18
+SVN,18/03/2018,Domžale,Nk Aluminij,6,1,H,2017/18
+SVN,30/03/2018,Nd Gorica,Rudar Velenje,1,1,D,2017/18
+SVN,30/03/2018,Nk Aluminij,Nd Triglav 2000 Kranj,3,1,H,2017/18
+SVN,31/03/2018,Celje,Mas Tech,7,1,H,2017/18
+SVN,31/03/2018,NK Krsko,Domžale,1,2,A,2017/18
+SVN,31/03/2018,Olimpija,Maribor,1,1,D,2017/18
+SVN,03/04/2018,NK Krsko,Nd Triglav 2000 Kranj,2,0,H,2017/18
+SVN,04/04/2018,Rudar Velenje,Domžale,1,4,A,2017/18
+SVN,07/04/2018,Mas Tech,Nd Gorica,0,2,A,2017/18
+SVN,07/04/2018,Maribor,Celje,3,2,H,2017/18
+SVN,07/04/2018,Rudar Velenje,Nk Aluminij,4,2,H,2017/18
+SVN,08/04/2018,NK Krsko,Olimpija,0,1,A,2017/18
+SVN,08/04/2018,Domžale,Nd Triglav 2000 Kranj,3,0,H,2017/18
+SVN,11/04/2018,Nd Triglav 2000 Kranj,Maribor,0,5,A,2017/18
+SVN,12/04/2018,Rudar Velenje,Mas Tech,2,3,A,2017/18
+SVN,14/04/2018,Celje,NK Krsko,5,0,H,2017/18
+SVN,14/04/2018,Olimpija,Domžale,1,1,D,2017/18
+SVN,15/04/2018,Nd Triglav 2000 Kranj,Rudar Velenje,0,2,A,2017/18
+SVN,15/04/2018,Nd Gorica,Maribor,0,6,A,2017/18
+SVN,15/04/2018,Nk Aluminij,Mas Tech,1,1,D,2017/18
+SVN,18/04/2018,Domžale,Celje,1,0,H,2017/18
+SVN,18/04/2018,NK Krsko,Nd Gorica,1,0,H,2017/18
+SVN,21/04/2018,Nk Aluminij,Maribor,0,2,A,2017/18
+SVN,21/04/2018,Nd Gorica,NK Krsko,2,0,H,2017/18
+SVN,22/04/2018,Nd Triglav 2000 Kranj,Mas Tech,2,2,D,2017/18
+SVN,22/04/2018,Celje,Olimpija,1,1,D,2017/18
+SVN,22/04/2018,Domžale,Rudar Velenje,3,0,H,2017/18
+SVN,25/04/2018,Nk Aluminij,NK Krsko,1,1,D,2017/18
+SVN,28/04/2018,Mas Tech,Rudar Velenje,3,2,H,2017/18
+SVN,28/04/2018,Maribor,Nd Triglav 2000 Kranj,2,1,H,2017/18
+SVN,28/04/2018,Celje,Domžale,2,1,H,2017/18
+SVN,29/04/2018,Olimpija,Nd Gorica,0,0,D,2017/18
+SVN,29/04/2018,NK Krsko,Nk Aluminij,1,2,A,2017/18
+SVN,02/05/2018,Nd Triglav 2000 Kranj,NK Krsko,2,0,H,2017/18
+SVN,02/05/2018,Rudar Velenje,Maribor,1,3,A,2017/18
+SVN,02/05/2018,Domžale,Mas Tech,4,0,H,2017/18
+SVN,03/05/2018,Nd Gorica,Celje,3,0,H,2017/18
+SVN,03/05/2018,Nk Aluminij,Olimpija,0,2,A,2017/18
+SVN,05/05/2018,Maribor,Mas Tech,5,1,H,2017/18
+SVN,05/05/2018,NK Krsko,Rudar Velenje,1,0,H,2017/18
+SVN,06/05/2018,Nd Gorica,Domžale,4,1,H,2017/18
+SVN,06/05/2018,Olimpija,Nd Triglav 2000 Kranj,2,0,H,2017/18
+SVN,06/05/2018,Celje,Nk Aluminij,2,2,D,2017/18
+SVN,09/05/2018,Domžale,Maribor,1,1,D,2017/18
+SVN,09/05/2018,Mas Tech,NK Krsko,0,0,D,2017/18
+SVN,09/05/2018,Rudar Velenje,Olimpija,1,1,D,2017/18
+SVN,10/05/2018,Nd Triglav 2000 Kranj,Celje,1,0,H,2017/18
+SVN,10/05/2018,Nk Aluminij,Nd Gorica,1,0,H,2017/18
+SVN,12/05/2018,NK Krsko,Maribor,1,2,A,2017/18
+SVN,13/05/2018,Olimpija,Mas Tech,0,0,D,2017/18
+SVN,13/05/2018,Nk Aluminij,Domžale,1,2,A,2017/18
+SVN,13/05/2018,Celje,Rudar Velenje,1,3,A,2017/18
+SVN,14/05/2018,Nd Gorica,Nd Triglav 2000 Kranj,0,2,A,2017/18
+SVN,18/05/2018,Rudar Velenje,Nd Gorica,0,1,A,2017/18
+SVN,19/05/2018,Nd Triglav 2000 Kranj,Nk Aluminij,0,2,A,2017/18
+SVN,19/05/2018,Maribor,Olimpija,2,3,A,2017/18
+SVN,20/05/2018,Domžale,NK Krsko,3,1,H,2017/18
+SVN,20/05/2018,Mas Tech,Celje,0,2,A,2017/18
+SVN,23/05/2018,Nd Triglav 2000 Kranj,Domžale,0,4,A,2017/18
+SVN,23/05/2018,Nk Aluminij,Rudar Velenje,1,3,A,2017/18
+SVN,23/05/2018,Nd Gorica,Mas Tech,4,1,H,2017/18
+SVN,23/05/2018,Celje,Maribor,0,4,A,2017/18
+SVN,23/05/2018,Olimpija,NK Krsko,2,0,H,2017/18
+SVN,27/05/2018,Domžale,Olimpija,1,1,D,2017/18
+SVN,27/05/2018,NK Krsko,Celje,0,1,A,2017/18
+SVN,27/05/2018,Maribor,Nd Gorica,2,0,H,2017/18
+SVN,27/05/2018,Mas Tech,Nk Aluminij,2,1,H,2017/18
+SVN,27/05/2018,Rudar Velenje,Nd Triglav 2000 Kranj,0,1,A,2017/18
+SVN,20/07/2018,Nk Aluminij,Celje,2,1,H,2018/19
+SVN,21/07/2018,Mura,Nd Triglav 2000 Kranj,1,1,D,2018/19
+SVN,21/07/2018,Nd Gorica,Olimpija,2,0,H,2018/19
+SVN,22/07/2018,Rudar Velenje,Maribor,0,5,A,2018/19
+SVN,22/07/2018,Domžale,NK Krsko,2,0,H,2018/19
+SVN,27/07/2018,Celje,Nd Gorica,2,2,D,2018/19
+SVN,28/07/2018,Nd Triglav 2000 Kranj,Nk Aluminij,1,3,A,2018/19
+SVN,29/07/2018,Maribor,Mura,0,0,D,2018/19
+SVN,29/07/2018,Domžale,Rudar Velenje,3,1,H,2018/19
+SVN,29/07/2018,NK Krsko,Olimpija,0,0,D,2018/19
+SVN,05/08/2018,Nk Aluminij,Maribor,2,5,A,2018/19
+SVN,05/08/2018,Mura,Domžale,5,1,H,2018/19
+SVN,05/08/2018,Olimpija,Celje,2,2,D,2018/19
+SVN,06/08/2018,Rudar Velenje,NK Krsko,1,1,D,2018/19
+SVN,06/08/2018,Nd Gorica,Nd Triglav 2000 Kranj,1,1,D,2018/19
+SVN,11/08/2018,NK Krsko,Celje,1,1,D,2018/19
+SVN,12/08/2018,Nd Triglav 2000 Kranj,Olimpija,0,4,A,2018/19
+SVN,12/08/2018,Maribor,Nd Gorica,5,0,H,2018/19
+SVN,12/08/2018,Domžale,Nk Aluminij,3,1,H,2018/19
+SVN,13/08/2018,Rudar Velenje,Mura,3,2,H,2018/19
+SVN,18/08/2018,Celje,Nd Triglav 2000 Kranj,1,3,A,2018/19
+SVN,18/08/2018,Nk Aluminij,Rudar Velenje,3,0,H,2018/19
+SVN,19/08/2018,Mura,NK Krsko,0,1,A,2018/19
+SVN,19/08/2018,Nd Gorica,Domžale,1,0,H,2018/19
+SVN,19/08/2018,Olimpija,Maribor,0,3,A,2018/19
+SVN,25/08/2018,NK Krsko,Nd Triglav 2000 Kranj,1,1,D,2018/19
+SVN,26/08/2018,Mura,Nk Aluminij,3,2,H,2018/19
+SVN,26/08/2018,Domžale,Olimpija,1,2,A,2018/19
+SVN,26/08/2018,Maribor,Celje,1,1,D,2018/19
+SVN,29/08/2018,Rudar Velenje,Nd Gorica,0,2,A,2018/19
+SVN,31/08/2018,Nk Aluminij,NK Krsko,1,0,H,2018/19
+SVN,31/08/2018,Celje,Domžale,0,0,D,2018/19
+SVN,02/09/2018,Nd Triglav 2000 Kranj,Maribor,1,5,A,2018/19
+SVN,02/09/2018,Nd Gorica,Mura,2,2,D,2018/19
+SVN,02/09/2018,Olimpija,Rudar Velenje,5,0,H,2018/19
+SVN,15/09/2018,Nk Aluminij,Nd Gorica,0,0,D,2018/19
+SVN,15/09/2018,Rudar Velenje,Celje,0,1,A,2018/19
+SVN,15/09/2018,NK Krsko,Maribor,0,2,A,2018/19
+SVN,16/09/2018,Mura,Olimpija,0,2,A,2018/19
+SVN,16/09/2018,Domžale,Nd Triglav 2000 Kranj,1,2,A,2018/19
+SVN,22/09/2018,Nd Gorica,NK Krsko,1,0,H,2018/19
+SVN,22/09/2018,Maribor,Domžale,2,2,D,2018/19
+SVN,23/09/2018,Nd Triglav 2000 Kranj,Rudar Velenje,1,2,A,2018/19
+SVN,23/09/2018,Celje,Mura,1,0,H,2018/19
+SVN,23/09/2018,Olimpija,Nk Aluminij,3,1,H,2018/19
+SVN,26/09/2018,NK Krsko,Domžale,0,4,A,2018/19
+SVN,27/09/2018,Nd Triglav 2000 Kranj,Mura,3,0,H,2018/19
+SVN,27/09/2018,Maribor,Rudar Velenje,3,0,H,2018/19
+SVN,27/09/2018,Celje,Nk Aluminij,1,1,D,2018/19
+SVN,27/09/2018,Olimpija,Nd Gorica,2,2,D,2018/19
+SVN,30/09/2018,Mura,Maribor,4,1,H,2018/19
+SVN,30/09/2018,Rudar Velenje,Domžale,2,1,H,2018/19
+SVN,30/09/2018,Olimpija,NK Krsko,1,1,D,2018/19
+SVN,01/10/2018,Nd Gorica,Celje,1,1,D,2018/19
+SVN,01/10/2018,Nk Aluminij,Nd Triglav 2000 Kranj,2,0,H,2018/19
+SVN,05/10/2018,NK Krsko,Rudar Velenje,0,0,D,2018/19
+SVN,06/10/2018,Domžale,Mura,2,2,D,2018/19
+SVN,06/10/2018,Maribor,Nk Aluminij,2,1,H,2018/19
+SVN,06/10/2018,Celje,Olimpija,1,3,A,2018/19
+SVN,07/10/2018,Nd Triglav 2000 Kranj,Nd Gorica,2,4,A,2018/19
+SVN,20/10/2018,Mura,Rudar Velenje,2,1,H,2018/19
+SVN,20/10/2018,Nd Gorica,Maribor,0,3,A,2018/19
+SVN,20/10/2018,Nk Aluminij,Domžale,0,0,D,2018/19
+SVN,21/10/2018,Celje,NK Krsko,2,1,H,2018/19
+SVN,21/10/2018,Olimpija,Nd Triglav 2000 Kranj,2,0,H,2018/19
+SVN,27/10/2018,Nd Triglav 2000 Kranj,Celje,1,2,A,2018/19
+SVN,27/10/2018,Maribor,Olimpija,1,2,A,2018/19
+SVN,28/10/2018,NK Krsko,Mura,2,0,H,2018/19
+SVN,28/10/2018,Rudar Velenje,Nk Aluminij,3,2,H,2018/19
+SVN,03/11/2018,Nd Gorica,Rudar Velenje,2,2,D,2018/19
+SVN,04/11/2018,Nd Triglav 2000 Kranj,NK Krsko,4,3,H,2018/19
+SVN,04/11/2018,Celje,Maribor,0,5,A,2018/19
+SVN,04/11/2018,Olimpija,Domžale,4,4,D,2018/19
+SVN,04/11/2018,Nk Aluminij,Mura,0,2,A,2018/19
+SVN,07/11/2018,Domžale,Nd Gorica,3,1,H,2018/19
+SVN,10/11/2018,Mura,Nd Gorica,1,0,H,2018/19
+SVN,10/11/2018,Maribor,Nd Triglav 2000 Kranj,4,1,H,2018/19
+SVN,11/11/2018,Domžale,Celje,1,1,D,2018/19
+SVN,11/11/2018,Rudar Velenje,Olimpija,1,2,A,2018/19
+SVN,11/11/2018,NK Krsko,Nk Aluminij,1,3,A,2018/19
+SVN,23/11/2018,Olimpija,Mura,2,2,D,2018/19
+SVN,24/11/2018,Celje,Rudar Velenje,2,0,H,2018/19
+SVN,24/11/2018,Maribor,NK Krsko,3,0,H,2018/19
+SVN,25/11/2018,Nd Triglav 2000 Kranj,Domžale,1,4,A,2018/19
+SVN,25/11/2018,Nd Gorica,Nk Aluminij,0,1,A,2018/19
+SVN,01/12/2018,Nk Aluminij,Olimpija,6,2,H,2018/19
+SVN,01/12/2018,Domžale,Maribor,1,2,A,2018/19
+SVN,01/12/2018,NK Krsko,Nd Gorica,1,0,H,2018/19
+SVN,02/12/2018,Mura,Celje,0,1,A,2018/19
+SVN,02/12/2018,Rudar Velenje,Nd Triglav 2000 Kranj,3,1,H,2018/19
+SVN,07/12/2018,Rudar Velenje,Maribor,1,3,A,2018/19
+SVN,08/12/2018,Nd Gorica,Olimpija,1,3,A,2018/19
+SVN,08/12/2018,Domžale,NK Krsko,2,1,H,2018/19
+SVN,09/12/2018,Mura,Nd Triglav 2000 Kranj,0,0,D,2018/19
+SVN,09/12/2018,Nk Aluminij,Celje,4,1,H,2018/19
+SVN,23/02/2019,Celje,Nd Gorica,4,3,H,2018/19
+SVN,23/02/2019,Maribor,Mura,1,1,D,2018/19
+SVN,24/02/2019,Nd Triglav 2000 Kranj,Nk Aluminij,3,0,H,2018/19
+SVN,24/02/2019,Domžale,Rudar Velenje,6,2,H,2018/19
+SVN,24/02/2019,NK Krsko,Olimpija,1,4,A,2018/19
+SVN,02/03/2019,Mura,Domžale,0,0,D,2018/19
+SVN,02/03/2019,Olimpija,Celje,2,0,H,2018/19
+SVN,03/03/2019,Nk Aluminij,Maribor,0,1,A,2018/19
+SVN,03/03/2019,Rudar Velenje,NK Krsko,1,0,H,2018/19
+SVN,03/03/2019,Nd Gorica,Nd Triglav 2000 Kranj,1,2,A,2018/19
+SVN,09/03/2019,Nd Triglav 2000 Kranj,Olimpija,2,1,H,2018/19
+SVN,09/03/2019,Maribor,Nd Gorica,2,1,H,2018/19
+SVN,10/03/2019,NK Krsko,Celje,1,1,D,2018/19
+SVN,10/03/2019,Rudar Velenje,Mura,1,0,H,2018/19
+SVN,10/03/2019,Domžale,Nk Aluminij,3,0,H,2018/19
+SVN,16/03/2019,Celje,Nd Triglav 2000 Kranj,4,0,H,2018/19
+SVN,16/03/2019,Mura,NK Krsko,5,0,H,2018/19
+SVN,16/03/2019,Olimpija,Maribor,0,0,D,2018/19
+SVN,17/03/2019,Nk Aluminij,Rudar Velenje,4,0,H,2018/19
+SVN,17/03/2019,Nd Gorica,Domžale,2,1,H,2018/19
+SVN,30/03/2019,Domžale,Olimpija,1,3,A,2018/19
+SVN,30/03/2019,Maribor,Celje,1,1,D,2018/19
+SVN,30/03/2019,Rudar Velenje,Nd Gorica,2,2,D,2018/19
+SVN,31/03/2019,NK Krsko,Nd Triglav 2000 Kranj,1,3,A,2018/19
+SVN,31/03/2019,Mura,Nk Aluminij,3,0,H,2018/19
+SVN,06/04/2019,Nd Triglav 2000 Kranj,Maribor,1,2,A,2018/19
+SVN,06/04/2019,Celje,Domžale,2,3,A,2018/19
+SVN,07/04/2019,Nd Gorica,Mura,0,1,A,2018/19
+SVN,07/04/2019,Olimpija,Rudar Velenje,3,3,D,2018/19
+SVN,07/04/2019,Nk Aluminij,NK Krsko,1,1,D,2018/19
+SVN,10/04/2019,Rudar Velenje,Celje,0,3,A,2018/19
+SVN,10/04/2019,NK Krsko,Maribor,0,1,A,2018/19
+SVN,10/04/2019,Domžale,Nd Triglav 2000 Kranj,6,1,H,2018/19
+SVN,11/04/2019,Nk Aluminij,Nd Gorica,3,1,H,2018/19
+SVN,11/04/2019,Mura,Olimpija,0,0,D,2018/19
+SVN,13/04/2019,Nd Triglav 2000 Kranj,Rudar Velenje,0,4,A,2018/19
+SVN,13/04/2019,Maribor,Domžale,1,0,H,2018/19
+SVN,14/04/2019,Celje,Mura,0,2,A,2018/19
+SVN,14/04/2019,Olimpija,Nk Aluminij,2,0,H,2018/19
+SVN,14/04/2019,Nd Gorica,NK Krsko,1,2,A,2018/19
+SVN,19/04/2019,Olimpija,Nd Gorica,3,1,H,2018/19
+SVN,19/04/2019,Celje,Nk Aluminij,1,0,H,2018/19
+SVN,20/04/2019,Nd Triglav 2000 Kranj,Mura,2,1,H,2018/19
+SVN,20/04/2019,Maribor,Rudar Velenje,3,1,H,2018/19
+SVN,22/04/2019,NK Krsko,Domžale,1,2,A,2018/19
+SVN,27/04/2019,Rudar Velenje,Domžale,1,2,A,2018/19
+SVN,27/04/2019,Nk Aluminij,Nd Triglav 2000 Kranj,2,1,H,2018/19
+SVN,28/04/2019,Nd Gorica,Celje,4,0,H,2018/19
+SVN,28/04/2019,Mura,Maribor,2,2,D,2018/19
+SVN,28/04/2019,Olimpija,NK Krsko,3,2,H,2018/19
+SVN,01/05/2019,Domžale,Mura,1,1,D,2018/19
+SVN,01/05/2019,Maribor,Nk Aluminij,1,1,D,2018/19
+SVN,02/05/2019,Nd Triglav 2000 Kranj,Nd Gorica,1,1,D,2018/19
+SVN,02/05/2019,Celje,Olimpija,1,0,H,2018/19
+SVN,02/05/2019,NK Krsko,Rudar Velenje,1,2,A,2018/19
+SVN,04/05/2019,Nk Aluminij,Domžale,0,3,A,2018/19
+SVN,05/05/2019,Mura,Rudar Velenje,3,3,D,2018/19
+SVN,05/05/2019,Nd Gorica,Maribor,1,3,A,2018/19
+SVN,05/05/2019,Olimpija,Nd Triglav 2000 Kranj,4,2,H,2018/19
+SVN,06/05/2019,Celje,NK Krsko,0,0,D,2018/19
+SVN,10/05/2019,Domžale,Nd Gorica,2,1,H,2018/19
+SVN,10/05/2019,Rudar Velenje,Nk Aluminij,3,0,H,2018/19
+SVN,11/05/2019,NK Krsko,Mura,0,3,A,2018/19
+SVN,11/05/2019,Maribor,Olimpija,0,3,A,2018/19
+SVN,12/05/2019,Nd Triglav 2000 Kranj,Celje,0,3,A,2018/19
+SVN,14/05/2019,Nd Gorica,Rudar Velenje,1,2,A,2018/19
+SVN,15/05/2019,Nd Triglav 2000 Kranj,NK Krsko,3,1,H,2018/19
+SVN,15/05/2019,Olimpija,Domžale,1,4,A,2018/19
+SVN,15/05/2019,Nk Aluminij,Mura,0,1,A,2018/19
+SVN,15/05/2019,Celje,Maribor,1,3,A,2018/19
+SVN,18/05/2019,Rudar Velenje,Olimpija,1,2,A,2018/19
+SVN,18/05/2019,Maribor,Nd Triglav 2000 Kranj,3,3,D,2018/19
+SVN,18/05/2019,Mura,Nd Gorica,3,0,H,2018/19
+SVN,18/05/2019,Domžale,Celje,1,1,D,2018/19
+SVN,19/05/2019,NK Krsko,Nk Aluminij,1,3,A,2018/19
+SVN,22/05/2019,Maribor,NK Krsko,2,0,H,2018/19
+SVN,22/05/2019,Celje,Rudar Velenje,0,2,A,2018/19
+SVN,22/05/2019,Olimpija,Mura,1,0,H,2018/19
+SVN,22/05/2019,Nd Gorica,Nk Aluminij,0,0,D,2018/19
+SVN,22/05/2019,Nd Triglav 2000 Kranj,Domžale,1,4,A,2018/19
+SVN,25/05/2019,Domžale,Maribor,2,1,H,2018/19
+SVN,25/05/2019,NK Krsko,Nd Gorica,3,2,H,2018/19
+SVN,25/05/2019,Nk Aluminij,Olimpija,1,0,H,2018/19
+SVN,25/05/2019,Mura,Celje,1,1,D,2018/19
+SVN,25/05/2019,Rudar Velenje,Nd Triglav 2000 Kranj,2,2,D,2018/19
+SVN,13/07/2019,Mnd Tabor Seana,Nk Aluminij,0,2,A,2019/20
+SVN,13/07/2019,Maribor,Nd Triglav 2000 Kranj,1,2,A,2019/20
+SVN,14/07/2019,Bravo,Olimpija,0,2,A,2019/20
+SVN,14/07/2019,Celje,Mura,2,2,D,2019/20
+SVN,14/07/2019,Domžale,Rudar Velenje,2,2,D,2019/20
+SVN,19/07/2019,Nk Aluminij,Nd Triglav 2000 Kranj,2,1,H,2019/20
+SVN,20/07/2019,Mnd Tabor Seana,Celje,1,0,H,2019/20
+SVN,20/07/2019,Rudar Velenje,Maribor,1,1,D,2019/20
+SVN,21/07/2019,Mura,Bravo,4,3,H,2019/20
+SVN,21/07/2019,Olimpija,Domžale,4,2,H,2019/20
+SVN,26/07/2019,Celje,Nk Aluminij,0,0,D,2019/20
+SVN,27/07/2019,Nd Triglav 2000 Kranj,Rudar Velenje,3,2,H,2019/20
+SVN,28/07/2019,Bravo,Mnd Tabor Seana,1,0,H,2019/20
+SVN,28/07/2019,Maribor,Olimpija,0,0,D,2019/20
+SVN,02/08/2019,Celje,Bravo,2,2,D,2019/20
+SVN,03/08/2019,Nk Aluminij,Rudar Velenje,1,1,D,2019/20
+SVN,03/08/2019,Mura,Maribor,1,1,D,2019/20
+SVN,04/08/2019,Mnd Tabor Seana,Domžale,2,1,H,2019/20
+SVN,04/08/2019,Olimpija,Nd Triglav 2000 Kranj,4,2,H,2019/20
+SVN,09/08/2019,Bravo,Nk Aluminij,0,1,A,2019/20
+SVN,10/08/2019,Nd Triglav 2000 Kranj,Mura,1,3,A,2019/20
+SVN,10/08/2019,Maribor,Mnd Tabor Seana,4,2,H,2019/20
+SVN,11/08/2019,Domžale,Celje,3,5,A,2019/20
+SVN,11/08/2019,Rudar Velenje,Olimpija,0,3,A,2019/20
+SVN,17/08/2019,Mnd Tabor Seana,Nd Triglav 2000 Kranj,2,0,H,2019/20
+SVN,17/08/2019,Celje,Maribor,2,1,H,2019/20
+SVN,18/08/2019,Bravo,Domžale,0,0,D,2019/20
+SVN,18/08/2019,Mura,Rudar Velenje,2,0,H,2019/20
+SVN,18/08/2019,Nk Aluminij,Olimpija,1,0,H,2019/20
+SVN,24/08/2019,Olimpija,Mura,1,1,D,2019/20
+SVN,25/08/2019,Nd Triglav 2000 Kranj,Celje,0,6,A,2019/20
+SVN,25/08/2019,Rudar Velenje,Mnd Tabor Seana,2,2,D,2019/20
+SVN,25/08/2019,Maribor,Bravo,4,0,H,2019/20
+SVN,26/08/2019,Domžale,Nk Aluminij,1,1,D,2019/20
+SVN,30/08/2019,Bravo,Nd Triglav 2000 Kranj,1,0,H,2019/20
+SVN,31/08/2019,Mnd Tabor Seana,Olimpija,1,2,A,2019/20
+SVN,31/08/2019,Nk Aluminij,Mura,2,0,H,2019/20
+SVN,01/09/2019,Celje,Rudar Velenje,3,0,H,2019/20
+SVN,01/09/2019,Domžale,Maribor,0,1,A,2019/20
+SVN,12/09/2019,Domžale,Mura,0,0,D,2019/20
+SVN,13/09/2019,Rudar Velenje,Bravo,1,4,A,2019/20
+SVN,14/09/2019,Maribor,Nk Aluminij,2,1,H,2019/20
+SVN,15/09/2019,Nd Triglav 2000 Kranj,Domžale,2,3,A,2019/20
+SVN,15/09/2019,Olimpija,Celje,2,2,D,2019/20
+SVN,15/09/2019,Mura,Mnd Tabor Seana,1,0,H,2019/20
+SVN,21/09/2019,Nk Aluminij,Mnd Tabor Seana,3,0,H,2019/20
+SVN,22/09/2019,Rudar Velenje,Domžale,2,3,A,2019/20
+SVN,22/09/2019,Nd Triglav 2000 Kranj,Maribor,1,3,A,2019/20
+SVN,22/09/2019,Mura,Celje,1,0,H,2019/20
+SVN,22/09/2019,Olimpija,Bravo,3,1,H,2019/20
+SVN,25/09/2019,Bravo,Mura,3,3,D,2019/20
+SVN,25/09/2019,Domžale,Olimpija,1,4,A,2019/20
+SVN,25/09/2019,Maribor,Rudar Velenje,5,0,H,2019/20
+SVN,26/09/2019,Nd Triglav 2000 Kranj,Nk Aluminij,1,0,H,2019/20
+SVN,26/09/2019,Celje,Mnd Tabor Seana,2,0,H,2019/20
+SVN,28/09/2019,Olimpija,Maribor,2,4,A,2019/20
+SVN,28/09/2019,Mura,Domžale,3,0,H,2019/20
+SVN,29/09/2019,Mnd Tabor Seana,Bravo,3,1,H,2019/20
+SVN,29/09/2019,Rudar Velenje,Nd Triglav 2000 Kranj,1,1,D,2019/20
+SVN,30/09/2019,Nk Aluminij,Celje,0,0,D,2019/20
+SVN,05/10/2019,Bravo,Celje,2,2,D,2019/20
+SVN,05/10/2019,Domžale,Mnd Tabor Seana,1,0,H,2019/20
+SVN,05/10/2019,Maribor,Mura,0,0,D,2019/20
+SVN,06/10/2019,Nd Triglav 2000 Kranj,Olimpija,2,3,A,2019/20
+SVN,06/10/2019,Rudar Velenje,Nk Aluminij,1,2,A,2019/20
+SVN,19/10/2019,Mura,Nd Triglav 2000 Kranj,2,2,D,2019/20
+SVN,19/10/2019,Olimpija,Rudar Velenje,6,0,H,2019/20
+SVN,19/10/2019,Celje,Domžale,2,1,H,2019/20
+SVN,20/10/2019,Mnd Tabor Seana,Maribor,4,1,H,2019/20
+SVN,20/10/2019,Nk Aluminij,Bravo,5,1,H,2019/20
+SVN,26/10/2019,Nd Triglav 2000 Kranj,Mnd Tabor Seana,3,2,H,2019/20
+SVN,26/10/2019,Olimpija,Nk Aluminij,3,1,H,2019/20
+SVN,26/10/2019,Maribor,Celje,1,0,H,2019/20
+SVN,27/10/2019,Rudar Velenje,Mura,1,2,A,2019/20
+SVN,27/10/2019,Domžale,Bravo,2,0,H,2019/20
+SVN,02/11/2019,Bravo,Maribor,0,1,A,2019/20
+SVN,02/11/2019,Celje,Nd Triglav 2000 Kranj,4,0,H,2019/20
+SVN,03/11/2019,Mnd Tabor Seana,Rudar Velenje,1,1,D,2019/20
+SVN,03/11/2019,Mura,Olimpija,3,1,H,2019/20
+SVN,03/11/2019,Nk Aluminij,Domžale,4,2,H,2019/20
+SVN,09/11/2019,Rudar Velenje,Celje,3,3,D,2019/20
+SVN,09/11/2019,Maribor,Domžale,4,1,H,2019/20
+SVN,10/11/2019,Nd Triglav 2000 Kranj,Bravo,1,0,H,2019/20
+SVN,10/11/2019,Olimpija,Mnd Tabor Seana,2,0,H,2019/20
+SVN,10/11/2019,Mura,Nk Aluminij,2,4,A,2019/20
+SVN,23/11/2019,Bravo,Rudar Velenje,2,1,H,2019/20
+SVN,23/11/2019,Domžale,Nd Triglav 2000 Kranj,3,0,H,2019/20
+SVN,23/11/2019,Celje,Olimpija,1,3,A,2019/20
+SVN,24/11/2019,Mnd Tabor Seana,Mura,1,1,D,2019/20
+SVN,24/11/2019,Nk Aluminij,Maribor,0,2,A,2019/20
+SVN,30/11/2019,Mnd Tabor Seana,Nk Aluminij,1,1,D,2019/20
+SVN,30/11/2019,Celje,Mura,1,0,H,2019/20
+SVN,30/11/2019,Maribor,Nd Triglav 2000 Kranj,0,2,A,2019/20
+SVN,01/12/2019,Bravo,Olimpija,1,2,A,2019/20
+SVN,01/12/2019,Domžale,Rudar Velenje,2,1,H,2019/20
+SVN,04/12/2019,Mnd Tabor Seana,Celje,0,4,A,2019/20
+SVN,04/12/2019,Nk Aluminij,Nd Triglav 2000 Kranj,8,1,H,2019/20
+SVN,04/12/2019,Rudar Velenje,Maribor,1,1,D,2019/20
+SVN,04/12/2019,Olimpija,Domžale,0,1,A,2019/20
+SVN,05/12/2019,Mura,Bravo,1,1,D,2019/20
+SVN,22/02/2020,Nd Triglav 2000 Kranj,Rudar Velenje,3,0,H,2019/20
+SVN,22/02/2020,Celje,Nk Aluminij,2,0,H,2019/20
+SVN,22/02/2020,Maribor,Olimpija,1,1,D,2019/20
+SVN,23/02/2020,Bravo,Mnd Tabor Seana,2,1,H,2019/20
+SVN,23/02/2020,Domžale,Mura,1,2,A,2019/20
+SVN,25/02/2020,Olimpija,Nd Triglav 2000 Kranj,0,2,A,2019/20
+SVN,25/02/2020,Nk Aluminij,Rudar Velenje,1,0,H,2019/20
+SVN,26/02/2020,Mnd Tabor Seana,Domžale,2,1,H,2019/20
+SVN,26/02/2020,Mura,Maribor,1,2,A,2019/20
+SVN,26/02/2020,Celje,Bravo,2,2,D,2019/20
+SVN,29/02/2020,Rudar Velenje,Olimpija,1,1,D,2019/20
+SVN,29/02/2020,Bravo,Nk Aluminij,0,0,D,2019/20
+SVN,29/02/2020,Maribor,Mnd Tabor Seana,0,0,D,2019/20
+SVN,01/03/2020,Nd Triglav 2000 Kranj,Mura,1,1,D,2019/20
+SVN,01/03/2020,Domžale,Celje,1,1,D,2019/20
+SVN,03/03/2020,Nk Aluminij,Olimpija,1,2,A,2019/20
+SVN,04/03/2020,Bravo,Domžale,2,1,H,2019/20
+SVN,04/03/2020,Celje,Maribor,2,0,H,2019/20
+SVN,04/03/2020,Mura,Rudar Velenje,1,1,D,2019/20
+SVN,05/03/2020,Mnd Tabor Seana,Nd Triglav 2000 Kranj,3,1,H,2019/20
+SVN,07/03/2020,Domžale,Nk Aluminij,1,3,A,2019/20
+SVN,07/03/2020,Maribor,Bravo,1,2,A,2019/20
+SVN,08/03/2020,Nd Triglav 2000 Kranj,Celje,0,5,A,2019/20
+SVN,08/03/2020,Rudar Velenje,Mnd Tabor Seana,0,1,A,2019/20
+SVN,08/03/2020,Olimpija,Mura,1,0,H,2019/20
+SVN,05/06/2020,Nk Aluminij,Mura,1,3,A,2019/20
+SVN,05/06/2020,Celje,Rudar Velenje,2,0,H,2019/20
+SVN,06/06/2020,Mnd Tabor Seana,Olimpija,0,3,A,2019/20
+SVN,07/06/2020,Bravo,Nd Triglav 2000 Kranj,1,0,H,2019/20
+SVN,07/06/2020,Domžale,Maribor,1,2,A,2019/20
+SVN,12/06/2020,Nd Triglav 2000 Kranj,Domžale,1,1,D,2019/20
+SVN,12/06/2020,Rudar Velenje,Bravo,1,3,A,2019/20
+SVN,13/06/2020,Olimpija,Celje,0,1,A,2019/20
+SVN,13/06/2020,Mura,Mnd Tabor Seana,3,2,H,2019/20
+SVN,14/06/2020,Maribor,Nk Aluminij,3,0,H,2019/20
+SVN,16/06/2020,Mura,Celje,3,1,H,2019/20
+SVN,17/06/2020,Nk Aluminij,Mnd Tabor Seana,0,2,A,2019/20
+SVN,17/06/2020,Rudar Velenje,Domžale,2,3,A,2019/20
+SVN,17/06/2020,Olimpija,Bravo,0,5,A,2019/20
+SVN,18/06/2020,Nd Triglav 2000 Kranj,Maribor,1,3,A,2019/20
+SVN,20/06/2020,Bravo,Mura,1,0,H,2019/20
+SVN,20/06/2020,Celje,Mnd Tabor Seana,1,1,D,2019/20
+SVN,21/06/2020,Nd Triglav 2000 Kranj,Nk Aluminij,1,4,A,2019/20
+SVN,21/06/2020,Domžale,Olimpija,0,1,A,2019/20
+SVN,21/06/2020,Maribor,Rudar Velenje,3,0,H,2019/20
+SVN,26/06/2020,Rudar Velenje,Nd Triglav 2000 Kranj,0,1,A,2019/20
+SVN,27/06/2020,Mnd Tabor Seana,Bravo,0,0,D,2019/20
+SVN,27/06/2020,Nk Aluminij,Celje,0,2,A,2019/20
+SVN,28/06/2020,Mura,Domžale,0,1,A,2019/20
+SVN,28/06/2020,Olimpija,Maribor,1,0,H,2019/20
+SVN,03/07/2020,Bravo,Celje,1,2,A,2020/21
+SVN,03/07/2020,Domžale,Mnd Tabor Seana,2,1,H,2020/21
+SVN,04/07/2020,Rudar Velenje,Nk Aluminij,1,3,A,2020/21
+SVN,05/07/2020,Nd Triglav 2000 Kranj,Olimpija,3,7,A,2020/21
+SVN,05/07/2020,Maribor,Mura,3,2,H,2020/21
+SVN,07/07/2020,Celje,Domžale,4,1,H,2020/21
+SVN,08/07/2020,Nk Aluminij,Bravo,1,2,A,2020/21
+SVN,08/07/2020,Mura,Nd Triglav 2000 Kranj,2,0,H,2020/21
+SVN,09/07/2020,Mnd Tabor Seana,Maribor,4,1,H,2020/21
+SVN,09/07/2020,Olimpija,Rudar Velenje,5,0,H,2020/21
+SVN,11/07/2020,Domžale,Bravo,1,1,D,2020/21
+SVN,12/07/2020,Nd Triglav 2000 Kranj,Mnd Tabor Seana,1,2,A,2020/21
+SVN,12/07/2020,Maribor,Celje,1,2,A,2020/21
+SVN,12/07/2020,Olimpija,Nk Aluminij,0,1,A,2020/21
+SVN,13/07/2020,Rudar Velenje,Mura,0,0,D,2020/21
+SVN,15/07/2020,Bravo,Maribor,0,3,A,2020/21
+SVN,15/07/2020,Celje,Nd Triglav 2000 Kranj,2,2,D,2020/21
+SVN,16/07/2020,Mnd Tabor Seana,Rudar Velenje,1,0,H,2020/21
+SVN,16/07/2020,Nk Aluminij,Domžale,2,5,A,2020/21
+SVN,16/07/2020,Mura,Olimpija,1,1,D,2020/21
+SVN,19/07/2020,Mura,Nk Aluminij,1,1,D,2020/21
+SVN,19/07/2020,Nd Triglav 2000 Kranj,Bravo,1,4,A,2020/21
+SVN,19/07/2020,Olimpija,Mnd Tabor Seana,1,2,A,2020/21
+SVN,19/07/2020,Rudar Velenje,Celje,0,2,A,2020/21
+SVN,19/07/2020,Maribor,Domžale,2,1,H,2020/21
+SVN,22/07/2020,Nk Aluminij,Maribor,1,4,A,2020/21
+SVN,22/07/2020,Domžale,Nd Triglav 2000 Kranj,2,1,H,2020/21
+SVN,22/07/2020,Bravo,Rudar Velenje,1,1,D,2020/21
+SVN,22/07/2020,Mnd Tabor Seana,Mura,1,2,A,2020/21
+SVN,22/07/2020,Celje,Olimpija,2,2,D,2020/21
+SVN,22/08/2020,Mnd Tabor Seana,Koper,1,0,H,2020/21
+SVN,22/08/2020,Domžale,Bravo,1,2,A,2020/21
+SVN,22/08/2020,Celje,Mura,0,2,A,2020/21
+SVN,23/08/2020,Maribor,Nk Aluminij,3,0,H,2020/21
+SVN,29/08/2020,Bravo,Nd Gorica,4,1,H,2020/21
+SVN,29/08/2020,Nk Aluminij,Celje,0,0,D,2020/21
+SVN,30/08/2020,Mura,Mnd Tabor Seana,3,0,H,2020/21
+SVN,30/08/2020,Koper,Olimpija,1,1,D,2020/21
+SVN,30/08/2020,Domžale,Maribor,1,1,D,2020/21
+SVN,12/09/2020,Maribor,Bravo,4,1,H,2020/21
+SVN,12/09/2020,Celje,Domžale,1,2,A,2020/21
+SVN,13/09/2020,Mnd Tabor Seana,Nk Aluminij,3,1,H,2020/21
+SVN,13/09/2020,Nd Gorica,Koper,2,4,A,2020/21
+SVN,13/09/2020,Olimpija,Mura,0,0,D,2020/21
+SVN,19/09/2020,Bravo,Koper,0,0,D,2020/21
+SVN,19/09/2020,Maribor,Celje,2,2,D,2020/21
+SVN,20/09/2020,Domžale,Mnd Tabor Seana,3,1,H,2020/21
+SVN,20/09/2020,Nk Aluminij,Olimpija,1,0,H,2020/21
+SVN,20/09/2020,Mura,Nd Gorica,1,0,H,2020/21
+SVN,26/09/2020,Mnd Tabor Seana,Maribor,3,1,H,2020/21
+SVN,26/09/2020,Nd Gorica,Nk Aluminij,2,0,H,2020/21
+SVN,27/09/2020,Celje,Bravo,2,0,H,2020/21
+SVN,27/09/2020,Koper,Mura,1,3,A,2020/21
+SVN,27/09/2020,Olimpija,Domžale,3,2,H,2020/21
+SVN,30/09/2020,Olimpija,Nd Gorica,1,0,H,2020/21
+SVN,03/10/2020,Domžale,Nd Gorica,1,1,D,2020/21
+SVN,04/10/2020,Bravo,Mura,2,1,H,2020/21
+SVN,04/10/2020,Celje,Mnd Tabor Seana,2,1,H,2020/21
+SVN,04/10/2020,Maribor,Olimpija,1,1,D,2020/21
+SVN,13/10/2020,Nk Aluminij,Koper,1,1,D,2020/21
+SVN,17/10/2020,Koper,Domžale,2,0,H,2020/21
+SVN,17/10/2020,Nd Gorica,Maribor,0,4,A,2020/21
+SVN,18/10/2020,Mnd Tabor Seana,Bravo,2,0,H,2020/21
+SVN,18/10/2020,Olimpija,Celje,1,0,H,2020/21
+SVN,18/10/2020,Mura,Nk Aluminij,1,2,A,2020/21
+SVN,24/10/2020,Celje,Nd Gorica,1,1,D,2020/21
+SVN,24/10/2020,Maribor,Koper,1,1,D,2020/21
+SVN,25/10/2020,Bravo,Nk Aluminij,1,1,D,2020/21
+SVN,25/10/2020,Mnd Tabor Seana,Olimpija,2,1,H,2020/21
+SVN,25/10/2020,Domžale,Mura,1,1,D,2020/21
+SVN,28/10/2020,Nd Gorica,Mnd Tabor Seana,2,1,H,2020/21
+SVN,28/10/2020,Koper,Celje,3,0,H,2020/21
+SVN,29/10/2020,Olimpija,Bravo,2,0,H,2020/21
+SVN,29/10/2020,Mura,Maribor,2,0,H,2020/21
+SVN,02/11/2020,Mura,Celje,0,0,D,2020/21
+SVN,02/11/2020,Nk Aluminij,Maribor,1,3,A,2020/21
+SVN,03/11/2020,Koper,Mnd Tabor Seana,2,1,H,2020/21
+SVN,03/11/2020,Nd Gorica,Olimpija,0,2,A,2020/21
+SVN,06/11/2020,Celje,Nk Aluminij,4,0,H,2020/21
+SVN,07/11/2020,Mnd Tabor Seana,Mura,0,0,D,2020/21
+SVN,07/11/2020,Olimpija,Koper,1,2,A,2020/21
+SVN,07/11/2020,Maribor,Domžale,4,3,H,2020/21
+SVN,07/11/2020,Nd Gorica,Bravo,0,0,D,2020/21
+SVN,14/11/2020,Nk Aluminij,Domžale,1,2,A,2020/21
+SVN,21/11/2020,Bravo,Maribor,1,2,A,2020/21
+SVN,21/11/2020,Mura,Olimpija,0,1,A,2020/21
+SVN,21/11/2020,Koper,Nd Gorica,1,1,D,2020/21
+SVN,22/11/2020,Nk Aluminij,Mnd Tabor Seana,0,0,D,2020/21
+SVN,22/11/2020,Domžale,Celje,0,1,A,2020/21
+SVN,24/11/2020,Koper,Bravo,2,1,H,2020/21
+SVN,24/11/2020,Nd Gorica,Mura,0,1,A,2020/21
+SVN,25/11/2020,Mnd Tabor Seana,Domžale,1,1,D,2020/21
+SVN,25/11/2020,Celje,Maribor,0,2,A,2020/21
+SVN,26/11/2020,Olimpija,Nk Aluminij,3,0,H,2020/21
+SVN,28/11/2020,Mura,Koper,2,1,H,2020/21
+SVN,28/11/2020,Maribor,Mnd Tabor Seana,1,0,H,2020/21
+SVN,29/11/2020,Bravo,Celje,2,1,H,2020/21
+SVN,29/11/2020,Nk Aluminij,Nd Gorica,2,1,H,2020/21
+SVN,29/11/2020,Domžale,Olimpija,3,1,H,2020/21
+SVN,02/12/2020,Nd Gorica,Domžale,0,2,A,2020/21
+SVN,02/12/2020,Mura,Bravo,0,0,D,2020/21
+SVN,02/12/2020,Koper,Nk Aluminij,1,0,H,2020/21
+SVN,03/12/2020,Olimpija,Maribor,2,0,H,2020/21
+SVN,05/12/2020,Domžale,Koper,1,1,D,2020/21
+SVN,05/12/2020,Nk Aluminij,Mura,1,2,A,2020/21
+SVN,06/12/2020,Celje,Olimpija,1,1,D,2020/21
+SVN,06/12/2020,Maribor,Nd Gorica,3,1,H,2020/21
+SVN,09/12/2020,Mnd Tabor Seana,Celje,1,0,H,2020/21
+SVN,09/12/2020,Bravo,Domžale,1,0,H,2020/21
+SVN,12/12/2020,Nd Gorica,Celje,0,2,A,2020/21
+SVN,12/12/2020,Nk Aluminij,Bravo,1,1,D,2020/21
+SVN,12/12/2020,Olimpija,Mnd Tabor Seana,2,1,H,2020/21
+SVN,12/12/2020,Koper,Maribor,1,2,A,2020/21
+SVN,13/12/2020,Mura,Domžale,1,1,D,2020/21
+SVN,15/12/2020,Bravo,Olimpija,0,0,D,2020/21
+SVN,16/12/2020,Mnd Tabor Seana,Nd Gorica,1,0,H,2020/21
+SVN,16/12/2020,Celje,Koper,2,0,H,2020/21
+SVN,16/12/2020,Domžale,Nk Aluminij,2,1,H,2020/21
+SVN,17/12/2020,Maribor,Mura,2,1,H,2020/21
+SVN,19/12/2020,Mnd Tabor Seana,Koper,3,4,A,2020/21
+SVN,19/12/2020,Olimpija,Nd Gorica,2,0,H,2020/21
+SVN,20/12/2020,Domžale,Bravo,0,0,D,2020/21
+SVN,20/12/2020,Celje,Mura,1,3,A,2020/21
+SVN,20/12/2020,Maribor,Nk Aluminij,2,2,D,2020/21
+SVN,06/02/2021,Bravo,Mnd Tabor Seana,3,1,H,2020/21
+SVN,10/02/2021,Bravo,Nd Gorica,0,0,D,2020/21
+SVN,10/02/2021,Domžale,Maribor,3,3,D,2020/21
+SVN,10/02/2021,Koper,Olimpija,1,2,A,2020/21
+SVN,11/02/2021,Mura,Mnd Tabor Seana,0,0,D,2020/21
+SVN,13/02/2021,Nd Gorica,Koper,2,1,H,2020/21
+SVN,13/02/2021,Maribor,Bravo,1,1,D,2020/21
+SVN,14/02/2021,Mnd Tabor Seana,Nk Aluminij,1,1,D,2020/21
+SVN,14/02/2021,Celje,Domžale,0,2,A,2020/21
+SVN,14/02/2021,Olimpija,Mura,2,0,H,2020/21
+SVN,17/02/2021,Nk Aluminij,Celje,1,0,H,2020/21
+SVN,20/02/2021,Bravo,Koper,3,0,H,2020/21
+SVN,20/02/2021,Maribor,Celje,0,1,A,2020/21
+SVN,20/02/2021,Mura,Nd Gorica,3,1,H,2020/21
+SVN,21/02/2021,Domžale,Mnd Tabor Seana,2,1,H,2020/21
+SVN,21/02/2021,Nk Aluminij,Olimpija,0,0,D,2020/21
+SVN,24/02/2021,Mnd Tabor Seana,Maribor,0,4,A,2020/21
+SVN,24/02/2021,Olimpija,Domžale,0,0,D,2020/21
+SVN,24/02/2021,Celje,Bravo,2,3,A,2020/21
+SVN,25/02/2021,Nd Gorica,Nk Aluminij,0,0,D,2020/21
+SVN,25/02/2021,Koper,Mura,1,0,H,2020/21
+SVN,27/02/2021,Celje,Mnd Tabor Seana,0,3,A,2020/21
+SVN,27/02/2021,Maribor,Olimpija,1,1,D,2020/21
+SVN,28/02/2021,Bravo,Mura,0,1,A,2020/21
+SVN,28/02/2021,Domžale,Nd Gorica,1,0,H,2020/21
+SVN,01/03/2021,Nk Aluminij,Koper,0,1,A,2020/21
+SVN,06/03/2021,Mura,Nk Aluminij,2,0,H,2020/21
+SVN,06/03/2021,Nd Gorica,Maribor,1,1,D,2020/21
+SVN,06/03/2021,Koper,Domžale,0,2,A,2020/21
+SVN,07/03/2021,Mnd Tabor Seana,Bravo,0,0,D,2020/21
+SVN,07/03/2021,Olimpija,Celje,1,0,H,2020/21
+SVN,10/03/2021,Bravo,Nk Aluminij,0,1,A,2020/21
+SVN,10/03/2021,Domžale,Mura,1,1,D,2020/21
+SVN,11/03/2021,Mnd Tabor Seana,Olimpija,0,3,A,2020/21
+SVN,11/03/2021,Celje,Nd Gorica,0,1,A,2020/21
+SVN,11/03/2021,Maribor,Koper,4,2,H,2020/21
+SVN,13/03/2021,Nk Aluminij,Domžale,1,0,H,2020/21
+SVN,14/03/2021,Mura,Maribor,0,0,D,2020/21
+SVN,14/03/2021,Koper,Celje,1,1,D,2020/21
+SVN,15/03/2021,Nd Gorica,Mnd Tabor Seana,0,3,A,2020/21
+SVN,13/04/2021,Olimpija,Bravo,1,1,D,2020/21
+SVN,16/04/2021,Nk Aluminij,Maribor,0,0,D,2020/21
+SVN,16/04/2021,Mura,Celje,0,0,D,2020/21
+SVN,17/04/2021,Bravo,Domžale,2,2,D,2020/21
+SVN,17/04/2021,Nd Gorica,Olimpija,0,1,A,2020/21
+SVN,17/04/2021,Koper,Mnd Tabor Seana,1,0,H,2020/21
+SVN,20/04/2021,Celje,Nk Aluminij,0,1,A,2020/21
+SVN,20/04/2021,Maribor,Domžale,1,3,A,2020/21
+SVN,21/04/2021,Mnd Tabor Seana,Mura,3,1,H,2020/21
+SVN,21/04/2021,Olimpija,Koper,6,2,H,2020/21
+SVN,21/04/2021,Nd Gorica,Bravo,3,2,H,2020/21
+SVN,24/04/2021,Bravo,Maribor,0,1,A,2020/21
+SVN,24/04/2021,Domžale,Celje,3,1,H,2020/21
+SVN,24/04/2021,Koper,Nd Gorica,0,0,D,2020/21
+SVN,25/04/2021,Nk Aluminij,Mnd Tabor Seana,0,2,A,2020/21
+SVN,25/04/2021,Mura,Olimpija,3,0,H,2020/21
+SVN,30/04/2021,Nd Gorica,Mura,1,5,A,2020/21
+SVN,01/05/2021,Mnd Tabor Seana,Domžale,0,0,D,2020/21
+SVN,01/05/2021,Celje,Maribor,2,1,H,2020/21
+SVN,01/05/2021,Koper,Bravo,0,0,D,2020/21
+SVN,02/05/2021,Olimpija,Nk Aluminij,2,2,D,2020/21
+SVN,04/05/2021,Bravo,Celje,2,0,H,2020/21
+SVN,04/05/2021,Maribor,Mnd Tabor Seana,2,1,H,2020/21
+SVN,05/05/2021,Mura,Koper,2,1,H,2020/21
+SVN,05/05/2021,Domžale,Olimpija,2,0,H,2020/21
+SVN,06/05/2021,Nk Aluminij,Nd Gorica,2,0,H,2020/21
+SVN,08/05/2021,Mnd Tabor Seana,Celje,0,1,A,2020/21
+SVN,08/05/2021,Mura,Bravo,2,2,D,2020/21
+SVN,09/05/2021,Nd Gorica,Domžale,2,1,H,2020/21
+SVN,09/05/2021,Olimpija,Maribor,0,0,D,2020/21
+SVN,09/05/2021,Koper,Nk Aluminij,0,3,A,2020/21
+SVN,15/05/2021,Bravo,Mnd Tabor Seana,1,1,D,2020/21
+SVN,15/05/2021,Maribor,Nd Gorica,3,0,H,2020/21
+SVN,15/05/2021,Nk Aluminij,Mura,0,0,D,2020/21
+SVN,16/05/2021,Celje,Olimpija,4,0,H,2020/21
+SVN,16/05/2021,Domžale,Koper,3,1,H,2020/21
+SVN,18/05/2021,Nk Aluminij,Bravo,3,0,H,2020/21
+SVN,19/05/2021,Mura,Domžale,3,0,H,2020/21
+SVN,19/05/2021,Koper,Maribor,0,3,A,2020/21
+SVN,19/05/2021,Nd Gorica,Celje,0,2,A,2020/21
+SVN,19/05/2021,Olimpija,Mnd Tabor Seana,1,2,A,2020/21
+SVN,22/05/2021,Bravo,Olimpija,3,0,H,2020/21
+SVN,22/05/2021,Mnd Tabor Seana,Nd Gorica,0,1,A,2020/21
+SVN,22/05/2021,Celje,Koper,2,1,H,2020/21
+SVN,22/05/2021,Domžale,Nk Aluminij,1,1,D,2020/21
+SVN,22/05/2021,Maribor,Mura,1,3,A,2020/21
+SVN,16/07/2021,Bravo,Radomlje,0,0,D,2021/22
+SVN,17/07/2021,Nk Aluminij,Koper,0,0,D,2021/22
+SVN,17/07/2021,Mura,Mnd Tabor Seana,0,3,A,2021/22
+SVN,18/07/2021,Celje,Maribor,2,3,A,2021/22
+SVN,23/07/2021,Mnd Tabor Seana,Celje,0,1,A,2021/22
+SVN,24/07/2021,Bravo,Nk Aluminij,0,0,D,2021/22
+SVN,24/07/2021,Koper,Mura,3,2,H,2021/22
+SVN,25/07/2021,Radomlje,Olimpija,1,1,D,2021/22
+SVN,25/07/2021,Maribor,Domžale,3,1,H,2021/22
+SVN,30/07/2021,Nk Aluminij,Radomlje,0,2,A,2021/22
+SVN,31/07/2021,Mura,Bravo,1,1,D,2021/22
+SVN,31/07/2021,Celje,Koper,1,3,A,2021/22
+SVN,01/08/2021,Domžale,Mnd Tabor Seana,1,1,D,2021/22
+SVN,01/08/2021,Olimpija,Maribor,3,1,H,2021/22
+SVN,06/08/2021,Bravo,Celje,2,1,H,2021/22
+SVN,07/08/2021,Radomlje,Maribor,1,2,A,2021/22
+SVN,08/08/2021,Mnd Tabor Seana,Olimpija,1,2,A,2021/22
+SVN,08/08/2021,Nk Aluminij,Mura,1,1,D,2021/22
+SVN,13/08/2021,Celje,Nk Aluminij,0,0,D,2021/22
+SVN,14/08/2021,Domžale,Bravo,0,2,A,2021/22
+SVN,14/08/2021,Maribor,Mnd Tabor Seana,2,0,H,2021/22
+SVN,15/08/2021,Olimpija,Koper,1,3,A,2021/22
+SVN,20/08/2021,Nk Aluminij,Domžale,0,1,A,2021/22
+SVN,21/08/2021,Radomlje,Mnd Tabor Seana,0,1,A,2021/22
+SVN,21/08/2021,Koper,Maribor,2,0,H,2021/22
+SVN,22/08/2021,Bravo,Olimpija,2,0,H,2021/22
+SVN,22/08/2021,Mura,Celje,1,0,H,2021/22
+SVN,25/08/2021,Domžale,Olimpija,0,2,A,2021/22
+SVN,27/08/2021,Celje,Radomlje,2,0,H,2021/22
+SVN,28/08/2021,Mnd Tabor Seana,Koper,0,1,A,2021/22
+SVN,28/08/2021,Maribor,Bravo,1,1,D,2021/22
+SVN,29/08/2021,Domžale,Mura,4,1,H,2021/22
+SVN,29/08/2021,Olimpija,Nk Aluminij,3,1,H,2021/22
+SVN,03/09/2021,Mura,Radomlje,4,2,H,2021/22
+SVN,11/09/2021,Celje,Domžale,3,1,H,2021/22
+SVN,11/09/2021,Mura,Olimpija,1,0,H,2021/22
+SVN,12/09/2021,Bravo,Mnd Tabor Seana,0,2,A,2021/22
+SVN,12/09/2021,Radomlje,Koper,1,4,A,2021/22
+SVN,12/09/2021,Nk Aluminij,Maribor,3,0,H,2021/22
+SVN,18/09/2021,Domžale,Radomlje,2,0,H,2021/22
+SVN,18/09/2021,Olimpija,Celje,1,0,H,2021/22
+SVN,19/09/2021,Mnd Tabor Seana,Nk Aluminij,4,0,H,2021/22
+SVN,19/09/2021,Koper,Bravo,0,1,A,2021/22
+SVN,19/09/2021,Maribor,Mura,1,2,A,2021/22
+SVN,22/09/2021,Radomlje,Bravo,0,2,A,2021/22
+SVN,22/09/2021,Olimpija,Domžale,2,1,H,2021/22
+SVN,23/09/2021,Mnd Tabor Seana,Mura,1,1,D,2021/22
+SVN,23/09/2021,Koper,Nk Aluminij,1,3,A,2021/22
+SVN,23/09/2021,Maribor,Celje,2,0,H,2021/22
+SVN,25/09/2021,Olimpija,Radomlje,2,3,A,2021/22
+SVN,26/09/2021,Nk Aluminij,Bravo,0,1,A,2021/22
+SVN,26/09/2021,Domžale,Maribor,3,3,D,2021/22
+SVN,26/09/2021,Mura,Koper,0,0,D,2021/22
+SVN,27/09/2021,Celje,Mnd Tabor Seana,2,2,D,2021/22
+SVN,29/09/2021,Koper,Domžale,4,2,H,2021/22
+SVN,01/10/2021,Radomlje,Nk Aluminij,2,2,D,2021/22
+SVN,02/10/2021,Mnd Tabor Seana,Domžale,0,0,D,2021/22
+SVN,02/10/2021,Maribor,Olimpija,0,0,D,2021/22
+SVN,03/10/2021,Bravo,Mura,0,0,D,2021/22
+SVN,03/10/2021,Koper,Celje,2,2,D,2021/22
+SVN,16/10/2021,Mura,Nk Aluminij,3,2,H,2021/22
+SVN,16/10/2021,Maribor,Radomlje,1,0,H,2021/22
+SVN,17/10/2021,Domžale,Koper,2,3,A,2021/22
+SVN,17/10/2021,Olimpija,Mnd Tabor Seana,1,0,H,2021/22
+SVN,18/10/2021,Celje,Bravo,1,0,H,2021/22
+SVN,23/10/2021,Bravo,Domžale,0,1,A,2021/22
+SVN,23/10/2021,Nk Aluminij,Celje,0,1,A,2021/22
+SVN,23/10/2021,Koper,Olimpija,0,1,A,2021/22
+SVN,24/10/2021,Mnd Tabor Seana,Maribor,0,1,A,2021/22
+SVN,24/10/2021,Radomlje,Mura,2,2,D,2021/22
+SVN,30/10/2021,Mnd Tabor Seana,Radomlje,0,1,A,2021/22
+SVN,30/10/2021,Olimpija,Bravo,1,1,D,2021/22
+SVN,31/10/2021,Domžale,Nk Aluminij,1,1,D,2021/22
+SVN,31/10/2021,Celje,Mura,1,0,H,2021/22
+SVN,01/11/2021,Maribor,Koper,2,0,H,2021/22
+SVN,05/11/2021,Radomlje,Celje,3,2,H,2021/22
+SVN,06/11/2021,Bravo,Maribor,0,2,A,2021/22
+SVN,06/11/2021,Koper,Mnd Tabor Seana,1,0,H,2021/22
+SVN,07/11/2021,Nk Aluminij,Olimpija,1,0,H,2021/22
+SVN,07/11/2021,Mura,Domžale,1,1,D,2021/22
+SVN,21/11/2021,Mnd Tabor Seana,Bravo,0,2,A,2021/22
+SVN,21/11/2021,Maribor,Nk Aluminij,3,0,H,2021/22
+SVN,21/11/2021,Koper,Radomlje,3,2,H,2021/22
+SVN,22/11/2021,Domžale,Celje,1,0,H,2021/22
+SVN,27/11/2021,Radomlje,Domžale,0,2,A,2021/22
+SVN,27/11/2021,Nk Aluminij,Mnd Tabor Seana,3,2,H,2021/22
+SVN,28/11/2021,Bravo,Koper,1,2,A,2021/22
+SVN,28/11/2021,Mura,Maribor,3,1,H,2021/22
+SVN,04/12/2021,Nk Aluminij,Koper,1,1,D,2021/22
+SVN,04/12/2021,Mura,Mnd Tabor Seana,1,0,H,2021/22
+SVN,04/12/2021,Celje,Maribor,0,1,A,2021/22
+SVN,07/12/2021,Bravo,Radomlje,0,3,A,2021/22
+SVN,08/12/2021,Celje,Olimpija,1,1,D,2021/22
+SVN,11/12/2021,Mnd Tabor Seana,Celje,2,1,H,2021/22
+SVN,11/12/2021,Radomlje,Olimpija,0,1,A,2021/22
+SVN,11/12/2021,Maribor,Domžale,1,0,H,2021/22
+SVN,12/12/2021,Bravo,Nk Aluminij,2,1,H,2021/22
+SVN,12/12/2021,Koper,Mura,2,2,D,2021/22
+SVN,09/02/2022,Olimpija,Mura,1,0,H,2021/22
+SVN,12/02/2022,Domžale,Mnd Tabor Seana,1,1,D,2021/22
+SVN,12/02/2022,Celje,Koper,1,2,A,2021/22
+SVN,13/02/2022,Mura,Bravo,2,2,D,2021/22
+SVN,13/02/2022,Olimpija,Maribor,1,0,H,2021/22
+SVN,14/02/2022,Nk Aluminij,Radomlje,0,4,A,2021/22
+SVN,17/02/2022,Domžale,Olimpija,2,0,H,2021/22
+SVN,19/02/2022,Bravo,Celje,3,0,H,2021/22
+SVN,19/02/2022,Nk Aluminij,Mura,0,1,A,2021/22
+SVN,20/02/2022,Mnd Tabor Seana,Olimpija,1,2,A,2021/22
+SVN,20/02/2022,Koper,Domžale,0,2,A,2021/22
+SVN,21/02/2022,Radomlje,Maribor,1,4,A,2021/22
+SVN,25/02/2022,Celje,Nk Aluminij,3,2,H,2021/22
+SVN,26/02/2022,Domžale,Bravo,3,0,H,2021/22
+SVN,26/02/2022,Maribor,Mnd Tabor Seana,2,0,H,2021/22
+SVN,27/02/2022,Mura,Radomlje,0,2,A,2021/22
+SVN,27/02/2022,Olimpija,Koper,2,2,D,2021/22
+SVN,01/03/2022,Nk Aluminij,Domžale,1,1,D,2021/22
+SVN,02/03/2022,Radomlje,Mnd Tabor Seana,0,0,D,2021/22
+SVN,02/03/2022,Mura,Celje,3,2,H,2021/22
+SVN,03/03/2022,Bravo,Olimpija,0,0,D,2021/22
+SVN,03/03/2022,Koper,Maribor,1,2,A,2021/22
+SVN,05/03/2022,Celje,Radomlje,0,0,D,2021/22
+SVN,05/03/2022,Domžale,Mura,1,1,D,2021/22
+SVN,06/03/2022,Mnd Tabor Seana,Koper,1,1,D,2021/22
+SVN,06/03/2022,Maribor,Bravo,1,2,A,2021/22
+SVN,06/03/2022,Olimpija,Nk Aluminij,6,0,H,2021/22
+SVN,09/03/2022,Bravo,Mnd Tabor Seana,0,1,A,2021/22
+SVN,09/03/2022,Celje,Domžale,2,1,H,2021/22
+SVN,09/03/2022,Radomlje,Koper,0,1,A,2021/22
+SVN,10/03/2022,Nk Aluminij,Maribor,3,3,D,2021/22
+SVN,10/03/2022,Mura,Olimpija,3,2,H,2021/22
+SVN,12/03/2022,Domžale,Radomlje,0,0,D,2021/22
+SVN,13/03/2022,Mnd Tabor Seana,Nk Aluminij,1,1,D,2021/22
+SVN,13/03/2022,Maribor,Mura,1,1,D,2021/22
+SVN,13/03/2022,Koper,Bravo,0,0,D,2021/22
+SVN,14/03/2022,Olimpija,Celje,2,4,A,2021/22
+SVN,18/03/2022,Radomlje,Bravo,2,1,H,2021/22
+SVN,19/03/2022,Mnd Tabor Seana,Mura,0,2,A,2021/22
+SVN,19/03/2022,Maribor,Celje,1,0,H,2021/22
+SVN,20/03/2022,Olimpija,Domžale,1,1,D,2021/22
+SVN,20/03/2022,Koper,Nk Aluminij,2,0,H,2021/22
+SVN,02/04/2022,Celje,Mnd Tabor Seana,1,0,H,2021/22
+SVN,02/04/2022,Domžale,Maribor,0,2,A,2021/22
+SVN,03/04/2022,Nk Aluminij,Bravo,0,2,A,2021/22
+SVN,03/04/2022,Mura,Koper,1,2,A,2021/22
+SVN,03/04/2022,Olimpija,Radomlje,4,1,H,2021/22
+SVN,09/04/2022,Bravo,Mura,1,2,A,2021/22
+SVN,09/04/2022,Radomlje,Nk Aluminij,1,1,D,2021/22
+SVN,09/04/2022,Maribor,Olimpija,1,0,H,2021/22
+SVN,10/04/2022,Mnd Tabor Seana,Domžale,2,1,H,2021/22
+SVN,10/04/2022,Koper,Celje,3,1,H,2021/22
+SVN,15/04/2022,Maribor,Radomlje,0,0,D,2021/22
+SVN,16/04/2022,Domžale,Koper,0,1,A,2021/22
+SVN,16/04/2022,Celje,Bravo,2,0,H,2021/22
+SVN,16/04/2022,Olimpija,Mnd Tabor Seana,1,0,H,2021/22
+SVN,18/04/2022,Mura,Nk Aluminij,3,0,H,2021/22
+SVN,23/04/2022,Mnd Tabor Seana,Maribor,1,2,A,2021/22
+SVN,23/04/2022,Radomlje,Mura,3,2,H,2021/22
+SVN,24/04/2022,Bravo,Domžale,0,2,A,2021/22
+SVN,24/04/2022,Koper,Olimpija,1,0,H,2021/22
+SVN,25/04/2022,Nk Aluminij,Celje,0,6,A,2021/22
+SVN,29/04/2022,Celje,Mura,1,3,A,2021/22
+SVN,30/04/2022,Mnd Tabor Seana,Radomlje,1,2,A,2021/22
+SVN,30/04/2022,Maribor,Koper,1,1,D,2021/22
+SVN,01/05/2022,Domžale,Nk Aluminij,3,1,H,2021/22
+SVN,01/05/2022,Olimpija,Bravo,1,0,H,2021/22
+SVN,06/05/2022,Koper,Mnd Tabor Seana,1,0,H,2021/22
+SVN,07/05/2022,Radomlje,Celje,2,1,H,2021/22
+SVN,07/05/2022,Bravo,Maribor,3,1,H,2021/22
+SVN,08/05/2022,Mura,Domžale,3,1,H,2021/22
+SVN,08/05/2022,Nk Aluminij,Olimpija,2,3,A,2021/22
+SVN,14/05/2022,Mnd Tabor Seana,Bravo,0,1,A,2021/22
+SVN,14/05/2022,Maribor,Nk Aluminij,3,1,H,2021/22
+SVN,15/05/2022,Domžale,Celje,1,1,D,2021/22
+SVN,15/05/2022,Olimpija,Mura,3,3,D,2021/22
+SVN,16/05/2022,Koper,Radomlje,1,3,A,2021/22
+SVN,21/05/2022,Radomlje,Domžale,3,3,D,2021/22
+SVN,21/05/2022,Nk Aluminij,Mnd Tabor Seana,2,2,D,2021/22
+SVN,22/05/2022,Celje,Olimpija,0,2,A,2021/22
+SVN,22/05/2022,Mura,Maribor,1,3,A,2021/22
+SVN,22/05/2022,Bravo,Koper,0,0,D,2021/22
+SVN,15/07/2022,Koper,Mnd Tabor Seana,2,1,H,2022/23
+SVN,16/07/2022,Domžale,Celje,0,0,D,2022/23
+SVN,16/07/2022,Maribor,Radomlje,0,3,A,2022/23
+SVN,17/07/2022,Olimpija,Mura,2,0,H,2022/23
+SVN,18/07/2022,Nd Gorica,Bravo,2,0,H,2022/23
+SVN,22/07/2022,Radomlje,Celje,1,1,D,2022/23
+SVN,23/07/2022,Maribor,Nd Gorica,3,2,H,2022/23
+SVN,24/07/2022,Mnd Tabor Seana,Olimpija,0,1,A,2022/23
+SVN,24/07/2022,Bravo,Koper,1,0,H,2022/23
+SVN,24/07/2022,Mura,Domžale,4,3,H,2022/23
+SVN,29/07/2022,Nd Gorica,Radomlje,0,1,A,2022/23
+SVN,30/07/2022,Domžale,Mnd Tabor Seana,1,1,D,2022/23
+SVN,31/07/2022,Olimpija,Bravo,1,0,H,2022/23
+SVN,31/07/2022,Koper,Maribor,2,1,H,2022/23
+SVN,31/07/2022,Celje,Mura,3,3,D,2022/23
+SVN,05/08/2022,Mnd Tabor Seana,Celje,1,0,H,2022/23
+SVN,06/08/2022,Bravo,Domžale,0,1,A,2022/23
+SVN,07/08/2022,Radomlje,Mura,1,1,D,2022/23
+SVN,07/08/2022,Maribor,Olimpija,0,2,A,2022/23
+SVN,08/08/2022,Nd Gorica,Koper,1,2,A,2022/23
+SVN,12/08/2022,Celje,Bravo,1,0,H,2022/23
+SVN,13/08/2022,Mura,Mnd Tabor Seana,2,2,D,2022/23
+SVN,13/08/2022,Koper,Radomlje,5,0,H,2022/23
+SVN,14/08/2022,Domžale,Maribor,3,2,H,2022/23
+SVN,15/08/2022,Olimpija,Nd Gorica,2,0,H,2022/23
+SVN,19/08/2022,Radomlje,Mnd Tabor Seana,0,0,D,2022/23
+SVN,20/08/2022,Bravo,Mura,0,1,A,2022/23
+SVN,20/08/2022,Koper,Olimpija,0,2,A,2022/23
+SVN,21/08/2022,Maribor,Celje,2,2,D,2022/23
+SVN,22/08/2022,Nd Gorica,Domžale,0,0,D,2022/23
+SVN,26/08/2022,Mnd Tabor Seana,Bravo,0,4,A,2022/23
+SVN,26/08/2022,Celje,Nd Gorica,1,0,H,2022/23
+SVN,27/08/2022,Olimpija,Radomlje,2,1,H,2022/23
+SVN,27/08/2022,Domžale,Koper,0,2,A,2022/23
+SVN,28/08/2022,Mura,Maribor,0,1,A,2022/23
+SVN,02/09/2022,Nd Gorica,Mura,0,0,D,2022/23
+SVN,02/09/2022,Koper,Celje,0,2,A,2022/23
+SVN,03/09/2022,Maribor,Mnd Tabor Seana,2,2,D,2022/23
+SVN,04/09/2022,Olimpija,Domžale,3,2,H,2022/23
+SVN,05/09/2022,Radomlje,Bravo,1,1,D,2022/23
+SVN,09/09/2022,Domžale,Radomlje,3,1,H,2022/23
+SVN,10/09/2022,Mnd Tabor Seana,Nd Gorica,1,3,A,2022/23
+SVN,10/09/2022,Celje,Olimpija,4,3,H,2022/23
+SVN,11/09/2022,Bravo,Maribor,0,1,A,2022/23
+SVN,11/09/2022,Mura,Koper,2,1,H,2022/23
+SVN,17/09/2022,Mnd Tabor Seana,Koper,0,2,A,2022/23
+SVN,17/09/2022,Mura,Olimpija,2,3,A,2022/23
+SVN,18/09/2022,Bravo,Nd Gorica,2,0,H,2022/23
+SVN,18/09/2022,Radomlje,Maribor,0,5,A,2022/23
+SVN,18/09/2022,Celje,Domžale,2,1,H,2022/23
+SVN,01/10/2022,Domžale,Mura,2,2,D,2022/23
+SVN,01/10/2022,Olimpija,Mnd Tabor Seana,2,0,H,2022/23
+SVN,01/10/2022,Koper,Bravo,2,0,H,2022/23
+SVN,02/10/2022,Nd Gorica,Maribor,1,4,A,2022/23
+SVN,02/10/2022,Celje,Radomlje,2,1,H,2022/23
+SVN,08/10/2022,Mnd Tabor Seana,Domžale,1,1,D,2022/23
+SVN,08/10/2022,Maribor,Koper,0,1,A,2022/23
+SVN,09/10/2022,Bravo,Olimpija,6,1,H,2022/23
+SVN,09/10/2022,Mura,Celje,3,1,H,2022/23
+SVN,10/10/2022,Radomlje,Nd Gorica,1,1,D,2022/23
+SVN,14/10/2022,Celje,Mnd Tabor Seana,1,0,H,2022/23
+SVN,14/10/2022,Domžale,Bravo,0,0,D,2022/23
+SVN,15/10/2022,Koper,Nd Gorica,1,1,D,2022/23
+SVN,15/10/2022,Olimpija,Maribor,1,0,H,2022/23
+SVN,16/10/2022,Mura,Radomlje,3,0,H,2022/23
+SVN,22/10/2022,Maribor,Domžale,0,3,A,2022/23
+SVN,23/10/2022,Mnd Tabor Seana,Mura,0,4,A,2022/23
+SVN,23/10/2022,Nd Gorica,Olimpija,0,0,D,2022/23
+SVN,24/10/2022,Bravo,Celje,2,0,H,2022/23
+SVN,24/10/2022,Radomlje,Koper,2,2,D,2022/23
+SVN,28/10/2022,Domžale,Nd Gorica,5,1,H,2022/23
+SVN,29/10/2022,Mnd Tabor Seana,Radomlje,2,1,H,2022/23
+SVN,29/10/2022,Celje,Maribor,3,3,D,2022/23
+SVN,30/10/2022,Olimpija,Koper,2,1,H,2022/23
+SVN,02/11/2022,Mura,Bravo,1,0,H,2022/23
+SVN,04/11/2022,Koper,Domžale,1,1,D,2022/23
+SVN,05/11/2022,Nd Gorica,Celje,0,2,A,2022/23
+SVN,05/11/2022,Radomlje,Olimpija,0,1,A,2022/23
+SVN,06/11/2022,Bravo,Mnd Tabor Seana,2,1,H,2022/23
+SVN,06/11/2022,Maribor,Mura,5,1,H,2022/23
+SVN,12/11/2022,Bravo,Radomlje,1,1,D,2022/23
+SVN,12/11/2022,Domžale,Olimpija,0,3,A,2022/23
+SVN,13/11/2022,Mnd Tabor Seana,Maribor,0,4,A,2022/23
+SVN,13/11/2022,Celje,Koper,1,1,D,2022/23
+SVN,13/11/2022,Mura,Nd Gorica,2,0,H,2022/23
+SVN,29/11/2022,Nd Gorica,Mnd Tabor Seana,1,1,D,2022/23
+SVN,29/11/2022,Maribor,Bravo,3,0,H,2022/23
+SVN,30/11/2022,Radomlje,Domžale,0,2,A,2022/23
+SVN,30/11/2022,Koper,Mura,0,0,D,2022/23
+SVN,01/12/2022,Olimpija,Celje,0,0,D,2022/23
+SVN,06/12/2022,Nd Gorica,Bravo,0,0,D,2022/23
+SVN,06/12/2022,Maribor,Radomlje,7,0,H,2022/23
+SVN,07/12/2022,Koper,Mnd Tabor Seana,5,1,H,2022/23
+SVN,07/12/2022,Domžale,Celje,2,1,H,2022/23
+SVN,08/12/2022,Olimpija,Mura,0,0,D,2022/23
+SVN,10/12/2022,Bravo,Koper,0,1,A,2022/23
+SVN,11/12/2022,Mnd Tabor Seana,Olimpija,0,8,A,2022/23
+SVN,11/12/2022,Maribor,Nd Gorica,2,1,H,2022/23
+SVN,11/12/2022,Radomlje,Celje,0,3,A,2022/23
+SVN,12/12/2022,Mura,Domžale,0,1,A,2022/23
+SVN,11/02/2023,Olimpija,Bravo,2,1,H,2022/23
+SVN,11/02/2023,Celje,Mura,2,1,H,2022/23
+SVN,12/02/2023,Nd Gorica,Radomlje,1,1,D,2022/23
+SVN,12/02/2023,Koper,Maribor,0,1,A,2022/23
+SVN,12/02/2023,Domžale,Mnd Tabor Seana,0,4,A,2022/23
+SVN,18/02/2023,Mnd Tabor Seana,Celje,2,2,D,2022/23
+SVN,18/02/2023,Radomlje,Mura,0,0,D,2022/23
+SVN,18/02/2023,Nd Gorica,Koper,2,2,D,2022/23
+SVN,19/02/2023,Bravo,Domžale,0,2,A,2022/23
+SVN,19/02/2023,Maribor,Olimpija,2,0,H,2022/23
+SVN,21/02/2023,Koper,Radomlje,1,2,A,2022/23
+SVN,21/02/2023,Mura,Mnd Tabor Seana,2,2,D,2022/23
+SVN,22/02/2023,Celje,Bravo,2,1,H,2022/23
+SVN,22/02/2023,Olimpija,Nd Gorica,4,3,H,2022/23
+SVN,23/02/2023,Domžale,Maribor,1,1,D,2022/23
+SVN,25/02/2023,Bravo,Mura,0,0,D,2022/23
+SVN,25/02/2023,Radomlje,Mnd Tabor Seana,0,0,D,2022/23
+SVN,25/02/2023,Koper,Olimpija,0,1,A,2022/23
+SVN,26/02/2023,Maribor,Celje,2,0,H,2022/23
+SVN,26/02/2023,Nd Gorica,Domžale,0,2,A,2022/23
+SVN,04/03/2023,Celje,Nd Gorica,0,1,A,2022/23
+SVN,04/03/2023,Domžale,Koper,0,0,D,2022/23
+SVN,04/03/2023,Olimpija,Radomlje,1,0,H,2022/23
+SVN,05/03/2023,Mnd Tabor Seana,Bravo,1,1,D,2022/23
+SVN,05/03/2023,Mura,Maribor,2,1,H,2022/23
+SVN,10/03/2023,Nd Gorica,Mura,1,1,D,2022/23
+SVN,11/03/2023,Maribor,Mnd Tabor Seana,1,1,D,2022/23
+SVN,11/03/2023,Koper,Celje,0,1,A,2022/23
+SVN,12/03/2023,Olimpija,Domžale,1,4,A,2022/23
+SVN,12/03/2023,Radomlje,Bravo,3,1,H,2022/23
+SVN,15/03/2023,Bravo,Maribor,2,3,A,2022/23
+SVN,15/03/2023,Domžale,Radomlje,1,2,A,2022/23
+SVN,15/03/2023,Celje,Olimpija,0,1,A,2022/23
+SVN,16/03/2023,Mnd Tabor Seana,Nd Gorica,0,1,A,2022/23
+SVN,16/03/2023,Mura,Koper,1,2,A,2022/23
+SVN,18/03/2023,Radomlje,Maribor,1,1,D,2022/23
+SVN,18/03/2023,Celje,Domžale,1,0,H,2022/23
+SVN,19/03/2023,Bravo,Nd Gorica,2,1,H,2022/23
+SVN,19/03/2023,Mnd Tabor Seana,Koper,0,1,A,2022/23
+SVN,19/03/2023,Mura,Olimpija,2,1,H,2022/23
+SVN,01/04/2023,Celje,Radomlje,1,1,D,2022/23
+SVN,01/04/2023,Nd Gorica,Maribor,0,3,A,2022/23
+SVN,01/04/2023,Koper,Bravo,1,0,H,2022/23
+SVN,02/04/2023,Olimpija,Mnd Tabor Seana,1,0,H,2022/23
+SVN,02/04/2023,Domžale,Mura,0,0,D,2022/23
+SVN,08/04/2023,Mnd Tabor Seana,Domžale,1,1,D,2022/23
+SVN,08/04/2023,Radomlje,Nd Gorica,2,0,H,2022/23
+SVN,08/04/2023,Maribor,Koper,3,1,H,2022/23
+SVN,10/04/2023,Bravo,Olimpija,1,0,H,2022/23
+SVN,10/04/2023,Mura,Celje,0,2,A,2022/23
+SVN,14/04/2023,Koper,Nd Gorica,1,0,H,2022/23
+SVN,15/04/2023,Mura,Radomlje,1,1,D,2022/23
+SVN,15/04/2023,Domžale,Bravo,2,2,D,2022/23
+SVN,15/04/2023,Celje,Mnd Tabor Seana,0,0,D,2022/23
+SVN,16/04/2023,Olimpija,Maribor,2,0,H,2022/23
+SVN,22/04/2023,Radomlje,Koper,1,1,D,2022/23
+SVN,22/04/2023,Mnd Tabor Seana,Mura,1,2,A,2022/23
+SVN,22/04/2023,Maribor,Domžale,1,0,H,2022/23
+SVN,23/04/2023,Nd Gorica,Olimpija,2,2,D,2022/23
+SVN,23/04/2023,Bravo,Celje,0,3,A,2022/23
+SVN,28/04/2023,Domžale,Nd Gorica,1,1,D,2022/23
+SVN,29/04/2023,Mura,Bravo,0,1,A,2022/23
+SVN,29/04/2023,Celje,Maribor,3,1,H,2022/23
+SVN,30/04/2023,Mnd Tabor Seana,Radomlje,1,2,A,2022/23
+SVN,30/04/2023,Olimpija,Koper,3,2,H,2022/23
+SVN,02/05/2023,Maribor,Mura,3,1,H,2022/23
+SVN,03/05/2023,Radomlje,Olimpija,2,1,H,2022/23
+SVN,03/05/2023,Nd Gorica,Celje,1,2,A,2022/23
+SVN,04/05/2023,Bravo,Mnd Tabor Seana,1,1,D,2022/23
+SVN,04/05/2023,Koper,Domžale,2,3,A,2022/23
+SVN,13/05/2023,Mura,Nd Gorica,4,2,H,2022/23
+SVN,13/05/2023,Domžale,Olimpija,2,1,H,2022/23
+SVN,13/05/2023,Celje,Koper,2,0,H,2022/23
+SVN,14/05/2023,Mnd Tabor Seana,Maribor,1,1,D,2022/23
+SVN,14/05/2023,Bravo,Radomlje,0,1,A,2022/23
+SVN,19/05/2023,Nd Gorica,Mnd Tabor Seana,1,0,H,2022/23
+SVN,20/05/2023,Olimpija,Celje,0,2,A,2022/23
+SVN,20/05/2023,Maribor,Bravo,1,1,D,2022/23
+SVN,20/05/2023,Radomlje,Domžale,1,0,H,2022/23
+SVN,20/05/2023,Koper,Mura,1,2,A,2022/23

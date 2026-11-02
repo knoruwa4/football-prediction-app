@@ -5,6 +5,8 @@ from datetime import date
 from collections.abc import Sequence
 
 from football_prediction.data import MatchResult
+from football_prediction.dixon_coles import DixonColesModel
+from football_prediction.elo_model import EloAdjustedPoissonModel
 from football_prediction.engine import MatchProbabilities, PoissonModel
 from football_prediction.joint_model import JointAttackDefenceModel
 from football_prediction.team_strength import TeamStrengthModel
@@ -21,19 +23,21 @@ def predict_match(
     model_type: str = "team_strength",
     joint_half_life_days: float = 240.0,
     competition: str | None = None,
+    dixon_coles_rho: float = -0.05,
 ) -> MatchProbabilities:
     """Predict a fixture using only results before its match date.
 
     model_type:
         "team_strength" uses the existing model.
         "joint_attack_defence" uses the experimental joint model.
+        "dixon_coles" applies a low-score correction to joint-model goal rates.
     """
     if not isinstance(match_date, date):
         raise TypeError("match_date must be a datetime.date")
 
-    if model_type not in {"team_strength", "joint_attack_defence"}:
+    if model_type not in {"team_strength", "joint_attack_defence", "dixon_coles", "elo_poisson"}:
         raise ValueError(
-            "model_type must be 'team_strength' or 'joint_attack_defence'"
+            "model_type must be 'team_strength', 'joint_attack_defence', 'dixon_coles', or 'elo_poisson'"
         )
 
     historical_matches = [
@@ -48,12 +52,24 @@ def predict_match(
             "no historical matches are available before match_date"
         )
 
-    if model_type == "joint_attack_defence":
-        return JointAttackDefenceModel(
+    if model_type == "elo_poisson":
+        return EloAdjustedPoissonModel(
             list(historical_matches),
             half_life_days=joint_half_life_days,
             allow_unknown_teams=allow_unknown_teams,
         ).predict(home_team, away_team)
+
+    if model_type in {"joint_attack_defence", "dixon_coles"}:
+        result = JointAttackDefenceModel(
+            list(historical_matches),
+            half_life_days=joint_half_life_days,
+            allow_unknown_teams=allow_unknown_teams,
+        ).predict(home_team, away_team)
+        if model_type == "dixon_coles":
+            return DixonColesModel(dixon_coles_rho).predict(
+                result.home_xg, result.away_xg
+            )
+        return result
 
     strength_model = TeamStrengthModel(
         list(historical_matches),
