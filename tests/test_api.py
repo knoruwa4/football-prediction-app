@@ -76,6 +76,31 @@ def test_predictions_endpoint_returns_typed_forecasts_and_filters(tmp_path):
     assert prediction["home_expected_goals"] == 1.2
 
 
+def test_upcoming_prediction_filter_hides_past_or_unscheduled_pending_rows(tmp_path):
+    ledger = tmp_path / "prediction_history.csv"
+    fields = ["prediction_id", "match_date", "kickoff_utc", "competition", "evaluation_status"]
+    with ledger.open("w", encoding="utf-8", newline="") as file:
+        writer = csv.DictWriter(file, fieldnames=fields)
+        writer.writeheader()
+        writer.writerows([
+            {"prediction_id": "past", "match_date": "2026-10-25", "kickoff_utc": "14:00", "competition": "Premier League", "evaluation_status": "pending"},
+            {"prediction_id": "future", "match_date": "2026-11-03", "kickoff_utc": "14:00", "competition": "Premier League", "evaluation_status": "pending"},
+            {"prediction_id": "missing-kickoff", "match_date": "2026-11-04", "kickoff_utc": "", "competition": "Premier League", "evaluation_status": "pending"},
+        ])
+    app = create_app(
+        ledger,
+        now_provider=lambda: datetime(2026, 11, 2, 12, 0, tzinfo=timezone.utc),
+    )
+
+    status, result = _request(
+        app, "/api/predictions?status=pending&upcoming=true&competition=Premier%20League"
+    )
+
+    assert status == "200 OK"
+    assert result["count"] == 1
+    assert result["predictions"][0]["prediction_id"] == "future"
+
+
 def test_performance_endpoint_calculates_metrics_from_evaluated_rows(tmp_path):
     ledger = tmp_path / "prediction_history.csv"
     _write_ledger(ledger)

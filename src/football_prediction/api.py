@@ -180,6 +180,19 @@ def _is_upcoming(fixture: dict[str, str], now: datetime) -> bool:
     return kickoff > now.astimezone(timezone.utc)
 
 
+def _prediction_is_upcoming(row: dict[str, str], now: datetime) -> bool:
+    """Return whether a saved forecast has a valid kickoff still in the future."""
+    try:
+        kickoff = datetime.combine(
+            date.fromisoformat(row["match_date"]),
+            time.fromisoformat(row["kickoff_utc"]),
+            tzinfo=timezone.utc,
+        )
+    except (KeyError, ValueError, TypeError):
+        return False
+    return kickoff > now.astimezone(timezone.utc)
+
+
 def _competition_has_history(data_root: Path, code: str) -> bool:
     if code in MAIN_LEAGUE_CODES:
         return any(
@@ -335,6 +348,13 @@ def create_app(
         status = query.get("status", [None])[0]
         match_date = query.get("match_date", [None])[0]
         competition = query.get("competition", [None])[0]
+        upcoming = query.get("upcoming", ["false"])[0]
+        if upcoming not in {"true", "false"}:
+            return _json_response(
+                start_response,
+                "400 Bad Request",
+                {"error": "upcoming must be 'true' or 'false'."},
+            )
         if status not in (None, "pending", "evaluated"):
             return _json_response(
                 start_response,
@@ -379,6 +399,10 @@ def create_app(
             for row in selected_rows
             if (status is None or row.get("evaluation_status") == status)
             and (match_date is None or row.get("match_date") == match_date)
+            and (
+                upcoming != "true"
+                or _prediction_is_upcoming(row, now_provider())
+            )
         ]
         return _json_response(
             start_response,

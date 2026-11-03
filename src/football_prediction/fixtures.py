@@ -19,6 +19,12 @@ HISTORICAL_TEAM_NAMES = {
     "Leeds United": "Leeds",
     "Manchester United": "Man United",
     "Newcastle United": "Newcastle",
+    # UEFA fixture names differ from the historical Football-Data names.
+    "Atletico Madrid": "Atlético Madrid",
+    "Bayern Munich": "Bayern München",
+    "Barcelona": "FC Barcelona",
+    "Bodoe/Glimt": "Bodø/Glimt",
+    "Man Utd": "Man United",
 }
 
 
