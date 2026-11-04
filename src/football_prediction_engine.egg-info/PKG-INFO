@@ -1,0 +1,5 @@
+Metadata-Version: 2.4
+Name: football-prediction-engine
+Version: 0.1.0
+Summary: Transparent football probability calculations and evaluation.
+Requires-Python: >=3.11

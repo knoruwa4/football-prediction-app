@@ -1,0 +1,798 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season
+ARM,04/08/2017,Shirak,Alashkert,2,1,H,2017/18
+ARM,06/08/2017,Urartu,Pyunik,2,2,D,2017/18
+ARM,06/08/2017,Gandzasar FC,FC Ararat,1,3,A,2017/18
+ARM,11/08/2017,Pyunik,Gandzasar FC,2,1,H,2017/18
+ARM,12/08/2017,Alashkert,FC Ararat,3,0,H,2017/18
+ARM,13/08/2017,Shirak,Urartu,1,0,H,2017/18
+ARM,18/08/2017,Urartu,Alashkert,2,2,D,2017/18
+ARM,19/08/2017,Gandzasar FC,Shirak,0,1,A,2017/18
+ARM,20/08/2017,FC Ararat,Pyunik,0,0,D,2017/18
+ARM,25/08/2017,Alashkert,Pyunik,5,1,H,2017/18
+ARM,26/08/2017,Shirak,FC Ararat,2,1,H,2017/18
+ARM,27/08/2017,Urartu,Gandzasar FC,1,1,D,2017/18
+ARM,08/09/2017,Gandzasar FC,Alashkert,1,1,D,2017/18
+ARM,09/09/2017,FC Ararat,Urartu,1,2,A,2017/18
+ARM,10/09/2017,Pyunik,Shirak,0,2,A,2017/18
+ARM,15/09/2017,Pyunik,Urartu,1,2,A,2017/18
+ARM,16/09/2017,Alashkert,Shirak,1,0,H,2017/18
+ARM,17/09/2017,FC Ararat,Gandzasar FC,0,3,A,2017/18
+ARM,23/09/2017,Gandzasar FC,Pyunik,3,1,H,2017/18
+ARM,27/09/2017,Urartu,Shirak,3,0,H,2017/18
+ARM,27/09/2017,FC Ararat,Alashkert,1,3,A,2017/18
+ARM,30/09/2017,Alashkert,Urartu,2,0,H,2017/18
+ARM,01/10/2017,Shirak,Gandzasar FC,1,1,D,2017/18
+ARM,13/10/2017,FC Ararat,Shirak,2,2,D,2017/18
+ARM,14/10/2017,Gandzasar FC,Urartu,2,0,H,2017/18
+ARM,15/10/2017,Pyunik,Alashkert,0,1,A,2017/18
+ARM,20/10/2017,Urartu,FC Ararat,0,0,D,2017/18
+ARM,21/10/2017,Shirak,Pyunik,0,0,D,2017/18
+ARM,22/10/2017,Alashkert,Gandzasar FC,0,3,A,2017/18
+ARM,28/10/2017,Urartu,Pyunik,1,1,D,2017/18
+ARM,29/10/2017,Shirak,Alashkert,0,1,A,2017/18
+ARM,29/10/2017,Gandzasar FC,FC Ararat,2,0,H,2017/18
+ARM,03/11/2017,Alashkert,FC Ararat,2,0,H,2017/18
+ARM,04/11/2017,Pyunik,Gandzasar FC,0,0,D,2017/18
+ARM,05/11/2017,Shirak,Urartu,0,1,A,2017/18
+ARM,17/11/2017,Urartu,Alashkert,2,2,D,2017/18
+ARM,18/11/2017,Gandzasar FC,Shirak,2,2,D,2017/18
+ARM,19/11/2017,FC Ararat,Pyunik,0,1,A,2017/18
+ARM,24/11/2017,Alashkert,Pyunik,1,0,H,2017/18
+ARM,25/11/2017,Shirak,FC Ararat,0,1,A,2017/18
+ARM,26/11/2017,Urartu,Gandzasar FC,1,1,D,2017/18
+ARM,29/11/2017,Pyunik,FC Ararat,4,0,H,2017/18
+ARM,01/12/2017,Gandzasar FC,Alashkert,1,0,H,2017/18
+ARM,02/12/2017,Pyunik,Shirak,3,2,H,2017/18
+ARM,03/12/2017,FC Ararat,Urartu,2,3,A,2017/18
+ARM,28/02/2018,Alashkert,Shirak,0,1,A,2017/18
+ARM,28/02/2018,Pyunik,Urartu,2,0,H,2017/18
+ARM,01/03/2018,FC Ararat,Gandzasar FC,1,0,H,2017/18
+ARM,04/03/2018,FC Ararat,Alashkert,2,3,A,2017/18
+ARM,04/03/2018,Gandzasar FC,Pyunik,1,0,H,2017/18
+ARM,04/03/2018,Urartu,Shirak,3,0,H,2017/18
+ARM,10/03/2018,Shirak,Gandzasar FC,2,1,H,2017/18
+ARM,11/03/2018,Pyunik,FC Ararat,3,3,D,2017/18
+ARM,11/03/2018,Alashkert,Urartu,2,2,D,2017/18
+ARM,17/03/2018,Pyunik,Alashkert,3,1,H,2017/18
+ARM,18/03/2018,FC Ararat,Shirak,0,2,A,2017/18
+ARM,18/03/2018,Gandzasar FC,Urartu,2,2,D,2017/18
+ARM,31/03/2018,Shirak,Pyunik,2,0,H,2017/18
+ARM,01/04/2018,Alashkert,Gandzasar FC,0,1,A,2017/18
+ARM,01/04/2018,Urartu,FC Ararat,2,0,H,2017/18
+ARM,04/04/2018,Gandzasar FC,FC Ararat,3,1,H,2017/18
+ARM,04/04/2018,Shirak,Alashkert,1,0,H,2017/18
+ARM,04/04/2018,Urartu,Pyunik,2,0,H,2017/18
+ARM,07/04/2018,Pyunik,Gandzasar FC,2,1,H,2017/18
+ARM,07/04/2018,Alashkert,FC Ararat,2,1,H,2017/18
+ARM,08/04/2018,Shirak,Urartu,1,0,H,2017/18
+ARM,14/04/2018,Gandzasar FC,Shirak,1,1,D,2017/18
+ARM,14/04/2018,Urartu,Alashkert,3,0,H,2017/18
+ARM,15/04/2018,FC Ararat,Pyunik,1,1,D,2017/18
+ARM,21/04/2018,Shirak,FC Ararat,4,1,H,2017/18
+ARM,22/04/2018,Alashkert,Pyunik,0,0,D,2017/18
+ARM,22/04/2018,Urartu,Gandzasar FC,1,0,H,2017/18
+ARM,28/04/2018,Gandzasar FC,Alashkert,0,4,A,2017/18
+ARM,28/04/2018,FC Ararat,Urartu,2,1,H,2017/18
+ARM,29/04/2018,Pyunik,Shirak,1,2,A,2017/18
+ARM,01/05/2018,FC Ararat,Gandzasar FC,1,6,A,2017/18
+ARM,02/05/2018,Alashkert,Shirak,0,0,D,2017/18
+ARM,02/05/2018,Pyunik,Urartu,2,1,H,2017/18
+ARM,05/05/2018,Urartu,Shirak,0,2,A,2017/18
+ARM,05/05/2018,FC Ararat,Alashkert,2,3,A,2017/18
+ARM,05/05/2018,Gandzasar FC,Pyunik,4,3,H,2017/18
+ARM,08/05/2018,Alashkert,Urartu,2,2,D,2017/18
+ARM,08/05/2018,Pyunik,FC Ararat,1,3,A,2017/18
+ARM,09/05/2018,Shirak,Gandzasar FC,0,0,D,2017/18
+ARM,12/05/2018,FC Ararat,Shirak,4,4,D,2017/18
+ARM,12/05/2018,Gandzasar FC,Urartu,1,1,D,2017/18
+ARM,12/05/2018,Pyunik,Alashkert,0,0,D,2017/18
+ARM,20/05/2018,Alashkert,Gandzasar FC,2,0,H,2017/18
+ARM,20/05/2018,Urartu,FC Ararat,2,0,H,2017/18
+ARM,20/05/2018,Shirak,Pyunik,0,3,A,2017/18
+ARM,04/08/2018,Urartu,Shirak,0,0,D,2018/19
+ARM,04/08/2018,Lori,Ararat-Armenia FC,0,2,A,2018/19
+ARM,05/08/2018,FC Ararat,Alashkert,0,1,A,2018/19
+ARM,11/08/2018,Noah,Urartu,1,0,H,2018/19
+ARM,11/08/2018,Ararat-Armenia FC,FC Ararat,1,2,A,2018/19
+ARM,12/08/2018,Shirak,Lori,1,1,D,2018/19
+ARM,18/08/2018,Lori,Noah,3,2,H,2018/19
+ARM,19/08/2018,FC Ararat,Shirak,0,0,D,2018/19
+ARM,19/08/2018,Gandzasar FC,Alashkert,0,1,A,2018/19
+ARM,19/08/2018,Pyunik,Ararat-Armenia FC,3,1,H,2018/19
+ARM,22/08/2018,Noah,FC Ararat,1,1,D,2018/19
+ARM,22/08/2018,Urartu,Lori,1,3,A,2018/19
+ARM,22/08/2018,Shirak,Pyunik,1,2,A,2018/19
+ARM,22/08/2018,Ararat-Armenia FC,Gandzasar FC,0,0,D,2018/19
+ARM,25/08/2018,FC Ararat,Urartu,2,4,A,2018/19
+ARM,25/08/2018,Gandzasar FC,Shirak,1,1,D,2018/19
+ARM,26/08/2018,Alashkert,Ararat-Armenia FC,1,3,A,2018/19
+ARM,26/08/2018,Pyunik,Noah,2,0,H,2018/19
+ARM,29/08/2018,Shirak,Alashkert,0,0,D,2018/19
+ARM,29/08/2018,Noah,Gandzasar FC,2,2,D,2018/19
+ARM,29/08/2018,Urartu,Pyunik,4,2,H,2018/19
+ARM,29/08/2018,Lori,FC Ararat,1,0,H,2018/19
+ARM,01/09/2018,Pyunik,Lori,0,3,A,2018/19
+ARM,01/09/2018,Alashkert,Noah,6,0,H,2018/19
+ARM,01/09/2018,Urartu,Gandzasar FC,1,0,H,2018/19
+ARM,01/09/2018,Ararat-Armenia FC,Shirak,3,1,H,2018/19
+ARM,15/09/2018,Noah,Ararat-Armenia FC,1,1,D,2018/19
+ARM,15/09/2018,Lori,Gandzasar FC,3,0,H,2018/19
+ARM,16/09/2018,FC Ararat,Pyunik,1,3,A,2018/19
+ARM,16/09/2018,Urartu,Alashkert,1,0,H,2018/19
+ARM,19/09/2018,Alashkert,Pyunik,1,2,A,2018/19
+ARM,22/09/2018,Alashkert,Lori,2,1,H,2018/19
+ARM,22/09/2018,Gandzasar FC,FC Ararat,4,0,H,2018/19
+ARM,23/09/2018,Shirak,Noah,3,0,H,2018/19
+ARM,23/09/2018,Ararat-Armenia FC,Urartu,1,3,A,2018/19
+ARM,29/09/2018,Shirak,Urartu,0,0,D,2018/19
+ARM,29/09/2018,Ararat-Armenia FC,Lori,0,0,D,2018/19
+ARM,30/09/2018,Alashkert,FC Ararat,2,1,H,2018/19
+ARM,30/09/2018,Gandzasar FC,Pyunik,1,2,A,2018/19
+ARM,03/10/2018,Pyunik,Gandzasar FC,0,1,A,2018/19
+ARM,07/10/2018,Lori,Shirak,3,1,H,2018/19
+ARM,07/10/2018,Urartu,Noah,2,1,H,2018/19
+ARM,07/10/2018,FC Ararat,Ararat-Armenia FC,0,1,A,2018/19
+ARM,07/10/2018,Pyunik,Alashkert,0,1,A,2018/19
+ARM,20/10/2018,Noah,Lori,2,3,A,2018/19
+ARM,20/10/2018,Shirak,FC Ararat,1,0,H,2018/19
+ARM,21/10/2018,Alashkert,Gandzasar FC,1,0,H,2018/19
+ARM,21/10/2018,Ararat-Armenia FC,Pyunik,0,0,D,2018/19
+ARM,27/10/2018,FC Ararat,Noah,0,0,D,2018/19
+ARM,27/10/2018,Gandzasar FC,Ararat-Armenia FC,0,0,D,2018/19
+ARM,28/10/2018,Lori,Urartu,1,3,A,2018/19
+ARM,28/10/2018,Pyunik,Shirak,1,1,D,2018/19
+ARM,31/10/2018,Noah,Pyunik,0,0,D,2018/19
+ARM,31/10/2018,Shirak,Gandzasar FC,2,0,H,2018/19
+ARM,31/10/2018,FC Ararat,Urartu,0,1,A,2018/19
+ARM,31/10/2018,Ararat-Armenia FC,Alashkert,0,1,A,2018/19
+ARM,03/11/2018,Alashkert,Shirak,1,0,H,2018/19
+ARM,03/11/2018,Gandzasar FC,Noah,0,2,A,2018/19
+ARM,04/11/2018,Pyunik,Urartu,2,0,H,2018/19
+ARM,04/11/2018,FC Ararat,Lori,2,2,D,2018/19
+ARM,11/11/2018,Lori,Pyunik,0,1,A,2018/19
+ARM,11/11/2018,Noah,Alashkert,0,0,D,2018/19
+ARM,11/11/2018,Shirak,Ararat-Armenia FC,1,0,H,2018/19
+ARM,11/11/2018,Gandzasar FC,Urartu,3,0,H,2018/19
+ARM,24/11/2018,Alashkert,Urartu,1,0,H,2018/19
+ARM,24/11/2018,Ararat-Armenia FC,Noah,3,1,H,2018/19
+ARM,25/11/2018,Gandzasar FC,Lori,2,0,H,2018/19
+ARM,25/11/2018,Pyunik,FC Ararat,0,1,A,2018/19
+ARM,28/11/2018,FC Ararat,Gandzasar FC,0,2,A,2018/19
+ARM,28/11/2018,Lori,Alashkert,1,1,D,2018/19
+ARM,28/11/2018,Urartu,Ararat-Armenia FC,0,3,A,2018/19
+ARM,28/11/2018,Noah,Shirak,0,1,A,2018/19
+ARM,01/12/2018,Urartu,Shirak,4,0,H,2018/19
+ARM,01/12/2018,Lori,Ararat-Armenia FC,0,1,A,2018/19
+ARM,02/12/2018,FC Ararat,Alashkert,1,0,H,2018/19
+ARM,02/12/2018,Pyunik,Gandzasar FC,1,3,A,2018/19
+ARM,02/03/2019,Alashkert,Pyunik,1,2,A,2018/19
+ARM,02/03/2019,Ararat-Armenia FC,FC Ararat,4,1,H,2018/19
+ARM,03/03/2019,Shirak,Lori,0,0,D,2018/19
+ARM,03/03/2019,Noah,Urartu,1,1,D,2018/19
+ARM,06/03/2019,Pyunik,Ararat-Armenia FC,0,3,A,2018/19
+ARM,06/03/2019,Gandzasar FC,Alashkert,2,4,A,2018/19
+ARM,06/03/2019,Lori,Noah,2,0,H,2018/19
+ARM,06/03/2019,FC Ararat,Shirak,0,2,A,2018/19
+ARM,09/03/2019,Ararat-Armenia FC,Gandzasar FC,2,0,H,2018/19
+ARM,10/03/2019,Noah,FC Ararat,0,0,D,2018/19
+ARM,10/03/2019,Shirak,Pyunik,0,2,A,2018/19
+ARM,11/03/2019,Urartu,Lori,0,0,D,2018/19
+ARM,15/03/2019,Gandzasar FC,Shirak,0,0,D,2018/19
+ARM,16/03/2019,Pyunik,Noah,1,0,H,2018/19
+ARM,17/03/2019,Urartu,FC Ararat,3,1,H,2018/19
+ARM,17/03/2019,Alashkert,Ararat-Armenia FC,0,1,A,2018/19
+ARM,30/03/2019,Shirak,Alashkert,1,1,D,2018/19
+ARM,31/03/2019,Urartu,Pyunik,1,1,D,2018/19
+ARM,31/03/2019,Lori,FC Ararat,2,2,D,2018/19
+ARM,01/04/2019,Noah,Gandzasar FC,2,0,H,2018/19
+ARM,06/04/2019,Gandzasar FC,Urartu,1,2,A,2018/19
+ARM,07/04/2019,Pyunik,Lori,1,2,A,2018/19
+ARM,07/04/2019,Alashkert,Noah,1,0,H,2018/19
+ARM,08/04/2019,Ararat-Armenia FC,Shirak,2,2,D,2018/19
+ARM,10/04/2019,Urartu,Alashkert,2,0,H,2018/19
+ARM,10/04/2019,Lori,Gandzasar FC,0,0,D,2018/19
+ARM,11/04/2019,Noah,Ararat-Armenia FC,1,3,A,2018/19
+ARM,11/04/2019,FC Ararat,Pyunik,1,2,A,2018/19
+ARM,14/04/2019,Alashkert,Lori,0,1,A,2018/19
+ARM,14/04/2019,Gandzasar FC,FC Ararat,1,0,H,2018/19
+ARM,15/04/2019,Ararat-Armenia FC,Urartu,1,1,D,2018/19
+ARM,15/04/2019,Shirak,Noah,0,0,D,2018/19
+ARM,19/04/2019,Alashkert,FC Ararat,2,0,H,2018/19
+ARM,19/04/2019,Shirak,Urartu,0,0,D,2018/19
+ARM,19/04/2019,Ararat-Armenia FC,Lori,3,0,H,2018/19
+ARM,20/04/2019,Gandzasar FC,Pyunik,0,1,A,2018/19
+ARM,26/04/2019,FC Ararat,Ararat-Armenia FC,2,6,A,2018/19
+ARM,27/04/2019,Pyunik,Alashkert,1,0,H,2018/19
+ARM,27/04/2019,Urartu,Noah,3,0,H,2018/19
+ARM,28/04/2019,Lori,Shirak,2,2,D,2018/19
+ARM,01/05/2019,Ararat-Armenia FC,Pyunik,1,4,A,2018/19
+ARM,01/05/2019,Alashkert,Gandzasar FC,2,0,H,2018/19
+ARM,01/05/2019,Noah,Lori,2,1,H,2018/19
+ARM,02/05/2019,Shirak,FC Ararat,3,0,H,2018/19
+ARM,04/05/2019,Gandzasar FC,Ararat-Armenia FC,2,1,H,2018/19
+ARM,04/05/2019,Lori,Urartu,1,3,A,2018/19
+ARM,05/05/2019,Pyunik,Shirak,2,0,H,2018/19
+ARM,06/05/2019,FC Ararat,Noah,2,1,H,2018/19
+ARM,10/05/2019,Noah,Pyunik,0,3,A,2018/19
+ARM,10/05/2019,Urartu,FC Ararat,1,1,D,2018/19
+ARM,11/05/2019,Shirak,Gandzasar FC,0,0,D,2018/19
+ARM,12/05/2019,Ararat-Armenia FC,Alashkert,2,1,H,2018/19
+ARM,14/05/2019,Gandzasar FC,Noah,0,1,A,2018/19
+ARM,14/05/2019,FC Ararat,Lori,1,0,H,2018/19
+ARM,15/05/2019,Alashkert,Shirak,1,0,H,2018/19
+ARM,15/05/2019,Pyunik,Urartu,1,1,D,2018/19
+ARM,18/05/2019,Urartu,Gandzasar FC,0,5,A,2018/19
+ARM,19/05/2019,Shirak,Ararat-Armenia FC,0,1,A,2018/19
+ARM,19/05/2019,Noah,Alashkert,1,1,D,2018/19
+ARM,20/05/2019,Lori,Pyunik,2,2,D,2018/19
+ARM,24/05/2019,Ararat-Armenia FC,Noah,2,0,H,2018/19
+ARM,24/05/2019,Alashkert,Urartu,1,1,D,2018/19
+ARM,25/05/2019,Gandzasar FC,Lori,1,1,D,2018/19
+ARM,26/05/2019,Pyunik,FC Ararat,2,1,H,2018/19
+ARM,30/05/2019,FC Ararat,Gandzasar FC,1,7,A,2018/19
+ARM,30/05/2019,Lori,Alashkert,3,2,H,2018/19
+ARM,30/05/2019,Urartu,Ararat-Armenia FC,0,1,A,2018/19
+ARM,30/05/2019,Noah,Shirak,3,2,H,2018/19
+ARM,02/08/2019,Shirak,Urartu,3,1,H,2019/20
+ARM,02/08/2019,FC Ararat,Fc Yerevan,1,0,H,2019/20
+ARM,03/08/2019,Gandzasar FC,Noah,1,1,D,2019/20
+ARM,09/08/2019,Fc Yerevan,Noah,0,2,A,2019/20
+ARM,09/08/2019,FC Ararat,Shirak,2,1,H,2019/20
+ARM,10/08/2019,Ararat-Armenia FC,Gandzasar FC,3,1,H,2019/20
+ARM,11/08/2019,Lori,Alashkert,2,1,H,2019/20
+ARM,11/08/2019,Urartu,Pyunik,0,3,A,2019/20
+ARM,16/08/2019,Shirak,Fc Yerevan,2,1,H,2019/20
+ARM,17/08/2019,Alashkert,Urartu,2,1,H,2019/20
+ARM,17/08/2019,Gandzasar FC,Lori,1,1,D,2019/20
+ARM,18/08/2019,Noah,Ararat-Armenia FC,1,2,A,2019/20
+ARM,19/08/2019,Pyunik,FC Ararat,1,4,A,2019/20
+ARM,24/08/2019,Lori,Noah,1,0,H,2019/20
+ARM,24/08/2019,Urartu,Gandzasar FC,1,1,D,2019/20
+ARM,25/08/2019,Shirak,Pyunik,3,1,H,2019/20
+ARM,25/08/2019,Fc Yerevan,Ararat-Armenia FC,1,2,A,2019/20
+ARM,26/08/2019,FC Ararat,Alashkert,1,1,D,2019/20
+ARM,29/08/2019,Noah,Urartu,2,0,H,2019/20
+ARM,30/08/2019,Pyunik,Fc Yerevan,4,1,H,2019/20
+ARM,31/08/2019,Alashkert,Shirak,1,2,A,2019/20
+ARM,31/08/2019,Gandzasar FC,FC Ararat,0,1,A,2019/20
+ARM,13/09/2019,Fc Yerevan,Lori,0,1,A,2019/20
+ARM,13/09/2019,Urartu,Ararat-Armenia FC,1,1,D,2019/20
+ARM,13/09/2019,Pyunik,Alashkert,0,3,A,2019/20
+ARM,14/09/2019,Shirak,Gandzasar FC,0,0,D,2019/20
+ARM,15/09/2019,FC Ararat,Noah,1,0,H,2019/20
+ARM,17/09/2019,Lori,Urartu,2,1,H,2019/20
+ARM,17/09/2019,Alashkert,Fc Yerevan,5,1,H,2019/20
+ARM,17/09/2019,Gandzasar FC,Pyunik,1,2,A,2019/20
+ARM,18/09/2019,Noah,Shirak,0,0,D,2019/20
+ARM,18/09/2019,Ararat-Armenia FC,FC Ararat,1,0,H,2019/20
+ARM,21/09/2019,Fc Yerevan,Urartu,0,1,A,2019/20
+ARM,21/09/2019,Shirak,Ararat-Armenia FC,1,0,H,2019/20
+ARM,21/09/2019,Alashkert,Gandzasar FC,2,0,H,2019/20
+ARM,22/09/2019,Lori,FC Ararat,1,4,A,2019/20
+ARM,22/09/2019,Pyunik,Noah,1,2,A,2019/20
+ARM,26/09/2019,Pyunik,Lori,3,1,H,2019/20
+ARM,27/09/2019,Gandzasar FC,Fc Yerevan,2,0,H,2019/20
+ARM,29/09/2019,Noah,Alashkert,1,2,A,2019/20
+ARM,29/09/2019,Urartu,FC Ararat,1,0,H,2019/20
+ARM,30/09/2019,Lori,Shirak,0,0,D,2019/20
+ARM,30/09/2019,Ararat-Armenia FC,Pyunik,3,1,H,2019/20
+ARM,04/10/2019,Fc Yerevan,FC Ararat,1,3,A,2019/20
+ARM,05/10/2019,Lori,Pyunik,2,2,D,2019/20
+ARM,05/10/2019,Ararat-Armenia FC,Alashkert,2,0,H,2019/20
+ARM,05/10/2019,Urartu,Shirak,2,2,D,2019/20
+ARM,06/10/2019,Noah,Gandzasar FC,2,1,H,2019/20
+ARM,18/10/2019,Noah,Fc Yerevan,3,1,H,2019/20
+ARM,19/10/2019,Shirak,FC Ararat,2,1,H,2019/20
+ARM,20/10/2019,Alashkert,Lori,0,1,A,2019/20
+ARM,20/10/2019,Pyunik,Urartu,1,2,A,2019/20
+ARM,21/10/2019,Gandzasar FC,Ararat-Armenia FC,2,1,H,2019/20
+ARM,25/10/2019,Fc Yerevan,Shirak,1,4,A,2019/20
+ARM,25/10/2019,Ararat-Armenia FC,Noah,3,1,H,2019/20
+ARM,25/10/2019,Urartu,Alashkert,2,4,A,2019/20
+ARM,26/10/2019,Lori,Gandzasar FC,2,1,H,2019/20
+ARM,27/10/2019,FC Ararat,Pyunik,4,2,H,2019/20
+ARM,29/10/2019,Alashkert,Ararat-Armenia FC,2,1,H,2019/20
+ARM,06/11/2019,Ararat-Armenia FC,Lori,0,0,D,2019/20
+ARM,08/11/2019,Gandzasar FC,Urartu,2,4,A,2019/20
+ARM,08/11/2019,Pyunik,Shirak,1,0,H,2019/20
+ARM,09/11/2019,Alashkert,FC Ararat,1,1,D,2019/20
+ARM,10/11/2019,Noah,Lori,3,1,H,2019/20
+ARM,10/11/2019,Ararat-Armenia FC,Fc Yerevan,7,2,H,2019/20
+ARM,22/11/2019,FC Ararat,Gandzasar FC,1,1,D,2019/20
+ARM,23/11/2019,Shirak,Alashkert,1,3,A,2019/20
+ARM,23/11/2019,Lori,Ararat-Armenia FC,2,0,H,2019/20
+ARM,23/11/2019,Urartu,Noah,0,0,D,2019/20
+ARM,25/11/2019,Fc Yerevan,Pyunik,2,8,A,2019/20
+ARM,01/12/2019,Alashkert,Pyunik,1,1,D,2019/20
+ARM,01/12/2019,Lori,Fc Yerevan,8,0,H,2019/20
+ARM,01/12/2019,Ararat-Armenia FC,Urartu,0,0,D,2019/20
+ARM,02/12/2019,Noah,FC Ararat,2,0,H,2019/20
+ARM,02/12/2019,Gandzasar FC,Shirak,1,0,H,2019/20
+ARM,28/02/2020,Fc Yerevan,Alashkert,0,3,A,2019/20
+ARM,29/02/2020,Shirak,Noah,3,0,H,2019/20
+ARM,29/02/2020,Pyunik,Gandzasar FC,2,0,H,2019/20
+ARM,02/03/2020,FC Ararat,Ararat-Armenia FC,0,3,A,2019/20
+ARM,02/03/2020,Urartu,Lori,2,0,H,2019/20
+ARM,06/03/2020,Gandzasar FC,Alashkert,2,2,D,2019/20
+ARM,07/03/2020,Noah,Pyunik,4,2,H,2019/20
+ARM,07/03/2020,Ararat-Armenia FC,Shirak,1,0,H,2019/20
+ARM,07/03/2020,Urartu,Fc Yerevan,3,0,H,2019/20
+ARM,08/03/2020,FC Ararat,Lori,0,0,D,2019/20
+ARM,15/03/2020,Fc Yerevan,Gandzasar FC,0,3,A,2019/20
+ARM,23/05/2020,Shirak,Lori,1,2,A,2019/20
+ARM,23/05/2020,Pyunik,Ararat-Armenia FC,0,3,A,2019/20
+ARM,24/05/2020,Alashkert,Noah,0,1,A,2019/20
+ARM,25/05/2020,FC Ararat,Urartu,1,0,H,2019/20
+ARM,30/05/2020,Lori,Noah,2,2,D,2019/20
+ARM,30/05/2020,Ararat-Armenia FC,Shirak,1,1,D,2019/20
+ARM,31/05/2020,Alashkert,FC Ararat,2,1,H,2019/20
+ARM,01/06/2020,Pyunik,Fc Yerevan,3,0,H,2019/20
+ARM,01/06/2020,Urartu,Gandzasar FC,1,0,H,2019/20
+ARM,03/06/2020,Ararat-Armenia FC,Lori,0,0,D,2019/20
+ARM,04/06/2020,Shirak,FC Ararat,2,0,H,2019/20
+ARM,04/06/2020,Noah,Alashkert,1,0,H,2019/20
+ARM,07/06/2020,FC Ararat,Noah,0,0,D,2019/20
+ARM,08/06/2020,Lori,Shirak,1,1,D,2019/20
+ARM,08/06/2020,Alashkert,Ararat-Armenia FC,1,2,A,2019/20
+ARM,09/06/2020,Fc Yerevan,Gandzasar FC,0,3,A,2019/20
+ARM,09/06/2020,Pyunik,Urartu,1,2,A,2019/20
+ARM,11/06/2020,Shirak,Noah,2,0,H,2019/20
+ARM,11/06/2020,Ararat-Armenia FC,FC Ararat,4,2,H,2019/20
+ARM,12/06/2020,Lori,Alashkert,0,2,A,2019/20
+ARM,13/06/2020,Urartu,Fc Yerevan,3,0,H,2019/20
+ARM,13/06/2020,Gandzasar FC,Pyunik,1,0,H,2019/20
+ARM,15/06/2020,Noah,Ararat-Armenia FC,1,1,D,2019/20
+ARM,16/06/2020,Alashkert,Shirak,1,2,A,2019/20
+ARM,16/06/2020,FC Ararat,Lori,1,1,D,2019/20
+ARM,17/06/2020,Fc Yerevan,Pyunik,0,3,A,2019/20
+ARM,17/06/2020,Gandzasar FC,Urartu,1,1,D,2019/20
+ARM,20/06/2020,Shirak,Ararat-Armenia FC,1,0,H,2019/20
+ARM,20/06/2020,Noah,Lori,2,1,H,2019/20
+ARM,21/06/2020,FC Ararat,Alashkert,1,3,A,2019/20
+ARM,27/06/2020,FC Ararat,Shirak,1,4,A,2019/20
+ARM,28/06/2020,Alashkert,Noah,0,1,A,2019/20
+ARM,28/06/2020,Lori,Ararat-Armenia FC,2,1,H,2019/20
+ARM,28/06/2020,Gandzasar FC,Fc Yerevan,3,0,H,2019/20
+ARM,28/06/2020,Urartu,Pyunik,0,1,A,2019/20
+ARM,01/07/2020,Fc Yerevan,Urartu,0,3,A,2020/21
+ARM,01/07/2020,Pyunik,Gandzasar FC,2,3,A,2020/21
+ARM,02/07/2020,Shirak,Lori,0,0,D,2020/21
+ARM,02/07/2020,Noah,FC Ararat,1,0,H,2020/21
+ARM,02/07/2020,Ararat-Armenia FC,Alashkert,0,0,D,2020/21
+ARM,06/07/2020,Noah,Shirak,4,0,H,2020/21
+ARM,06/07/2020,FC Ararat,Ararat-Armenia FC,0,1,A,2020/21
+ARM,07/07/2020,Alashkert,Lori,5,1,H,2020/21
+ARM,14/07/2020,Shirak,Alashkert,2,4,A,2020/21
+ARM,14/07/2020,Ararat-Armenia FC,Noah,2,0,H,2020/21
+ARM,14/08/2020,Alashkert,Ararat-Armenia FC,0,0,D,2020/21
+ARM,16/08/2020,Noah,Shirak,2,2,D,2020/21
+ARM,16/08/2020,FC Ararat,Pyunik,1,0,H,2020/21
+ARM,17/08/2020,Urartu,Lori,3,0,H,2020/21
+ARM,21/08/2020,Alashkert,Noah,1,0,H,2020/21
+ARM,23/08/2020,Pyunik,Urartu,0,0,D,2020/21
+ARM,29/08/2020,Van,Pyunik,1,0,H,2020/21
+ARM,11/09/2020,Noah,FC Ararat,2,1,H,2020/21
+ARM,11/09/2020,Ararat-Armenia FC,Lori,1,2,A,2020/21
+ARM,13/09/2020,Alashkert,Urartu,1,2,A,2020/21
+ARM,15/09/2020,Lori,Van,0,1,A,2020/21
+ARM,22/09/2020,Urartu,Noah,0,3,A,2020/21
+ARM,23/09/2020,Lori,Pyunik,1,0,H,2020/21
+ARM,24/09/2020,Van,Alashkert,0,1,A,2020/21
+ARM,26/09/2020,Shirak,FC Ararat,0,3,A,2020/21
+ARM,17/10/2020,Ararat-Armenia FC,Shirak,7,0,H,2020/21
+ARM,18/10/2020,Alashkert,Pyunik,0,0,D,2020/21
+ARM,19/10/2020,Urartu,Van,2,0,H,2020/21
+ARM,25/10/2020,Van,Ararat-Armenia FC,0,1,A,2020/21
+ARM,26/10/2020,Lori,FC Ararat,1,0,H,2020/21
+ARM,26/10/2020,Shirak,Alashkert,1,1,D,2020/21
+ARM,29/10/2020,Lori,Urartu,1,1,D,2020/21
+ARM,30/10/2020,Shirak,Noah,0,3,A,2020/21
+ARM,31/10/2020,Pyunik,FC Ararat,1,1,D,2020/21
+ARM,02/11/2020,Noah,Alashkert,1,2,A,2020/21
+ARM,03/11/2020,FC Ararat,Shirak,4,0,H,2020/21
+ARM,04/11/2020,Van,Lori,1,2,A,2020/21
+ARM,08/11/2020,Noah,Ararat-Armenia FC,0,0,D,2020/21
+ARM,21/11/2020,Alashkert,FC Ararat,1,2,A,2020/21
+ARM,21/11/2020,Pyunik,Van,0,0,D,2020/21
+ARM,22/11/2020,Shirak,Urartu,0,3,A,2020/21
+ARM,23/11/2020,Ararat-Armenia FC,Noah,3,1,H,2020/21
+ARM,26/11/2020,Van,Shirak,3,1,H,2020/21
+ARM,26/11/2020,Urartu,Alashkert,1,2,A,2020/21
+ARM,27/11/2020,FC Ararat,Noah,1,1,D,2020/21
+ARM,28/11/2020,Lori,Ararat-Armenia FC,0,1,A,2020/21
+ARM,30/11/2020,Alashkert,Van,2,1,H,2020/21
+ARM,01/12/2020,Noah,Urartu,1,1,D,2020/21
+ARM,02/12/2020,Ararat-Armenia FC,FC Ararat,0,0,D,2020/21
+ARM,02/12/2020,Pyunik,Lori,1,1,D,2020/21
+ARM,05/12/2020,Van,Noah,0,1,A,2020/21
+ARM,06/12/2020,Pyunik,Ararat-Armenia FC,0,1,A,2020/21
+ARM,08/12/2020,Lori,Shirak,3,2,H,2020/21
+ARM,10/12/2020,Van,FC Ararat,0,1,A,2020/21
+ARM,12/12/2020,Pyunik,Shirak,0,2,A,2020/21
+ARM,19/02/2021,Noah,Van,4,0,H,2020/21
+ARM,20/02/2021,Shirak,Lori,0,1,A,2020/21
+ARM,21/02/2021,FC Ararat,Urartu,2,0,H,2020/21
+ARM,21/02/2021,Ararat-Armenia FC,Pyunik,2,1,H,2020/21
+ARM,24/02/2021,Shirak,Van,0,0,D,2020/21
+ARM,24/02/2021,Lori,Alashkert,0,1,A,2020/21
+ARM,25/02/2021,FC Ararat,Ararat-Armenia FC,1,0,H,2020/21
+ARM,28/02/2021,Alashkert,Lori,2,1,H,2020/21
+ARM,01/03/2021,Shirak,Pyunik,0,2,A,2020/21
+ARM,01/03/2021,FC Ararat,Van,0,0,D,2020/21
+ARM,02/03/2021,Ararat-Armenia FC,Urartu,0,1,A,2020/21
+ARM,04/03/2021,Lori,Noah,2,0,H,2020/21
+ARM,05/03/2021,Pyunik,Alashkert,1,1,D,2020/21
+ARM,06/03/2021,Van,Urartu,3,1,H,2020/21
+ARM,07/03/2021,Shirak,Ararat-Armenia FC,2,2,D,2020/21
+ARM,08/03/2021,Noah,Lori,3,1,H,2020/21
+ARM,16/03/2021,Noah,Pyunik,0,1,A,2020/21
+ARM,16/03/2021,FC Ararat,Lori,3,0,H,2020/21
+ARM,17/03/2021,Alashkert,Shirak,0,0,D,2020/21
+ARM,18/03/2021,Ararat-Armenia FC,Van,3,0,H,2020/21
+ARM,06/04/2021,Urartu,Lori,3,0,H,2020/21
+ARM,07/04/2021,Urartu,FC Ararat,1,0,H,2020/21
+ARM,08/04/2021,Ararat-Armenia FC,Van,2,3,A,2020/21
+ARM,09/04/2021,Noah,Pyunik,1,0,H,2020/21
+ARM,11/04/2021,Shirak,Alashkert,0,0,D,2020/21
+ARM,12/04/2021,Lori,Van,0,3,A,2020/21
+ARM,14/04/2021,Van,Pyunik,0,3,A,2020/21
+ARM,14/04/2021,Alashkert,Urartu,1,0,H,2020/21
+ARM,15/04/2021,Ararat-Armenia FC,Shirak,2,1,H,2020/21
+ARM,15/04/2021,FC Ararat,Noah,2,3,A,2020/21
+ARM,19/04/2021,Urartu,Pyunik,0,1,A,2020/21
+ARM,23/04/2021,Shirak,Van,1,2,A,2020/21
+ARM,25/04/2021,Pyunik,FC Ararat,1,2,A,2020/21
+ARM,25/04/2021,Urartu,Ararat-Armenia FC,0,0,D,2020/21
+ARM,26/04/2021,Noah,Alashkert,1,0,H,2020/21
+ARM,01/05/2021,Urartu,Shirak,1,0,H,2020/21
+ARM,02/05/2021,Ararat-Armenia FC,Lori,3,0,H,2020/21
+ARM,05/05/2021,Van,FC Ararat,1,1,D,2020/21
+ARM,06/05/2021,Alashkert,Pyunik,1,0,H,2020/21
+ARM,06/05/2021,Ararat-Armenia FC,Noah,0,0,D,2020/21
+ARM,07/05/2021,Shirak,Urartu,1,1,D,2020/21
+ARM,09/05/2021,Lori,Pyunik,0,3,A,2020/21
+ARM,10/05/2021,FC Ararat,Alashkert,0,0,D,2020/21
+ARM,11/05/2021,Noah,Shirak,3,0,H,2020/21
+ARM,11/05/2021,Urartu,Van,2,1,H,2020/21
+ARM,11/05/2021,Pyunik,Ararat-Armenia FC,0,0,D,2020/21
+ARM,14/05/2021,Shirak,Lori,3,0,H,2020/21
+ARM,15/05/2021,Urartu,Ararat-Armenia FC,1,2,A,2020/21
+ARM,15/05/2021,Pyunik,Noah,0,1,A,2020/21
+ARM,18/05/2021,Lori,Alashkert,0,3,A,2020/21
+ARM,19/05/2021,Van,Alashkert,3,1,H,2020/21
+ARM,19/05/2021,Ararat-Armenia FC,FC Ararat,1,1,D,2020/21
+ARM,19/05/2021,Urartu,Noah,1,0,H,2020/21
+ARM,20/05/2021,Shirak,Pyunik,1,5,A,2020/21
+ARM,22/05/2021,Ararat-Armenia FC,Alashkert,1,2,A,2020/21
+ARM,22/05/2021,Urartu,FC Ararat,2,0,H,2020/21
+ARM,23/05/2021,Noah,Lori,3,0,H,2020/21
+ARM,25/05/2021,FC Ararat,Alashkert,0,1,A,2020/21
+ARM,28/05/2021,Noah,Van,1,2,A,2020/21
+ARM,28/05/2021,Pyunik,Urartu,0,1,A,2020/21
+ARM,28/05/2021,FC Ararat,Shirak,5,2,H,2020/21
+ARM,28/05/2021,Alashkert,Ararat-Armenia FC,1,0,H,2020/21
+ARM,30/05/2021,Lori,FC Ararat,0,3,A,2020/21
+ARM,30/07/2021,BKMA,Pyunik,0,4,A,2021/22
+ARM,01/08/2021,Alashkert,Ararat-Armenia FC,0,3,A,2021/22
+ARM,01/08/2021,Urartu,Noravank,3,0,H,2021/22
+ARM,02/08/2021,FC Ararat,Noah,7,1,H,2021/22
+ARM,06/08/2021,Noravank,Pyunik,2,1,H,2021/22
+ARM,06/08/2021,Ararat-Armenia FC,BKMA,3,2,H,2021/22
+ARM,08/08/2021,Van,FC Ararat,0,1,A,2021/22
+ARM,13/08/2021,BKMA,Noah,1,2,A,2021/22
+ARM,15/08/2021,Alashkert,Van,0,2,A,2021/22
+ARM,15/08/2021,Pyunik,Ararat-Armenia FC,0,3,A,2021/22
+ARM,15/08/2021,FC Ararat,Urartu,2,0,H,2021/22
+ARM,19/08/2021,Van,BKMA,1,0,H,2021/22
+ARM,20/08/2021,Noravank,Ararat-Armenia FC,0,2,A,2021/22
+ARM,20/08/2021,Noah,Pyunik,1,2,A,2021/22
+ARM,23/08/2021,BKMA,Urartu,1,2,A,2021/22
+ARM,24/08/2021,FC Ararat,Noravank,3,2,H,2021/22
+ARM,24/08/2021,Pyunik,Van,1,1,D,2021/22
+ARM,25/08/2021,Ararat-Armenia FC,Noah,5,2,H,2021/22
+ARM,11/09/2021,Noravank,Noah,1,1,D,2021/22
+ARM,11/09/2021,FC Ararat,Alashkert,3,2,H,2021/22
+ARM,12/09/2021,Van,Ararat-Armenia FC,1,2,A,2021/22
+ARM,13/09/2021,Urartu,Pyunik,0,2,A,2021/22
+ARM,20/09/2021,Alashkert,Noravank,0,0,D,2021/22
+ARM,21/09/2021,BKMA,FC Ararat,0,2,A,2021/22
+ARM,22/09/2021,Van,Noah,1,2,A,2021/22
+ARM,22/09/2021,Ararat-Armenia FC,Urartu,3,0,H,2021/22
+ARM,27/09/2021,Alashkert,BKMA,2,1,H,2021/22
+ARM,27/09/2021,FC Ararat,Pyunik,0,1,A,2021/22
+ARM,28/09/2021,Noravank,Van,1,0,H,2021/22
+ARM,29/09/2021,Urartu,Noah,0,1,A,2021/22
+ARM,15/10/2021,Pyunik,Alashkert,1,1,D,2021/22
+ARM,16/10/2021,Van,Urartu,1,1,D,2021/22
+ARM,17/10/2021,Ararat-Armenia FC,FC Ararat,3,0,H,2021/22
+ARM,17/10/2021,BKMA,Noravank,2,0,H,2021/22
+ARM,21/10/2021,Noravank,Urartu,0,1,A,2021/22
+ARM,21/10/2021,BKMA,Pyunik,0,1,A,2021/22
+ARM,22/10/2021,Noah,FC Ararat,2,2,D,2021/22
+ARM,24/10/2021,Ararat-Armenia FC,Alashkert,2,1,H,2021/22
+ARM,26/10/2021,FC Ararat,Van,1,0,H,2021/22
+ARM,27/10/2021,Alashkert,Noah,0,0,D,2021/22
+ARM,27/10/2021,BKMA,Ararat-Armenia FC,2,3,A,2021/22
+ARM,27/10/2021,Pyunik,Noravank,2,0,H,2021/22
+ARM,30/10/2021,Urartu,FC Ararat,1,1,D,2021/22
+ARM,31/10/2021,Van,Alashkert,0,4,A,2021/22
+ARM,31/10/2021,Noah,BKMA,5,0,H,2021/22
+ARM,01/11/2021,Ararat-Armenia FC,Pyunik,1,2,A,2021/22
+ARM,04/11/2021,BKMA,Van,1,0,H,2021/22
+ARM,05/11/2021,Pyunik,Noah,1,0,H,2021/22
+ARM,06/11/2021,Ararat-Armenia FC,Noravank,2,1,H,2021/22
+ARM,08/11/2021,Alashkert,Urartu,2,1,H,2021/22
+ARM,17/11/2021,Urartu,BKMA,5,0,H,2021/22
+ARM,18/11/2021,Noravank,FC Ararat,1,1,D,2021/22
+ARM,19/11/2021,Van,Pyunik,0,2,A,2021/22
+ARM,19/11/2021,Noah,Ararat-Armenia FC,0,1,A,2021/22
+ARM,28/11/2021,Ararat-Armenia FC,Van,2,0,H,2021/22
+ARM,28/11/2021,Pyunik,Urartu,2,0,H,2021/22
+ARM,30/11/2021,Alashkert,FC Ararat,1,0,H,2021/22
+ARM,01/12/2021,Noah,Noravank,2,1,H,2021/22
+ARM,03/12/2021,Urartu,Ararat-Armenia FC,0,0,D,2021/22
+ARM,04/12/2021,Noravank,Alashkert,0,2,A,2021/22
+ARM,04/12/2021,FC Ararat,BKMA,2,1,H,2021/22
+ARM,05/12/2021,Noah,Van,3,0,H,2021/22
+ARM,10/12/2021,Van,Noravank,2,0,H,2021/22
+ARM,10/12/2021,Noah,Urartu,1,1,D,2021/22
+ARM,11/12/2021,Pyunik,FC Ararat,2,6,A,2021/22
+ARM,12/12/2021,BKMA,Alashkert,0,2,A,2021/22
+ARM,19/02/2022,FC Ararat,Ararat-Armenia FC,0,1,A,2021/22
+ARM,20/02/2022,Noravank,BKMA,1,1,D,2021/22
+ARM,20/02/2022,Urartu,Van,1,0,H,2021/22
+ARM,21/02/2022,Alashkert,Pyunik,1,4,A,2021/22
+ARM,24/02/2022,FC Ararat,Noah,1,1,D,2021/22
+ARM,24/02/2022,Urartu,Noravank,1,1,D,2021/22
+ARM,25/02/2022,Alashkert,Ararat-Armenia FC,0,1,A,2021/22
+ARM,26/02/2022,Pyunik,BKMA,1,0,H,2021/22
+ARM,01/03/2022,Noah,Alashkert,0,1,A,2021/22
+ARM,01/03/2022,Van,FC Ararat,0,1,A,2021/22
+ARM,02/03/2022,Noravank,Pyunik,1,2,A,2021/22
+ARM,02/03/2022,Ararat-Armenia FC,BKMA,0,0,D,2021/22
+ARM,05/03/2022,Alashkert,Van,2,0,H,2021/22
+ARM,05/03/2022,FC Ararat,Urartu,0,0,D,2021/22
+ARM,06/03/2022,BKMA,Noah,1,1,D,2021/22
+ARM,06/03/2022,Pyunik,Ararat-Armenia FC,1,0,H,2021/22
+ARM,09/03/2022,Urartu,Alashkert,0,0,D,2021/22
+ARM,10/03/2022,Noravank,Ararat-Armenia FC,0,2,A,2021/22
+ARM,10/03/2022,Noah,Pyunik,0,1,A,2021/22
+ARM,11/03/2022,Van,BKMA,1,1,D,2021/22
+ARM,14/03/2022,Noah,Ararat-Armenia FC,0,3,A,2021/22
+ARM,15/03/2022,Noravank,FC Ararat,0,1,A,2021/22
+ARM,16/03/2022,Van,Pyunik,1,1,D,2021/22
+ARM,16/03/2022,BKMA,Urartu,1,4,A,2021/22
+ARM,19/03/2022,Noravank,Noah,3,1,H,2021/22
+ARM,19/03/2022,FC Ararat,Alashkert,0,1,A,2021/22
+ARM,20/03/2022,Van,Ararat-Armenia FC,2,1,H,2021/22
+ARM,20/03/2022,Urartu,Pyunik,0,1,A,2021/22
+ARM,02/04/2022,Noah,Alashkert,1,0,H,2021/22
+ARM,06/04/2022,Alashkert,Noravank,3,0,H,2021/22
+ARM,06/04/2022,BKMA,FC Ararat,3,2,H,2021/22
+ARM,07/04/2022,Noah,Van,0,0,D,2021/22
+ARM,08/04/2022,Ararat-Armenia FC,Urartu,1,1,D,2021/22
+ARM,11/04/2022,Alashkert,BKMA,3,1,H,2021/22
+ARM,11/04/2022,FC Ararat,Pyunik,1,2,A,2021/22
+ARM,12/04/2022,Noravank,Van,7,1,H,2021/22
+ARM,12/04/2022,Urartu,Noah,2,2,D,2021/22
+ARM,15/04/2022,Ararat-Armenia FC,FC Ararat,3,1,H,2021/22
+ARM,15/04/2022,Pyunik,Alashkert,3,0,H,2021/22
+ARM,16/04/2022,Van,Urartu,0,3,A,2021/22
+ARM,16/04/2022,BKMA,Noravank,0,1,A,2021/22
+ARM,19/04/2022,Noah,FC Ararat,0,0,D,2021/22
+ARM,19/04/2022,Ararat-Armenia FC,Alashkert,1,1,D,2021/22
+ARM,20/04/2022,Noravank,Urartu,3,2,H,2021/22
+ARM,20/04/2022,Pyunik,BKMA,1,0,H,2021/22
+ARM,23/04/2022,Alashkert,Noah,0,2,A,2021/22
+ARM,23/04/2022,FC Ararat,Van,1,1,D,2021/22
+ARM,25/04/2022,BKMA,Ararat-Armenia FC,0,1,A,2021/22
+ARM,25/04/2022,Pyunik,Noravank,3,2,H,2021/22
+ARM,28/04/2022,Van,Alashkert,0,1,A,2021/22
+ARM,28/04/2022,Urartu,FC Ararat,1,2,A,2021/22
+ARM,29/04/2022,Ararat-Armenia FC,Pyunik,1,1,D,2021/22
+ARM,30/04/2022,Noah,BKMA,1,1,D,2021/22
+ARM,03/05/2022,Alashkert,Urartu,1,1,D,2021/22
+ARM,03/05/2022,Ararat-Armenia FC,Noravank,2,0,H,2021/22
+ARM,05/05/2022,BKMA,Van,1,1,D,2021/22
+ARM,05/05/2022,Pyunik,Noah,2,1,H,2021/22
+ARM,09/05/2022,Pyunik,Van,2,0,H,2021/22
+ARM,09/05/2022,Ararat-Armenia FC,Noah,0,1,A,2021/22
+ARM,11/05/2022,FC Ararat,Noravank,4,0,H,2021/22
+ARM,11/05/2022,Urartu,BKMA,1,0,H,2021/22
+ARM,14/05/2022,Ararat-Armenia FC,Van,1,0,H,2021/22
+ARM,15/05/2022,Alashkert,FC Ararat,2,1,H,2021/22
+ARM,15/05/2022,Pyunik,Urartu,1,1,D,2021/22
+ARM,16/05/2022,Noah,Noravank,3,3,D,2021/22
+ARM,18/05/2022,Urartu,Alashkert,0,0,D,2021/22
+ARM,20/05/2022,FC Ararat,BKMA,1,2,A,2021/22
+ARM,21/05/2022,Van,Noah,1,0,H,2021/22
+ARM,22/05/2022,Noravank,Alashkert,1,1,D,2021/22
+ARM,22/05/2022,Urartu,Ararat-Armenia FC,1,2,A,2021/22
+ARM,24/05/2022,Pyunik,FC Ararat,1,0,H,2021/22
+ARM,25/05/2022,Van,Noravank,2,1,H,2021/22
+ARM,25/05/2022,Noah,Urartu,1,1,D,2021/22
+ARM,25/05/2022,BKMA,Alashkert,0,3,A,2021/22
+ARM,28/05/2022,Noravank,BKMA,3,2,H,2021/22
+ARM,28/05/2022,Alashkert,Pyunik,1,1,D,2021/22
+ARM,28/05/2022,Urartu,Van,2,0,H,2021/22
+ARM,28/05/2022,FC Ararat,Ararat-Armenia FC,0,1,A,2021/22
+ARM,29/07/2022,Lernayin Artsakh,Van,0,1,A,2022/23
+ARM,30/07/2022,Noah,Alashkert,3,4,A,2022/23
+ARM,30/07/2022,Pyunik,FC Ararat,0,1,A,2022/23
+ARM,31/07/2022,BKMA,Shirak,0,1,A,2022/23
+ARM,31/07/2022,Urartu,Ararat-Armenia FC,1,0,H,2022/23
+ARM,06/08/2022,Noah,Lernayin Artsakh,0,1,A,2022/23
+ARM,06/08/2022,Alashkert,FC Ararat,2,0,H,2022/23
+ARM,07/08/2022,Van,BKMA,2,2,D,2022/23
+ARM,08/08/2022,Shirak,Urartu,0,2,A,2022/23
+ARM,11/08/2022,FC Ararat,Ararat-Armenia FC,0,2,A,2022/23
+ARM,12/08/2022,Lernayin Artsakh,Alashkert,0,1,A,2022/23
+ARM,12/08/2022,BKMA,Noah,2,2,D,2022/23
+ARM,13/08/2022,Pyunik,Shirak,1,0,H,2022/23
+ARM,13/08/2022,Urartu,Van,0,1,A,2022/23
+ARM,19/08/2022,Alashkert,Ararat-Armenia FC,1,1,D,2022/23
+ARM,19/08/2022,Lernayin Artsakh,BKMA,1,1,D,2022/23
+ARM,20/08/2022,Shirak,FC Ararat,0,0,D,2022/23
+ARM,20/08/2022,Noah,Urartu,0,6,A,2022/23
+ARM,21/08/2022,Pyunik,Van,0,1,A,2022/23
+ARM,26/08/2022,BKMA,Alashkert,2,4,A,2022/23
+ARM,27/08/2022,FC Ararat,Van,1,0,H,2022/23
+ARM,28/08/2022,Ararat-Armenia FC,Shirak,3,0,H,2022/23
+ARM,28/08/2022,Urartu,Lernayin Artsakh,2,3,A,2022/23
+ARM,29/08/2022,Pyunik,Noah,3,0,H,2022/23
+ARM,02/09/2022,Alashkert,Shirak,3,0,H,2022/23
+ARM,02/09/2022,Van,Ararat-Armenia FC,0,4,A,2022/23
+ARM,03/09/2022,Noah,FC Ararat,0,0,D,2022/23
+ARM,03/09/2022,Pyunik,Lernayin Artsakh,1,0,H,2022/23
+ARM,04/09/2022,BKMA,Urartu,1,4,A,2022/23
+ARM,08/09/2022,Shirak,Van,1,1,D,2022/23
+ARM,09/09/2022,Lernayin Artsakh,FC Ararat,2,1,H,2022/23
+ARM,09/09/2022,Ararat-Armenia FC,Noah,3,0,H,2022/23
+ARM,10/09/2022,Urartu,Alashkert,1,1,D,2022/23
+ARM,12/09/2022,Pyunik,BKMA,3,1,H,2022/23
+ARM,16/09/2022,Alashkert,Van,0,0,D,2022/23
+ARM,16/09/2022,Noah,Shirak,1,3,A,2022/23
+ARM,17/09/2022,BKMA,FC Ararat,2,1,H,2022/23
+ARM,17/09/2022,Lernayin Artsakh,Ararat-Armenia FC,0,1,A,2022/23
+ARM,19/09/2022,Urartu,Pyunik,2,1,H,2022/23
+ARM,30/09/2022,Ararat-Armenia FC,BKMA,1,0,H,2022/23
+ARM,30/09/2022,FC Ararat,Urartu,0,2,A,2022/23
+ARM,01/10/2022,Shirak,Lernayin Artsakh,1,2,A,2022/23
+ARM,01/10/2022,Pyunik,Alashkert,5,1,H,2022/23
+ARM,02/10/2022,Van,Noah,2,2,D,2022/23
+ARM,09/10/2022,Ararat-Armenia FC,Urartu,0,1,A,2022/23
+ARM,09/10/2022,FC Ararat,Pyunik,1,0,H,2022/23
+ARM,10/10/2022,Alashkert,Noah,5,0,H,2022/23
+ARM,11/10/2022,Van,Lernayin Artsakh,1,1,D,2022/23
+ARM,11/10/2022,Shirak,BKMA,1,0,H,2022/23
+ARM,14/10/2022,FC Ararat,Alashkert,0,1,A,2022/23
+ARM,15/10/2022,Lernayin Artsakh,Noah,0,0,D,2022/23
+ARM,15/10/2022,BKMA,Van,0,3,A,2022/23
+ARM,15/10/2022,Urartu,Shirak,1,0,H,2022/23
+ARM,17/10/2022,Pyunik,Ararat-Armenia FC,2,1,H,2022/23
+ARM,19/10/2022,Noah,BKMA,0,0,D,2022/23
+ARM,19/10/2022,Van,Urartu,0,1,A,2022/23
+ARM,20/10/2022,Alashkert,Lernayin Artsakh,2,1,H,2022/23
+ARM,21/10/2022,Ararat-Armenia FC,FC Ararat,2,1,H,2022/23
+ARM,21/10/2022,Shirak,Pyunik,0,1,A,2022/23
+ARM,23/10/2022,Urartu,Noah,3,1,H,2022/23
+ARM,24/10/2022,BKMA,Lernayin Artsakh,0,1,A,2022/23
+ARM,25/10/2022,FC Ararat,Shirak,0,1,A,2022/23
+ARM,26/10/2022,Ararat-Armenia FC,Alashkert,4,1,H,2022/23
+ARM,29/10/2022,Lernayin Artsakh,Urartu,1,2,A,2022/23
+ARM,29/10/2022,Van,FC Ararat,0,2,A,2022/23
+ARM,30/10/2022,Alashkert,BKMA,1,0,H,2022/23
+ARM,30/10/2022,Shirak,Ararat-Armenia FC,0,5,A,2022/23
+ARM,31/10/2022,Noah,Pyunik,0,1,A,2022/23
+ARM,03/11/2022,Ararat-Armenia FC,Van,4,0,H,2022/23
+ARM,03/11/2022,Shirak,Alashkert,0,2,A,2022/23
+ARM,04/11/2022,Urartu,BKMA,1,0,H,2022/23
+ARM,05/11/2022,FC Ararat,Noah,2,1,H,2022/23
+ARM,06/11/2022,Lernayin Artsakh,Pyunik,1,1,D,2022/23
+ARM,09/11/2022,Van,Shirak,2,1,H,2022/23
+ARM,10/11/2022,Alashkert,Urartu,0,0,D,2022/23
+ARM,10/11/2022,Ararat-Armenia FC,Pyunik,0,0,D,2022/23
+ARM,12/11/2022,FC Ararat,Lernayin Artsakh,0,0,D,2022/23
+ARM,13/11/2022,Noah,Ararat-Armenia FC,1,2,A,2022/23
+ARM,13/11/2022,Van,Alashkert,1,0,H,2022/23
+ARM,13/11/2022,BKMA,Pyunik,1,1,D,2022/23
+ARM,20/11/2022,Lernayin Artsakh,Shirak,0,0,D,2022/23
+ARM,20/11/2022,Noah,Van,2,2,D,2022/23
+ARM,22/11/2022,Alashkert,Pyunik,1,2,A,2022/23
+ARM,22/11/2022,BKMA,Ararat-Armenia FC,2,2,D,2022/23
+ARM,22/11/2022,Urartu,FC Ararat,2,1,H,2022/23
+ARM,28/11/2022,Lernayin Artsakh,Van,0,2,A,2022/23
+ARM,29/11/2022,Noah,Alashkert,3,2,H,2022/23
+ARM,29/11/2022,BKMA,Shirak,0,1,A,2022/23
+ARM,30/11/2022,Pyunik,FC Ararat,2,0,H,2022/23
+ARM,30/11/2022,Urartu,Ararat-Armenia FC,0,3,A,2022/23
+ARM,03/12/2022,Van,BKMA,0,1,A,2022/23
+ARM,03/12/2022,Noah,Lernayin Artsakh,2,0,H,2022/23
+ARM,04/12/2022,Alashkert,FC Ararat,0,1,A,2022/23
+ARM,04/12/2022,Shirak,Urartu,2,3,A,2022/23
+ARM,05/12/2022,Ararat-Armenia FC,Pyunik,1,1,D,2022/23
+ARM,08/12/2022,Shirak,Noah,2,0,H,2022/23
+ARM,08/12/2022,FC Ararat,BKMA,0,0,D,2022/23
+ARM,09/12/2022,Ararat-Armenia FC,Lernayin Artsakh,1,0,H,2022/23
+ARM,09/12/2022,Pyunik,Urartu,0,3,A,2022/23
+ARM,24/02/2023,Van,Pyunik,0,3,A,2022/23
+ARM,27/02/2023,BKMA,Noah,0,1,A,2022/23
+ARM,27/02/2023,FC Ararat,Ararat-Armenia FC,1,3,A,2022/23
+ARM,28/02/2023,Lernayin Artsakh,Alashkert,1,3,A,2022/23
+ARM,01/03/2023,Urartu,Van,2,0,H,2022/23
+ARM,01/03/2023,Pyunik,Shirak,4,1,H,2022/23
+ARM,04/03/2023,Lernayin Artsakh,BKMA,0,3,A,2022/23
+ARM,05/03/2023,Van,Pyunik,1,3,A,2022/23
+ARM,05/03/2023,Alashkert,Ararat-Armenia FC,0,0,D,2022/23
+ARM,06/03/2023,Noah,Urartu,0,2,A,2022/23
+ARM,06/03/2023,FC Ararat,Shirak,1,2,A,2022/23
+ARM,10/03/2023,BKMA,Alashkert,1,1,D,2022/23
+ARM,10/03/2023,FC Ararat,Van,1,3,A,2022/23
+ARM,11/03/2023,Urartu,Lernayin Artsakh,3,0,H,2022/23
+ARM,11/03/2023,Pyunik,Noah,2,0,H,2022/23
+ARM,12/03/2023,Ararat-Armenia FC,Shirak,1,0,H,2022/23
+ARM,16/03/2023,Lernayin Artsakh,Pyunik,0,6,A,2022/23
+ARM,16/03/2023,BKMA,Urartu,0,2,A,2022/23
+ARM,17/03/2023,Alashkert,Shirak,3,0,H,2022/23
+ARM,17/03/2023,Van,Ararat-Armenia FC,1,2,A,2022/23
+ARM,18/03/2023,Noah,FC Ararat,2,1,H,2022/23
+ARM,31/03/2023,FC Ararat,Lernayin Artsakh,2,0,H,2022/23
+ARM,01/04/2023,Pyunik,BKMA,3,0,H,2022/23
+ARM,01/04/2023,Shirak,Van,1,0,H,2022/23
+ARM,02/04/2023,Ararat-Armenia FC,Noah,3,0,H,2022/23
+ARM,02/04/2023,Urartu,Alashkert,1,0,H,2022/23
+ARM,09/04/2023,Alashkert,Van,3,1,H,2022/23
+ARM,09/04/2023,BKMA,FC Ararat,0,1,A,2022/23
+ARM,10/04/2023,Lernayin Artsakh,Ararat-Armenia FC,0,2,A,2022/23
+ARM,11/04/2023,Noah,Shirak,3,3,D,2022/23
+ARM,11/04/2023,Urartu,Pyunik,1,3,A,2022/23
+ARM,15/04/2023,Ararat-Armenia FC,BKMA,2,1,H,2022/23
+ARM,16/04/2023,FC Ararat,Urartu,0,0,D,2022/23
+ARM,16/04/2023,Shirak,Lernayin Artsakh,1,0,H,2022/23
+ARM,17/04/2023,Van,Noah,1,1,D,2022/23
+ARM,17/04/2023,Pyunik,Alashkert,1,0,H,2022/23
+ARM,20/04/2023,Shirak,BKMA,1,1,D,2022/23
+ARM,21/04/2023,Van,Lernayin Artsakh,4,0,H,2022/23
+ARM,21/04/2023,Alashkert,Noah,3,0,H,2022/23
+ARM,22/04/2023,FC Ararat,Pyunik,0,2,A,2022/23
+ARM,22/04/2023,Ararat-Armenia FC,Urartu,2,2,D,2022/23
+ARM,25/04/2023,Lernayin Artsakh,Noah,0,2,A,2022/23
+ARM,26/04/2023,BKMA,Van,5,1,H,2022/23
+ARM,26/04/2023,FC Ararat,Alashkert,2,4,A,2022/23
+ARM,27/04/2023,Urartu,Shirak,3,1,H,2022/23
+ARM,27/04/2023,Pyunik,Ararat-Armenia FC,4,1,H,2022/23
+ARM,01/05/2023,Alashkert,Lernayin Artsakh,1,0,H,2022/23
+ARM,01/05/2023,Noah,BKMA,1,2,A,2022/23
+ARM,02/05/2023,Van,Urartu,0,5,A,2022/23
+ARM,02/05/2023,Shirak,Pyunik,0,4,A,2022/23
+ARM,03/05/2023,Ararat-Armenia FC,FC Ararat,2,1,H,2022/23
+ARM,07/05/2023,Pyunik,Van,4,0,H,2022/23
+ARM,08/05/2023,Urartu,Noah,1,0,H,2022/23
+ARM,08/05/2023,Shirak,FC Ararat,0,0,D,2022/23
+ARM,09/05/2023,BKMA,Lernayin Artsakh,2,1,H,2022/23
+ARM,10/05/2023,Ararat-Armenia FC,Alashkert,0,1,A,2022/23
+ARM,15/05/2023,Van,FC Ararat,3,1,H,2022/23
+ARM,15/05/2023,Noah,Pyunik,1,3,A,2022/23
+ARM,16/05/2023,Alashkert,BKMA,1,2,A,2022/23
+ARM,17/05/2023,Lernayin Artsakh,Urartu,0,4,A,2022/23
+ARM,17/05/2023,Shirak,Ararat-Armenia FC,0,2,A,2022/23
+ARM,20/05/2023,FC Ararat,Noah,1,0,H,2022/23
+ARM,21/05/2023,Pyunik,Lernayin Artsakh,2,0,H,2022/23
+ARM,21/05/2023,Shirak,Alashkert,0,1,A,2022/23
+ARM,22/05/2023,Ararat-Armenia FC,Van,4,1,H,2022/23
+ARM,22/05/2023,Urartu,BKMA,1,0,H,2022/23
+ARM,25/05/2023,Lernayin Artsakh,FC Ararat,0,3,A,2022/23
+ARM,26/05/2023,Van,Shirak,3,0,H,2022/23
+ARM,26/05/2023,BKMA,Pyunik,1,1,D,2022/23
+ARM,27/05/2023,Alashkert,Urartu,3,2,H,2022/23
+ARM,27/05/2023,Noah,Ararat-Armenia FC,2,1,H,2022/23
+ARM,30/05/2023,FC Ararat,BKMA,1,1,D,2022/23
+ARM,31/05/2023,Van,Alashkert,0,1,A,2022/23
+ARM,31/05/2023,Shirak,Noah,0,2,A,2022/23
+ARM,01/06/2023,Ararat-Armenia FC,Lernayin Artsakh,0,0,D,2022/23
+ARM,02/06/2023,Pyunik,Urartu,0,1,A,2022/23
+ARM,04/06/2023,Noah,Van,1,0,H,2022/23
+ARM,05/06/2023,Lernayin Artsakh,Shirak,0,1,A,2022/23
+ARM,05/06/2023,BKMA,Ararat-Armenia FC,2,5,A,2022/23
+ARM,06/06/2023,Alashkert,Pyunik,1,2,A,2022/23
+ARM,06/06/2023,Urartu,FC Ararat,1,1,D,2022/23

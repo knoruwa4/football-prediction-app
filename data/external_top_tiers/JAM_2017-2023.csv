@@ -1,0 +1,980 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season
+JAM,24/09/2017,Boys Town FC,Humble Lions,1,2,A,2017/18
+JAM,24/09/2017,Uwi,Waterhouse FC,1,1,D,2017/18
+JAM,24/09/2017,Reno FC,Tivoli Gardens FC,1,0,H,2017/18
+JAM,25/09/2017,Harbour View,Montego Bay United FC,1,1,D,2017/18
+JAM,26/09/2017,Portmore United FC,Cavalier SC,1,0,H,2017/18
+JAM,26/09/2017,Arnett Gardens FC,Sandals South Coast,3,1,H,2017/18
+JAM,01/10/2017,Sandals South Coast,Portmore United FC,0,4,A,2017/18
+JAM,01/10/2017,Humble Lions,Uwi,1,3,A,2017/18
+JAM,01/10/2017,Waterhouse FC,Reno FC,1,1,D,2017/18
+JAM,01/10/2017,Cavalier SC,Harbour View,0,1,A,2017/18
+JAM,02/10/2017,Tivoli Gardens FC,Arnett Gardens FC,0,1,A,2017/18
+JAM,03/10/2017,Montego Bay United FC,Boys Town FC,0,1,A,2017/18
+JAM,08/10/2017,Portmore United FC,Tivoli Gardens FC,1,1,D,2017/18
+JAM,08/10/2017,Reno FC,Humble Lions,2,1,H,2017/18
+JAM,08/10/2017,Uwi,Boys Town FC,2,1,H,2017/18
+JAM,09/10/2017,Arnett Gardens FC,Waterhouse FC,1,1,D,2017/18
+JAM,09/10/2017,Montego Bay United FC,Cavalier SC,1,2,A,2017/18
+JAM,10/10/2017,Harbour View,Sandals South Coast,0,0,D,2017/18
+JAM,15/10/2017,Sandals South Coast,Cavalier SC,1,1,D,2017/18
+JAM,15/10/2017,Boys Town FC,Reno FC,0,0,D,2017/18
+JAM,15/10/2017,Humble Lions,Arnett Gardens FC,1,1,D,2017/18
+JAM,15/10/2017,Uwi,Montego Bay United FC,3,0,H,2017/18
+JAM,15/10/2017,Waterhouse FC,Portmore United FC,0,5,A,2017/18
+JAM,17/10/2017,Tivoli Gardens FC,Harbour View,1,0,H,2017/18
+JAM,22/10/2017,Cavalier SC,Tivoli Gardens FC,0,1,A,2017/18
+JAM,22/10/2017,Portmore United FC,Humble Lions,3,0,H,2017/18
+JAM,22/10/2017,Reno FC,Uwi,0,0,D,2017/18
+JAM,23/10/2017,Montego Bay United FC,Sandals South Coast,3,1,H,2017/18
+JAM,23/10/2017,Harbour View,Waterhouse FC,0,0,D,2017/18
+JAM,24/10/2017,Arnett Gardens FC,Boys Town FC,1,1,D,2017/18
+JAM,29/10/2017,Humble Lions,Harbour View,0,0,D,2017/18
+JAM,29/10/2017,Tivoli Gardens FC,Sandals South Coast,0,0,D,2017/18
+JAM,29/10/2017,Reno FC,Montego Bay United FC,0,1,A,2017/18
+JAM,29/10/2017,Uwi,Arnett Gardens FC,1,4,A,2017/18
+JAM,31/10/2017,Waterhouse FC,Cavalier SC,0,2,A,2017/18
+JAM,01/11/2017,Portmore United FC,Uwi,0,1,A,2017/18
+JAM,02/11/2017,Arnett Gardens FC,Reno FC,5,0,H,2017/18
+JAM,02/11/2017,Montego Bay United FC,Tivoli Gardens FC,0,0,D,2017/18
+JAM,02/11/2017,Harbour View,Boys Town FC,3,0,H,2017/18
+JAM,02/11/2017,Sandals South Coast,Waterhouse FC,1,2,A,2017/18
+JAM,02/11/2017,Cavalier SC,Humble Lions,2,0,H,2017/18
+JAM,05/11/2017,Boys Town FC,Cavalier SC,1,1,D,2017/18
+JAM,05/11/2017,Humble Lions,Sandals South Coast,4,0,H,2017/18
+JAM,05/11/2017,Reno FC,Portmore United FC,3,0,H,2017/18
+JAM,05/11/2017,Uwi,Harbour View,0,1,A,2017/18
+JAM,06/11/2017,Waterhouse FC,Tivoli Gardens FC,1,2,A,2017/18
+JAM,07/11/2017,Arnett Gardens FC,Montego Bay United FC,1,0,H,2017/18
+JAM,08/11/2017,Boys Town FC,Portmore United FC,1,4,A,2017/18
+JAM,12/11/2017,Cavalier SC,Uwi,1,1,D,2017/18
+JAM,12/11/2017,Sandals South Coast,Boys Town FC,1,0,H,2017/18
+JAM,12/11/2017,Portmore United FC,Arnett Gardens FC,0,0,D,2017/18
+JAM,12/11/2017,Tivoli Gardens FC,Humble Lions,2,0,H,2017/18
+JAM,13/11/2017,Montego Bay United FC,Waterhouse FC,1,0,H,2017/18
+JAM,17/11/2017,Harbour View,Reno FC,0,1,A,2017/18
+JAM,19/11/2017,Boys Town FC,Tivoli Gardens FC,2,4,A,2017/18
+JAM,19/11/2017,Humble Lions,Waterhouse FC,0,0,D,2017/18
+JAM,19/11/2017,Portmore United FC,Montego Bay United FC,0,0,D,2017/18
+JAM,19/11/2017,Reno FC,Cavalier SC,0,1,A,2017/18
+JAM,19/11/2017,Uwi,Sandals South Coast,2,0,H,2017/18
+JAM,21/11/2017,Arnett Gardens FC,Harbour View,2,1,H,2017/18
+JAM,22/11/2017,Sandals South Coast,Reno FC,1,2,A,2017/18
+JAM,22/11/2017,Tivoli Gardens FC,Uwi,0,0,D,2017/18
+JAM,23/11/2017,Waterhouse FC,Boys Town FC,1,1,D,2017/18
+JAM,23/11/2017,Cavalier SC,Arnett Gardens FC,2,2,D,2017/18
+JAM,24/11/2017,Harbour View,Portmore United FC,0,1,A,2017/18
+JAM,26/11/2017,Humble Lions,Reno FC,1,1,D,2017/18
+JAM,26/11/2017,Sandals South Coast,Boys Town FC,1,0,H,2017/18
+JAM,27/11/2017,Waterhouse FC,Uwi,2,1,H,2017/18
+JAM,27/11/2017,Harbour View,Arnett Gardens FC,1,2,A,2017/18
+JAM,27/11/2017,Montego Bay United FC,Tivoli Gardens FC,2,1,H,2017/18
+JAM,28/11/2017,Cavalier SC,Portmore United FC,0,0,D,2017/18
+JAM,01/12/2017,Montego Bay United FC,Humble Lions,0,1,A,2017/18
+JAM,03/12/2017,Boys Town FC,Waterhouse FC,1,2,A,2017/18
+JAM,03/12/2017,Reno FC,Cavalier SC,0,0,D,2017/18
+JAM,03/12/2017,Portmore United FC,Montego Bay United FC,5,1,H,2017/18
+JAM,03/12/2017,Tivoli Gardens FC,Sandals South Coast,1,0,H,2017/18
+JAM,03/12/2017,Uwi,Harbour View,0,0,D,2017/18
+JAM,05/12/2017,Arnett Gardens FC,Humble Lions,1,1,D,2017/18
+JAM,10/12/2017,Boys Town FC,Uwi,1,2,A,2017/18
+JAM,10/12/2017,Cavalier SC,Arnett Gardens FC,3,4,A,2017/18
+JAM,10/12/2017,Humble Lions,Harbour View,0,1,A,2017/18
+JAM,10/12/2017,Sandals South Coast,Portmore United FC,0,2,A,2017/18
+JAM,11/12/2017,Waterhouse FC,Tivoli Gardens FC,0,0,D,2017/18
+JAM,12/12/2017,Montego Bay United FC,Reno FC,1,1,D,2017/18
+JAM,13/12/2017,Portmore United FC,Waterhouse FC,2,1,H,2017/18
+JAM,13/12/2017,Tivoli Gardens FC,Boys Town FC,3,0,H,2017/18
+JAM,13/12/2017,Uwi,Humble Lions,1,1,D,2017/18
+JAM,14/12/2017,Harbour View,Cavalier SC,0,1,A,2017/18
+JAM,14/12/2017,Reno FC,Sandals South Coast,2,2,D,2017/18
+JAM,15/12/2017,Arnett Gardens FC,Montego Bay United FC,3,0,H,2017/18
+JAM,17/12/2017,Boys Town FC,Portmore United FC,0,4,A,2017/18
+JAM,17/12/2017,Cavalier SC,Humble Lions,0,1,A,2017/18
+JAM,17/12/2017,Tivoli Gardens FC,Uwi,3,2,H,2017/18
+JAM,17/12/2017,Sandals South Coast,Arnett Gardens FC,1,1,D,2017/18
+JAM,18/12/2017,Montego Bay United FC,Harbour View,3,2,H,2017/18
+JAM,19/12/2017,Waterhouse FC,Reno FC,2,1,H,2017/18
+JAM,21/12/2017,Reno FC,Boys Town FC,1,2,A,2017/18
+JAM,21/12/2017,Humble Lions,Montego Bay United FC,1,1,D,2017/18
+JAM,21/12/2017,Portmore United FC,Tivoli Gardens FC,2,0,H,2017/18
+JAM,21/12/2017,Uwi,Cavalier SC,0,1,A,2017/18
+JAM,22/12/2017,Arnett Gardens FC,Waterhouse FC,1,1,D,2017/18
+JAM,22/12/2017,Harbour View,Sandals South Coast,0,0,D,2017/18
+JAM,28/12/2017,Boys Town FC,Arnett Gardens FC,1,1,D,2017/18
+JAM,28/12/2017,Portmore United FC,Uwi,5,1,H,2017/18
+JAM,28/12/2017,Sandals South Coast,Humble Lions,1,0,H,2017/18
+JAM,28/12/2017,Tivoli Gardens FC,Reno FC,2,0,H,2017/18
+JAM,28/12/2017,Montego Bay United FC,Cavalier SC,0,1,A,2017/18
+JAM,30/12/2017,Waterhouse FC,Harbour View,1,0,H,2017/18
+JAM,04/01/2018,Humble Lions,Waterhouse FC,0,0,D,2017/18
+JAM,04/01/2018,Uwi,Montego Bay United FC,1,1,D,2017/18
+JAM,04/01/2018,Reno FC,Portmore United FC,0,0,D,2017/18
+JAM,04/01/2018,Cavalier SC,Sandals South Coast,2,1,H,2017/18
+JAM,05/01/2018,Arnett Gardens FC,Tivoli Gardens FC,0,0,D,2017/18
+JAM,05/01/2018,Harbour View,Boys Town FC,1,0,H,2017/18
+JAM,07/01/2018,Boys Town FC,Humble Lions,1,1,D,2017/18
+JAM,07/01/2018,Sandals South Coast,Montego Bay United FC,0,0,D,2017/18
+JAM,07/01/2018,Portmore United FC,Arnett Gardens FC,5,1,H,2017/18
+JAM,07/01/2018,Reno FC,Uwi,0,0,D,2017/18
+JAM,07/01/2018,Tivoli Gardens FC,Harbour View,2,0,H,2017/18
+JAM,09/01/2018,Waterhouse FC,Cavalier SC,0,0,D,2017/18
+JAM,14/01/2018,Humble Lions,Tivoli Gardens FC,1,0,H,2017/18
+JAM,14/01/2018,Uwi,Sandals South Coast,3,1,H,2017/18
+JAM,14/01/2018,Cavalier SC,Boys Town FC,4,1,H,2017/18
+JAM,15/01/2018,Harbour View,Portmore United FC,2,1,H,2017/18
+JAM,16/01/2018,Arnett Gardens FC,Reno FC,0,0,D,2017/18
+JAM,17/01/2018,Boys Town FC,Montego Bay United FC,0,0,D,2017/18
+JAM,17/01/2018,Portmore United FC,Humble Lions,2,0,H,2017/18
+JAM,18/01/2018,Waterhouse FC,Sandals South Coast,1,0,H,2017/18
+JAM,18/01/2018,Tivoli Gardens FC,Cavalier SC,1,1,D,2017/18
+JAM,18/01/2018,Reno FC,Harbour View,0,1,A,2017/18
+JAM,19/01/2018,Arnett Gardens FC,Uwi,2,1,H,2017/18
+JAM,21/01/2018,Humble Lions,Boys Town FC,1,1,D,2017/18
+JAM,21/01/2018,Sandals South Coast,Arnett Gardens FC,0,5,A,2017/18
+JAM,21/01/2018,Tivoli Gardens FC,Reno FC,1,2,A,2017/18
+JAM,21/01/2018,Cavalier SC,Portmore United FC,3,0,H,2017/18
+JAM,23/01/2018,Waterhouse FC,Uwi,1,0,H,2017/18
+JAM,25/01/2018,Montego Bay United FC,Waterhouse FC,2,2,D,2017/18
+JAM,28/01/2018,Boys Town FC,Montego Bay United FC,0,3,A,2017/18
+JAM,28/01/2018,Reno FC,Waterhouse FC,0,0,D,2017/18
+JAM,28/01/2018,Portmore United FC,Sandals South Coast,3,1,H,2017/18
+JAM,28/01/2018,Uwi,Humble Lions,0,3,A,2017/18
+JAM,30/01/2018,Harbour View,Cavalier SC,2,0,H,2017/18
+JAM,31/01/2018,Boys Town FC,Uwi,0,2,A,2017/18
+JAM,31/01/2018,Humble Lions,Reno FC,0,0,D,2017/18
+JAM,31/01/2018,Tivoli Gardens FC,Portmore United FC,1,2,A,2017/18
+JAM,01/02/2018,Sandals South Coast,Harbour View,1,0,H,2017/18
+JAM,01/02/2018,Cavalier SC,Montego Bay United FC,0,0,D,2017/18
+JAM,04/02/2018,Montego Bay United FC,Harbour View,2,0,H,2017/18
+JAM,07/02/2018,Montego Bay United FC,Uwi,0,1,A,2017/18
+JAM,07/02/2018,Reno FC,Boys Town FC,1,0,H,2017/18
+JAM,07/02/2018,Cavalier SC,Sandals South Coast,2,1,H,2017/18
+JAM,09/02/2018,Arnett Gardens FC,Humble Lions,2,2,D,2017/18
+JAM,11/02/2018,Boys Town FC,Arnett Gardens FC,2,1,H,2017/18
+JAM,11/02/2018,Sandals South Coast,Montego Bay United FC,2,4,A,2017/18
+JAM,11/02/2018,Tivoli Gardens FC,Cavalier SC,3,1,H,2017/18
+JAM,11/02/2018,Uwi,Reno FC,0,2,A,2017/18
+JAM,13/02/2018,Waterhouse FC,Harbour View,1,3,A,2017/18
+JAM,15/02/2018,Harbour View,Tivoli Gardens FC,2,0,H,2017/18
+JAM,18/02/2018,Montego Bay United FC,Reno FC,2,1,H,2017/18
+JAM,18/02/2018,Sandals South Coast,Tivoli Gardens FC,0,1,A,2017/18
+JAM,18/02/2018,Portmore United FC,Boys Town FC,2,0,H,2017/18
+JAM,18/02/2018,Cavalier SC,Waterhouse FC,1,1,D,2017/18
+JAM,19/02/2018,Harbour View,Humble Lions,0,1,A,2017/18
+JAM,20/02/2018,Arnett Gardens FC,Uwi,2,2,D,2017/18
+JAM,22/02/2018,Humble Lions,Portmore United FC,0,1,A,2017/18
+JAM,23/02/2018,Waterhouse FC,Arnett Gardens FC,1,1,D,2017/18
+JAM,25/02/2018,Uwi,Portmore United FC,3,0,H,2017/18
+JAM,25/02/2018,Boys Town FC,Harbour View,1,2,A,2017/18
+JAM,25/02/2018,Humble Lions,Cavalier SC,5,1,H,2017/18
+JAM,25/02/2018,Reno FC,Arnett Gardens FC,2,0,H,2017/18
+JAM,25/02/2018,Tivoli Gardens FC,Montego Bay United FC,0,1,A,2017/18
+JAM,27/02/2018,Waterhouse FC,Sandals South Coast,2,1,H,2017/18
+JAM,01/03/2018,Arnett Gardens FC,Tivoli Gardens FC,2,3,A,2017/18
+JAM,01/03/2018,Portmore United FC,Waterhouse FC,0,1,A,2017/18
+JAM,04/03/2018,Tivoli Gardens FC,Waterhouse FC,0,1,A,2017/18
+JAM,04/03/2018,Montego Bay United FC,Arnett Gardens FC,1,1,D,2017/18
+JAM,04/03/2018,Sandals South Coast,Humble Lions,0,3,A,2017/18
+JAM,04/03/2018,Portmore United FC,Reno FC,3,0,H,2017/18
+JAM,05/03/2018,Harbour View,Uwi,1,0,H,2017/18
+JAM,06/03/2018,Cavalier SC,Boys Town FC,1,1,D,2017/18
+JAM,11/03/2018,Boys Town FC,Sandals South Coast,2,1,H,2017/18
+JAM,11/03/2018,Humble Lions,Tivoli Gardens FC,1,1,D,2017/18
+JAM,11/03/2018,Reno FC,Harbour View,0,2,A,2017/18
+JAM,11/03/2018,Uwi,Cavalier SC,2,1,H,2017/18
+JAM,11/03/2018,Waterhouse FC,Montego Bay United FC,2,1,H,2017/18
+JAM,13/03/2018,Arnett Gardens FC,Portmore United FC,2,2,D,2017/18
+JAM,18/03/2018,Montego Bay United FC,Portmore United FC,1,2,A,2017/18
+JAM,18/03/2018,Sandals South Coast,Uwi,1,4,A,2017/18
+JAM,18/03/2018,Waterhouse FC,Humble Lions,1,2,A,2017/18
+JAM,18/03/2018,Cavalier SC,Reno FC,4,0,H,2017/18
+JAM,18/03/2018,Tivoli Gardens FC,Boys Town FC,3,1,H,2017/18
+JAM,18/03/2018,Harbour View,Arnett Gardens FC,0,0,D,2017/18
+JAM,21/03/2018,Boys Town FC,Waterhouse FC,0,3,A,2017/18
+JAM,21/03/2018,Humble Lions,Montego Bay United FC,4,0,H,2017/18
+JAM,21/03/2018,Reno FC,Sandals South Coast,1,4,A,2017/18
+JAM,21/03/2018,Arnett Gardens FC,Cavalier SC,0,0,D,2017/18
+JAM,21/03/2018,Uwi,Tivoli Gardens FC,1,0,H,2017/18
+JAM,21/03/2018,Portmore United FC,Harbour View,0,1,A,2017/18
+JAM,02/04/2018,Cavalier SC,Tivoli Gardens FC,0,0,D,2017/18
+JAM,03/04/2018,Harbour View,Waterhouse FC,0,1,A,2017/18
+JAM,04/04/2018,Tivoli Gardens FC,Cavalier SC,0,2,A,2017/18
+JAM,06/04/2018,Waterhouse FC,Harbour View,2,1,H,2017/18
+JAM,09/04/2018,Cavalier SC,Portmore United FC,0,0,D,2017/18
+JAM,10/04/2018,Waterhouse FC,Arnett Gardens FC,1,0,H,2017/18
+JAM,15/04/2018,Portmore United FC,Cavalier SC,3,0,H,2017/18
+JAM,17/04/2018,Arnett Gardens FC,Waterhouse FC,1,2,A,2017/18
+JAM,16/09/2018,Reno FC,Cavalier SC,0,2,A,2018/19
+JAM,16/09/2018,Montego Bay United FC,Tivoli Gardens FC,0,2,A,2018/19
+JAM,16/09/2018,Portmore United FC,Mount Pleasant Academy,1,2,A,2018/19
+JAM,17/09/2018,Arnett Gardens FC,Humble Lions,2,1,H,2018/19
+JAM,18/09/2018,Waterhouse FC,Dunbeholden,1,0,H,2018/19
+JAM,20/09/2018,Uwi,Harbour View,2,2,D,2018/19
+JAM,23/09/2018,Cavalier SC,Arnett Gardens FC,2,1,H,2018/19
+JAM,23/09/2018,Dunbeholden,Montego Bay United FC,0,1,A,2018/19
+JAM,23/09/2018,Humble Lions,Uwi,0,1,A,2018/19
+JAM,23/09/2018,Mount Pleasant Academy,Waterhouse FC,1,0,H,2018/19
+JAM,23/09/2018,Tivoli Gardens FC,Reno FC,2,1,H,2018/19
+JAM,25/09/2018,Harbour View,Portmore United FC,0,2,A,2018/19
+JAM,30/09/2018,Portmore United FC,Humble Lions,0,0,D,2018/19
+JAM,30/09/2018,Tivoli Gardens FC,Dunbeholden,1,0,H,2018/19
+JAM,30/09/2018,Uwi,Cavalier SC,1,0,H,2018/19
+JAM,01/10/2018,Arnett Gardens FC,Reno FC,2,0,H,2018/19
+JAM,01/10/2018,Waterhouse FC,Harbour View,4,0,H,2018/19
+JAM,02/10/2018,Montego Bay United FC,Mount Pleasant Academy,1,1,D,2018/19
+JAM,07/10/2018,Reno FC,Uwi,1,0,H,2018/19
+JAM,07/10/2018,Humble Lions,Waterhouse FC,1,1,D,2018/19
+JAM,07/10/2018,Mount Pleasant Academy,Dunbeholden,0,1,A,2018/19
+JAM,08/10/2018,Cavalier SC,Portmore United FC,0,2,A,2018/19
+JAM,08/10/2018,Harbour View,Montego Bay United FC,1,2,A,2018/19
+JAM,09/10/2018,Arnett Gardens FC,Tivoli Gardens FC,1,0,H,2018/19
+JAM,14/10/2018,Dunbeholden,Harbour View,0,1,A,2018/19
+JAM,14/10/2018,Montego Bay United FC,Humble Lions,1,1,D,2018/19
+JAM,14/10/2018,Tivoli Gardens FC,Mount Pleasant Academy,0,1,A,2018/19
+JAM,14/10/2018,Uwi,Arnett Gardens FC,3,0,H,2018/19
+JAM,14/10/2018,Reno FC,Portmore United FC,0,2,A,2018/19
+JAM,16/10/2018,Waterhouse FC,Cavalier SC,2,2,D,2018/19
+JAM,21/10/2018,Reno FC,Waterhouse FC,1,0,H,2018/19
+JAM,21/10/2018,Humble Lions,Dunbeholden,3,4,A,2018/19
+JAM,21/10/2018,Uwi,Tivoli Gardens FC,0,1,A,2018/19
+JAM,22/10/2018,Cavalier SC,Montego Bay United FC,5,1,H,2018/19
+JAM,22/10/2018,Arnett Gardens FC,Portmore United FC,2,3,A,2018/19
+JAM,23/10/2018,Harbour View,Mount Pleasant Academy,1,2,A,2018/19
+JAM,28/10/2018,Dunbeholden,Cavalier SC,1,1,D,2018/19
+JAM,28/10/2018,Mount Pleasant Academy,Humble Lions,0,1,A,2018/19
+JAM,28/10/2018,Portmore United FC,Uwi,1,1,D,2018/19
+JAM,28/10/2018,Tivoli Gardens FC,Harbour View,1,1,D,2018/19
+JAM,29/10/2018,Waterhouse FC,Arnett Gardens FC,1,1,D,2018/19
+JAM,30/10/2018,Montego Bay United FC,Reno FC,0,0,D,2018/19
+JAM,04/11/2018,Reno FC,Dunbeholden,2,1,H,2018/19
+JAM,04/11/2018,Humble Lions,Harbour View,2,0,H,2018/19
+JAM,04/11/2018,Portmore United FC,Tivoli Gardens FC,0,1,A,2018/19
+JAM,04/11/2018,Cavalier SC,Mount Pleasant Academy,1,1,D,2018/19
+JAM,06/11/2018,Arnett Gardens FC,Montego Bay United FC,0,0,D,2018/19
+JAM,07/11/2018,Mount Pleasant Academy,Reno FC,1,0,H,2018/19
+JAM,08/11/2018,Harbour View,Cavalier SC,1,0,H,2018/19
+JAM,08/11/2018,Tivoli Gardens FC,Humble Lions,1,3,A,2018/19
+JAM,08/11/2018,Dunbeholden,Arnett Gardens FC,1,3,A,2018/19
+JAM,08/11/2018,Montego Bay United FC,Uwi,1,3,A,2018/19
+JAM,09/11/2018,Waterhouse FC,Portmore United FC,2,2,D,2018/19
+JAM,11/11/2018,Reno FC,Harbour View,0,0,D,2018/19
+JAM,11/11/2018,Portmore United FC,Montego Bay United FC,1,0,H,2018/19
+JAM,11/11/2018,Uwi,Dunbeholden,1,0,H,2018/19
+JAM,11/11/2018,Cavalier SC,Humble Lions,0,0,D,2018/19
+JAM,12/11/2018,Arnett Gardens FC,Mount Pleasant Academy,1,0,H,2018/19
+JAM,13/11/2018,Waterhouse FC,Tivoli Gardens FC,1,1,D,2018/19
+JAM,15/11/2018,Uwi,Waterhouse FC,0,1,A,2018/19
+JAM,18/11/2018,Dunbeholden,Portmore United FC,2,3,A,2018/19
+JAM,18/11/2018,Humble Lions,Reno FC,1,0,H,2018/19
+JAM,18/11/2018,Montego Bay United FC,Waterhouse FC,1,1,D,2018/19
+JAM,19/11/2018,Mount Pleasant Academy,Uwi,1,0,H,2018/19
+JAM,19/11/2018,Tivoli Gardens FC,Cavalier SC,0,2,A,2018/19
+JAM,20/11/2018,Harbour View,Arnett Gardens FC,1,1,D,2018/19
+JAM,25/11/2018,Dunbeholden,Humble Lions,1,1,D,2018/19
+JAM,25/11/2018,Reno FC,Portmore United FC,3,4,A,2018/19
+JAM,25/11/2018,Uwi,Waterhouse FC,0,2,A,2018/19
+JAM,26/11/2018,Tivoli Gardens FC,Harbour View,5,1,H,2018/19
+JAM,26/11/2018,Arnett Gardens FC,Montego Bay United FC,3,0,H,2018/19
+JAM,27/11/2018,Mount Pleasant Academy,Cavalier SC,0,1,A,2018/19
+JAM,28/11/2018,Portmore United FC,Tivoli Gardens FC,2,0,H,2018/19
+JAM,28/11/2018,Montego Bay United FC,Uwi,2,0,H,2018/19
+JAM,29/11/2018,Harbour View,Dunbeholden,1,1,D,2018/19
+JAM,29/11/2018,Waterhouse FC,Reno FC,2,0,H,2018/19
+JAM,29/11/2018,Humble Lions,Mount Pleasant Academy,0,0,D,2018/19
+JAM,29/11/2018,Cavalier SC,Arnett Gardens FC,0,0,D,2018/19
+JAM,02/12/2018,Reno FC,Montego Bay United FC,1,1,D,2018/19
+JAM,02/12/2018,Dunbeholden,Portmore United FC,0,1,A,2018/19
+JAM,02/12/2018,Uwi,Cavalier SC,0,1,A,2018/19
+JAM,02/12/2018,Humble Lions,Harbour View,2,2,D,2018/19
+JAM,03/12/2018,Tivoli Gardens FC,Waterhouse FC,1,2,A,2018/19
+JAM,04/12/2018,Arnett Gardens FC,Mount Pleasant Academy,0,0,D,2018/19
+JAM,09/12/2018,Portmore United FC,Harbour View,1,1,D,2018/19
+JAM,09/12/2018,Montego Bay United FC,Tivoli Gardens FC,0,0,D,2018/19
+JAM,09/12/2018,Mount Pleasant Academy,Uwi,2,0,H,2018/19
+JAM,09/12/2018,Cavalier SC,Reno FC,0,0,D,2018/19
+JAM,10/12/2018,Waterhouse FC,Dunbeholden,2,1,H,2018/19
+JAM,11/12/2018,Arnett Gardens FC,Humble Lions,3,0,H,2018/19
+JAM,12/12/2018,Dunbeholden,Montego Bay United FC,2,1,H,2018/19
+JAM,13/12/2018,Tivoli Gardens FC,Cavalier SC,0,1,A,2018/19
+JAM,13/12/2018,Harbour View,Waterhouse FC,1,5,A,2018/19
+JAM,13/12/2018,Humble Lions,Portmore United FC,1,1,D,2018/19
+JAM,13/12/2018,Reno FC,Mount Pleasant Academy,0,0,D,2018/19
+JAM,13/12/2018,Uwi,Arnett Gardens FC,3,1,H,2018/19
+JAM,16/12/2018,Uwi,Humble Lions,1,0,H,2018/19
+JAM,16/12/2018,Mount Pleasant Academy,Tivoli Gardens FC,1,1,D,2018/19
+JAM,16/12/2018,Cavalier SC,Dunbeholden,1,1,D,2018/19
+JAM,17/12/2018,Waterhouse FC,Portmore United FC,1,1,D,2018/19
+JAM,17/12/2018,Arnett Gardens FC,Reno FC,1,1,D,2018/19
+JAM,18/12/2018,Montego Bay United FC,Harbour View,0,3,A,2018/19
+JAM,19/12/2018,Reno FC,Uwi,1,1,D,2018/19
+JAM,23/12/2018,Uwi,Tivoli Gardens FC,0,2,A,2018/19
+JAM,23/12/2018,Montego Bay United FC,Waterhouse FC,0,3,A,2018/19
+JAM,23/12/2018,Reno FC,Humble Lions,2,2,D,2018/19
+JAM,23/12/2018,Mount Pleasant Academy,Harbour View,0,2,A,2018/19
+JAM,23/12/2018,Cavalier SC,Portmore United FC,2,1,H,2018/19
+JAM,25/12/2018,Arnett Gardens FC,Dunbeholden,2,0,H,2018/19
+JAM,06/01/2019,Portmore United FC,Mount Pleasant Academy,1,0,H,2018/19
+JAM,06/01/2019,Dunbeholden,Uwi,0,1,A,2018/19
+JAM,06/01/2019,Humble Lions,Montego Bay United FC,2,1,H,2018/19
+JAM,07/01/2019,Tivoli Gardens FC,Reno FC,0,1,A,2018/19
+JAM,07/01/2019,Harbour View,Arnett Gardens FC,0,0,D,2018/19
+JAM,08/01/2019,Waterhouse FC,Cavalier SC,0,1,A,2018/19
+JAM,09/01/2019,Uwi,Harbour View,0,1,A,2018/19
+JAM,09/01/2019,Reno FC,Dunbeholden,0,3,A,2018/19
+JAM,10/01/2019,Tivoli Gardens FC,Humble Lions,2,0,H,2018/19
+JAM,10/01/2019,Arnett Gardens FC,Portmore United FC,0,1,A,2018/19
+JAM,10/01/2019,Mount Pleasant Academy,Waterhouse FC,2,0,H,2018/19
+JAM,10/01/2019,Cavalier SC,Montego Bay United FC,2,1,H,2018/19
+JAM,13/01/2019,Dunbeholden,Tivoli Gardens FC,2,1,H,2018/19
+JAM,13/01/2019,Montego Bay United FC,Mount Pleasant Academy,1,0,H,2018/19
+JAM,13/01/2019,Humble Lions,Cavalier SC,2,0,H,2018/19
+JAM,13/01/2019,Portmore United FC,Uwi,1,2,A,2018/19
+JAM,14/01/2019,Harbour View,Reno FC,1,1,D,2018/19
+JAM,15/01/2019,Waterhouse FC,Arnett Gardens FC,1,0,H,2018/19
+JAM,16/01/2019,Dunbeholden,Mount Pleasant Academy,0,2,A,2018/19
+JAM,16/01/2019,Portmore United FC,Montego Bay United FC,1,0,H,2018/19
+JAM,17/01/2019,Harbour View,Cavalier SC,0,2,A,2018/19
+JAM,17/01/2019,Humble Lions,Waterhouse FC,0,1,A,2018/19
+JAM,18/01/2019,Tivoli Gardens FC,Arnett Gardens FC,0,2,A,2018/19
+JAM,20/01/2019,Mount Pleasant Academy,Portmore United FC,1,1,D,2018/19
+JAM,20/01/2019,Dunbeholden,Waterhouse FC,0,0,D,2018/19
+JAM,20/01/2019,Humble Lions,Arnett Gardens FC,2,1,H,2018/19
+JAM,20/01/2019,Cavalier SC,Reno FC,0,0,D,2018/19
+JAM,21/01/2019,Tivoli Gardens FC,Montego Bay United FC,2,1,H,2018/19
+JAM,22/01/2019,Harbour View,Uwi,0,1,A,2018/19
+JAM,27/01/2019,Montego Bay United FC,Dunbeholden,2,3,A,2018/19
+JAM,27/01/2019,Reno FC,Tivoli Gardens FC,0,4,A,2018/19
+JAM,27/01/2019,Portmore United FC,Harbour View,0,0,D,2018/19
+JAM,27/01/2019,Uwi,Humble Lions,2,1,H,2018/19
+JAM,28/01/2019,Waterhouse FC,Mount Pleasant Academy,0,0,D,2018/19
+JAM,29/01/2019,Arnett Gardens FC,Cavalier SC,1,3,A,2018/19
+JAM,03/02/2019,Humble Lions,Portmore United FC,0,2,A,2018/19
+JAM,03/02/2019,Dunbeholden,Tivoli Gardens FC,1,1,D,2018/19
+JAM,03/02/2019,Mount Pleasant Academy,Montego Bay United FC,2,0,H,2018/19
+JAM,03/02/2019,Reno FC,Arnett Gardens FC,1,2,A,2018/19
+JAM,04/02/2019,Harbour View,Waterhouse FC,1,3,A,2018/19
+JAM,05/02/2019,Cavalier SC,Uwi,1,1,D,2018/19
+JAM,10/02/2019,Portmore United FC,Cavalier SC,1,0,H,2018/19
+JAM,10/02/2019,Mount Pleasant Academy,Dunbeholden,2,1,H,2018/19
+JAM,10/02/2019,Montego Bay United FC,Harbour View,3,3,D,2018/19
+JAM,10/02/2019,Uwi,Reno FC,2,2,D,2018/19
+JAM,11/02/2019,Tivoli Gardens FC,Arnett Gardens FC,0,3,A,2018/19
+JAM,12/02/2019,Waterhouse FC,Humble Lions,3,2,H,2018/19
+JAM,17/02/2019,Reno FC,Portmore United FC,2,4,A,2018/19
+JAM,17/02/2019,Mount Pleasant Academy,Tivoli Gardens FC,2,1,H,2018/19
+JAM,17/02/2019,Humble Lions,Montego Bay United FC,1,1,D,2018/19
+JAM,18/02/2019,Arnett Gardens FC,Uwi,2,2,D,2018/19
+JAM,18/02/2019,Harbour View,Dunbeholden,1,1,D,2018/19
+JAM,19/02/2019,Cavalier SC,Waterhouse FC,1,0,H,2018/19
+JAM,24/02/2019,Montego Bay United FC,Cavalier SC,2,1,H,2018/19
+JAM,24/02/2019,Portmore United FC,Arnett Gardens FC,3,0,H,2018/19
+JAM,24/02/2019,Mount Pleasant Academy,Harbour View,2,1,H,2018/19
+JAM,24/02/2019,Dunbeholden,Humble Lions,2,1,H,2018/19
+JAM,25/02/2019,Tivoli Gardens FC,Uwi,0,1,A,2018/19
+JAM,26/02/2019,Waterhouse FC,Reno FC,1,0,H,2018/19
+JAM,03/03/2019,Uwi,Portmore United FC,0,1,A,2018/19
+JAM,03/03/2019,Humble Lions,Mount Pleasant Academy,0,1,A,2018/19
+JAM,03/03/2019,Reno FC,Montego Bay United FC,1,2,A,2018/19
+JAM,03/03/2019,Cavalier SC,Dunbeholden,1,1,D,2018/19
+JAM,04/03/2019,Harbour View,Tivoli Gardens FC,1,1,D,2018/19
+JAM,05/03/2019,Arnett Gardens FC,Waterhouse FC,0,1,A,2018/19
+JAM,10/03/2019,Dunbeholden,Reno FC,3,0,H,2018/19
+JAM,10/03/2019,Montego Bay United FC,Arnett Gardens FC,1,2,A,2018/19
+JAM,10/03/2019,Mount Pleasant Academy,Cavalier SC,0,0,D,2018/19
+JAM,11/03/2019,Tivoli Gardens FC,Portmore United FC,3,2,H,2018/19
+JAM,11/03/2019,Harbour View,Humble Lions,1,0,H,2018/19
+JAM,12/03/2019,Waterhouse FC,Uwi,0,0,D,2018/19
+JAM,14/03/2019,Reno FC,Mount Pleasant Academy,2,3,A,2018/19
+JAM,14/03/2019,Humble Lions,Tivoli Gardens FC,2,0,H,2018/19
+JAM,14/03/2019,Uwi,Montego Bay United FC,1,2,A,2018/19
+JAM,14/03/2019,Portmore United FC,Waterhouse FC,0,0,D,2018/19
+JAM,14/03/2019,Cavalier SC,Harbour View,1,2,A,2018/19
+JAM,14/03/2019,Arnett Gardens FC,Dunbeholden,0,0,D,2018/19
+JAM,17/03/2019,Humble Lions,Cavalier SC,1,1,D,2018/19
+JAM,17/03/2019,Mount Pleasant Academy,Arnett Gardens FC,1,0,H,2018/19
+JAM,17/03/2019,Tivoli Gardens FC,Waterhouse FC,2,4,A,2018/19
+JAM,17/03/2019,Dunbeholden,Uwi,0,2,A,2018/19
+JAM,17/03/2019,Montego Bay United FC,Portmore United FC,1,5,A,2018/19
+JAM,17/03/2019,Harbour View,Reno FC,1,1,D,2018/19
+JAM,20/03/2019,Uwi,Mount Pleasant Academy,0,1,A,2018/19
+JAM,20/03/2019,Portmore United FC,Dunbeholden,2,0,H,2018/19
+JAM,20/03/2019,Cavalier SC,Tivoli Gardens FC,3,0,H,2018/19
+JAM,20/03/2019,Waterhouse FC,Montego Bay United FC,2,1,H,2018/19
+JAM,20/03/2019,Arnett Gardens FC,Harbour View,2,1,H,2018/19
+JAM,24/03/2019,Uwi,Mount Pleasant Academy,2,2,D,2018/19
+JAM,25/03/2019,Arnett Gardens FC,Cavalier SC,0,3,A,2018/19
+JAM,31/03/2019,Mount Pleasant Academy,Uwi,1,0,H,2018/19
+JAM,02/04/2019,Cavalier SC,Arnett Gardens FC,0,0,D,2018/19
+JAM,09/04/2019,Mount Pleasant Academy,Portmore United FC,1,2,A,2018/19
+JAM,09/04/2019,Cavalier SC,Waterhouse FC,0,2,A,2018/19
+JAM,16/04/2019,Waterhouse FC,Cavalier SC,1,0,H,2018/19
+JAM,16/04/2019,Portmore United FC,Mount Pleasant Academy,1,1,D,2018/19
+JAM,30/04/2019,Mount Pleasant Academy,Cavalier SC,0,1,A,2018/19
+JAM,30/04/2019,Portmore United FC,Waterhouse FC,1,0,H,2018/19
+JAM,01/09/2019,Uwi,Tivoli Gardens FC,4,0,H,2019/20
+JAM,01/09/2019,Mount Pleasant Academy,Harbour View,1,2,A,2019/20
+JAM,02/09/2019,Cavalier SC,Dunbeholden,3,1,H,2019/20
+JAM,02/09/2019,Arnett Gardens FC,Humble Lions,1,3,A,2019/20
+JAM,03/09/2019,Portmore United FC,Molynes United,0,3,A,2019/20
+JAM,08/09/2019,Dunbeholden,Waterhouse FC,0,1,A,2019/20
+JAM,08/09/2019,Humble Lions,Mount Pleasant Academy,1,1,D,2019/20
+JAM,08/09/2019,Molynes United,Uwi,3,2,H,2019/20
+JAM,08/09/2019,Tivoli Gardens FC,Arnett Gardens FC,0,1,A,2019/20
+JAM,08/09/2019,Jamalco,Portmore United FC,2,0,H,2019/20
+JAM,10/09/2019,Harbour View,Cavalier SC,3,0,H,2019/20
+JAM,13/09/2019,Waterhouse FC,Jamalco,2,0,H,2019/20
+JAM,15/09/2019,Portmore United FC,Dunbeholden,0,1,A,2019/20
+JAM,15/09/2019,Jamalco,Molynes United,0,1,A,2019/20
+JAM,15/09/2019,Mount Pleasant Academy,Tivoli Gardens FC,1,0,H,2019/20
+JAM,16/09/2019,Cavalier SC,Humble Lions,1,1,D,2019/20
+JAM,16/09/2019,Waterhouse FC,Harbour View,7,0,H,2019/20
+JAM,17/09/2019,Arnett Gardens FC,Uwi,0,0,D,2019/20
+JAM,22/09/2019,Dunbeholden,Jamalco,2,0,H,2019/20
+JAM,22/09/2019,Humble Lions,Waterhouse FC,0,0,D,2019/20
+JAM,22/09/2019,Molynes United,Arnett Gardens FC,2,1,H,2019/20
+JAM,22/09/2019,Tivoli Gardens FC,Cavalier SC,2,0,H,2019/20
+JAM,23/09/2019,Harbour View,Portmore United FC,1,2,A,2019/20
+JAM,24/09/2019,Uwi,Mount Pleasant Academy,0,0,D,2019/20
+JAM,29/09/2019,Dunbeholden,Molynes United,0,1,A,2019/20
+JAM,29/09/2019,Portmore United FC,Humble Lions,2,0,H,2019/20
+JAM,29/09/2019,Jamalco,Harbour View,1,1,D,2019/20
+JAM,29/09/2019,Mount Pleasant Academy,Arnett Gardens FC,2,2,D,2019/20
+JAM,30/09/2019,Cavalier SC,Uwi,4,0,H,2019/20
+JAM,06/10/2019,Humble Lions,Jamalco,1,0,H,2019/20
+JAM,06/10/2019,Tivoli Gardens FC,Portmore United FC,1,1,D,2019/20
+JAM,06/10/2019,Uwi,Waterhouse FC,0,2,A,2019/20
+JAM,07/10/2019,Molynes United,Mount Pleasant Academy,1,0,H,2019/20
+JAM,07/10/2019,Arnett Gardens FC,Cavalier SC,2,0,H,2019/20
+JAM,08/10/2019,Harbour View,Dunbeholden,1,0,H,2019/20
+JAM,11/10/2019,Waterhouse FC,Tivoli Gardens FC,2,1,H,2019/20
+JAM,13/10/2019,Dunbeholden,Humble Lions,0,0,D,2019/20
+JAM,13/10/2019,Portmore United FC,Uwi,2,1,H,2019/20
+JAM,13/10/2019,Jamalco,Tivoli Gardens FC,1,1,D,2019/20
+JAM,14/10/2019,Harbour View,Molynes United,0,0,D,2019/20
+JAM,14/10/2019,Waterhouse FC,Arnett Gardens FC,3,1,H,2019/20
+JAM,15/10/2019,Cavalier SC,Mount Pleasant Academy,2,2,D,2019/20
+JAM,20/10/2019,Humble Lions,Harbour View,0,0,D,2019/20
+JAM,20/10/2019,Molynes United,Cavalier SC,1,3,A,2019/20
+JAM,20/10/2019,Tivoli Gardens FC,Dunbeholden,1,0,H,2019/20
+JAM,20/10/2019,Uwi,Jamalco,1,1,D,2019/20
+JAM,20/10/2019,Mount Pleasant Academy,Waterhouse FC,3,1,H,2019/20
+JAM,22/10/2019,Arnett Gardens FC,Portmore United FC,1,0,H,2019/20
+JAM,27/10/2019,Dunbeholden,Uwi,1,0,H,2019/20
+JAM,27/10/2019,Humble Lions,Molynes United,2,1,H,2019/20
+JAM,27/10/2019,Jamalco,Arnett Gardens FC,1,1,D,2019/20
+JAM,28/10/2019,Harbour View,Tivoli Gardens FC,1,0,H,2019/20
+JAM,29/10/2019,Waterhouse FC,Cavalier SC,0,0,D,2019/20
+JAM,30/10/2019,Portmore United FC,Mount Pleasant Academy,0,2,A,2019/20
+JAM,03/11/2019,Molynes United,Waterhouse FC,1,2,A,2019/20
+JAM,03/11/2019,Mount Pleasant Academy,Jamalco,2,1,H,2019/20
+JAM,03/11/2019,Tivoli Gardens FC,Humble Lions,1,2,A,2019/20
+JAM,03/11/2019,Uwi,Harbour View,2,2,D,2019/20
+JAM,03/11/2019,Cavalier SC,Portmore United FC,0,0,D,2019/20
+JAM,05/11/2019,Arnett Gardens FC,Dunbeholden,2,2,D,2019/20
+JAM,10/11/2019,Dunbeholden,Mount Pleasant Academy,0,1,A,2019/20
+JAM,10/11/2019,Humble Lions,Uwi,1,1,D,2019/20
+JAM,10/11/2019,Portmore United FC,Waterhouse FC,1,1,D,2019/20
+JAM,10/11/2019,Tivoli Gardens FC,Molynes United,1,1,D,2019/20
+JAM,10/11/2019,Jamalco,Cavalier SC,0,0,D,2019/20
+JAM,12/11/2019,Harbour View,Arnett Gardens FC,0,3,A,2019/20
+JAM,17/11/2019,Molynes United,Uwi,1,2,A,2019/20
+JAM,17/11/2019,Dunbeholden,Jamalco,2,1,H,2019/20
+JAM,17/11/2019,Mount Pleasant Academy,Humble Lions,2,1,H,2019/20
+JAM,17/11/2019,Tivoli Gardens FC,Portmore United FC,0,1,A,2019/20
+JAM,18/11/2019,Waterhouse FC,Harbour View,3,1,H,2019/20
+JAM,18/11/2019,Cavalier SC,Arnett Gardens FC,2,4,A,2019/20
+JAM,24/11/2019,Uwi,Cavalier SC,1,1,D,2019/20
+JAM,24/11/2019,Jamalco,Molynes United,3,0,H,2019/20
+JAM,24/11/2019,Humble Lions,Waterhouse FC,1,2,A,2019/20
+JAM,24/11/2019,Portmore United FC,Mount Pleasant Academy,2,0,H,2019/20
+JAM,25/11/2019,Harbour View,Dunbeholden,1,2,A,2019/20
+JAM,26/11/2019,Arnett Gardens FC,Tivoli Gardens FC,1,3,A,2019/20
+JAM,27/11/2019,Molynes United,Harbour View,0,1,A,2019/20
+JAM,27/11/2019,Dunbeholden,Humble Lions,1,1,D,2019/20
+JAM,27/11/2019,Cavalier SC,Jamalco,6,1,H,2019/20
+JAM,28/11/2019,Waterhouse FC,Portmore United FC,4,1,H,2019/20
+JAM,28/11/2019,Mount Pleasant Academy,Tivoli Gardens FC,4,0,H,2019/20
+JAM,28/11/2019,Uwi,Arnett Gardens FC,2,4,A,2019/20
+JAM,01/12/2019,Humble Lions,Molynes United,1,0,H,2019/20
+JAM,01/12/2019,Portmore United FC,Dunbeholden,1,2,A,2019/20
+JAM,01/12/2019,Jamalco,Uwi,0,0,D,2019/20
+JAM,02/12/2019,Harbour View,Cavalier SC,1,2,A,2019/20
+JAM,03/12/2019,Arnett Gardens FC,Mount Pleasant Academy,1,0,H,2019/20
+JAM,07/12/2019,Waterhouse FC,Mount Pleasant Academy,1,2,A,2019/20
+JAM,08/12/2019,Molynes United,Portmore United FC,0,2,A,2019/20
+JAM,08/12/2019,Dunbeholden,Tivoli Gardens FC,0,1,A,2019/20
+JAM,08/12/2019,Uwi,Harbour View,1,1,D,2019/20
+JAM,08/12/2019,Jamalco,Arnett Gardens FC,1,1,D,2019/20
+JAM,10/12/2019,Cavalier SC,Humble Lions,1,1,D,2019/20
+JAM,11/12/2019,Tivoli Gardens FC,Molynes United,2,0,H,2019/20
+JAM,12/12/2019,Arnett Gardens FC,Waterhouse FC,1,1,D,2019/20
+JAM,12/12/2019,Harbour View,Jamalco,2,0,H,2019/20
+JAM,12/12/2019,Portmore United FC,Cavalier SC,2,1,H,2019/20
+JAM,12/12/2019,Humble Lions,Uwi,2,0,H,2019/20
+JAM,13/12/2019,Mount Pleasant Academy,Dunbeholden,2,1,H,2019/20
+JAM,15/12/2019,Molynes United,Mount Pleasant Academy,1,4,A,2019/20
+JAM,15/12/2019,Dunbeholden,Waterhouse FC,1,1,D,2019/20
+JAM,15/12/2019,Uwi,Portmore United FC,1,2,A,2019/20
+JAM,15/12/2019,Jamalco,Humble Lions,1,1,D,2019/20
+JAM,16/12/2019,Harbour View,Arnett Gardens FC,1,2,A,2019/20
+JAM,17/12/2019,Cavalier SC,Tivoli Gardens FC,2,3,A,2019/20
+JAM,19/12/2019,Tivoli Gardens FC,Waterhouse FC,0,1,A,2019/20
+JAM,22/12/2019,Tivoli Gardens FC,Uwi,2,2,D,2019/20
+JAM,22/12/2019,Portmore United FC,Jamalco,3,1,H,2019/20
+JAM,22/12/2019,Humble Lions,Harbour View,1,0,H,2019/20
+JAM,23/12/2019,Mount Pleasant Academy,Cavalier SC,0,1,A,2019/20
+JAM,23/12/2019,Arnett Gardens FC,Dunbeholden,0,3,A,2019/20
+JAM,24/12/2019,Waterhouse FC,Molynes United,1,2,A,2019/20
+JAM,29/12/2019,Molynes United,Dunbeholden,2,3,A,2019/20
+JAM,29/12/2019,Jamalco,Tivoli Gardens FC,1,1,D,2019/20
+JAM,29/12/2019,Humble Lions,Arnett Gardens FC,1,2,A,2019/20
+JAM,30/12/2019,Harbour View,Portmore United FC,1,0,H,2019/20
+JAM,30/12/2019,Cavalier SC,Waterhouse FC,1,0,H,2019/20
+JAM,31/12/2019,Uwi,Mount Pleasant Academy,0,3,A,2019/20
+JAM,05/01/2020,Dunbeholden,Cavalier SC,2,0,H,2019/20
+JAM,05/01/2020,Tivoli Gardens FC,Harbour View,3,0,H,2019/20
+JAM,05/01/2020,Portmore United FC,Humble Lions,0,2,A,2019/20
+JAM,06/01/2020,Waterhouse FC,Uwi,2,2,D,2019/20
+JAM,06/01/2020,Mount Pleasant Academy,Jamalco,2,0,H,2019/20
+JAM,07/01/2020,Arnett Gardens FC,Molynes United,2,2,D,2019/20
+JAM,12/01/2020,Uwi,Dunbeholden,0,0,D,2019/20
+JAM,12/01/2020,Jamalco,Waterhouse FC,0,0,D,2019/20
+JAM,12/01/2020,Portmore United FC,Arnett Gardens FC,2,0,H,2019/20
+JAM,12/01/2020,Cavalier SC,Molynes United,4,0,H,2019/20
+JAM,12/01/2020,Humble Lions,Tivoli Gardens FC,0,3,A,2019/20
+JAM,14/01/2020,Harbour View,Mount Pleasant Academy,1,0,H,2019/20
+JAM,19/01/2020,Dunbeholden,Cavalier SC,1,0,H,2019/20
+JAM,19/01/2020,Molynes United,Portmore United FC,0,2,A,2019/20
+JAM,19/01/2020,Tivoli Gardens FC,Uwi,1,0,H,2019/20
+JAM,19/01/2020,Jamalco,Waterhouse FC,0,1,A,2019/20
+JAM,19/01/2020,Humble Lions,Arnett Gardens FC,3,1,H,2019/20
+JAM,21/01/2020,Harbour View,Mount Pleasant Academy,1,1,D,2019/20
+JAM,25/01/2020,Waterhouse FC,Dunbeholden,3,1,H,2019/20
+JAM,26/01/2020,Portmore United FC,Jamalco,5,0,H,2019/20
+JAM,26/01/2020,Uwi,Molynes United,1,1,D,2019/20
+JAM,26/01/2020,Cavalier SC,Harbour View,1,1,D,2019/20
+JAM,27/01/2020,Arnett Gardens FC,Tivoli Gardens FC,1,1,D,2019/20
+JAM,28/01/2020,Mount Pleasant Academy,Humble Lions,0,1,A,2019/20
+JAM,30/01/2020,Dunbeholden,Portmore United FC,1,4,A,2019/20
+JAM,30/01/2020,Molynes United,Jamalco,1,1,D,2019/20
+JAM,30/01/2020,Tivoli Gardens FC,Mount Pleasant Academy,0,2,A,2019/20
+JAM,30/01/2020,Uwi,Arnett Gardens FC,1,3,A,2019/20
+JAM,30/01/2020,Humble Lions,Cavalier SC,2,1,H,2019/20
+JAM,13/02/2020,Harbour View,Waterhouse FC,1,1,D,2019/20
+JAM,16/02/2020,Jamalco,Dunbeholden,1,1,D,2019/20
+JAM,17/02/2020,Mount Pleasant Academy,Uwi,3,0,H,2019/20
+JAM,17/02/2020,Waterhouse FC,Humble Lions,1,0,H,2019/20
+JAM,17/02/2020,Arnett Gardens FC,Molynes United,0,3,A,2019/20
+JAM,18/02/2020,Cavalier SC,Tivoli Gardens FC,1,1,D,2019/20
+JAM,23/02/2020,Molynes United,Dunbeholden,2,4,A,2019/20
+JAM,23/02/2020,Tivoli Gardens FC,Waterhouse FC,4,3,H,2019/20
+JAM,23/02/2020,Uwi,Cavalier SC,0,3,A,2019/20
+JAM,24/02/2020,Arnett Gardens FC,Mount Pleasant Academy,0,2,A,2019/20
+JAM,25/02/2020,Harbour View,Jamalco,3,0,H,2019/20
+JAM,01/03/2020,Dunbeholden,Harbour View,2,0,H,2019/20
+JAM,01/03/2020,Portmore United FC,Tivoli Gardens FC,0,1,A,2019/20
+JAM,01/03/2020,Jamalco,Humble Lions,0,1,A,2019/20
+JAM,02/03/2020,Mount Pleasant Academy,Molynes United,1,0,H,2019/20
+JAM,02/03/2020,Waterhouse FC,Uwi,3,1,H,2019/20
+JAM,03/03/2020,Cavalier SC,Arnett Gardens FC,0,1,A,2019/20
+JAM,05/03/2020,Portmore United FC,Harbour View,0,0,D,2019/20
+JAM,08/03/2020,Molynes United,Harbour View,0,2,A,2019/20
+JAM,08/03/2020,Tivoli Gardens FC,Jamalco,5,1,H,2019/20
+JAM,08/03/2020,Uwi,Portmore United FC,1,3,A,2019/20
+JAM,08/03/2020,Humble Lions,Dunbeholden,0,0,D,2019/20
+JAM,09/03/2020,Mount Pleasant Academy,Cavalier SC,0,1,A,2019/20
+JAM,10/03/2020,Arnett Gardens FC,Waterhouse FC,1,1,D,2019/20
+JAM,26/06/2021,Mount Pleasant Academy,Tivoli Gardens FC,0,0,D,2020/21
+JAM,26/06/2021,Cavalier SC,Humble Lions,2,0,H,2020/21
+JAM,27/06/2021,Portmore United FC,Dunbeholden,2,0,H,2020/21
+JAM,28/06/2021,Jamalco,Molynes United,0,0,D,2020/21
+JAM,28/06/2021,Waterhouse FC,Harbour View,1,1,D,2020/21
+JAM,03/07/2021,Humble Lions,Mount Pleasant Academy,0,1,A,2021/22
+JAM,03/07/2021,Dunbeholden,Waterhouse FC,0,2,A,2021/22
+JAM,05/07/2021,Harbour View,Cavalier SC,1,1,D,2021/22
+JAM,06/07/2021,Tivoli Gardens FC,Arnett Gardens FC,1,0,H,2021/22
+JAM,06/07/2021,Jamalco,Portmore United FC,1,0,H,2021/22
+JAM,10/07/2021,Portmore United FC,Molynes United,1,0,H,2021/22
+JAM,10/07/2021,Mount Pleasant Academy,Harbour View,0,2,A,2021/22
+JAM,11/07/2021,Cavalier SC,Dunbeholden,0,1,A,2021/22
+JAM,11/07/2021,Waterhouse FC,Jamalco,0,0,D,2021/22
+JAM,12/07/2021,Arnett Gardens FC,Humble Lions,2,1,H,2021/22
+JAM,17/07/2021,Arnett Gardens FC,Cavalier SC,0,3,A,2021/22
+JAM,17/07/2021,Harbour View,Dunbeholden,2,0,H,2021/22
+JAM,18/07/2021,Humble Lions,Jamalco,1,3,A,2021/22
+JAM,18/07/2021,Molynes United,Mount Pleasant Academy,2,2,D,2021/22
+JAM,19/07/2021,Tivoli Gardens FC,Portmore United FC,1,3,A,2021/22
+JAM,24/07/2021,Jamalco,Harbour View,3,2,H,2021/22
+JAM,24/07/2021,Dunbeholden,Molynes United,3,1,H,2021/22
+JAM,25/07/2021,Portmore United FC,Humble Lions,3,0,H,2021/22
+JAM,25/07/2021,Mount Pleasant Academy,Arnett Gardens FC,1,0,H,2021/22
+JAM,26/07/2021,Waterhouse FC,Tivoli Gardens FC,1,1,D,2021/22
+JAM,31/07/2021,Humble Lions,Waterhouse FC,2,1,H,2021/22
+JAM,31/07/2021,Harbour View,Portmore United FC,1,1,D,2021/22
+JAM,01/08/2021,Dunbeholden,Jamalco,2,1,H,2021/22
+JAM,01/08/2021,Tivoli Gardens FC,Cavalier SC,1,1,D,2021/22
+JAM,02/08/2021,Molynes United,Arnett Gardens FC,1,1,D,2021/22
+JAM,07/08/2021,Harbour View,Tivoli Gardens FC,1,3,A,2021/22
+JAM,07/08/2021,Humble Lions,Molynes United,0,1,A,2021/22
+JAM,08/08/2021,Portmore United FC,Mount Pleasant Academy,0,1,A,2021/22
+JAM,09/08/2021,Waterhouse FC,Cavalier SC,2,2,D,2021/22
+JAM,09/08/2021,Jamalco,Arnett Gardens FC,1,0,H,2021/22
+JAM,14/08/2021,Molynes United,Cavalier SC,1,3,A,2021/22
+JAM,14/08/2021,Mount Pleasant Academy,Waterhouse FC,0,2,A,2021/22
+JAM,15/08/2021,Humble Lions,Harbour View,2,0,H,2021/22
+JAM,15/08/2021,Arnett Gardens FC,Portmore United FC,3,1,H,2021/22
+JAM,16/08/2021,Tivoli Gardens FC,Dunbeholden,1,1,D,2021/22
+JAM,27/08/2021,Harbour View,Molynes United,1,0,H,2021/22
+JAM,27/08/2021,Dunbeholden,Humble Lions,2,1,H,2021/22
+JAM,27/08/2021,Cavalier SC,Mount Pleasant Academy,2,3,A,2021/22
+JAM,28/08/2021,Jamalco,Tivoli Gardens FC,0,1,A,2021/22
+JAM,28/08/2021,Waterhouse FC,Arnett Gardens FC,4,1,H,2021/22
+JAM,03/09/2021,Molynes United,Waterhouse FC,1,4,A,2021/22
+JAM,03/09/2021,Cavalier SC,Portmore United FC,1,0,H,2021/22
+JAM,03/09/2021,Mount Pleasant Academy,Jamalco,0,0,D,2021/22
+JAM,04/09/2021,Arnett Gardens FC,Dunbeholden,1,1,D,2021/22
+JAM,04/09/2021,Tivoli Gardens FC,Humble Lions,4,3,H,2021/22
+JAM,10/09/2021,Portmore United FC,Waterhouse FC,0,1,A,2021/22
+JAM,10/09/2021,Dunbeholden,Mount Pleasant Academy,2,5,A,2021/22
+JAM,10/09/2021,Harbour View,Arnett Gardens FC,1,0,H,2021/22
+JAM,11/09/2021,Tivoli Gardens FC,Molynes United,1,1,D,2021/22
+JAM,11/09/2021,Jamalco,Cavalier SC,0,1,A,2021/22
+JAM,18/09/2021,Harbour View,Mount Pleasant Academy,1,3,A,2021/22
+JAM,18/09/2021,Jamalco,Tivoli Gardens FC,0,0,D,2021/22
+JAM,22/09/2021,Tivoli Gardens FC,Jamalco,4,0,H,2021/22
+JAM,22/09/2021,Mount Pleasant Academy,Harbour View,1,1,D,2021/22
+JAM,25/09/2021,Tivoli Gardens FC,Cavalier SC,0,1,A,2021/22
+JAM,25/09/2021,Mount Pleasant Academy,Waterhouse FC,0,1,A,2021/22
+JAM,29/09/2021,Waterhouse FC,Mount Pleasant Academy,1,1,D,2021/22
+JAM,29/09/2021,Cavalier SC,Tivoli Gardens FC,0,0,D,2021/22
+JAM,16/01/2022,Arnett Gardens FC,Cavalier SC,1,2,A,2021/22
+JAM,16/01/2022,Waterhouse FC,Montego Bay United FC,2,1,H,2021/22
+JAM,17/01/2022,Jamalco,Dunbeholden,1,2,A,2021/22
+JAM,17/01/2022,Tivoli Gardens FC,Portmore United FC,1,1,D,2021/22
+JAM,18/01/2022,Harbour View,Molynes United,2,2,D,2021/22
+JAM,18/01/2022,Mount Pleasant Academy,Humble Lions,5,1,H,2021/22
+JAM,23/01/2022,Humble Lions,Tivoli Gardens FC,2,2,D,2021/22
+JAM,23/01/2022,Mount Pleasant Academy,Harbour View,1,0,H,2021/22
+JAM,24/01/2022,Cavalier SC,Waterhouse FC,0,3,A,2021/22
+JAM,24/01/2022,Dunbeholden,Montego Bay United FC,3,0,H,2021/22
+JAM,25/01/2022,Portmore United FC,Arnett Gardens FC,1,2,A,2021/22
+JAM,25/01/2022,Molynes United,Jamalco,0,1,A,2021/22
+JAM,30/01/2022,Waterhouse FC,Dunbeholden,4,1,H,2021/22
+JAM,30/01/2022,Cavalier SC,Portmore United FC,0,1,A,2021/22
+JAM,31/01/2022,Jamalco,Mount Pleasant Academy,0,1,A,2021/22
+JAM,31/01/2022,Montego Bay United FC,Molynes United,4,1,H,2021/22
+JAM,01/02/2022,Tivoli Gardens FC,Harbour View,1,2,A,2021/22
+JAM,01/02/2022,Arnett Gardens FC,Humble Lions,2,2,D,2021/22
+JAM,05/02/2022,Tivoli Gardens FC,Jamalco,3,0,H,2021/22
+JAM,05/02/2022,Harbour View,Arnett Gardens FC,1,1,D,2021/22
+JAM,06/02/2022,Portmore United FC,Waterhouse FC,0,4,A,2021/22
+JAM,06/02/2022,Mount Pleasant Academy,Montego Bay United FC,4,0,H,2021/22
+JAM,07/02/2022,Molynes United,Dunbeholden,0,1,A,2021/22
+JAM,07/02/2022,Humble Lions,Cavalier SC,0,1,A,2021/22
+JAM,12/02/2022,Waterhouse FC,Molynes United,0,2,A,2021/22
+JAM,12/02/2022,Portmore United FC,Humble Lions,1,1,D,2021/22
+JAM,13/02/2022,Dunbeholden,Mount Pleasant Academy,1,1,D,2021/22
+JAM,13/02/2022,Cavalier SC,Harbour View,1,0,H,2021/22
+JAM,14/02/2022,Arnett Gardens FC,Jamalco,2,1,H,2021/22
+JAM,14/02/2022,Montego Bay United FC,Tivoli Gardens FC,1,1,D,2021/22
+JAM,19/02/2022,Jamalco,Cavalier SC,1,0,H,2021/22
+JAM,19/02/2022,Arnett Gardens FC,Montego Bay United FC,3,1,H,2021/22
+JAM,20/02/2022,Humble Lions,Waterhouse FC,1,1,D,2021/22
+JAM,20/02/2022,Mount Pleasant Academy,Molynes United,4,1,H,2021/22
+JAM,21/02/2022,Harbour View,Portmore United FC,2,0,H,2021/22
+JAM,21/02/2022,Tivoli Gardens FC,Dunbeholden,0,1,A,2021/22
+JAM,26/02/2022,Humble Lions,Harbour View,0,0,D,2021/22
+JAM,26/02/2022,Waterhouse FC,Mount Pleasant Academy,1,1,D,2021/22
+JAM,27/02/2022,Molynes United,Tivoli Gardens FC,0,1,A,2021/22
+JAM,27/02/2022,Portmore United FC,Jamalco,2,1,H,2021/22
+JAM,28/02/2022,Dunbeholden,Arnett Gardens FC,1,2,A,2021/22
+JAM,28/02/2022,Cavalier SC,Montego Bay United FC,3,0,H,2021/22
+JAM,05/03/2022,Harbour View,Waterhouse FC,0,2,A,2021/22
+JAM,05/03/2022,Tivoli Gardens FC,Mount Pleasant Academy,3,1,H,2021/22
+JAM,06/03/2022,Jamalco,Humble Lions,0,0,D,2021/22
+JAM,06/03/2022,Arnett Gardens FC,Molynes United,2,1,H,2021/22
+JAM,07/03/2022,Cavalier SC,Dunbeholden,1,2,A,2021/22
+JAM,07/03/2022,Montego Bay United FC,Portmore United FC,0,1,A,2021/22
+JAM,12/03/2022,Waterhouse FC,Tivoli Gardens FC,2,1,H,2021/22
+JAM,12/03/2022,Harbour View,Jamalco,1,0,H,2021/22
+JAM,13/03/2022,Mount Pleasant Academy,Arnett Gardens FC,1,1,D,2021/22
+JAM,13/03/2022,Humble Lions,Montego Bay United FC,1,0,H,2021/22
+JAM,14/03/2022,Molynes United,Cavalier SC,0,2,A,2021/22
+JAM,14/03/2022,Portmore United FC,Dunbeholden,2,3,A,2021/22
+JAM,19/03/2022,Jamalco,Waterhouse FC,0,2,A,2021/22
+JAM,19/03/2022,Arnett Gardens FC,Tivoli Gardens FC,2,0,H,2021/22
+JAM,20/03/2022,Cavalier SC,Mount Pleasant Academy,0,0,D,2021/22
+JAM,20/03/2022,Montego Bay United FC,Harbour View,0,0,D,2021/22
+JAM,21/03/2022,Dunbeholden,Humble Lions,1,0,H,2021/22
+JAM,21/03/2022,Portmore United FC,Molynes United,0,2,A,2021/22
+JAM,26/03/2022,Jamalco,Montego Bay United FC,1,0,H,2021/22
+JAM,26/03/2022,Tivoli Gardens FC,Cavalier SC,1,3,A,2021/22
+JAM,27/03/2022,Harbour View,Dunbeholden,0,1,A,2021/22
+JAM,27/03/2022,Mount Pleasant Academy,Portmore United FC,0,2,A,2021/22
+JAM,29/03/2022,Humble Lions,Molynes United,1,2,A,2021/22
+JAM,29/03/2022,Waterhouse FC,Arnett Gardens FC,0,1,A,2021/22
+JAM,03/04/2022,Humble Lions,Mount Pleasant Academy,1,2,A,2021/22
+JAM,03/04/2022,Molynes United,Harbour View,1,4,A,2021/22
+JAM,03/04/2022,Montego Bay United FC,Waterhouse FC,0,3,A,2021/22
+JAM,04/04/2022,Cavalier SC,Arnett Gardens FC,1,0,H,2021/22
+JAM,05/04/2022,Portmore United FC,Tivoli Gardens FC,1,1,D,2021/22
+JAM,05/04/2022,Dunbeholden,Jamalco,1,0,H,2021/22
+JAM,10/04/2022,Jamalco,Molynes United,1,1,D,2021/22
+JAM,10/04/2022,Tivoli Gardens FC,Humble Lions,1,1,D,2021/22
+JAM,10/04/2022,Montego Bay United FC,Dunbeholden,0,1,A,2021/22
+JAM,11/04/2022,Arnett Gardens FC,Portmore United FC,2,1,H,2021/22
+JAM,12/04/2022,Harbour View,Mount Pleasant Academy,3,0,H,2021/22
+JAM,12/04/2022,Waterhouse FC,Cavalier SC,3,2,H,2021/22
+JAM,17/04/2022,Harbour View,Tivoli Gardens FC,3,3,D,2021/22
+JAM,17/04/2022,Mount Pleasant Academy,Jamalco,1,0,H,2021/22
+JAM,17/04/2022,Portmore United FC,Cavalier SC,0,0,D,2021/22
+JAM,18/04/2022,Dunbeholden,Waterhouse FC,2,2,D,2021/22
+JAM,19/04/2022,Molynes United,Montego Bay United FC,2,1,H,2021/22
+JAM,19/04/2022,Humble Lions,Arnett Gardens FC,1,1,D,2021/22
+JAM,24/04/2022,Montego Bay United FC,Mount Pleasant Academy,0,3,A,2021/22
+JAM,24/04/2022,Cavalier SC,Humble Lions,0,2,A,2021/22
+JAM,24/04/2022,Jamalco,Tivoli Gardens FC,0,1,A,2021/22
+JAM,25/04/2022,Arnett Gardens FC,Harbour View,3,0,H,2021/22
+JAM,26/04/2022,Dunbeholden,Molynes United,2,1,H,2021/22
+JAM,26/04/2022,Waterhouse FC,Portmore United FC,3,0,H,2021/22
+JAM,01/05/2022,Tivoli Gardens FC,Montego Bay United FC,2,0,H,2021/22
+JAM,01/05/2022,Jamalco,Arnett Gardens FC,2,1,H,2021/22
+JAM,01/05/2022,Humble Lions,Portmore United FC,1,0,H,2021/22
+JAM,01/05/2022,Mount Pleasant Academy,Dunbeholden,1,3,A,2021/22
+JAM,03/05/2022,Molynes United,Waterhouse FC,0,1,A,2021/22
+JAM,03/05/2022,Harbour View,Cavalier SC,0,2,A,2021/22
+JAM,08/05/2022,Dunbeholden,Tivoli Gardens FC,1,1,D,2021/22
+JAM,08/05/2022,Cavalier SC,Jamalco,0,0,D,2021/22
+JAM,09/05/2022,Portmore United FC,Harbour View,0,2,A,2021/22
+JAM,09/05/2022,Montego Bay United FC,Arnett Gardens FC,2,2,D,2021/22
+JAM,10/05/2022,Waterhouse FC,Humble Lions,1,0,H,2021/22
+JAM,10/05/2022,Molynes United,Mount Pleasant Academy,2,3,A,2021/22
+JAM,15/05/2022,Arnett Gardens FC,Dunbeholden,1,0,H,2021/22
+JAM,16/05/2022,Harbour View,Humble Lions,0,0,D,2021/22
+JAM,17/05/2022,Jamalco,Portmore United FC,0,0,D,2021/22
+JAM,17/05/2022,Tivoli Gardens FC,Molynes United,3,1,H,2021/22
+JAM,22/05/2022,Mount Pleasant Academy,Tivoli Gardens FC,4,1,H,2021/22
+JAM,22/05/2022,Humble Lions,Jamalco,1,0,H,2021/22
+JAM,24/05/2022,Portmore United FC,Montego Bay United FC,0,1,A,2021/22
+JAM,24/05/2022,Molynes United,Arnett Gardens FC,3,3,D,2021/22
+JAM,29/05/2022,Dunbeholden,Portmore United FC,1,0,H,2021/22
+JAM,29/05/2022,Jamalco,Harbour View,2,0,H,2021/22
+JAM,29/05/2022,Montego Bay United FC,Humble Lions,1,1,D,2021/22
+JAM,30/05/2022,Cavalier SC,Molynes United,4,1,H,2021/22
+JAM,31/05/2022,Arnett Gardens FC,Mount Pleasant Academy,0,1,A,2021/22
+JAM,31/05/2022,Tivoli Gardens FC,Waterhouse FC,0,1,A,2021/22
+JAM,01/06/2022,Montego Bay United FC,Cavalier SC,2,2,D,2021/22
+JAM,02/06/2022,Mount Pleasant Academy,Waterhouse FC,1,1,D,2021/22
+JAM,05/06/2022,Molynes United,Portmore United FC,0,1,A,2021/22
+JAM,05/06/2022,Humble Lions,Dunbeholden,3,1,H,2021/22
+JAM,05/06/2022,Mount Pleasant Academy,Cavalier SC,1,3,A,2021/22
+JAM,06/06/2022,Tivoli Gardens FC,Arnett Gardens FC,1,3,A,2021/22
+JAM,07/06/2022,Waterhouse FC,Jamalco,1,0,H,2021/22
+JAM,07/06/2022,Harbour View,Montego Bay United FC,4,0,H,2021/22
+JAM,10/06/2022,Dunbeholden,Cavalier SC,1,1,D,2021/22
+JAM,10/06/2022,Waterhouse FC,Harbour View,2,1,H,2021/22
+JAM,12/06/2022,Molynes United,Humble Lions,0,3,A,2021/22
+JAM,12/06/2022,Portmore United FC,Mount Pleasant Academy,1,2,A,2021/22
+JAM,12/06/2022,Montego Bay United FC,Jamalco,1,1,D,2021/22
+JAM,12/06/2022,Arnett Gardens FC,Waterhouse FC,4,2,H,2021/22
+JAM,12/06/2022,Dunbeholden,Harbour View,1,1,D,2021/22
+JAM,12/06/2022,Cavalier SC,Tivoli Gardens FC,0,1,A,2021/22
+JAM,21/06/2022,Harbour View,Arnett Gardens FC,1,1,D,2021/22
+JAM,21/06/2022,Mount Pleasant Academy,Cavalier SC,0,0,D,2021/22
+JAM,26/06/2022,Cavalier SC,Dunbeholden,0,1,A,2021/22
+JAM,27/06/2022,Harbour View,Waterhouse FC,1,0,H,2021/22
+JAM,30/06/2022,Waterhouse FC,Harbour View,1,1,D,2021/22
+JAM,03/07/2022,Waterhouse FC,Cavalier SC,1,4,A,2022/23
+JAM,23/10/2022,Portmore United FC,Montego Bay United FC,1,1,D,2022/23
+JAM,23/10/2022,Humble Lions,Dunbeholden,0,0,D,2022/23
+JAM,23/10/2022,Mount Pleasant Academy,Faulkland,2,1,H,2022/23
+JAM,23/10/2022,Jamalco,Tivoli Gardens FC,1,1,D,2022/23
+JAM,24/10/2022,Waterhouse FC,Molynes United,2,1,H,2022/23
+JAM,25/10/2022,Chapelton,Harbour View,0,2,A,2022/23
+JAM,25/10/2022,Cavalier SC,Arnett Gardens FC,1,2,A,2022/23
+JAM,30/10/2022,Faulkland,Dunbeholden,0,2,A,2022/23
+JAM,30/10/2022,Molynes United,Humble Lions,3,2,H,2022/23
+JAM,30/10/2022,Jamalco,Cavalier SC,0,3,A,2022/23
+JAM,30/10/2022,Montego Bay United FC,Waterhouse FC,1,0,H,2022/23
+JAM,30/10/2022,Tivoli Gardens FC,Chapelton,3,0,H,2022/23
+JAM,06/11/2022,Dunbeholden,Harbour View,1,4,A,2022/23
+JAM,06/11/2022,Molynes United,Montego Bay United FC,0,1,A,2022/23
+JAM,06/11/2022,Humble Lions,Faulkland,2,0,H,2022/23
+JAM,06/11/2022,Waterhouse FC,Arnett Gardens FC,0,2,A,2022/23
+JAM,06/11/2022,Chapelton,Cavalier SC,0,3,A,2022/23
+JAM,08/11/2022,Portmore United FC,Jamalco,0,0,D,2022/23
+JAM,17/11/2022,Harbour View,Mount Pleasant Academy,1,1,D,2022/23
+JAM,17/11/2022,Arnett Gardens FC,Portmore United FC,1,1,D,2022/23
+JAM,20/11/2022,Faulkland,Tivoli Gardens FC,2,2,D,2022/23
+JAM,20/11/2022,Molynes United,Jamalco,1,0,H,2022/23
+JAM,20/11/2022,Humble Lions,Harbour View,0,1,A,2022/23
+JAM,20/11/2022,Montego Bay United FC,Arnett Gardens FC,2,1,H,2022/23
+JAM,20/11/2022,Dunbeholden,Cavalier SC,1,2,A,2022/23
+JAM,21/11/2022,Waterhouse FC,Chapelton,0,1,A,2022/23
+JAM,22/11/2022,Mount Pleasant Academy,Portmore United FC,0,0,D,2022/23
+JAM,30/11/2022,Mount Pleasant Academy,Tivoli Gardens FC,3,1,H,2022/23
+JAM,04/12/2022,Harbour View,Faulkland,6,1,H,2022/23
+JAM,04/12/2022,Cavalier SC,Mount Pleasant Academy,0,1,A,2022/23
+JAM,04/12/2022,Montego Bay United FC,Humble Lions,0,1,A,2022/23
+JAM,04/12/2022,Jamalco,Waterhouse FC,0,1,A,2022/23
+JAM,04/12/2022,Tivoli Gardens FC,Dunbeholden,0,2,A,2022/23
+JAM,05/12/2022,Chapelton,Portmore United FC,0,1,A,2022/23
+JAM,06/12/2022,Arnett Gardens FC,Molynes United,2,1,H,2022/23
+JAM,21/12/2022,Mount Pleasant Academy,Waterhouse FC,1,0,H,2022/23
+JAM,21/12/2022,Cavalier SC,Faulkland,4,0,H,2022/23
+JAM,21/12/2022,Jamalco,Montego Bay United FC,0,0,D,2022/23
+JAM,21/12/2022,Chapelton,Molynes United,1,0,H,2022/23
+JAM,21/12/2022,Arnett Gardens FC,Humble Lions,0,1,A,2022/23
+JAM,21/12/2022,Portmore United FC,Dunbeholden,0,0,D,2022/23
+JAM,22/12/2022,Tivoli Gardens FC,Harbour View,1,1,D,2022/23
+JAM,26/12/2022,Harbour View,Cavalier SC,1,1,D,2022/23
+JAM,27/12/2022,Arnett Gardens FC,Jamalco,1,1,D,2022/23
+JAM,28/12/2022,Dunbeholden,Waterhouse FC,0,0,D,2022/23
+JAM,28/12/2022,Faulkland,Portmore United FC,1,3,A,2022/23
+JAM,28/12/2022,Humble Lions,Tivoli Gardens FC,1,0,H,2022/23
+JAM,28/12/2022,Molynes United,Mount Pleasant Academy,0,5,A,2022/23
+JAM,28/12/2022,Montego Bay United FC,Chapelton,1,1,D,2022/23
+JAM,01/01/2023,Waterhouse FC,Faulkland,1,0,H,2022/23
+JAM,01/01/2023,Cavalier SC,Tivoli Gardens FC,3,0,H,2022/23
+JAM,01/01/2023,Jamalco,Humble Lions,0,0,D,2022/23
+JAM,01/01/2023,Mount Pleasant Academy,Montego Bay United FC,5,1,H,2022/23
+JAM,01/01/2023,Chapelton,Arnett Gardens FC,0,5,A,2022/23
+JAM,02/01/2023,Dunbeholden,Molynes United,0,1,A,2022/23
+JAM,03/01/2023,Portmore United FC,Harbour View,1,0,H,2022/23
+JAM,08/01/2023,Faulkland,Molynes United,2,2,D,2022/23
+JAM,08/01/2023,Tivoli Gardens FC,Portmore United FC,0,0,D,2022/23
+JAM,08/01/2023,Jamalco,Chapelton,0,0,D,2022/23
+JAM,08/01/2023,Montego Bay United FC,Dunbeholden,0,2,A,2022/23
+JAM,08/01/2023,Harbour View,Waterhouse FC,0,4,A,2022/23
+JAM,09/01/2023,Humble Lions,Cavalier SC,1,2,A,2022/23
+JAM,10/01/2023,Arnett Gardens FC,Mount Pleasant Academy,3,2,H,2022/23
+JAM,15/01/2023,Portmore United FC,Cavalier SC,1,2,A,2022/23
+JAM,15/01/2023,Chapelton,Humble Lions,0,3,A,2022/23
+JAM,15/01/2023,Molynes United,Harbour View,0,0,D,2022/23
+JAM,15/01/2023,Faulkland,Montego Bay United FC,0,1,A,2022/23
+JAM,15/01/2023,Dunbeholden,Arnett Gardens FC,4,2,H,2022/23
+JAM,16/01/2023,Mount Pleasant Academy,Jamalco,0,0,D,2022/23
+JAM,17/01/2023,Waterhouse FC,Tivoli Gardens FC,0,1,A,2022/23
+JAM,22/01/2023,Chapelton,Mount Pleasant Academy,0,3,A,2022/23
+JAM,22/01/2023,Harbour View,Montego Bay United FC,1,0,H,2022/23
+JAM,22/01/2023,Tivoli Gardens FC,Molynes United,2,1,H,2022/23
+JAM,22/01/2023,Humble Lions,Portmore United FC,1,0,H,2022/23
+JAM,22/01/2023,Cavalier SC,Waterhouse FC,0,1,A,2022/23
+JAM,23/01/2023,Jamalco,Dunbeholden,0,1,A,2022/23
+JAM,24/01/2023,Arnett Gardens FC,Faulkland,0,0,D,2022/23
+JAM,29/01/2023,Dunbeholden,Chapelton,0,0,D,2022/23
+JAM,29/01/2023,Faulkland,Jamalco,0,1,A,2022/23
+JAM,29/01/2023,Mount Pleasant Academy,Humble Lions,1,0,H,2022/23
+JAM,29/01/2023,Montego Bay United FC,Tivoli Gardens FC,0,3,A,2022/23
+JAM,29/01/2023,Waterhouse FC,Portmore United FC,1,1,D,2022/23
+JAM,30/01/2023,Molynes United,Cavalier SC,0,2,A,2022/23
+JAM,31/01/2023,Harbour View,Arnett Gardens FC,0,1,A,2022/23
+JAM,05/02/2023,Humble Lions,Waterhouse FC,0,0,D,2022/23
+JAM,05/02/2023,Mount Pleasant Academy,Dunbeholden,3,0,H,2022/23
+JAM,05/02/2023,Cavalier SC,Montego Bay United FC,0,0,D,2022/23
+JAM,05/02/2023,Jamalco,Harbour View,1,0,H,2022/23
+JAM,05/02/2023,Tivoli Gardens FC,Arnett Gardens FC,1,2,A,2022/23
+JAM,06/02/2023,Portmore United FC,Molynes United,1,1,D,2022/23
+JAM,07/02/2023,Chapelton,Faulkland,0,1,A,2022/23
+JAM,12/02/2023,Faulkland,Mount Pleasant Academy,0,0,D,2022/23
+JAM,12/02/2023,Molynes United,Waterhouse FC,2,1,H,2022/23
+JAM,12/02/2023,Harbour View,Chapelton,1,0,H,2022/23
+JAM,12/02/2023,Montego Bay United FC,Portmore United FC,1,1,D,2022/23
+JAM,12/02/2023,Arnett Gardens FC,Cavalier SC,2,1,H,2022/23
+JAM,13/02/2023,Tivoli Gardens FC,Jamalco,0,0,D,2022/23
+JAM,14/02/2023,Dunbeholden,Humble Lions,1,2,A,2022/23
+JAM,19/02/2023,Dunbeholden,Faulkland,4,2,H,2022/23
+JAM,19/02/2023,Portmore United FC,Arnett Gardens FC,1,2,A,2022/23
+JAM,19/02/2023,Humble Lions,Molynes United,2,1,H,2022/23
+JAM,19/02/2023,Mount Pleasant Academy,Harbour View,0,0,D,2022/23
+JAM,19/02/2023,Waterhouse FC,Montego Bay United FC,3,0,H,2022/23
+JAM,20/02/2023,Chapelton,Tivoli Gardens FC,2,0,H,2022/23
+JAM,21/02/2023,Cavalier SC,Jamalco,1,0,H,2022/23
+JAM,26/02/2023,Montego Bay United FC,Molynes United,2,2,D,2022/23
+JAM,26/02/2023,Tivoli Gardens FC,Mount Pleasant Academy,0,2,A,2022/23
+JAM,26/02/2023,Jamalco,Portmore United FC,0,2,A,2022/23
+JAM,26/02/2023,Faulkland,Humble Lions,0,0,D,2022/23
+JAM,26/02/2023,Cavalier SC,Chapelton,4,1,H,2022/23
+JAM,27/02/2023,Harbour View,Dunbeholden,2,0,H,2022/23
+JAM,28/02/2023,Arnett Gardens FC,Waterhouse FC,1,0,H,2022/23
+JAM,05/03/2023,Dunbeholden,Tivoli Gardens FC,4,1,H,2022/23
+JAM,05/03/2023,Humble Lions,Montego Bay United FC,0,0,D,2022/23
+JAM,05/03/2023,Faulkland,Harbour View,1,5,A,2022/23
+JAM,05/03/2023,Waterhouse FC,Jamalco,2,1,H,2022/23
+JAM,05/03/2023,Molynes United,Arnett Gardens FC,1,5,A,2022/23
+JAM,06/03/2023,Portmore United FC,Chapelton,0,0,D,2022/23
+JAM,07/03/2023,Mount Pleasant Academy,Cavalier SC,2,2,D,2022/23
+JAM,12/03/2023,Tivoli Gardens FC,Faulkland,0,0,D,2022/23
+JAM,12/03/2023,Cavalier SC,Dunbeholden,3,1,H,2022/23
+JAM,12/03/2023,Chapelton,Waterhouse FC,2,3,A,2022/23
+JAM,12/03/2023,Arnett Gardens FC,Montego Bay United FC,1,1,D,2022/23
+JAM,13/03/2023,Jamalco,Molynes United,0,4,A,2022/23
+JAM,14/03/2023,Harbour View,Humble Lions,1,0,H,2022/23
+JAM,19/03/2023,Harbour View,Tivoli Gardens FC,2,2,D,2022/23
+JAM,19/03/2023,Humble Lions,Arnett Gardens FC,1,1,D,2022/23
+JAM,19/03/2023,Montego Bay United FC,Jamalco,3,3,D,2022/23
+JAM,19/03/2023,Waterhouse FC,Mount Pleasant Academy,2,0,H,2022/23
+JAM,19/03/2023,Dunbeholden,Portmore United FC,1,3,A,2022/23
+JAM,20/03/2023,Molynes United,Chapelton,3,1,H,2022/23
+JAM,21/03/2023,Faulkland,Cavalier SC,2,2,D,2022/23
+JAM,26/03/2023,Jamalco,Arnett Gardens FC,1,1,D,2022/23
+JAM,26/03/2023,Chapelton,Montego Bay United FC,0,0,D,2022/23
+JAM,26/03/2023,Mount Pleasant Academy,Molynes United,1,2,A,2022/23
+JAM,26/03/2023,Portmore United FC,Faulkland,4,0,H,2022/23
+JAM,27/03/2023,Cavalier SC,Harbour View,1,2,A,2022/23
+JAM,28/03/2023,Tivoli Gardens FC,Humble Lions,1,2,A,2022/23
+JAM,28/03/2023,Waterhouse FC,Dunbeholden,0,0,D,2022/23
+JAM,02/04/2023,Humble Lions,Jamalco,2,0,H,2022/23
+JAM,02/04/2023,Tivoli Gardens FC,Cavalier SC,0,1,A,2022/23
+JAM,02/04/2023,Molynes United,Dunbeholden,2,3,A,2022/23
+JAM,03/04/2023,Harbour View,Portmore United FC,0,1,A,2022/23
+JAM,03/04/2023,Arnett Gardens FC,Chapelton,3,0,H,2022/23
+JAM,04/04/2023,Faulkland,Waterhouse FC,2,3,A,2022/23
+JAM,04/04/2023,Montego Bay United FC,Mount Pleasant Academy,2,2,D,2022/23
+JAM,06/04/2023,Portmore United FC,Mount Pleasant Academy,0,0,D,2022/23
+JAM,09/04/2023,Dunbeholden,Montego Bay United FC,4,0,H,2022/23
+JAM,09/04/2023,Molynes United,Faulkland,2,2,D,2022/23
+JAM,09/04/2023,Mount Pleasant Academy,Arnett Gardens FC,0,0,D,2022/23
+JAM,09/04/2023,Portmore United FC,Tivoli Gardens FC,2,1,H,2022/23
+JAM,09/04/2023,Waterhouse FC,Harbour View,0,2,A,2022/23
+JAM,11/04/2023,Cavalier SC,Humble Lions,1,0,H,2022/23
+JAM,11/04/2023,Chapelton,Jamalco,0,4,A,2022/23
+JAM,16/04/2023,Humble Lions,Chapelton,4,0,H,2022/23
+JAM,16/04/2023,Jamalco,Mount Pleasant Academy,0,5,A,2022/23
+JAM,16/04/2023,Cavalier SC,Portmore United FC,2,0,H,2022/23
+JAM,16/04/2023,Montego Bay United FC,Faulkland,2,1,H,2022/23
+JAM,17/04/2023,Harbour View,Molynes United,1,1,D,2022/23
+JAM,18/04/2023,Arnett Gardens FC,Dunbeholden,1,0,H,2022/23
+JAM,18/04/2023,Tivoli Gardens FC,Waterhouse FC,0,1,A,2022/23
+JAM,23/04/2023,Molynes United,Tivoli Gardens FC,4,3,H,2022/23
+JAM,23/04/2023,Faulkland,Arnett Gardens FC,0,2,A,2022/23
+JAM,23/04/2023,Portmore United FC,Humble Lions,1,1,D,2022/23
+JAM,23/04/2023,Waterhouse FC,Cavalier SC,0,0,D,2022/23
+JAM,24/04/2023,Montego Bay United FC,Harbour View,0,1,A,2022/23
+JAM,25/04/2023,Dunbeholden,Jamalco,3,1,H,2022/23
+JAM,25/04/2023,Mount Pleasant Academy,Chapelton,7,0,H,2022/23
+JAM,30/04/2023,Humble Lions,Mount Pleasant Academy,1,1,D,2022/23
+JAM,30/04/2023,Tivoli Gardens FC,Montego Bay United FC,5,2,H,2022/23
+JAM,30/04/2023,Jamalco,Faulkland,1,1,D,2022/23
+JAM,30/04/2023,Portmore United FC,Waterhouse FC,1,1,D,2022/23
+JAM,01/05/2023,Chapelton,Dunbeholden,1,7,A,2022/23
+JAM,02/05/2023,Cavalier SC,Molynes United,4,2,H,2022/23
+JAM,02/05/2023,Arnett Gardens FC,Harbour View,3,0,H,2022/23
+JAM,07/05/2023,Faulkland,Chapelton,4,4,D,2022/23
+JAM,07/05/2023,Dunbeholden,Mount Pleasant Academy,3,1,H,2022/23
+JAM,07/05/2023,Molynes United,Portmore United FC,0,3,A,2022/23
+JAM,07/05/2023,Arnett Gardens FC,Tivoli Gardens FC,4,1,H,2022/23
+JAM,07/05/2023,Harbour View,Jamalco,0,0,D,2022/23
+JAM,07/05/2023,Montego Bay United FC,Cavalier SC,1,2,A,2022/23
+JAM,07/05/2023,Waterhouse FC,Humble Lions,0,0,D,2022/23
+JAM,16/05/2023,Dunbeholden,Mount Pleasant Academy,1,1,D,2022/23
+JAM,16/05/2023,Humble Lions,Harbour View,0,2,A,2022/23
+JAM,23/05/2023,Harbour View,Humble Lions,2,3,A,2022/23
+JAM,23/05/2023,Mount Pleasant Academy,Dunbeholden,3,0,H,2022/23
+JAM,30/05/2023,Harbour View,Cavalier SC,0,1,A,2022/23
+JAM,30/05/2023,Mount Pleasant Academy,Arnett Gardens FC,2,2,D,2022/23
+JAM,05/06/2023,Arnett Gardens FC,Mount Pleasant Academy,1,3,A,2022/23
+JAM,05/06/2023,Cavalier SC,Harbour View,2,0,H,2022/23
+JAM,11/06/2023,Arnett Gardens FC,Harbour View,1,0,H,2022/23
+JAM,12/06/2023,Mount Pleasant Academy,Cavalier SC,2,1,H,2022/23

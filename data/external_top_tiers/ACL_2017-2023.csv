@@ -1,0 +1,775 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season
+ACL,16/01/2018,Bali United,Tampines Rovers,3,1,H,2018
+ACL,23/01/2018,Brisbane Roar FC,Ceres,2,3,A,2018
+ACL,23/01/2018,Eastern,Thanh Hóa,2,4,A,2018
+ACL,23/01/2018,Muangthong United,Johor Darul Ta'zim,5,2,H,2018
+ACL,30/01/2018,Tianjin Songjiang FC,Ceres,2,0,H,2018
+ACL,30/01/2018,Kashiwa Reysol,Muangthong United,3,0,H,2018
+ACL,30/01/2018,Suwon Bluewings,Thanh Hóa,5,1,H,2018
+ACL,30/01/2018,Nasaf,Al Faisaly,5,1,H,2018
+ACL,30/01/2018,Shanghai Port,Chiangrai United,1,0,H,2018
+ACL,30/01/2018,Zob Ahan,Aizawl,3,1,H,2018
+ACL,30/01/2018,Al Ain,Malkiya,2,0,H,2018
+ACL,30/01/2018,Al Gharafa,Pakhtakor,2,1,H,2018
+ACL,12/02/2018,Lokomotiv Tashkent,Al Wahda,5,0,H,2018
+ACL,12/02/2018,Al Shorta,Zob Ahan,3,1,H,2018
+ACL,12/02/2018,Tractor,Al Ahli,0,1,A,2018
+ACL,12/02/2018,Al Jazira,Al Gharafa,3,2,H,2018
+ACL,13/02/2018,Melbourne Victory,Ulsan HD,3,3,D,2018
+ACL,13/02/2018,Kawasaki Frontale,Shanghai Port,0,1,A,2018
+ACL,13/02/2018,Jeonbuk Motors,Kashiwa Reysol,3,2,H,2018
+ACL,13/02/2018,Tianjin Songjiang FC,Kitchee,3,0,H,2018
+ACL,13/02/2018,Persepolis,Nasaf,3,0,H,2018
+ACL,13/02/2018,Al Wasl,Al Sadd,1,2,A,2018
+ACL,13/02/2018,Al Rayyan,Esteghlal,2,2,D,2018
+ACL,13/02/2018,Al Hilal FC,Al Ain,0,0,D,2018
+ACL,14/02/2018,Sydney,Suwon Bluewings,0,2,A,2018
+ACL,14/02/2018,Guangzhou Evergrande,Buriram United,1,1,D,2018
+ACL,14/02/2018,Kashima Antlers,Shanghai Shenhua,1,1,D,2018
+ACL,14/02/2018,Jeju FC,Cerezo Osaka,0,1,A,2018
+ACL,19/02/2018,Zob Ahan,Lokomotiv Tashkent,2,0,H,2018
+ACL,19/02/2018,Al Wahda,Al Shorta,2,3,A,2018
+ACL,19/02/2018,Al Gharafa,Tractor,3,0,H,2018
+ACL,19/02/2018,Al Ahli,Al Jazira,2,1,H,2018
+ACL,20/02/2018,Ulsan HD,Kawasaki Frontale,2,1,H,2018
+ACL,20/02/2018,Kashiwa Reysol,Tianjin Songjiang FC,1,1,D,2018
+ACL,20/02/2018,Kitchee,Jeonbuk Motors,0,6,A,2018
+ACL,20/02/2018,Shanghai Port,Melbourne Victory,4,1,H,2018
+ACL,20/02/2018,Nasaf,Al Wasl,1,0,H,2018
+ACL,20/02/2018,Al Ain,Al Rayyan,1,1,D,2018
+ACL,20/02/2018,Al Sadd,Persepolis,3,1,H,2018
+ACL,20/02/2018,Esteghlal,Al Hilal FC,1,0,H,2018
+ACL,21/02/2018,Cerezo Osaka,Guangzhou Evergrande,0,0,D,2018
+ACL,21/02/2018,Suwon Bluewings,Kashima Antlers,1,2,A,2018
+ACL,21/02/2018,Buriram United,Jeju FC,0,2,A,2018
+ACL,21/02/2018,Shanghai Shenhua,Sydney,2,2,D,2018
+ACL,05/03/2018,Nasaf,Al Sadd,1,0,H,2018
+ACL,05/03/2018,Persepolis,Al Wasl,2,0,H,2018
+ACL,05/03/2018,Al Jazira,Tractor,0,0,D,2018
+ACL,05/03/2018,Al Gharafa,Al Ahli,1,1,D,2018
+ACL,06/03/2018,Jeonbuk Motors,Tianjin Songjiang FC,6,3,H,2018
+ACL,06/03/2018,Kashiwa Reysol,Kitchee,1,0,H,2018
+ACL,06/03/2018,Buriram United,Cerezo Osaka,2,0,H,2018
+ACL,06/03/2018,Guangzhou Evergrande,Jeju FC,5,3,H,2018
+ACL,06/03/2018,Zob Ahan,Al Wahda,2,0,H,2018
+ACL,06/03/2018,Al Shorta,Lokomotiv Tashkent,3,2,H,2018
+ACL,06/03/2018,Al Ain,Esteghlal,2,2,D,2018
+ACL,06/03/2018,Al Hilal FC,Al Rayyan,1,1,D,2018
+ACL,07/03/2018,Sydney,Kashima Antlers,0,2,A,2018
+ACL,07/03/2018,Kawasaki Frontale,Melbourne Victory,2,2,D,2018
+ACL,07/03/2018,Suwon Bluewings,Shanghai Shenhua,1,1,D,2018
+ACL,07/03/2018,Shanghai Port,Ulsan HD,2,2,D,2018
+ACL,12/03/2018,Lokomotiv Tashkent,Al Shorta,1,2,A,2018
+ACL,12/03/2018,Al Wahda,Zob Ahan,3,0,H,2018
+ACL,12/03/2018,Al Rayyan,Al Hilal FC,2,1,H,2018
+ACL,12/03/2018,Esteghlal,Al Ain,1,1,D,2018
+ACL,13/03/2018,Melbourne Victory,Kawasaki Frontale,1,0,H,2018
+ACL,13/03/2018,Kashima Antlers,Sydney,1,1,D,2018
+ACL,13/03/2018,Ulsan HD,Shanghai Port,0,1,A,2018
+ACL,13/03/2018,Shanghai Shenhua,Suwon Bluewings,0,2,A,2018
+ACL,13/03/2018,Tractor,Al Jazira,1,1,D,2018
+ACL,13/03/2018,Al Wasl,Persepolis,0,1,A,2018
+ACL,13/03/2018,Al Sadd,Nasaf,4,0,H,2018
+ACL,13/03/2018,Al Ahli,Al Gharafa,1,1,D,2018
+ACL,14/03/2018,Jeju FC,Guangzhou Evergrande,0,2,A,2018
+ACL,14/03/2018,Cerezo Osaka,Buriram United,2,2,D,2018
+ACL,14/03/2018,Kitchee,Kashiwa Reysol,1,0,H,2018
+ACL,14/03/2018,Tianjin Songjiang FC,Jeonbuk Motors,4,2,H,2018
+ACL,02/04/2018,Nasaf,Persepolis,0,0,D,2018
+ACL,02/04/2018,Esteghlal,Al Rayyan,2,0,H,2018
+ACL,02/04/2018,Al Ain,Al Hilal FC,2,1,H,2018
+ACL,02/04/2018,Al Sadd,Al Wasl,2,1,H,2018
+ACL,03/04/2018,Cerezo Osaka,Jeju FC,2,1,H,2018
+ACL,03/04/2018,Buriram United,Guangzhou Evergrande,1,1,D,2018
+ACL,03/04/2018,Suwon Bluewings,Sydney,1,4,A,2018
+ACL,03/04/2018,Shanghai Shenhua,Kashima Antlers,2,2,D,2018
+ACL,03/04/2018,Zob Ahan,Al Shorta,0,1,A,2018
+ACL,03/04/2018,Al Wahda,Lokomotiv Tashkent,1,4,A,2018
+ACL,03/04/2018,Al Gharafa,Al Jazira,2,3,A,2018
+ACL,03/04/2018,Al Ahli,Tractor,2,0,H,2018
+ACL,04/04/2018,Ulsan HD,Melbourne Victory,6,2,H,2018
+ACL,04/04/2018,Kashiwa Reysol,Jeonbuk Motors,0,2,A,2018
+ACL,04/04/2018,Kitchee,Tianjin Songjiang FC,0,1,A,2018
+ACL,04/04/2018,Shanghai Port,Kawasaki Frontale,1,1,D,2018
+ACL,16/04/2018,Persepolis,Al Sadd,1,0,H,2018
+ACL,16/04/2018,Al Wasl,Nasaf,1,2,A,2018
+ACL,16/04/2018,Al Hilal FC,Esteghlal,0,1,A,2018
+ACL,16/04/2018,Al Rayyan,Al Ain,1,4,A,2018
+ACL,17/04/2018,Sydney,Shanghai Shenhua,0,0,D,2018
+ACL,17/04/2018,Kashima Antlers,Suwon Bluewings,0,1,A,2018
+ACL,17/04/2018,Jeju FC,Buriram United,0,1,A,2018
+ACL,17/04/2018,Guangzhou Evergrande,Cerezo Osaka,3,1,H,2018
+ACL,17/04/2018,Al Shorta,Al Wahda,1,0,H,2018
+ACL,17/04/2018,Lokomotiv Tashkent,Zob Ahan,1,1,D,2018
+ACL,17/04/2018,Al Jazira,Al Ahli,1,2,A,2018
+ACL,17/04/2018,Tractor,Al Gharafa,1,3,A,2018
+ACL,18/04/2018,Kawasaki Frontale,Ulsan HD,2,2,D,2018
+ACL,18/04/2018,Melbourne Victory,Shanghai Port,2,1,H,2018
+ACL,18/04/2018,Jeonbuk Motors,Kitchee,3,0,H,2018
+ACL,18/04/2018,Tianjin Songjiang FC,Kashiwa Reysol,3,2,H,2018
+ACL,07/05/2018,Al Jazira,Persepolis,3,2,H,2018
+ACL,07/05/2018,Al Sadd,Al Ahli,2,1,H,2018
+ACL,08/05/2018,Buriram United,Jeonbuk Motors,3,2,H,2018
+ACL,08/05/2018,Tianjin Songjiang FC,Guangzhou Evergrande,0,0,D,2018
+ACL,08/05/2018,Zob Ahan,Esteghlal,1,0,H,2018
+ACL,08/05/2018,Al Ain,Al Shorta,2,4,A,2018
+ACL,09/05/2018,Kashima Antlers,Shanghai Port,3,1,H,2018
+ACL,09/05/2018,Ulsan HD,Suwon Bluewings,1,0,H,2018
+ACL,14/05/2018,Persepolis,Al Jazira,2,1,H,2018
+ACL,14/05/2018,Al Ahli,Al Sadd,2,2,D,2018
+ACL,15/05/2018,Jeonbuk Motors,Buriram United,2,0,H,2018
+ACL,15/05/2018,Guangzhou Evergrande,Tianjin Songjiang FC,2,2,D,2018
+ACL,15/05/2018,Al Shorta,Al Ain,4,1,H,2018
+ACL,15/05/2018,Esteghlal,Zob Ahan,3,1,H,2018
+ACL,16/05/2018,Suwon Bluewings,Ulsan HD,3,0,H,2018
+ACL,16/05/2018,Shanghai Port,Kashima Antlers,2,1,H,2018
+ACL,27/08/2018,Esteghlal,Al Sadd,1,3,A,2018
+ACL,28/08/2018,Kashima Antlers,Tianjin Songjiang FC,2,0,H,2018
+ACL,28/08/2018,Al Shorta,Persepolis,1,0,H,2018
+ACL,29/08/2018,Jeonbuk Motors,Suwon Bluewings,0,3,A,2018
+ACL,17/09/2018,Persepolis,Al Shorta,3,1,H,2018
+ACL,17/09/2018,Al Sadd,Esteghlal,2,2,D,2018
+ACL,18/09/2018,Tianjin Songjiang FC,Kashima Antlers,0,3,A,2018
+ACL,02/10/2018,Al Sadd,Persepolis,0,1,A,2018
+ACL,03/10/2018,Kashima Antlers,Suwon Bluewings,3,2,H,2018
+ACL,23/10/2018,Persepolis,Al Sadd,1,1,D,2018
+ACL,24/10/2018,Suwon Bluewings,Kashima Antlers,3,3,D,2018
+ACL,03/11/2018,Kashima Antlers,Persepolis,2,0,H,2018
+ACL,10/11/2018,Persepolis,Kashima Antlers,0,0,D,2018
+ACL,05/02/2019,Ceres,Yangon United,1,2,A,2019
+ACL,05/02/2019,Lion City Sailors FC,Persija,1,3,A,2019
+ACL,05/02/2019,Al Wehdat,Kuwait SC,2,3,A,2019
+ACL,12/02/2019,Pakhtakor,Al Quwa Al Jawiya,2,1,H,2019
+ACL,12/02/2019,AGMK,Istiqlol Dushanbe,4,2,H,2019
+ACL,12/02/2019,Bangkok United,Hà Nội,0,1,A,2019
+ACL,12/02/2019,Chiangrai United,Yangon United,3,1,H,2019
+ACL,12/02/2019,Saipa FC,Punjab,4,0,H,2019
+ACL,19/02/2019,Shandong Taishan,Hà Nội,4,1,H,2019
+ACL,19/02/2019,Kashima Antlers,Newcastle Jets FC,4,1,H,2019
+ACL,19/02/2019,Ulsan HD,Perak,5,1,H,2019
+ACL,19/02/2019,Al Nasr,Pakhtakor,1,2,A,2019
+ACL,19/02/2019,Al Nassr,AGMK,4,0,H,2019
+ACL,19/02/2019,Al Rayyan,Saipa FC,3,1,H,2019
+ACL,19/02/2019,Al Gharafa,Zob Ahan,2,3,A,2019
+ACL,04/03/2019,Lokomotiv Tashkent,Al Wahda,2,0,H,2019
+ACL,04/03/2019,Al Wasl,Al Nassr,1,0,H,2019
+ACL,04/03/2019,Zob Ahan,Al Zawra'a,0,0,D,2019
+ACL,04/03/2019,Al Ittihad,Al Rayyan,5,1,H,2019
+ACL,05/03/2019,Melbourne Victory,Daegu,1,3,A,2019
+ACL,05/03/2019,Kashima Antlers,Johor Darul Ta'zim,2,1,H,2019
+ACL,05/03/2019,Gyeongnam FC,Shandong Taishan,2,2,D,2019
+ACL,05/03/2019,Guangzhou Evergrande,Sanfrecce Hiroshima,2,0,H,2019
+ACL,05/03/2019,Persepolis,Pakhtakor,1,1,D,2019
+ACL,05/03/2019,Al Shorta,Esteghlal,3,0,H,2019
+ACL,05/03/2019,Al Ain,Al Hilal FC,0,1,A,2019
+ACL,05/03/2019,Al Ahli,Al Sadd,2,0,H,2019
+ACL,06/03/2019,Sydney,Ulsan HD,0,0,D,2019
+ACL,06/03/2019,Jeonbuk Motors,Beijing Guoan,3,1,H,2019
+ACL,06/03/2019,Urawa Reds,Buriram United,3,0,H,2019
+ACL,06/03/2019,Shanghai Port,Kawasaki Frontale,1,0,H,2019
+ACL,11/03/2019,Al Zawra'a,Al Wasl,5,0,H,2019
+ACL,11/03/2019,Al Wahda,Al Ittihad,4,1,H,2019
+ACL,11/03/2019,Al Rayyan,Lokomotiv Tashkent,2,1,H,2019
+ACL,11/03/2019,Al Nassr,Zob Ahan,2,3,A,2019
+ACL,12/03/2019,Shandong Taishan,Kashima Antlers,2,2,D,2019
+ACL,12/03/2019,Sanfrecce Hiroshima,Melbourne Victory,2,1,H,2019
+ACL,12/03/2019,Daegu,Guangzhou Evergrande,3,1,H,2019
+ACL,12/03/2019,Johor Darul Ta'zim,Gyeongnam FC,1,1,D,2019
+ACL,12/03/2019,Pakhtakor,Al Ahli,1,0,H,2019
+ACL,12/03/2019,Esteghlal,Al Ain,1,1,D,2019
+ACL,12/03/2019,Al Hilal FC,Al Shorta,3,1,H,2019
+ACL,12/03/2019,Al Sadd,Persepolis,1,0,H,2019
+ACL,13/03/2019,Kawasaki Frontale,Sydney,1,0,H,2019
+ACL,13/03/2019,Ulsan HD,Shanghai Port,1,0,H,2019
+ACL,13/03/2019,Buriram United,Jeonbuk Motors,1,0,H,2019
+ACL,13/03/2019,Beijing Guoan,Urawa Reds,0,0,D,2019
+ACL,08/04/2019,Al Shorta,Al Ain,2,2,D,2019
+ACL,08/04/2019,Al Wasl,Zob Ahan,1,3,A,2019
+ACL,08/04/2019,Esteghlal,Al Hilal FC,2,1,H,2019
+ACL,08/04/2019,Al Nassr,Al Zawra'a,4,1,H,2019
+ACL,09/04/2019,Gyeongnam FC,Kashima Antlers,2,3,A,2019
+ACL,09/04/2019,Urawa Reds,Jeonbuk Motors,0,1,A,2019
+ACL,09/04/2019,Buriram United,Beijing Guoan,1,3,A,2019
+ACL,09/04/2019,Shandong Taishan,Johor Darul Ta'zim,2,1,H,2019
+ACL,09/04/2019,Pakhtakor,Al Sadd,2,2,D,2019
+ACL,09/04/2019,Persepolis,Al Ahli,2,0,H,2019
+ACL,09/04/2019,Al Rayyan,Al Wahda,1,2,A,2019
+ACL,09/04/2019,Al Ittihad,Lokomotiv Tashkent,3,2,H,2019
+ACL,10/04/2019,Sydney,Shanghai Port,3,3,D,2019
+ACL,10/04/2019,Sanfrecce Hiroshima,Daegu,2,0,H,2019
+ACL,10/04/2019,Ulsan HD,Kawasaki Frontale,1,0,H,2019
+ACL,10/04/2019,Guangzhou Evergrande,Melbourne Victory,4,0,H,2019
+ACL,22/04/2019,Lokomotiv Tashkent,Al Ittihad,1,1,D,2019
+ACL,22/04/2019,Al Wahda,Al Rayyan,4,3,H,2019
+ACL,22/04/2019,Al Ahli,Persepolis,2,1,H,2019
+ACL,22/04/2019,Al Sadd,Pakhtakor,2,1,H,2019
+ACL,23/04/2019,Melbourne Victory,Guangzhou Evergrande,1,1,D,2019
+ACL,23/04/2019,Kawasaki Frontale,Ulsan HD,2,2,D,2019
+ACL,23/04/2019,Daegu,Sanfrecce Hiroshima,0,1,A,2019
+ACL,23/04/2019,Shanghai Port,Sydney,2,2,D,2019
+ACL,23/04/2019,Al Zawra'a,Al Nassr,1,2,A,2019
+ACL,23/04/2019,Al Hilal FC,Esteghlal,1,0,H,2019
+ACL,23/04/2019,Zob Ahan,Al Wasl,2,0,H,2019
+ACL,23/04/2019,Al Ain,Al Shorta,0,2,A,2019
+ACL,24/04/2019,Kashima Antlers,Gyeongnam FC,0,1,A,2019
+ACL,24/04/2019,Jeonbuk Motors,Urawa Reds,2,1,H,2019
+ACL,24/04/2019,Beijing Guoan,Buriram United,2,0,H,2019
+ACL,24/04/2019,Johor Darul Ta'zim,Shandong Taishan,0,1,A,2019
+ACL,06/05/2019,Pakhtakor,Persepolis,1,0,H,2019
+ACL,06/05/2019,Esteghlal,Al Shorta,1,1,D,2019
+ACL,06/05/2019,Al Sadd,Al Ahli,2,1,H,2019
+ACL,06/05/2019,Al Hilal FC,Al Ain,2,0,H,2019
+ACL,07/05/2019,Ulsan HD,Sydney,1,0,H,2019
+ACL,07/05/2019,Kawasaki Frontale,Shanghai Port,2,2,D,2019
+ACL,07/05/2019,Buriram United,Urawa Reds,1,2,A,2019
+ACL,07/05/2019,Beijing Guoan,Jeonbuk Motors,0,1,A,2019
+ACL,07/05/2019,Al Wahda,Lokomotiv Tashkent,3,1,H,2019
+ACL,07/05/2019,Al Zawra'a,Zob Ahan,2,2,D,2019
+ACL,07/05/2019,Al Rayyan,Al Ittihad,0,2,A,2019
+ACL,07/05/2019,Al Nassr,Al Wasl,3,1,H,2019
+ACL,08/05/2019,Sanfrecce Hiroshima,Guangzhou Evergrande,1,0,H,2019
+ACL,08/05/2019,Daegu,Melbourne Victory,4,0,H,2019
+ACL,08/05/2019,Shandong Taishan,Gyeongnam FC,2,1,H,2019
+ACL,08/05/2019,Johor Darul Ta'zim,Kashima Antlers,1,0,H,2019
+ACL,20/05/2019,Persepolis,Al Sadd,2,0,H,2019
+ACL,20/05/2019,Al Shorta,Al Hilal FC,2,2,D,2019
+ACL,20/05/2019,Al Ain,Esteghlal,1,2,A,2019
+ACL,20/05/2019,Al Ahli,Pakhtakor,2,1,H,2019
+ACL,21/05/2019,Urawa Reds,Beijing Guoan,3,0,H,2019
+ACL,21/05/2019,Jeonbuk Motors,Buriram United,0,0,D,2019
+ACL,21/05/2019,Shanghai Port,Ulsan HD,5,0,H,2019
+ACL,21/05/2019,Sydney,Kawasaki Frontale,0,4,A,2019
+ACL,21/05/2019,Lokomotiv Tashkent,Al Rayyan,3,2,H,2019
+ACL,21/05/2019,Al Wasl,Al Zawra'a,1,5,A,2019
+ACL,21/05/2019,Al Ittihad,Al Wahda,1,1,D,2019
+ACL,22/05/2019,Gyeongnam FC,Johor Darul Ta'zim,2,0,H,2019
+ACL,22/05/2019,Kashima Antlers,Shandong Taishan,2,1,H,2019
+ACL,22/05/2019,Guangzhou Evergrande,Daegu,1,0,H,2019
+ACL,22/05/2019,Melbourne Victory,Sanfrecce Hiroshima,1,3,A,2019
+ACL,29/05/2019,Zob Ahan,Al Nassr,0,0,D,2019
+ACL,18/06/2019,Kashima Antlers,Sanfrecce Hiroshima,1,0,H,2019
+ACL,18/06/2019,Guangzhou Evergrande,Shandong Taishan,2,1,H,2019
+ACL,19/06/2019,Urawa Reds,Ulsan HD,1,2,A,2019
+ACL,19/06/2019,Shanghai Port,Jeonbuk Motors,1,1,D,2019
+ACL,25/06/2019,Sanfrecce Hiroshima,Kashima Antlers,3,2,H,2019
+ACL,26/06/2019,Ulsan HD,Urawa Reds,0,3,A,2019
+ACL,05/08/2019,Al Ittihad,Zob Ahan,2,1,H,2019
+ACL,05/08/2019,Al Nassr,Al Wahda,1,1,D,2019
+ACL,06/08/2019,Al Shorta,Al Sadd,1,1,D,2019
+ACL,06/08/2019,Al Ahli,Al Hilal FC,2,4,A,2019
+ACL,12/08/2019,Al Wahda,Al Nassr,2,3,A,2019
+ACL,12/08/2019,Zob Ahan,Al Ittihad,3,4,A,2019
+ACL,13/08/2019,Al Sadd,Al Shorta,3,1,H,2019
+ACL,13/08/2019,Al Hilal FC,Al Ahli,0,1,A,2019
+ACL,26/08/2019,Al Nassr,Al Sadd,2,1,H,2019
+ACL,27/08/2019,Shanghai Port,Urawa Reds,2,2,D,2019
+ACL,27/08/2019,Al Ittihad,Al Hilal FC,0,0,D,2019
+ACL,28/08/2019,Guangzhou Evergrande,Kashima Antlers,0,0,D,2019
+ACL,16/09/2019,Al Sadd,Al Nassr,3,1,H,2019
+ACL,17/09/2019,Urawa Reds,Shanghai Port,1,1,D,2019
+ACL,17/09/2019,Al Hilal FC,Al Ittihad,3,1,H,2019
+ACL,18/09/2019,Kashima Antlers,Guangzhou Evergrande,1,1,D,2019
+ACL,01/10/2019,Al Sadd,Al Hilal FC,1,4,A,2019
+ACL,02/10/2019,Urawa Reds,Guangzhou Evergrande,2,0,H,2019
+ACL,22/10/2019,Al Hilal FC,Al Sadd,2,4,A,2019
+ACL,23/10/2019,Guangzhou Evergrande,Urawa Reds,0,1,A,2019
+ACL,09/11/2019,Al Hilal FC,Urawa Reds,1,0,H,2019
+ACL,24/11/2019,Urawa Reds,Al Hilal FC,0,2,A,2019
+ACL,14/01/2020,Ceres,Kan Baw Za,3,2,H,2020
+ACL,14/01/2020,Chennai City,Al Riffa,0,1,A,2020
+ACL,21/01/2020,Melbourne Victory,Bali United,5,0,H,2020
+ACL,21/01/2020,Lokomotiv Tashkent,Istiqlol Dushanbe,0,1,A,2020
+ACL,21/01/2020,Buriram United,Hồ Chí Minh City,2,1,H,2020
+ACL,21/01/2020,Port,Ceres,0,1,A,2020
+ACL,21/01/2020,Kedah,Wofoo Tai Po,5,1,H,2020
+ACL,22/01/2020,Bunyodkor,Al Zawra'a,4,1,H,2020
+ACL,25/01/2020,Padideh Mashhad,Al Riffa,2,1,H,2020
+ACL,25/01/2020,Esteghlal,Kuwait SC,3,0,H,2020
+ACL,28/01/2020,Shanghai Port,Buriram United,3,0,H,2020
+ACL,28/01/2020,Seoul,Kedah,4,1,H,2020
+ACL,28/01/2020,Tokyo,Ceres,2,0,H,2020
+ACL,28/01/2020,Kashima Antlers,Melbourne Victory,0,1,A,2020
+ACL,28/01/2020,Al Ain,Bunyodkor,1,0,H,2020
+ACL,28/01/2020,Al Rayyan,Esteghlal,0,5,A,2020
+ACL,28/01/2020,Al Ahli,Istiqlol Dushanbe,1,0,H,2020
+ACL,10/02/2020,Pakhtakor,Shabab Al Ahli,2,1,H,2020
+ACL,10/02/2020,Al Shorta,Esteghlal,1,1,D,2020
+ACL,11/02/2020,Melbourne Victory,Chiangrai United,1,0,H,2020
+ACL,11/02/2020,Ulsan HD,Tokyo,1,1,D,2020
+ACL,11/02/2020,Al Ain,Sepahan,0,4,A,2020
+ACL,11/02/2020,Sharjah,Al Taawoun,0,1,A,2020
+ACL,11/02/2020,Al Shorta,Persepolis,2,0,H,2020
+ACL,11/02/2020,Al Nassr,Al Sadd,2,2,D,2020
+ACL,12/02/2020,Jeonbuk Motors,Yokohama F. Marinos,1,2,A,2020
+ACL,17/02/2020,Pakhtakor,Padideh Mashhad,3,0,H,2020
+ACL,17/02/2020,Al Ahli,Esteghlal,2,1,H,2020
+ACL,18/02/2020,Tokyo,Perth Glory,1,0,H,2020
+ACL,18/02/2020,Seoul,Melbourne Victory,1,0,H,2020
+ACL,18/02/2020,Chiangrai United,Beijing Guoan,0,1,A,2020
+ACL,18/02/2020,Al Ain,Al Nassr,1,2,A,2020
+ACL,18/02/2020,Sharjah,Persepolis,2,2,D,2020
+ACL,18/02/2020,Al Taawoun,Al Shorta,2,0,H,2020
+ACL,18/02/2020,Al Sadd,Sepahan,3,0,H,2020
+ACL,19/02/2020,Suwon Bluewings,Vissel Kobe,0,1,A,2020
+ACL,19/02/2020,Yokohama F. Marinos,Sydney,4,0,H,2020
+ACL,04/03/2020,Sydney,Jeonbuk Motors,2,2,D,2020
+ACL,14/09/2020,Al Ahli,Al Shorta,1,0,H,2020
+ACL,14/09/2020,Shabab Al Ahli,Padideh Mashhad,1,0,H,2020
+ACL,15/09/2020,Al Shorta,Sharjah,2,1,H,2020
+ACL,15/09/2020,Al Ain,Al Sadd,3,3,D,2020
+ACL,15/09/2020,Persepolis,Al Taawoun,1,0,H,2020
+ACL,15/09/2020,Sepahan,Al Nassr,0,2,A,2020
+ACL,17/09/2020,Al Shorta,Al Ahli,2,1,H,2020
+ACL,17/09/2020,Padideh Mashhad,Shabab Al Ahli,0,1,A,2020
+ACL,18/09/2020,Sharjah,Al Shorta,4,2,H,2020
+ACL,18/09/2020,Al Sadd,Al Ain,4,0,H,2020
+ACL,18/09/2020,Al Taawoun,Persepolis,0,1,A,2020
+ACL,18/09/2020,Al Nassr,Sepahan,2,0,H,2020
+ACL,20/09/2020,Esteghlal,Al Shorta,1,1,D,2020
+ACL,20/09/2020,Shabab Al Ahli,Pakhtakor,0,0,D,2020
+ACL,21/09/2020,Persepolis,Al Shorta,0,1,A,2020
+ACL,21/09/2020,Al Sadd,Al Nassr,1,1,D,2020
+ACL,21/09/2020,Al Taawoun,Sharjah,0,6,A,2020
+ACL,21/09/2020,Sepahan,Al Ain,0,0,D,2020
+ACL,23/09/2020,Esteghlal,Al Ahli,3,0,H,2020
+ACL,23/09/2020,Padideh Mashhad,Pakhtakor,0,1,A,2020
+ACL,24/09/2020,Al Nassr,Al Ain,0,1,A,2020
+ACL,24/09/2020,Sepahan,Al Sadd,2,1,H,2020
+ACL,24/09/2020,Al Shorta,Al Taawoun,0,1,A,2020
+ACL,24/09/2020,Persepolis,Sharjah,4,0,H,2020
+ACL,26/09/2020,Pakhtakor,Esteghlal,2,1,H,2020
+ACL,27/09/2020,Persepolis,Al Sadd,1,0,H,2020
+ACL,27/09/2020,Al Nassr,Al Taawoun,1,0,H,2020
+ACL,30/09/2020,Al Nassr,Al Ahli,2,0,H,2020
+ACL,30/09/2020,Persepolis,Pakhtakor,2,0,H,2020
+ACL,18/11/2020,Perth Glory,Shanghai Shenhua,1,2,A,2020
+ACL,19/11/2020,Sydney,Shanghai Port,1,2,A,2020
+ACL,21/11/2020,Seoul,Beijing Guoan,1,2,A,2020
+ACL,21/11/2020,Ulsan HD,Shanghai Shenhua,3,1,H,2020
+ACL,22/11/2020,Suwon Bluewings,Guangzhou Evergrande,0,0,D,2020
+ACL,22/11/2020,Jeonbuk Motors,Shanghai Port,1,2,A,2020
+ACL,24/11/2020,Beijing Guoan,Melbourne Victory,3,1,H,2020
+ACL,24/11/2020,Tokyo,Shanghai Shenhua,0,1,A,2020
+ACL,24/11/2020,Seoul,Chiangrai United,5,0,H,2020
+ACL,24/11/2020,Perth Glory,Ulsan HD,1,2,A,2020
+ACL,25/11/2020,Guangzhou Evergrande,Vissel Kobe,1,3,A,2020
+ACL,25/11/2020,Jeonbuk Motors,Sydney,1,0,H,2020
+ACL,25/11/2020,Shanghai Port,Yokohama F. Marinos,0,1,A,2020
+ACL,27/11/2020,Melbourne Victory,Beijing Guoan,0,2,A,2020
+ACL,27/11/2020,Ulsan HD,Perth Glory,2,0,H,2020
+ACL,27/11/2020,Chiangrai United,Seoul,2,1,H,2020
+ACL,27/11/2020,Shanghai Shenhua,Tokyo,1,2,A,2020
+ACL,28/11/2020,Vissel Kobe,Guangzhou Evergrande,0,2,A,2020
+ACL,28/11/2020,Yokohama F. Marinos,Shanghai Port,1,2,A,2020
+ACL,30/11/2020,Beijing Guoan,Seoul,3,1,H,2020
+ACL,30/11/2020,Tokyo,Ulsan HD,1,2,A,2020
+ACL,30/11/2020,Chiangrai United,Melbourne Victory,2,2,D,2020
+ACL,30/11/2020,Shanghai Shenhua,Perth Glory,3,3,D,2020
+ACL,01/12/2020,Guangzhou Evergrande,Suwon Bluewings,1,1,D,2020
+ACL,01/12/2020,Yokohama F. Marinos,Jeonbuk Motors,4,1,H,2020
+ACL,01/12/2020,Shanghai Port,Sydney,0,4,A,2020
+ACL,03/12/2020,Shanghai Shenhua,Ulsan HD,1,4,A,2020
+ACL,03/12/2020,Perth Glory,Tokyo,0,1,A,2020
+ACL,03/12/2020,Beijing Guoan,Chiangrai United,1,1,D,2020
+ACL,03/12/2020,Melbourne Victory,Seoul,2,1,H,2020
+ACL,04/12/2020,Sydney,Yokohama F. Marinos,1,1,D,2020
+ACL,04/12/2020,Shanghai Port,Jeonbuk Motors,0,2,A,2020
+ACL,04/12/2020,Vissel Kobe,Suwon Bluewings,0,2,A,2020
+ACL,06/12/2020,Beijing Guoan,Tokyo,1,0,H,2020
+ACL,06/12/2020,Ulsan HD,Melbourne Victory,3,0,H,2020
+ACL,07/12/2020,Vissel Kobe,Shanghai Port,2,0,H,2020
+ACL,07/12/2020,Yokohama F. Marinos,Suwon Bluewings,2,3,A,2020
+ACL,10/12/2020,Ulsan HD,Beijing Guoan,2,0,H,2020
+ACL,19/12/2020,Persepolis,Ulsan HD,1,2,A,2020
+ACL,07/04/2021,Al Wahda,Al Zawra'a,2,1,H,2021
+ACL,10/04/2021,Foolad,Al Ain,4,0,H,2021
+ACL,14/04/2021,Persepolis,Al Wahda,1,0,H,2021
+ACL,14/04/2021,Pakhtakor,Tractor,3,3,D,2021
+ACL,14/04/2021,Goa,Al Rayyan,0,0,D,2021
+ACL,14/04/2021,Al Wehdat,Al Nassr,0,0,D,2021
+ACL,14/04/2021,Sharjah,Al Quwa Al Jawiya,1,0,H,2021
+ACL,14/04/2021,Al Sadd,Foolad,1,1,D,2021
+ACL,15/04/2021,Istiqlol Dushanbe,Shabab Al Ahli,0,0,D,2021
+ACL,15/04/2021,Al Hilal FC,AGMK,2,2,D,2021
+ACL,15/04/2021,Esteghlal,Al Ahli,5,2,H,2021
+ACL,17/04/2021,Al Wahda,Goa,0,0,D,2021
+ACL,17/04/2021,Al Quwa Al Jawiya,Pakhtakor,0,0,D,2021
+ACL,17/04/2021,Al Rayyan,Persepolis,1,3,A,2021
+ACL,17/04/2021,Tractor,Sharjah,0,0,D,2021
+ACL,17/04/2021,Al Nassr,Al Sadd,3,1,H,2021
+ACL,17/04/2021,Foolad,Al Wehdat,1,0,H,2021
+ACL,18/04/2021,Al Ahli,Al Shorta,1,1,D,2021
+ACL,18/04/2021,Shabab Al Ahli,Al Hilal FC,0,2,A,2021
+ACL,18/04/2021,AGMK,Istiqlol Dushanbe,2,3,A,2021
+ACL,18/04/2021,Al Shorta,Esteghlal,0,3,A,2021
+ACL,20/04/2021,Al Wahda,Al Rayyan,3,2,H,2021
+ACL,20/04/2021,Al Quwa Al Jawiya,Tractor,0,0,D,2021
+ACL,20/04/2021,Persepolis,Goa,2,1,H,2021
+ACL,20/04/2021,Sharjah,Pakhtakor,4,1,H,2021
+ACL,20/04/2021,Al Sadd,Al Wehdat,3,1,H,2021
+ACL,20/04/2021,Foolad,Al Nassr,1,1,D,2021
+ACL,21/04/2021,Al Shorta,Esteghlal,4,3,H,2021
+ACL,21/04/2021,Al Hilal FC,Istiqlol Dushanbe,3,1,H,2021
+ACL,21/04/2021,AGMK,Shabab Al Ahli,2,1,H,2021
+ACL,21/04/2021,Al Shorta,Al Ahli,0,3,A,2021
+ACL,23/04/2021,Al Rayyan,Al Wahda,0,1,A,2021
+ACL,23/04/2021,Tractor,Al Quwa Al Jawiya,1,0,H,2021
+ACL,23/04/2021,Goa,Persepolis,0,4,A,2021
+ACL,23/04/2021,Pakhtakor,Sharjah,1,1,D,2021
+ACL,23/04/2021,Al Wehdat,Al Sadd,0,2,A,2021
+ACL,23/04/2021,Al Nassr,Foolad,2,0,H,2021
+ACL,24/04/2021,Al Ahli,Al Shorta,2,1,H,2021
+ACL,24/04/2021,Istiqlol Dushanbe,Al Hilal FC,4,1,H,2021
+ACL,24/04/2021,Shabab Al Ahli,AGMK,3,1,H,2021
+ACL,24/04/2021,Esteghlal,Al Shorta,2,2,D,2021
+ACL,26/04/2021,Al Wahda,Persepolis,1,0,H,2021
+ACL,26/04/2021,Tractor,Pakhtakor,0,0,D,2021
+ACL,26/04/2021,Al Rayyan,Goa,1,1,D,2021
+ACL,26/04/2021,Al Nassr,Al Wehdat,1,2,A,2021
+ACL,26/04/2021,Al Quwa Al Jawiya,Sharjah,2,3,A,2021
+ACL,26/04/2021,Foolad,Al Sadd,0,1,A,2021
+ACL,27/04/2021,Shabab Al Ahli,Istiqlol Dushanbe,0,1,A,2021
+ACL,27/04/2021,AGMK,Al Hilal FC,0,3,A,2021
+ACL,27/04/2021,Al Ahli,Esteghlal,0,0,D,2021
+ACL,29/04/2021,Persepolis,Al Rayyan,4,2,H,2021
+ACL,29/04/2021,Pakhtakor,Al Quwa Al Jawiya,1,0,H,2021
+ACL,29/04/2021,Goa,Al Wahda,0,2,A,2021
+ACL,29/04/2021,Sharjah,Tractor,0,2,A,2021
+ACL,29/04/2021,Al Sadd,Al Nassr,1,2,A,2021
+ACL,29/04/2021,Al Wehdat,Foolad,1,0,H,2021
+ACL,30/04/2021,Esteghlal,Al Shorta,1,0,H,2021
+ACL,30/04/2021,Al Hilal FC,Shabab Al Ahli,0,2,A,2021
+ACL,30/04/2021,Istiqlol Dushanbe,AGMK,1,2,A,2021
+ACL,30/04/2021,Al Shorta,Al Ahli,1,1,D,2021
+ACL,22/06/2021,Pohang Steelers,Ratchaburi,2,0,H,2021
+ACL,22/06/2021,Johor Darul Ta'zim,Nagoya Grampus,0,1,A,2021
+ACL,23/06/2021,Shanghai Port,Kaya,0,1,A,2021
+ACL,24/06/2021,Guangzhou Evergrande,Cerezo Osaka,0,2,A,2021
+ACL,24/06/2021,Kitchee,Port,2,0,H,2021
+ACL,25/06/2021,Nagoya Grampus,Pohang Steelers,3,0,H,2021
+ACL,25/06/2021,Tampines Rovers,Gamba Osaka,0,2,A,2021
+ACL,25/06/2021,Ratchaburi,Johor Darul Ta'zim,0,1,A,2021
+ACL,25/06/2021,Jeonbuk Motors,Chiangrai United,2,1,H,2021
+ACL,26/06/2021,BG Pathum United,Kaya,4,1,H,2021
+ACL,26/06/2021,Viettel,Ulsan HD,0,1,A,2021
+ACL,26/06/2021,Ceres,Beijing Guoan,1,1,D,2021
+ACL,26/06/2021,Kawasaki Frontale,Daegu,3,2,H,2021
+ACL,27/06/2021,Port,Guangzhou Evergrande,3,0,H,2021
+ACL,27/06/2021,Cerezo Osaka,Kitchee,2,1,H,2021
+ACL,28/06/2021,Ratchaburi,Nagoya Grampus,0,4,A,2021
+ACL,28/06/2021,Pohang Steelers,Johor Darul Ta'zim,4,1,H,2021
+ACL,28/06/2021,Chiangrai United,Tampines Rovers,1,0,H,2021
+ACL,28/06/2021,Gamba Osaka,Jeonbuk Motors,2,2,D,2021
+ACL,29/06/2021,Ulsan HD,BG Pathum United,2,0,H,2021
+ACL,29/06/2021,Kaya,Viettel,0,5,A,2021
+ACL,29/06/2021,Daegu,Ceres,7,0,H,2021
+ACL,29/06/2021,Beijing Guoan,Kawasaki Frontale,0,7,A,2021
+ACL,30/06/2021,Cerezo Osaka,Port,1,1,D,2021
+ACL,30/06/2021,Guangzhou Evergrande,Kitchee,0,1,A,2021
+ACL,01/07/2021,Johor Darul Ta'zim,Pohang Steelers,0,2,A,2021
+ACL,01/07/2021,Jeonbuk Motors,Tampines Rovers,9,0,H,2021
+ACL,01/07/2021,Nagoya Grampus,Ratchaburi,3,0,H,2021
+ACL,01/07/2021,Chiangrai United,Gamba Osaka,1,1,D,2021
+ACL,02/07/2021,Kaya,Ulsan HD,0,3,A,2021
+ACL,02/07/2021,BG Pathum United,Viettel,2,0,H,2021
+ACL,02/07/2021,Kawasaki Frontale,Ceres,8,0,H,2021
+ACL,02/07/2021,Daegu,Beijing Guoan,5,0,H,2021
+ACL,03/07/2021,Port,Cerezo Osaka,0,3,A,2021
+ACL,03/07/2021,Kitchee,Guangzhou Evergrande,1,0,H,2021
+ACL,04/07/2021,Ratchaburi,Pohang Steelers,0,0,D,2021
+ACL,04/07/2021,Nagoya Grampus,Johor Darul Ta'zim,2,1,H,2021
+ACL,04/07/2021,Tampines Rovers,Jeonbuk Motors,0,4,A,2021
+ACL,04/07/2021,Gamba Osaka,Chiangrai United,1,1,D,2021
+ACL,05/07/2021,Ulsan HD,Kaya,2,1,H,2021
+ACL,05/07/2021,Viettel,BG Pathum United,1,3,A,2021
+ACL,05/07/2021,Ceres,Kawasaki Frontale,0,2,A,2021
+ACL,05/07/2021,Beijing Guoan,Daegu,0,3,A,2021
+ACL,06/07/2021,Cerezo Osaka,Guangzhou Evergrande,5,0,H,2021
+ACL,06/07/2021,Port,Kitchee,1,1,D,2021
+ACL,07/07/2021,Pohang Steelers,Nagoya Grampus,1,1,D,2021
+ACL,07/07/2021,Gamba Osaka,Tampines Rovers,8,1,H,2021
+ACL,07/07/2021,Johor Darul Ta'zim,Ratchaburi,0,0,D,2021
+ACL,07/07/2021,Chiangrai United,Jeonbuk Motors,1,3,A,2021
+ACL,08/07/2021,Kaya,BG Pathum United,0,1,A,2021
+ACL,08/07/2021,Ulsan HD,Viettel,3,0,H,2021
+ACL,08/07/2021,Beijing Guoan,Ceres,2,3,A,2021
+ACL,08/07/2021,Daegu,Kawasaki Frontale,1,3,A,2021
+ACL,09/07/2021,Kitchee,Cerezo Osaka,0,0,D,2021
+ACL,09/07/2021,Guangzhou Evergrande,Port,1,5,A,2021
+ACL,10/07/2021,Jeonbuk Motors,Gamba Osaka,2,1,H,2021
+ACL,10/07/2021,Tampines Rovers,Chiangrai United,0,3,A,2021
+ACL,11/07/2021,Viettel,Kaya,1,0,H,2021
+ACL,11/07/2021,Kawasaki Frontale,Beijing Guoan,4,0,H,2021
+ACL,11/07/2021,Ceres,Daegu,0,4,A,2021
+ACL,11/07/2021,BG Pathum United,Ulsan HD,0,2,A,2021
+ACL,13/09/2021,Esteghlal,Al Hilal FC,0,2,A,2021
+ACL,14/09/2021,Nagoya Grampus,Daegu,4,2,H,2021
+ACL,14/09/2021,Istiqlol Dushanbe,Persepolis,0,1,A,2021
+ACL,14/09/2021,Al Nassr,Tractor,1,0,H,2021
+ACL,15/09/2021,Cerezo Osaka,Pohang Steelers,0,1,A,2021
+ACL,16/10/2021,Al Wahda,Al Nassr,1,5,A,2021
+ACL,16/10/2021,Persepolis,Al Hilal FC,0,3,A,2021
+ACL,17/10/2021,Pohang Steelers,Nagoya Grampus,3,0,H,2021
+ACL,19/10/2021,Al Nassr,Al Hilal FC,1,2,A,2021
+ACL,23/11/2021,Al Hilal FC,Pohang Steelers,2,0,H,2021
+ACL,08/03/2022,Kaya,Sydney,5,0,H,2022
+ACL,07/04/2022,Foolad,Al Gharafa,0,0,D,2022
+ACL,07/04/2022,Pakhtakor,Sepahan,1,3,A,2022
+ACL,07/04/2022,FK Ahal Akdasayak,Shabab Al Ahli,1,1,D,2022
+ACL,07/04/2022,Al Shorta,Al Taawoun,1,2,A,2022
+ACL,08/04/2022,Istiqlol Dushanbe,Al Rayyan,2,3,A,2022
+ACL,08/04/2022,Mumbai City,Al Shabab,0,3,A,2022
+ACL,08/04/2022,Al Sadd,Nasaf,1,1,D,2022
+ACL,08/04/2022,Al Hilal FC,Sharjah,2,1,H,2022
+ACL,08/04/2022,Al Jazira,Al Quwa Al Jawiya,1,2,A,2022
+ACL,08/04/2022,Al Wehdat,Al Faysaly Al Majmaah,1,1,D,2022
+ACL,10/04/2022,Shabab Al Ahli,Foolad,1,1,D,2022
+ACL,10/04/2022,Sepahan,Al Shorta,0,1,A,2022
+ACL,10/04/2022,Al Gharafa,FK Ahal Akdasayak,2,0,H,2022
+ACL,10/04/2022,Al Taawoun,Pakhtakor,0,1,A,2022
+ACL,11/04/2022,Al Rayyan,Al Hilal FC,0,3,A,2022
+ACL,11/04/2022,Al Quwa Al Jawiya,Mumbai City,1,2,A,2022
+ACL,11/04/2022,Nasaf,Al Wehdat,2,0,H,2022
+ACL,11/04/2022,Sharjah,Istiqlol Dushanbe,2,1,H,2022
+ACL,11/04/2022,Al Shabab,Al Jazira,3,0,H,2022
+ACL,11/04/2022,Al Faysaly Al Majmaah,Al Sadd,2,1,H,2022
+ACL,14/04/2022,Al Jazira,Mumbai City,1,0,H,2022
+ACL,14/04/2022,Foolad,FK Ahal Akdasayak,1,0,H,2022
+ACL,14/04/2022,Al Shorta,Pakhtakor,3,2,H,2022
+ACL,14/04/2022,Al Quwa Al Jawiya,Al Shabab,1,1,D,2022
+ACL,14/04/2022,Al Gharafa,Shabab Al Ahli,1,1,D,2022
+ACL,14/04/2022,Al Taawoun,Sepahan,3,0,H,2022
+ACL,15/04/2022,Kawasaki Frontale,Ulsan HD,1,1,D,2022
+ACL,15/04/2022,Shandong Taishan,Daegu,0,7,A,2022
+ACL,15/04/2022,BG Pathum United,Melbourne City FC,1,1,D,2022
+ACL,15/04/2022,Lion City Sailors FC,Urawa Reds,1,4,A,2022
+ACL,15/04/2022,Ceres,Jeonnam Dragons,0,1,A,2022
+ACL,15/04/2022,Johor Darul Ta'zim,Guangzhou Evergrande,5,0,H,2022
+ACL,15/04/2022,Sharjah,Al Rayyan,1,1,D,2022
+ACL,15/04/2022,Al Sadd,Al Wehdat,5,2,H,2022
+ACL,15/04/2022,Al Hilal FC,Istiqlol Dushanbe,1,0,H,2022
+ACL,15/04/2022,Nasaf,Al Faysaly Al Majmaah,0,1,A,2022
+ACL,16/04/2022,Hoàng Anh Gia Lai,Yokohama F. Marinos,1,2,A,2022
+ACL,16/04/2022,Kitchee,Chiangrai United,1,0,H,2022
+ACL,16/04/2022,Jeonbuk Motors,Sydney,0,0,D,2022
+ACL,18/04/2022,Guangzhou Evergrande,Kawasaki Frontale,0,8,A,2022
+ACL,18/04/2022,Daegu,Lion City Sailors FC,0,3,A,2022
+ACL,18/04/2022,Jeonnam Dragons,BG Pathum United,0,2,A,2022
+ACL,18/04/2022,Urawa Reds,Shandong Taishan,5,0,H,2022
+ACL,18/04/2022,Melbourne City FC,Ceres,3,0,H,2022
+ACL,18/04/2022,Ulsan HD,Johor Darul Ta'zim,1,2,A,2022
+ACL,18/04/2022,Mumbai City,Al Jazira,0,0,D,2022
+ACL,18/04/2022,FK Ahal Akdasayak,Foolad,0,1,A,2022
+ACL,18/04/2022,Pakhtakor,Al Shorta,0,3,A,2022
+ACL,18/04/2022,Al Shabab,Al Quwa Al Jawiya,3,0,H,2022
+ACL,18/04/2022,Shabab Al Ahli,Al Gharafa,8,2,H,2022
+ACL,18/04/2022,Sepahan,Al Taawoun,1,1,D,2022
+ACL,19/04/2022,Sydney,Hoàng Anh Gia Lai,1,1,D,2022
+ACL,19/04/2022,Vissel Kobe,Kitchee,2,1,H,2022
+ACL,19/04/2022,Yokohama F. Marinos,Jeonbuk Motors,0,1,A,2022
+ACL,19/04/2022,Al Rayyan,Sharjah,3,1,H,2022
+ACL,19/04/2022,Al Wehdat,Al Sadd,3,1,H,2022
+ACL,19/04/2022,Istiqlol Dushanbe,Al Hilal FC,0,3,A,2022
+ACL,19/04/2022,Al Faysaly Al Majmaah,Nasaf,0,0,D,2022
+ACL,21/04/2022,Ulsan HD,Guangzhou Evergrande,3,0,H,2022
+ACL,21/04/2022,Shandong Taishan,Lion City Sailors FC,0,0,D,2022
+ACL,21/04/2022,BG Pathum United,Ceres,5,0,H,2022
+ACL,21/04/2022,Daegu,Urawa Reds,1,0,H,2022
+ACL,21/04/2022,Melbourne City FC,Jeonnam Dragons,2,1,H,2022
+ACL,21/04/2022,Kawasaki Frontale,Johor Darul Ta'zim,0,0,D,2022
+ACL,22/04/2022,Jeonbuk Motors,Hoàng Anh Gia Lai,1,0,H,2022
+ACL,22/04/2022,Sydney,Yokohama F. Marinos,0,1,A,2022
+ACL,22/04/2022,Vissel Kobe,Chiangrai United,6,0,H,2022
+ACL,22/04/2022,Al Quwa Al Jawiya,Al Jazira,3,2,H,2022
+ACL,22/04/2022,Shabab Al Ahli,FK Ahal Akdasayak,2,1,H,2022
+ACL,22/04/2022,Sepahan,Pakhtakor,2,1,H,2022
+ACL,22/04/2022,Al Shabab,Mumbai City,6,0,H,2022
+ACL,22/04/2022,Al Gharafa,Foolad,0,1,A,2022
+ACL,22/04/2022,Al Taawoun,Al Shorta,3,4,A,2022
+ACL,23/04/2022,Al Rayyan,Istiqlol Dushanbe,1,0,H,2022
+ACL,23/04/2022,Nasaf,Al Sadd,3,1,H,2022
+ACL,23/04/2022,Sharjah,Al Hilal FC,2,2,D,2022
+ACL,23/04/2022,Al Faysaly Al Majmaah,Al Wehdat,1,1,D,2022
+ACL,24/04/2022,Guangzhou Evergrande,Ulsan HD,0,5,A,2022
+ACL,24/04/2022,Urawa Reds,Daegu,0,0,D,2022
+ACL,24/04/2022,Jeonnam Dragons,Melbourne City FC,1,1,D,2022
+ACL,24/04/2022,Lion City Sailors FC,Shandong Taishan,3,2,H,2022
+ACL,24/04/2022,Ceres,BG Pathum United,1,3,A,2022
+ACL,24/04/2022,Johor Darul Ta'zim,Kawasaki Frontale,0,5,A,2022
+ACL,25/04/2022,Yokohama F. Marinos,Sydney,3,0,H,2022
+ACL,25/04/2022,Hoàng Anh Gia Lai,Jeonbuk Motors,1,1,D,2022
+ACL,25/04/2022,Chiangrai United,Vissel Kobe,0,0,D,2022
+ACL,26/04/2022,Al Shorta,Sepahan,5,2,H,2022
+ACL,26/04/2022,Al Jazira,Al Shabab,0,2,A,2022
+ACL,26/04/2022,Mumbai City,Al Quwa Al Jawiya,1,0,H,2022
+ACL,26/04/2022,Foolad,Shabab Al Ahli,1,1,D,2022
+ACL,26/04/2022,FK Ahal Akdasayak,Al Gharafa,4,2,H,2022
+ACL,26/04/2022,Pakhtakor,Al Taawoun,5,4,H,2022
+ACL,27/04/2022,Ulsan HD,Kawasaki Frontale,3,2,H,2022
+ACL,27/04/2022,Urawa Reds,Lion City Sailors FC,6,0,H,2022
+ACL,27/04/2022,Melbourne City FC,BG Pathum United,0,0,D,2022
+ACL,27/04/2022,Daegu,Shandong Taishan,4,0,H,2022
+ACL,27/04/2022,Jeonnam Dragons,Ceres,2,0,H,2022
+ACL,27/04/2022,Guangzhou Evergrande,Johor Darul Ta'zim,0,2,A,2022
+ACL,27/04/2022,Al Wehdat,Nasaf,2,2,D,2022
+ACL,27/04/2022,Al Hilal FC,Al Rayyan,0,2,A,2022
+ACL,27/04/2022,Istiqlol Dushanbe,Sharjah,2,0,H,2022
+ACL,27/04/2022,Al Sadd,Al Faysaly Al Majmaah,1,0,H,2022
+ACL,28/04/2022,Yokohama F. Marinos,Hoàng Anh Gia Lai,2,0,H,2022
+ACL,28/04/2022,Sydney,Jeonbuk Motors,2,3,A,2022
+ACL,28/04/2022,Chiangrai United,Kitchee,2,3,A,2022
+ACL,30/04/2022,Kawasaki Frontale,Guangzhou Evergrande,1,0,H,2022
+ACL,30/04/2022,Johor Darul Ta'zim,Ulsan HD,2,1,H,2022
+ACL,30/04/2022,Shandong Taishan,Urawa Reds,0,5,A,2022
+ACL,30/04/2022,Lion City Sailors FC,Daegu,1,2,A,2022
+ACL,30/04/2022,BG Pathum United,Jeonnam Dragons,0,0,D,2022
+ACL,30/04/2022,Ceres,Melbourne City FC,0,3,A,2022
+ACL,01/05/2022,Hoàng Anh Gia Lai,Sydney,1,0,H,2022
+ACL,01/05/2022,Kitchee,Vissel Kobe,2,2,D,2022
+ACL,01/05/2022,Jeonbuk Motors,Yokohama F. Marinos,1,1,D,2022
+ACL,18/08/2022,Vissel Kobe,Yokohama F. Marinos,3,2,H,2022
+ACL,19/08/2022,BG Pathum United,Kitchee,4,0,H,2022
+ACL,19/08/2022,Johor Darul Ta'zim,Urawa Reds,0,5,A,2022
+ACL,22/08/2022,Urawa Reds,BG Pathum United,4,0,H,2022
+ACL,19/02/2023,Al Shorta,Al Rayyan,1,1,D,2023
+ACL,19/02/2023,Al Shabab,Nasaf,2,0,H,2023
+ACL,20/02/2023,Al Faysaly Al Majmaah,Foolad,0,1,A,2023
+ACL,20/02/2023,Al Hilal FC,Shabab Al Ahli,3,1,H,2023
+ACL,23/02/2023,Al Shorta,Al Shabab,2,1,H,2023
+ACL,23/02/2023,Foolad,Al Hilal FC,0,1,A,2023
+ACL,26/02/2023,Al Shorta,Al Hilal FC,0,7,A,2023
+ACL,29/04/2023,Al Hilal FC,Urawa Reds,1,1,D,2023
+ACL,06/05/2023,Urawa Reds,Al Hilal FC,1,0,H,2023
+ACL,15/08/2023,BC Rangers,Hai Phong,1,4,A,2023
+ACL,15/08/2023,AGMK,Al Seeb,1,0,H,2023
+ACL,15/08/2023,Shabab Al Ahli,Al Wehdat,3,0,H,2023
+ACL,15/08/2023,Sharjah,Bashundhara Kings,2,0,H,2023
+ACL,16/08/2023,Lee Man,Bali United,5,1,H,2023
+ACL,22/08/2023,Incheon United,Hai Phong,3,1,H,2023
+ACL,22/08/2023,Urawa Reds,Lee Man,3,0,H,2023
+ACL,22/08/2023,Zhejiang,Port,1,0,H,2023
+ACL,22/08/2023,Shanghai Port,BG Pathum United,2,3,A,2023
+ACL,22/08/2023,Al Wakrah,Navbahor,0,1,A,2023
+ACL,22/08/2023,Tractor,Sharjah,1,3,A,2023
+ACL,22/08/2023,Al Nassr,Shabab Al Ahli,4,2,H,2023
+ACL,22/08/2023,Al Arabi,AGMK,0,1,A,2023
+ACL,18/09/2023,Al Faisaly,Nasaf,0,1,A,2023
+ACL,18/09/2023,Al Sadd,Sharjah,0,0,D,2023
+ACL,18/09/2023,Al Ittihad,AGMK,3,0,H,2023
+ACL,18/09/2023,Al Quwa Al Jawiya,Sepahan,2,2,D,2023
+ACL,18/09/2023,Mumbai City,Nassaji Mazandaran,0,2,A,2023
+ACL,18/09/2023,Al Hilal FC,Navbahor,1,1,D,2023
+ACL,19/09/2023,Pakhtakor,Al Ain,0,3,A,2023
+ACL,19/09/2023,FK Ahal Akdasayak,Al Fayha,1,0,H,2023
+ACL,19/09/2023,Istiqlol Dushanbe,Al Shorta,0,0,D,2023
+ACL,19/09/2023,Persepolis,Al Nassr,0,2,A,2023
+ACL,19/09/2023,Yokohama F. Marinos,Incheon United,2,4,A,2023
+ACL,19/09/2023,Kaya,Shandong Taishan,1,3,A,2023
+ACL,19/09/2023,Ulsan HD,BG Pathum United,3,1,H,2023
+ACL,19/09/2023,Johor Darul Ta'zim,Kawasaki Frontale,0,1,A,2023
+ACL,20/09/2023,Jeonbuk Motors,Kitchee,2,1,H,2023
+ACL,20/09/2023,Lion City Sailors FC,Bangkok United,1,2,A,2023
+ACL,20/09/2023,Buriram United,Zhejiang,4,1,H,2023
+ACL,20/09/2023,Melbourne City FC,Ventforet Kofu,0,0,D,2023
+ACL,20/09/2023,Wuhan Three Towns,Urawa Reds,2,2,D,2023
+ACL,20/09/2023,Hà Nội,Pohang Steelers,2,4,A,2023
+ACL,02/10/2023,Sharjah,Al Faisaly,1,0,H,2023
+ACL,02/10/2023,Nasaf,Al Sadd,3,1,H,2023
+ACL,02/10/2023,AGMK,Al Quwa Al Jawiya,1,2,A,2023
+ACL,02/10/2023,Al Nassr,Istiqlol Dushanbe,3,1,H,2023
+ACL,02/10/2023,Al Shorta,Persepolis,0,1,A,2023
+ACL,03/10/2023,Al Ain,FK Ahal Akdasayak,4,2,H,2023
+ACL,03/10/2023,Al Fayha,Pakhtakor,2,0,H,2023
+ACL,03/10/2023,Sepahan,Al Ittihad,0,3,A,2023
+ACL,03/10/2023,Navbahor,Mumbai City,3,0,H,2023
+ACL,03/10/2023,Nassaji Mazandaran,Al Hilal FC,0,3,A,2023
+ACL,03/10/2023,Incheon United,Kaya,4,0,H,2023
+ACL,03/10/2023,Shandong Taishan,Yokohama F. Marinos,0,1,A,2023
+ACL,03/10/2023,Kawasaki Frontale,Ulsan HD,1,0,H,2023
+ACL,03/10/2023,BG Pathum United,Johor Darul Ta'zim,2,4,A,2023
+ACL,04/10/2023,Kitchee,Lion City Sailors FC,1,2,A,2023
+ACL,04/10/2023,Bangkok United,Jeonbuk Motors,3,2,H,2023
+ACL,04/10/2023,Ventforet Kofu,Buriram United,1,0,H,2023
+ACL,04/10/2023,Zhejiang,Melbourne City FC,1,2,A,2023
+ACL,04/10/2023,Urawa Reds,Hà Nội,6,0,H,2023
+ACL,04/10/2023,Pohang Steelers,Wuhan Three Towns,3,1,H,2023
+ACL,23/10/2023,Sharjah,Nasaf,1,0,H,2023
+ACL,23/10/2023,Al Sadd,Al Faisaly,6,0,H,2023
+ACL,23/10/2023,AGMK,Sepahan,1,3,A,2023
+ACL,23/10/2023,Al Ittihad,Al Quwa Al Jawiya,1,0,H,2023
+ACL,23/10/2023,Navbahor,Nassaji Mazandaran,2,1,H,2023
+ACL,23/10/2023,Al Hilal FC,Mumbai City,6,0,H,2023
+ACL,24/10/2023,Pakhtakor,FK Ahal Akdasayak,3,0,H,2023
+ACL,24/10/2023,Al Ain,Al Fayha,4,1,H,2023
+ACL,24/10/2023,Persepolis,Istiqlol Dushanbe,2,0,H,2023
+ACL,24/10/2023,Al Nassr,Al Shorta,4,3,H,2023
+ACL,24/10/2023,Ulsan HD,Johor Darul Ta'zim,3,1,H,2023
+ACL,24/10/2023,BG Pathum United,Kawasaki Frontale,2,4,A,2023
+ACL,24/10/2023,Urawa Reds,Pohang Steelers,0,2,A,2023
+ACL,24/10/2023,Wuhan Three Towns,Hà Nội,2,1,H,2023
+ACL,25/10/2023,Jeonbuk Motors,Lion City Sailors FC,3,0,H,2023
+ACL,25/10/2023,Kitchee,Bangkok United,1,2,A,2023
+ACL,25/10/2023,Incheon United,Shandong Taishan,0,2,A,2023
+ACL,25/10/2023,Yokohama F. Marinos,Kaya,3,0,H,2023
+ACL,25/10/2023,Zhejiang,Ventforet Kofu,2,0,H,2023
+ACL,25/10/2023,Buriram United,Melbourne City FC,0,2,A,2023
+ACL,06/11/2023,Nasaf,Sharjah,1,1,D,2023
+ACL,06/11/2023,Al Faisaly,Al Sadd,2,0,H,2023
+ACL,06/11/2023,Al Quwa Al Jawiya,Al Ittihad,2,0,H,2023
+ACL,06/11/2023,Sepahan,AGMK,9,0,H,2023
+ACL,06/11/2023,Nassaji Mazandaran,Navbahor,1,3,A,2023
+ACL,06/11/2023,Mumbai City,Al Hilal FC,0,2,A,2023
+ACL,07/11/2023,FK Ahal Akdasayak,Pakhtakor,1,1,D,2023
+ACL,07/11/2023,Al Fayha,Al Ain,2,3,A,2023
+ACL,07/11/2023,Istiqlol Dushanbe,Persepolis,1,1,D,2023
+ACL,07/11/2023,Al Shorta,Al Nassr,2,3,A,2023
+ACL,07/11/2023,Shandong Taishan,Incheon United,3,1,H,2023
+ACL,07/11/2023,Kaya,Yokohama F. Marinos,1,2,A,2023
+ACL,07/11/2023,Kawasaki Frontale,BG Pathum United,4,2,H,2023
+ACL,07/11/2023,Johor Darul Ta'zim,Ulsan HD,2,1,H,2023
+ACL,08/11/2023,Lion City Sailors FC,Jeonbuk Motors,2,0,H,2023
+ACL,08/11/2023,Bangkok United,Kitchee,1,1,D,2023
+ACL,08/11/2023,Melbourne City FC,Buriram United,0,1,A,2023
+ACL,08/11/2023,Ventforet Kofu,Zhejiang,4,1,H,2023
+ACL,08/11/2023,Pohang Steelers,Urawa Reds,2,1,H,2023
+ACL,08/11/2023,Hà Nội,Wuhan Three Towns,2,1,H,2023
+ACL,27/11/2023,Sharjah,Al Sadd,0,2,A,2023
+ACL,27/11/2023,Nasaf,Al Faisaly,3,1,H,2023
+ACL,27/11/2023,AGMK,Al Ittihad,1,2,A,2023
+ACL,27/11/2023,Sepahan,Al Quwa Al Jawiya,1,0,H,2023
+ACL,27/11/2023,Al Shorta,Istiqlol Dushanbe,2,0,H,2023
+ACL,27/11/2023,Al Nassr,Persepolis,0,0,D,2023
+ACL,28/11/2023,Al Ain,Pakhtakor,1,3,A,2023
+ACL,28/11/2023,Al Fayha,FK Ahal Akdasayak,3,1,H,2023
+ACL,28/11/2023,Navbahor,Al Hilal FC,0,2,A,2023
+ACL,28/11/2023,Nassaji Mazandaran,Mumbai City,2,0,H,2023
+ACL,28/11/2023,Incheon United,Yokohama F. Marinos,2,1,H,2023
+ACL,28/11/2023,Shandong Taishan,Kaya,6,1,H,2023
+ACL,28/11/2023,BG Pathum United,Ulsan HD,1,3,A,2023
+ACL,28/11/2023,Kawasaki Frontale,Johor Darul Ta'zim,5,0,H,2023
+ACL,29/11/2023,Kitchee,Jeonbuk Motors,1,2,A,2023
+ACL,29/11/2023,Bangkok United,Lion City Sailors FC,1,0,H,2023
+ACL,29/11/2023,Ventforet Kofu,Melbourne City FC,3,3,D,2023
+ACL,29/11/2023,Zhejiang,Buriram United,3,2,H,2023
+ACL,29/11/2023,Urawa Reds,Wuhan Three Towns,2,1,H,2023
+ACL,29/11/2023,Pohang Steelers,Hà Nội,2,0,H,2023
+ACL,04/12/2023,Al Sadd,Nasaf,2,2,D,2023
+ACL,04/12/2023,Al Faisaly,Sharjah,2,1,H,2023
+ACL,04/12/2023,Al Quwa Al Jawiya,AGMK,3,2,H,2023
+ACL,04/12/2023,Al Ittihad,Sepahan,2,1,H,2023
+ACL,04/12/2023,Al Hilal FC,Nassaji Mazandaran,2,1,H,2023
+ACL,04/12/2023,Mumbai City,Navbahor,1,2,A,2023
+ACL,05/12/2023,Pakhtakor,Al Fayha,1,4,A,2023
+ACL,05/12/2023,FK Ahal Akdasayak,Al Ain,1,2,A,2023
+ACL,05/12/2023,Persepolis,Al Shorta,1,2,A,2023
+ACL,05/12/2023,Istiqlol Dushanbe,Al Nassr,1,1,D,2023
+ACL,06/12/2023,Wuhan Three Towns,Pohang Steelers,1,1,D,2023
+ACL,06/12/2023,Hà Nội,Urawa Reds,2,1,H,2023
+ACL,12/12/2023,Buriram United,Ventforet Kofu,2,3,A,2023
+ACL,12/12/2023,Melbourne City FC,Zhejiang,1,1,D,2023
+ACL,12/12/2023,Ulsan HD,Kawasaki Frontale,2,2,D,2023
+ACL,12/12/2023,Johor Darul Ta'zim,BG Pathum United,4,1,H,2023
+ACL,13/12/2023,Jeonbuk Motors,Bangkok United,3,2,H,2023
+ACL,13/12/2023,Lion City Sailors FC,Kitchee,0,2,A,2023
+ACL,13/12/2023,Yokohama F. Marinos,Shandong Taishan,3,0,H,2023
+ACL,13/12/2023,Kaya,Incheon United,1,3,A,2023

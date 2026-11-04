@@ -1,0 +1,1458 @@
+Div,Date,HomeTeam,AwayTeam,FTHG,FTAG,FTR,Season
+IDN,23/03/2018,Bhayangkara Surabaya Utd,Persija,0,0,D,2018
+IDN,24/03/2018,Persipura Jayapura,Persela Lamongan,2,1,H,2018
+IDN,24/03/2018,Arema,Mitra Kukar,2,2,D,2018
+IDN,24/03/2018,Bali United,Psms Medan,1,0,H,2018
+IDN,25/03/2018,PSM Makassar,PSIS Semarang,2,0,H,2018
+IDN,25/03/2018,Borneo,Persijatim Sriwijaya FC Palembang,0,0,D,2018
+IDN,25/03/2018,Persebaya Surabaya,Perseru Serui,1,0,H,2018
+IDN,26/03/2018,Persib Bandung,Ps Tni,1,1,D,2018
+IDN,26/03/2018,Madura United,Barito Putera,3,1,H,2018
+IDN,30/03/2018,Persela Lamongan,Persebaya Surabaya,1,1,D,2018
+IDN,31/03/2018,Perseru Serui,PSM Makassar,0,1,A,2018
+IDN,31/03/2018,Psms Medan,Bhayangkara Surabaya Utd,1,2,A,2018
+IDN,31/03/2018,Barito Putera,Persipura Jayapura,2,2,D,2018
+IDN,31/03/2018,Persija,Arema,3,1,H,2018
+IDN,01/04/2018,PSIS Semarang,Bali United,0,0,D,2018
+IDN,01/04/2018,Persijatim Sriwijaya FC Palembang,Persib Bandung,3,1,H,2018
+IDN,02/04/2018,Mitra Kukar,Borneo,0,1,A,2018
+IDN,02/04/2018,Ps Tni,Madura United,1,0,H,2018
+IDN,06/04/2018,Psms Medan,Persija,3,1,H,2018
+IDN,06/04/2018,PSM Makassar,Persela Lamongan,2,3,A,2018
+IDN,07/04/2018,Persipura Jayapura,Ps Tni,2,0,H,2018
+IDN,07/04/2018,Madura United,Persijatim Sriwijaya FC Palembang,3,0,H,2018
+IDN,07/04/2018,Bhayangkara Surabaya Utd,PSIS Semarang,1,1,D,2018
+IDN,07/04/2018,Bali United,Perseru Serui,1,1,D,2018
+IDN,08/04/2018,Persebaya Surabaya,Barito Putera,1,2,A,2018
+IDN,08/04/2018,Persib Bandung,Mitra Kukar,2,0,H,2018
+IDN,09/04/2018,Borneo,Arema,2,1,H,2018
+IDN,13/04/2018,Mitra Kukar,Madura United,3,1,H,2018
+IDN,13/04/2018,Ps Tni,Persebaya Surabaya,1,4,A,2018
+IDN,14/04/2018,Perseru Serui,Bhayangkara Surabaya Utd,1,0,H,2018
+IDN,14/04/2018,Persijatim Sriwijaya FC Palembang,Persipura Jayapura,2,2,D,2018
+IDN,14/04/2018,Persija,Borneo,2,0,H,2018
+IDN,15/04/2018,PSIS Semarang,Psms Medan,4,1,H,2018
+IDN,15/04/2018,Arema,Persib Bandung,2,2,D,2018
+IDN,16/04/2018,Barito Putera,PSM Makassar,2,1,H,2018
+IDN,16/04/2018,Persela Lamongan,Bali United,1,1,D,2018
+IDN,20/04/2018,PSIS Semarang,Persija,1,4,A,2018
+IDN,20/04/2018,Psms Medan,Perseru Serui,1,0,H,2018
+IDN,21/04/2018,Persipura Jayapura,Mitra Kukar,2,1,H,2018
+IDN,21/04/2018,Madura United,Arema,3,2,H,2018
+IDN,21/04/2018,Persib Bandung,Borneo,3,1,H,2018
+IDN,21/04/2018,PSM Makassar,Ps Tni,4,3,H,2018
+IDN,22/04/2018,Bali United,Barito Putera,2,0,H,2018
+IDN,22/04/2018,Persebaya Surabaya,Persijatim Sriwijaya FC Palembang,1,1,D,2018
+IDN,23/04/2018,Bhayangkara Surabaya Utd,Persela Lamongan,1,1,D,2018
+IDN,27/04/2018,Arema,Persipura Jayapura,3,1,H,2018
+IDN,27/04/2018,Borneo,Madura United,2,2,D,2018
+IDN,28/04/2018,Persijatim Sriwijaya FC Palembang,PSM Makassar,0,0,D,2018
+IDN,28/04/2018,Barito Putera,Bhayangkara Surabaya Utd,3,1,H,2018
+IDN,29/04/2018,Perseru Serui,PSIS Semarang,1,0,H,2018
+IDN,29/04/2018,Mitra Kukar,Persebaya Surabaya,3,1,H,2018
+IDN,29/04/2018,Persela Lamongan,Psms Medan,4,1,H,2018
+IDN,30/04/2018,Ps Tni,Bali United,2,1,H,2018
+IDN,04/05/2018,Persipura Jayapura,Borneo,2,0,H,2018
+IDN,04/05/2018,Madura United,Persib Bandung,2,1,H,2018
+IDN,04/05/2018,Bhayangkara Surabaya Utd,Ps Tni,4,2,H,2018
+IDN,05/05/2018,Psms Medan,Barito Putera,3,2,H,2018
+IDN,05/05/2018,Bali United,Persijatim Sriwijaya FC Palembang,3,4,A,2018
+IDN,06/05/2018,Persebaya Surabaya,Arema,1,0,H,2018
+IDN,06/05/2018,PSM Makassar,Mitra Kukar,3,1,H,2018
+IDN,07/05/2018,PSIS Semarang,Persela Lamongan,3,1,H,2018
+IDN,11/05/2018,Ps Tni,Psms Medan,3,2,H,2018
+IDN,11/05/2018,Borneo,Persebaya Surabaya,2,2,D,2018
+IDN,11/05/2018,Mitra Kukar,Bali United,3,1,H,2018
+IDN,11/05/2018,Persela Lamongan,Perseru Serui,0,0,D,2018
+IDN,12/05/2018,Persijatim Sriwijaya FC Palembang,Bhayangkara Surabaya Utd,2,1,H,2018
+IDN,12/05/2018,Barito Putera,PSIS Semarang,4,1,H,2018
+IDN,12/05/2018,Persib Bandung,Persipura Jayapura,2,0,H,2018
+IDN,12/05/2018,Persija,Madura United,0,2,A,2018
+IDN,13/05/2018,Arema,PSM Makassar,1,1,D,2018
+IDN,17/05/2018,Perseru Serui,Barito Putera,0,1,A,2018
+IDN,17/05/2018,PSIS Semarang,Ps Tni,0,2,A,2018
+IDN,17/05/2018,Bhayangkara Surabaya Utd,Mitra Kukar,1,0,H,2018
+IDN,18/05/2018,Bali United,Arema,1,0,H,2018
+IDN,18/05/2018,Psms Medan,Persijatim Sriwijaya FC Palembang,1,0,H,2018
+IDN,19/05/2018,Persipura Jayapura,Madura United,6,0,H,2018
+IDN,19/05/2018,PSM Makassar,Borneo,1,0,H,2018
+IDN,20/05/2018,Persela Lamongan,Persija,2,0,H,2018
+IDN,22/05/2018,Arema,Bhayangkara Surabaya Utd,4,0,H,2018
+IDN,22/05/2018,Ps Tni,Perseru Serui,0,1,A,2018
+IDN,22/05/2018,Mitra Kukar,Psms Medan,1,0,H,2018
+IDN,22/05/2018,Persijatim Sriwijaya FC Palembang,PSIS Semarang,4,0,H,2018
+IDN,23/05/2018,Persib Bandung,PSM Makassar,3,0,H,2018
+IDN,23/05/2018,Borneo,Bali United,2,0,H,2018
+IDN,24/05/2018,Barito Putera,Persela Lamongan,1,1,D,2018
+IDN,25/05/2018,Persija,Persipura Jayapura,2,0,H,2018
+IDN,25/05/2018,Madura United,Persebaya Surabaya,2,2,D,2018
+IDN,26/05/2018,Psms Medan,Arema,2,0,H,2018
+IDN,27/05/2018,Perseru Serui,Persijatim Sriwijaya FC Palembang,1,0,H,2018
+IDN,27/05/2018,Bali United,Persib Bandung,0,0,D,2018
+IDN,27/05/2018,Bhayangkara Surabaya Utd,Borneo,1,1,D,2018
+IDN,28/05/2018,Persela Lamongan,Ps Tni,4,1,H,2018
+IDN,28/05/2018,PSIS Semarang,Mitra Kukar,4,0,H,2018
+IDN,29/05/2018,Persebaya Surabaya,Persipura Jayapura,1,1,D,2018
+IDN,30/05/2018,PSM Makassar,Madura United,2,0,H,2018
+IDN,30/05/2018,Barito Putera,Persija,2,1,H,2018
+IDN,31/05/2018,Persib Bandung,Bhayangkara Surabaya Utd,0,1,A,2018
+IDN,01/06/2018,Borneo,Psms Medan,3,1,H,2018
+IDN,01/06/2018,Arema,PSIS Semarang,1,0,H,2018
+IDN,01/06/2018,Mitra Kukar,Perseru Serui,2,0,H,2018
+IDN,02/06/2018,Persijatim Sriwijaya FC Palembang,Persela Lamongan,5,1,H,2018
+IDN,03/06/2018,Madura United,Bali United,2,2,D,2018
+IDN,04/06/2018,Persipura Jayapura,PSM Makassar,1,1,D,2018
+IDN,04/06/2018,Ps Tni,Barito Putera,1,0,H,2018
+IDN,05/06/2018,Psms Medan,Persib Bandung,0,3,A,2018
+IDN,06/06/2018,Perseru Serui,Arema,0,1,A,2018
+IDN,06/06/2018,PSIS Semarang,Borneo,1,0,H,2018
+IDN,07/06/2018,Bhayangkara Surabaya Utd,Madura United,1,0,H,2018
+IDN,07/06/2018,Persela Lamongan,Mitra Kukar,3,1,H,2018
+IDN,08/06/2018,Barito Putera,Persijatim Sriwijaya FC Palembang,3,1,H,2018
+IDN,08/06/2018,Ps Tni,Persija,0,5,A,2018
+IDN,09/06/2018,Bali United,Persipura Jayapura,2,0,H,2018
+IDN,09/06/2018,PSM Makassar,Persebaya Surabaya,1,0,H,2018
+IDN,26/06/2018,Persija,Persebaya Surabaya,1,1,D,2018
+IDN,30/06/2018,Persija,Persib Bandung,1,0,H,2018
+IDN,03/07/2018,Perseru Serui,Persija,3,1,H,2018
+IDN,06/07/2018,Mitra Kukar,Barito Putera,3,4,A,2018
+IDN,06/07/2018,Persijatim Sriwijaya FC Palembang,Ps Tni,4,1,H,2018
+IDN,06/07/2018,Persija,PSM Makassar,2,2,D,2018
+IDN,07/07/2018,Persipura Jayapura,Bhayangkara Surabaya Utd,0,2,A,2018
+IDN,07/07/2018,Arema,Persela Lamongan,1,0,H,2018
+IDN,07/07/2018,Borneo,Perseru Serui,5,1,H,2018
+IDN,07/07/2018,Persebaya Surabaya,Bali United,1,0,H,2018
+IDN,08/07/2018,Madura United,Psms Medan,1,0,H,2018
+IDN,08/07/2018,Persib Bandung,PSIS Semarang,1,0,H,2018
+IDN,10/07/2018,Ps Tni,Mitra Kukar,0,0,D,2018
+IDN,10/07/2018,Persijatim Sriwijaya FC Palembang,Persija,2,2,D,2018
+IDN,11/07/2018,Bhayangkara Surabaya Utd,Persebaya Surabaya,3,3,D,2018
+IDN,11/07/2018,Barito Putera,Arema,0,0,D,2018
+IDN,11/07/2018,Bali United,PSM Makassar,2,0,H,2018
+IDN,11/07/2018,Persela Lamongan,Borneo,2,0,H,2018
+IDN,12/07/2018,Perseru Serui,Persib Bandung,0,0,D,2018
+IDN,12/07/2018,PSIS Semarang,Madura United,0,0,D,2018
+IDN,12/07/2018,Psms Medan,Persipura Jayapura,1,3,A,2018
+IDN,15/07/2018,Arema,Ps Tni,2,2,D,2018
+IDN,15/07/2018,PSM Makassar,Bhayangkara Surabaya Utd,2,1,H,2018
+IDN,16/07/2018,Borneo,Barito Putera,2,1,H,2018
+IDN,16/07/2018,Persib Bandung,Persela Lamongan,1,0,H,2018
+IDN,17/07/2018,Persija,Bali United,0,2,A,2018
+IDN,17/07/2018,Madura United,Perseru Serui,2,0,H,2018
+IDN,18/07/2018,Persipura Jayapura,PSIS Semarang,0,0,D,2018
+IDN,18/07/2018,Mitra Kukar,Persijatim Sriwijaya FC Palembang,3,0,H,2018
+IDN,18/07/2018,Persebaya Surabaya,Psms Medan,2,0,H,2018
+IDN,20/07/2018,Ps Tni,Borneo,3,4,A,2018
+IDN,21/07/2018,Persijatim Sriwijaya FC Palembang,Arema,0,3,A,2018
+IDN,21/07/2018,Mitra Kukar,Persija,0,2,A,2018
+IDN,21/07/2018,Bali United,Bhayangkara Surabaya Utd,2,3,A,2018
+IDN,22/07/2018,Perseru Serui,Persipura Jayapura,0,0,D,2018
+IDN,22/07/2018,PSIS Semarang,Persebaya Surabaya,1,0,H,2018
+IDN,22/07/2018,Barito Putera,Persib Bandung,2,2,D,2018
+IDN,23/07/2018,Persela Lamongan,Madura United,1,1,D,2018
+IDN,23/07/2018,Psms Medan,PSM Makassar,3,1,H,2018
+IDN,26/07/2018,Persebaya Surabaya,Persib Bandung,3,4,A,2018
+IDN,27/07/2018,Mitra Kukar,Arema,4,3,H,2018
+IDN,27/07/2018,Persija,Bhayangkara Surabaya Utd,1,0,H,2018
+IDN,28/07/2018,Barito Putera,Madura United,0,0,D,2018
+IDN,28/07/2018,Psms Medan,Bali United,1,2,A,2018
+IDN,29/07/2018,Persijatim Sriwijaya FC Palembang,Borneo,1,0,H,2018
+IDN,29/07/2018,Persela Lamongan,Persipura Jayapura,3,2,H,2018
+IDN,30/07/2018,Ps Tni,Persib Bandung,2,3,A,2018
+IDN,30/07/2018,PSIS Semarang,PSM Makassar,1,1,D,2018
+IDN,31/07/2018,Perseru Serui,Persebaya Surabaya,3,1,H,2018
+IDN,03/08/2018,Bhayangkara Surabaya Utd,Psms Medan,3,1,H,2018
+IDN,03/08/2018,Madura United,Ps Tni,3,1,H,2018
+IDN,04/08/2018,Persipura Jayapura,Barito Putera,5,1,H,2018
+IDN,04/08/2018,Bali United,PSIS Semarang,2,0,H,2018
+IDN,04/08/2018,Persib Bandung,Persijatim Sriwijaya FC Palembang,2,0,H,2018
+IDN,05/08/2018,Persebaya Surabaya,Persela Lamongan,3,1,H,2018
+IDN,05/08/2018,PSM Makassar,Perseru Serui,2,2,D,2018
+IDN,05/08/2018,Arema,Persija,1,1,D,2018
+IDN,06/08/2018,Borneo,Mitra Kukar,3,2,H,2018
+IDN,10/08/2018,Perseru Serui,Bali United,1,2,A,2018
+IDN,10/08/2018,Persela Lamongan,PSM Makassar,1,1,D,2018
+IDN,10/08/2018,Mitra Kukar,Persib Bandung,1,0,H,2018
+IDN,11/08/2018,Persijatim Sriwijaya FC Palembang,Madura United,1,2,A,2018
+IDN,11/08/2018,Arema,Borneo,2,2,D,2018
+IDN,11/08/2018,Ps Tni,Persipura Jayapura,1,0,H,2018
+IDN,12/08/2018,Barito Putera,Persebaya Surabaya,3,2,H,2018
+IDN,12/08/2018,Persija,Psms Medan,0,0,D,2018
+IDN,13/08/2018,PSIS Semarang,Bhayangkara Surabaya Utd,1,2,A,2018
+IDN,11/09/2018,Persipura Jayapura,Persijatim Sriwijaya FC Palembang,1,0,H,2018
+IDN,11/09/2018,Bali United,Persela Lamongan,3,2,H,2018
+IDN,11/09/2018,Persebaya Surabaya,Ps Tni,0,2,A,2018
+IDN,12/09/2018,Psms Medan,PSIS Semarang,2,3,A,2018
+IDN,12/09/2018,Borneo,Persija,0,1,A,2018
+IDN,12/09/2018,Bhayangkara Surabaya Utd,Perseru Serui,1,0,H,2018
+IDN,13/09/2018,PSM Makassar,Barito Putera,1,1,D,2018
+IDN,13/09/2018,Persib Bandung,Arema,2,0,H,2018
+IDN,13/09/2018,Madura United,Mitra Kukar,2,0,H,2018
+IDN,16/09/2018,Perseru Serui,Psms Medan,1,1,D,2018
+IDN,16/09/2018,Persela Lamongan,Bhayangkara Surabaya Utd,2,0,H,2018
+IDN,16/09/2018,Persijatim Sriwijaya FC Palembang,Persebaya Surabaya,3,3,D,2018
+IDN,17/09/2018,Arema,Madura United,2,0,H,2018
+IDN,17/09/2018,Borneo,Persib Bandung,0,1,A,2018
+IDN,17/09/2018,Mitra Kukar,Persipura Jayapura,2,1,H,2018
+IDN,18/09/2018,Barito Putera,Bali United,1,1,D,2018
+IDN,18/09/2018,Persija,PSIS Semarang,1,0,H,2018
+IDN,19/09/2018,Ps Tni,PSM Makassar,1,2,A,2018
+IDN,21/09/2018,Psms Medan,Persela Lamongan,3,2,H,2018
+IDN,22/09/2018,Persipura Jayapura,Arema,1,0,H,2018
+IDN,22/09/2018,Madura United,Borneo,1,2,A,2018
+IDN,22/09/2018,Persebaya Surabaya,Mitra Kukar,4,1,H,2018
+IDN,22/09/2018,Bhayangkara Surabaya Utd,Barito Putera,2,2,D,2018
+IDN,23/09/2018,PSM Makassar,Persijatim Sriwijaya FC Palembang,2,0,H,2018
+IDN,23/09/2018,PSIS Semarang,Perseru Serui,4,2,H,2018
+IDN,23/09/2018,Persib Bandung,Persija,3,2,H,2018
+IDN,24/09/2018,Bali United,Ps Tni,1,1,D,2018
+IDN,05/10/2018,Persela Lamongan,PSIS Semarang,1,1,D,2018
+IDN,06/10/2018,Arema,Persebaya Surabaya,1,0,H,2018
+IDN,06/10/2018,Persijatim Sriwijaya FC Palembang,Bali United,3,2,H,2018
+IDN,06/10/2018,Ps Tni,Bhayangkara Surabaya Utd,2,0,H,2018
+IDN,07/10/2018,Mitra Kukar,PSM Makassar,1,4,A,2018
+IDN,07/10/2018,Barito Putera,Psms Medan,3,3,D,2018
+IDN,08/10/2018,Borneo,Persipura Jayapura,2,1,H,2018
+IDN,08/10/2018,Persija,Perseru Serui,2,1,H,2018
+IDN,09/10/2018,Persib Bandung,Madura United,1,2,A,2018
+IDN,12/10/2018,Bhayangkara Surabaya Utd,Persijatim Sriwijaya FC Palembang,2,0,H,2018
+IDN,13/10/2018,Perseru Serui,Persela Lamongan,2,0,H,2018
+IDN,13/10/2018,PSIS Semarang,Barito Putera,1,0,H,2018
+IDN,13/10/2018,Persebaya Surabaya,Borneo,0,1,A,2018
+IDN,14/10/2018,PSM Makassar,Arema,2,1,H,2018
+IDN,14/10/2018,Madura United,Persija,0,1,A,2018
+IDN,15/10/2018,Persipura Jayapura,Persib Bandung,1,1,D,2018
+IDN,15/10/2018,Bali United,Mitra Kukar,1,0,H,2018
+IDN,17/10/2018,Ps Tni,PSIS Semarang,0,1,A,2018
+IDN,18/10/2018,Persijatim Sriwijaya FC Palembang,Psms Medan,0,3,A,2018
+IDN,19/10/2018,Mitra Kukar,Bhayangkara Surabaya Utd,0,1,A,2018
+IDN,19/10/2018,Borneo,PSM Makassar,1,2,A,2018
+IDN,19/10/2018,Barito Putera,Perseru Serui,0,0,D,2018
+IDN,20/10/2018,Arema,Bali United,3,1,H,2018
+IDN,20/10/2018,Madura United,Persipura Jayapura,2,2,D,2018
+IDN,20/10/2018,Persib Bandung,Persebaya Surabaya,1,4,A,2018
+IDN,23/10/2018,Psms Medan,Mitra Kukar,1,3,A,2018
+IDN,23/10/2018,Persela Lamongan,Barito Putera,2,1,H,2018
+IDN,23/10/2018,PSIS Semarang,Persijatim Sriwijaya FC Palembang,1,0,H,2018
+IDN,24/10/2018,Perseru Serui,Ps Tni,0,0,D,2018
+IDN,24/10/2018,Bhayangkara Surabaya Utd,Arema,0,0,D,2018
+IDN,24/10/2018,PSM Makassar,Persib Bandung,1,0,H,2018
+IDN,25/10/2018,Persipura Jayapura,Persija,1,2,A,2018
+IDN,25/10/2018,Persebaya Surabaya,Madura United,4,0,H,2018
+IDN,25/10/2018,Bali United,Borneo,2,2,D,2018
+IDN,28/10/2018,Mitra Kukar,PSIS Semarang,2,0,H,2018
+IDN,28/10/2018,Arema,Psms Medan,5,0,H,2018
+IDN,28/10/2018,Ps Tni,Persela Lamongan,4,1,H,2018
+IDN,29/10/2018,Borneo,Bhayangkara Surabaya Utd,3,0,H,2018
+IDN,29/10/2018,Persijatim Sriwijaya FC Palembang,Perseru Serui,4,0,H,2018
+IDN,29/10/2018,Madura United,PSM Makassar,3,0,H,2018
+IDN,30/10/2018,Persipura Jayapura,Persebaya Surabaya,3,1,H,2018
+IDN,30/10/2018,Persija,Barito Putera,3,0,H,2018
+IDN,30/10/2018,Persib Bandung,Bali United,1,1,D,2018
+IDN,02/11/2018,Persela Lamongan,Persijatim Sriwijaya FC Palembang,3,0,H,2018
+IDN,03/11/2018,Bhayangkara Surabaya Utd,Persib Bandung,1,2,A,2018
+IDN,03/11/2018,Bali United,Madura United,2,0,H,2018
+IDN,03/11/2018,Psms Medan,Borneo,3,2,H,2018
+IDN,04/11/2018,Perseru Serui,Mitra Kukar,3,1,H,2018
+IDN,04/11/2018,PSM Makassar,Persipura Jayapura,4,2,H,2018
+IDN,04/11/2018,PSIS Semarang,Arema,2,1,H,2018
+IDN,04/11/2018,Persebaya Surabaya,Persija,3,0,H,2018
+IDN,05/11/2018,Barito Putera,Ps Tni,3,1,H,2018
+IDN,09/11/2018,Madura United,Bhayangkara Surabaya Utd,1,2,A,2018
+IDN,09/11/2018,Mitra Kukar,Persela Lamongan,1,1,D,2018
+IDN,09/11/2018,Persib Bandung,Psms Medan,0,1,A,2018
+IDN,10/11/2018,Persipura Jayapura,Bali United,1,0,H,2018
+IDN,10/11/2018,Borneo,PSIS Semarang,2,1,H,2018
+IDN,10/11/2018,Persija,Ps Tni,0,0,D,2018
+IDN,10/11/2018,Persebaya Surabaya,PSM Makassar,3,0,H,2018
+IDN,11/11/2018,Arema,Perseru Serui,4,1,H,2018
+IDN,12/11/2018,Persijatim Sriwijaya FC Palembang,Barito Putera,2,0,H,2018
+IDN,16/11/2018,PSM Makassar,Persija,2,2,D,2018
+IDN,16/11/2018,Persela Lamongan,Arema,4,0,H,2018
+IDN,17/11/2018,Perseru Serui,Borneo,3,1,H,2018
+IDN,17/11/2018,Psms Medan,Madura United,3,3,D,2018
+IDN,17/11/2018,Barito Putera,Mitra Kukar,2,1,H,2018
+IDN,17/11/2018,Ps Tni,Persijatim Sriwijaya FC Palembang,3,0,H,2018
+IDN,18/11/2018,PSIS Semarang,Persib Bandung,3,0,H,2018
+IDN,18/11/2018,Bali United,Persebaya Surabaya,2,5,A,2018
+IDN,19/11/2018,Bhayangkara Surabaya Utd,Persipura Jayapura,2,0,H,2018
+IDN,20/11/2018,Persija,Persela Lamongan,3,0,H,2018
+IDN,23/11/2018,Persib Bandung,Perseru Serui,2,2,D,2018
+IDN,23/11/2018,Mitra Kukar,Ps Tni,1,0,H,2018
+IDN,24/11/2018,Persipura Jayapura,Psms Medan,3,1,H,2018
+IDN,24/11/2018,Arema,Barito Putera,3,1,H,2018
+IDN,24/11/2018,Persija,Persijatim Sriwijaya FC Palembang,3,2,H,2018
+IDN,25/11/2018,PSM Makassar,Bali United,4,0,H,2018
+IDN,26/11/2018,Madura United,PSIS Semarang,2,2,D,2018
+IDN,26/11/2018,Borneo,Persela Lamongan,3,2,H,2018
+IDN,26/11/2018,Persebaya Surabaya,Bhayangkara Surabaya Utd,1,0,H,2018
+IDN,30/11/2018,Persijatim Sriwijaya FC Palembang,Mitra Kukar,3,1,H,2018
+IDN,30/11/2018,Barito Putera,Borneo,1,0,H,2018
+IDN,01/12/2018,Perseru Serui,Madura United,2,0,H,2018
+IDN,01/12/2018,Persela Lamongan,Persib Bandung,1,1,D,2018
+IDN,01/12/2018,PSIS Semarang,Persipura Jayapura,2,1,H,2018
+IDN,01/12/2018,Psms Medan,Persebaya Surabaya,4,0,H,2018
+IDN,02/12/2018,Ps Tni,Arema,0,1,A,2018
+IDN,02/12/2018,Bali United,Persija,1,2,A,2018
+IDN,03/12/2018,Bhayangkara Surabaya Utd,PSM Makassar,0,0,D,2018
+IDN,05/12/2018,Psms Medan,Ps Tni,2,4,A,2018
+IDN,08/12/2018,Persebaya Surabaya,PSIS Semarang,1,0,H,2018
+IDN,08/12/2018,Bhayangkara Surabaya Utd,Bali United,2,0,H,2018
+IDN,08/12/2018,Persib Bandung,Barito Putera,3,3,D,2018
+IDN,08/12/2018,Madura United,Persela Lamongan,2,1,H,2018
+IDN,09/12/2018,Arema,Persijatim Sriwijaya FC Palembang,2,1,H,2018
+IDN,09/12/2018,Persipura Jayapura,Perseru Serui,0,2,A,2018
+IDN,09/12/2018,Persija,Mitra Kukar,2,1,H,2018
+IDN,09/12/2018,PSM Makassar,Psms Medan,5,1,H,2018
+IDN,09/12/2018,Borneo,Ps Tni,1,3,A,2018
+IDN,15/05/2019,PSS Sleman,Arema,3,1,H,2019
+IDN,16/05/2019,PSIS Semarang,Persatuan Sepakbola Palangkaraya,1,2,A,2019
+IDN,16/05/2019,Bali United,Persebaya Surabaya,2,1,H,2019
+IDN,16/05/2019,Borneo,Bhayangkara Surabaya Utd,1,1,D,2019
+IDN,17/05/2019,Persela Lamongan,Madura United,1,5,A,2019
+IDN,18/05/2019,Ps Tni,Perseru Serui,3,0,H,2019
+IDN,18/05/2019,Persib Bandung,Persipura Jayapura,3,0,H,2019
+IDN,20/05/2019,PSM Makassar,Semen Padang,1,0,H,2019
+IDN,20/05/2019,Barito Putera,Persija,1,1,D,2019
+IDN,21/05/2019,Bali United,Bhayangkara Surabaya Utd,1,0,H,2019
+IDN,21/05/2019,Persebaya Surabaya,Persatuan Sepakbola Palangkaraya,1,1,D,2019
+IDN,22/05/2019,Borneo,Arema,2,0,H,2019
+IDN,22/05/2019,Persela Lamongan,Persipura Jayapura,2,2,D,2019
+IDN,24/05/2019,Barito Putera,Madura United,0,1,A,2019
+IDN,24/05/2019,PSM Makassar,Perseru Serui,4,0,H,2019
+IDN,25/05/2019,PSS Sleman,Semen Padang,1,1,D,2019
+IDN,26/05/2019,PSIS Semarang,Persija,2,1,H,2019
+IDN,27/05/2019,Arema,Persela Lamongan,3,2,H,2019
+IDN,28/05/2019,Persatuan Sepakbola Palangkaraya,Perseru Serui,0,1,A,2019
+IDN,28/05/2019,Bhayangkara Surabaya Utd,Barito Putera,4,2,H,2019
+IDN,28/05/2019,Madura United,Borneo,3,0,H,2019
+IDN,29/05/2019,Ps Tni,PSM Makassar,0,0,D,2019
+IDN,29/05/2019,Semen Padang,Persib Bandung,0,0,D,2019
+IDN,30/05/2019,Persebaya Surabaya,PSIS Semarang,1,1,D,2019
+IDN,31/05/2019,Persipura Jayapura,PSS Sleman,1,1,D,2019
+IDN,31/05/2019,Bali United,Persija,1,0,H,2019
+IDN,18/06/2019,Persib Bandung,Ps Tni,1,1,D,2019
+IDN,21/06/2019,PSS Sleman,Bhayangkara Surabaya Utd,1,1,D,2019
+IDN,21/06/2019,Semen Padang,Perseru Serui,1,2,A,2019
+IDN,22/06/2019,Barito Putera,Persatuan Sepakbola Palangkaraya,1,2,A,2019
+IDN,22/06/2019,Bali United,PSIS Semarang,1,0,H,2019
+IDN,22/06/2019,Persela Lamongan,Persija,0,0,D,2019
+IDN,23/06/2019,Ps Tni,Persipura Jayapura,2,1,H,2019
+IDN,23/06/2019,Persib Bandung,Madura United,1,1,D,2019
+IDN,23/06/2019,Borneo,Persebaya Surabaya,1,2,A,2019
+IDN,26/06/2019,Perseru Serui,PSIS Semarang,0,1,A,2019
+IDN,26/06/2019,Persatuan Sepakbola Palangkaraya,Bali United,2,2,D,2019
+IDN,26/06/2019,Bhayangkara Surabaya Utd,Persela Lamongan,3,1,H,2019
+IDN,28/06/2019,Persipura Jayapura,Semen Padang,1,1,D,2019
+IDN,29/06/2019,Arema,Ps Tni,1,2,A,2019
+IDN,30/06/2019,PSIS Semarang,Barito Putera,0,0,D,2019
+IDN,30/06/2019,Persib Bandung,Bhayangkara Surabaya Utd,1,2,A,2019
+IDN,30/06/2019,Perseru Serui,Bali United,0,3,A,2019
+IDN,01/07/2019,Persebaya Surabaya,Persela Lamongan,3,2,H,2019
+IDN,03/07/2019,Persija,PSS Sleman,1,0,H,2019
+IDN,03/07/2019,Persatuan Sepakbola Palangkaraya,Borneo,0,1,A,2019
+IDN,04/07/2019,Arema,Persipura Jayapura,3,1,H,2019
+IDN,04/07/2019,Madura United,PSM Makassar,2,0,H,2019
+IDN,04/07/2019,Bhayangkara Surabaya Utd,Ps Tni,1,1,D,2019
+IDN,05/07/2019,Perseru Serui,Barito Putera,3,3,D,2019
+IDN,05/07/2019,Persebaya Surabaya,Persib Bandung,4,0,H,2019
+IDN,06/07/2019,PSIS Semarang,Persela Lamongan,2,0,H,2019
+IDN,07/07/2019,Persatuan Sepakbola Palangkaraya,PSS Sleman,0,2,A,2019
+IDN,08/07/2019,Semen Padang,Ps Tni,1,3,A,2019
+IDN,09/07/2019,Persebaya Surabaya,Barito Putera,2,2,D,2019
+IDN,10/07/2019,Persipura Jayapura,Perseru Serui,1,1,D,2019
+IDN,10/07/2019,Persija,Persib Bandung,1,1,D,2019
+IDN,10/07/2019,Borneo,PSIS Semarang,2,0,H,2019
+IDN,11/07/2019,Persela Lamongan,Persatuan Sepakbola Palangkaraya,3,0,H,2019
+IDN,12/07/2019,Semen Padang,Arema,0,1,A,2019
+IDN,12/07/2019,Ps Tni,Madura United,2,2,D,2019
+IDN,13/07/2019,PSM Makassar,Bhayangkara Surabaya Utd,2,1,H,2019
+IDN,13/07/2019,PSS Sleman,Persebaya Surabaya,2,1,H,2019
+IDN,14/07/2019,Barito Putera,Bali United,1,0,H,2019
+IDN,16/07/2019,Persipura Jayapura,Madura United,1,0,H,2019
+IDN,16/07/2019,Ps Tni,Persija,5,3,H,2019
+IDN,16/07/2019,Arema,Perseru Serui,4,1,H,2019
+IDN,16/07/2019,Persib Bandung,Persatuan Sepakbola Palangkaraya,2,0,H,2019
+IDN,17/07/2019,Semen Padang,Bhayangkara Surabaya Utd,2,3,A,2019
+IDN,17/07/2019,PSS Sleman,PSIS Semarang,1,3,A,2019
+IDN,17/07/2019,PSM Makassar,Persebaya Surabaya,2,1,H,2019
+IDN,18/07/2019,Borneo,Barito Putera,4,3,H,2019
+IDN,18/07/2019,Persela Lamongan,Bali United,2,0,H,2019
+IDN,20/07/2019,Madura United,Arema,1,0,H,2019
+IDN,21/07/2019,PSIS Semarang,Persib Bandung,0,1,A,2019
+IDN,21/07/2019,Bhayangkara Surabaya Utd,Persipura Jayapura,0,1,A,2019
+IDN,21/07/2019,Persebaya Surabaya,Ps Tni,1,1,D,2019
+IDN,22/07/2019,Perseru Serui,Borneo,1,1,D,2019
+IDN,22/07/2019,Bali United,PSS Sleman,3,1,H,2019
+IDN,22/07/2019,Barito Putera,Persela Lamongan,0,0,D,2019
+IDN,26/07/2019,Ps Tni,Persatuan Sepakbola Palangkaraya,5,2,H,2019
+IDN,26/07/2019,Arema,Bhayangkara Surabaya Utd,3,2,H,2019
+IDN,26/07/2019,Persib Bandung,Bali United,0,2,A,2019
+IDN,27/07/2019,PSS Sleman,Barito Putera,2,2,D,2019
+IDN,27/07/2019,Madura United,Perseru Serui,5,1,H,2019
+IDN,28/07/2019,Semen Padang,Persebaya Surabaya,0,0,D,2019
+IDN,29/07/2019,Persela Lamongan,Borneo,2,2,D,2019
+IDN,30/07/2019,Arema,Persib Bandung,5,1,H,2019
+IDN,31/07/2019,Madura United,PSS Sleman,0,1,A,2019
+IDN,01/08/2019,Bali United,PSM Makassar,1,0,H,2019
+IDN,02/08/2019,PSIS Semarang,Ps Tni,0,2,A,2019
+IDN,02/08/2019,Persatuan Sepakbola Palangkaraya,Semen Padang,2,0,H,2019
+IDN,02/08/2019,Persebaya Surabaya,Persipura Jayapura,1,0,H,2019
+IDN,03/08/2019,Persija,Arema,2,2,D,2019
+IDN,04/08/2019,Borneo,PSS Sleman,2,2,D,2019
+IDN,04/08/2019,Barito Putera,Persib Bandung,1,0,H,2019
+IDN,05/08/2019,Bhayangkara Surabaya Utd,Madura United,1,1,D,2019
+IDN,06/08/2019,PSIS Semarang,Persipura Jayapura,1,3,A,2019
+IDN,07/08/2019,Persatuan Sepakbola Palangkaraya,Arema,4,2,H,2019
+IDN,08/08/2019,Persela Lamongan,Persib Bandung,2,2,D,2019
+IDN,09/08/2019,Perseru Serui,PSS Sleman,0,2,A,2019
+IDN,09/08/2019,Barito Putera,Ps Tni,2,4,A,2019
+IDN,09/08/2019,Bali United,Semen Padang,4,1,H,2019
+IDN,10/08/2019,Borneo,PSM Makassar,2,0,H,2019
+IDN,10/08/2019,Persija,Bhayangkara Surabaya Utd,1,1,D,2019
+IDN,10/08/2019,Persebaya Surabaya,Madura United,2,2,D,2019
+IDN,14/08/2019,Persipura Jayapura,Persatuan Sepakbola Palangkaraya,2,0,H,2019
+IDN,14/08/2019,PSM Makassar,Barito Putera,2,1,H,2019
+IDN,14/08/2019,Persib Bandung,Borneo,2,2,D,2019
+IDN,15/08/2019,Arema,Persebaya Surabaya,4,0,H,2019
+IDN,15/08/2019,Ps Tni,Bali United,1,2,A,2019
+IDN,15/08/2019,PSS Sleman,Persela Lamongan,1,1,D,2019
+IDN,16/08/2019,Bhayangkara Surabaya Utd,Perseru Serui,0,1,A,2019
+IDN,16/08/2019,Semen Padang,PSIS Semarang,1,0,H,2019
+IDN,16/08/2019,Madura United,Persija,2,2,D,2019
+IDN,18/08/2019,PSM Makassar,Persib Bandung,3,1,H,2019
+IDN,19/08/2019,Ps Tni,PSS Sleman,3,1,H,2019
+IDN,19/08/2019,Arema,Barito Putera,2,1,H,2019
+IDN,19/08/2019,Borneo,Persipura Jayapura,1,1,D,2019
+IDN,20/08/2019,Semen Padang,Persela Lamongan,2,0,H,2019
+IDN,20/08/2019,Persija,Persatuan Sepakbola Palangkaraya,3,0,H,2019
+IDN,20/08/2019,Bhayangkara Surabaya Utd,PSIS Semarang,0,0,D,2019
+IDN,20/08/2019,Madura United,Bali United,0,1,A,2019
+IDN,20/08/2019,Perseru Serui,Persebaya Surabaya,1,3,A,2019
+IDN,23/08/2019,Barito Putera,Persipura Jayapura,0,4,A,2019
+IDN,23/08/2019,PSS Sleman,PSM Makassar,3,2,H,2019
+IDN,24/08/2019,Persebaya Surabaya,Persija,1,1,D,2019
+IDN,24/08/2019,Madura United,PSIS Semarang,3,0,H,2019
+IDN,24/08/2019,Borneo,Semen Padang,1,0,H,2019
+IDN,24/08/2019,Bali United,Arema,2,1,H,2019
+IDN,25/08/2019,Persatuan Sepakbola Palangkaraya,Bhayangkara Surabaya Utd,3,2,H,2019
+IDN,25/08/2019,Persela Lamongan,Ps Tni,6,1,H,2019
+IDN,25/08/2019,Perseru Serui,Persib Bandung,1,1,D,2019
+IDN,28/08/2019,Persija,PSM Makassar,0,0,D,2019
+IDN,28/08/2019,Madura United,Semen Padang,1,1,D,2019
+IDN,28/08/2019,Bali United,Borneo,2,1,H,2019
+IDN,30/08/2019,Persib Bandung,PSS Sleman,1,0,H,2019
+IDN,31/08/2019,Bhayangkara Surabaya Utd,Persebaya Surabaya,0,2,A,2019
+IDN,31/08/2019,Arema,PSIS Semarang,1,1,D,2019
+IDN,01/09/2019,Semen Padang,Barito Putera,2,3,A,2019
+IDN,01/09/2019,Persija,Perseru Serui,0,1,A,2019
+IDN,01/09/2019,PSM Makassar,Persela Lamongan,2,1,H,2019
+IDN,01/09/2019,Ps Tni,Borneo,2,2,D,2019
+IDN,01/09/2019,Madura United,Persatuan Sepakbola Palangkaraya,2,1,H,2019
+IDN,11/09/2019,PSM Makassar,PSIS Semarang,0,1,A,2019
+IDN,11/09/2019,Perseru Serui,Persela Lamongan,1,1,D,2019
+IDN,11/09/2019,Persipura Jayapura,Persija,2,0,H,2019
+IDN,13/09/2019,Semen Padang,PSS Sleman,0,1,A,2019
+IDN,13/09/2019,Bhayangkara Surabaya Utd,Bali United,0,0,D,2019
+IDN,13/09/2019,Persatuan Sepakbola Palangkaraya,Persebaya Surabaya,1,1,D,2019
+IDN,13/09/2019,Arema,Borneo,2,2,D,2019
+IDN,14/09/2019,Madura United,Barito Putera,2,2,D,2019
+IDN,14/09/2019,Ps Tni,Persib Bandung,1,1,D,2019
+IDN,15/09/2019,Persipura Jayapura,Persela Lamongan,2,0,H,2019
+IDN,15/09/2019,Persija,PSIS Semarang,2,1,H,2019
+IDN,15/09/2019,Perseru Serui,PSM Makassar,1,1,D,2019
+IDN,18/09/2019,Barito Putera,Bhayangkara Surabaya Utd,1,4,A,2019
+IDN,18/09/2019,Borneo,Madura United,2,1,H,2019
+IDN,18/09/2019,Persib Bandung,Semen Padang,1,1,D,2019
+IDN,19/09/2019,Persija,Bali United,0,1,A,2019
+IDN,19/09/2019,PSS Sleman,Persipura Jayapura,1,1,D,2019
+IDN,19/09/2019,PSM Makassar,Ps Tni,2,0,H,2019
+IDN,19/09/2019,Perseru Serui,Persatuan Sepakbola Palangkaraya,2,1,H,2019
+IDN,20/09/2019,PSIS Semarang,Persebaya Surabaya,0,4,A,2019
+IDN,20/09/2019,Persela Lamongan,Arema,2,0,H,2019
+IDN,22/09/2019,Bhayangkara Surabaya Utd,Borneo,1,1,D,2019
+IDN,23/09/2019,Persipura Jayapura,Persib Bandung,1,3,A,2019
+IDN,23/09/2019,Semen Padang,PSM Makassar,2,1,H,2019
+IDN,23/09/2019,Persija,Barito Putera,1,0,H,2019
+IDN,23/09/2019,Perseru Serui,Ps Tni,2,2,D,2019
+IDN,24/09/2019,Arema,PSS Sleman,4,0,H,2019
+IDN,24/09/2019,Persatuan Sepakbola Palangkaraya,PSIS Semarang,0,0,D,2019
+IDN,24/09/2019,Madura United,Persela Lamongan,2,1,H,2019
+IDN,24/09/2019,Persebaya Surabaya,Bali United,1,1,D,2019
+IDN,27/09/2019,Persipura Jayapura,PSM Makassar,3,1,H,2019
+IDN,27/09/2019,Ps Tni,Semen Padang,1,1,D,2019
+IDN,27/09/2019,Borneo,Persija,1,0,H,2019
+IDN,28/09/2019,Persela Lamongan,Bhayangkara Surabaya Utd,1,1,D,2019
+IDN,28/09/2019,Barito Putera,Persebaya Surabaya,1,0,H,2019
+IDN,29/09/2019,PSIS Semarang,Perseru Serui,0,0,D,2019
+IDN,29/09/2019,PSS Sleman,Madura United,2,2,D,2019
+IDN,29/09/2019,Bali United,Persatuan Sepakbola Palangkaraya,2,1,H,2019
+IDN,02/10/2019,Persipura Jayapura,Ps Tni,3,0,H,2019
+IDN,02/10/2019,Arema,PSM Makassar,2,0,H,2019
+IDN,04/10/2019,Bhayangkara Surabaya Utd,PSS Sleman,0,2,A,2019
+IDN,05/10/2019,Persatuan Sepakbola Palangkaraya,Barito Putera,1,1,D,2019
+IDN,05/10/2019,Perseru Serui,Semen Padang,0,1,A,2019
+IDN,05/10/2019,Madura United,Persib Bandung,2,1,H,2019
+IDN,11/10/2019,Persebaya Surabaya,Borneo,0,0,D,2019
+IDN,16/10/2019,Persija,Semen Padang,1,2,A,2019
+IDN,16/10/2019,PSM Makassar,Arema,6,2,H,2019
+IDN,18/10/2019,Persela Lamongan,PSIS Semarang,0,1,A,2019
+IDN,18/10/2019,PSS Sleman,Persatuan Sepakbola Palangkaraya,1,0,H,2019
+IDN,18/10/2019,Borneo,Bali United,6,0,H,2019
+IDN,18/10/2019,Barito Putera,Perseru Serui,4,1,H,2019
+IDN,18/10/2019,Persib Bandung,Persebaya Surabaya,4,1,H,2019
+IDN,19/10/2019,Ps Tni,Bhayangkara Surabaya Utd,0,2,A,2019
+IDN,20/10/2019,Semen Padang,Madura United,1,2,A,2019
+IDN,20/10/2019,Persipura Jayapura,Arema,2,2,D,2019
+IDN,20/10/2019,PSM Makassar,Persija,0,1,A,2019
+IDN,22/10/2019,Bali United,Perseru Serui,3,0,H,2019
+IDN,22/10/2019,Borneo,Persatuan Sepakbola Palangkaraya,2,0,H,2019
+IDN,22/10/2019,Barito Putera,PSIS Semarang,2,0,H,2019
+IDN,23/10/2019,Persela Lamongan,Persebaya Surabaya,1,0,H,2019
+IDN,23/10/2019,Bhayangkara Surabaya Utd,Persib Bandung,0,0,D,2019
+IDN,24/10/2019,Ps Tni,Arema,1,1,D,2019
+IDN,24/10/2019,PSM Makassar,Madura United,1,0,H,2019
+IDN,24/10/2019,Semen Padang,Persipura Jayapura,1,2,A,2019
+IDN,24/10/2019,PSS Sleman,Persija,0,0,D,2019
+IDN,26/10/2019,PSIS Semarang,Borneo,2,2,D,2019
+IDN,27/10/2019,Persatuan Sepakbola Palangkaraya,Persela Lamongan,2,0,H,2019
+IDN,27/10/2019,Bali United,Barito Putera,3,2,H,2019
+IDN,28/10/2019,Perseru Serui,Persipura Jayapura,0,1,A,2019
+IDN,28/10/2019,Persib Bandung,Persija,2,0,H,2019
+IDN,28/10/2019,Arema,Semen Padang,1,0,H,2019
+IDN,29/10/2019,Persebaya Surabaya,PSS Sleman,2,3,A,2019
+IDN,29/10/2019,Bhayangkara Surabaya Utd,PSM Makassar,3,2,H,2019
+IDN,30/10/2019,Madura United,Ps Tni,1,0,H,2019
+IDN,31/10/2019,Barito Putera,Borneo,1,0,H,2019
+IDN,31/10/2019,Bali United,Persela Lamongan,1,1,D,2019
+IDN,01/11/2019,Perseru Serui,Arema,4,3,H,2019
+IDN,01/11/2019,Persatuan Sepakbola Palangkaraya,Persib Bandung,0,2,A,2019
+IDN,02/11/2019,PSIS Semarang,PSS Sleman,3,0,H,2019
+IDN,02/11/2019,Bhayangkara Surabaya Utd,Semen Padang,2,2,D,2019
+IDN,03/11/2019,Persija,Ps Tni,2,0,H,2019
+IDN,03/11/2019,Madura United,Persipura Jayapura,0,2,A,2019
+IDN,04/11/2019,Persela Lamongan,Barito Putera,0,0,D,2019
+IDN,05/11/2019,Borneo,Perseru Serui,1,1,D,2019
+IDN,06/11/2019,PSM Makassar,Persatuan Sepakbola Palangkaraya,2,1,H,2019
+IDN,06/11/2019,PSS Sleman,Bali United,0,0,D,2019
+IDN,06/11/2019,Persib Bandung,PSIS Semarang,2,1,H,2019
+IDN,07/11/2019,Persipura Jayapura,Bhayangkara Surabaya Utd,1,3,A,2019
+IDN,07/11/2019,Semen Padang,Persija,2,2,D,2019
+IDN,08/11/2019,Arema,Madura United,2,0,H,2019
+IDN,09/11/2019,Ps Tni,Persebaya Surabaya,2,2,D,2019
+IDN,10/11/2019,Persatuan Sepakbola Palangkaraya,PSM Makassar,3,1,H,2019
+IDN,11/11/2019,Persija,Borneo,4,2,H,2019
+IDN,11/11/2019,Persipura Jayapura,Bali United,2,2,D,2019
+IDN,12/11/2019,Persib Bandung,Arema,3,0,H,2019
+IDN,14/11/2019,Persebaya Surabaya,PSM Makassar,3,2,H,2019
+IDN,15/11/2019,Persija,Persela Lamongan,4,3,H,2019
+IDN,15/11/2019,PSIS Semarang,Bali United,1,0,H,2019
+IDN,18/11/2019,PSM Makassar,Persipura Jayapura,4,0,H,2019
+IDN,20/11/2019,Persela Lamongan,Perseru Serui,1,0,H,2019
+IDN,20/11/2019,PSS Sleman,Borneo,0,1,A,2019
+IDN,21/11/2019,Semen Padang,Persatuan Sepakbola Palangkaraya,1,0,H,2019
+IDN,22/11/2019,Ps Tni,PSIS Semarang,1,2,A,2019
+IDN,22/11/2019,Madura United,Bhayangkara Surabaya Utd,1,2,A,2019
+IDN,23/11/2019,Arema,Persija,1,1,D,2019
+IDN,23/11/2019,PSM Makassar,Bali United,1,0,H,2019
+IDN,24/11/2019,Persib Bandung,Barito Putera,0,0,D,2019
+IDN,24/11/2019,Persipura Jayapura,Persebaya Surabaya,0,1,A,2019
+IDN,27/11/2019,Persatuan Sepakbola Palangkaraya,Ps Tni,1,0,H,2019
+IDN,27/11/2019,Bhayangkara Surabaya Utd,Arema,1,0,H,2019
+IDN,27/11/2019,Borneo,Persela Lamongan,1,2,A,2019
+IDN,27/11/2019,PSIS Semarang,PSM Makassar,1,0,H,2019
+IDN,27/11/2019,Perseru Serui,Madura United,3,0,H,2019
+IDN,28/11/2019,Persebaya Surabaya,Semen Padang,1,1,D,2019
+IDN,28/11/2019,Barito Putera,PSS Sleman,1,0,H,2019
+IDN,28/11/2019,Persija,Persipura Jayapura,1,0,H,2019
+IDN,28/11/2019,Bali United,Persib Bandung,3,2,H,2019
+IDN,01/12/2019,Arema,Persatuan Sepakbola Palangkaraya,1,1,D,2019
+IDN,02/12/2019,PSM Makassar,Borneo,2,2,D,2019
+IDN,02/12/2019,Semen Padang,Bali United,0,2,A,2019
+IDN,02/12/2019,Ps Tni,Barito Putera,0,1,A,2019
+IDN,02/12/2019,Madura United,Persebaya Surabaya,2,3,A,2019
+IDN,03/12/2019,PSS Sleman,Perseru Serui,5,1,H,2019
+IDN,03/12/2019,Persib Bandung,Persela Lamongan,0,2,A,2019
+IDN,04/12/2019,Persipura Jayapura,PSIS Semarang,2,0,H,2019
+IDN,04/12/2019,Bhayangkara Surabaya Utd,Persija,3,0,H,2019
+IDN,06/12/2019,Borneo,Ps Tni,4,1,H,2019
+IDN,06/12/2019,Barito Putera,Semen Padang,0,3,A,2019
+IDN,06/12/2019,Persatuan Sepakbola Palangkaraya,Madura United,1,4,A,2019
+IDN,07/12/2019,Persela Lamongan,PSM Makassar,3,1,H,2019
+IDN,07/12/2019,PSS Sleman,Persib Bandung,0,0,D,2019
+IDN,08/12/2019,PSIS Semarang,Arema,5,1,H,2019
+IDN,08/12/2019,Persebaya Surabaya,Bhayangkara Surabaya Utd,4,0,H,2019
+IDN,08/12/2019,Perseru Serui,Persija,2,0,H,2019
+IDN,08/12/2019,Bali United,Persipura Jayapura,1,1,D,2019
+IDN,11/12/2019,Persela Lamongan,PSS Sleman,1,0,H,2019
+IDN,11/12/2019,Borneo,Persib Bandung,0,1,A,2019
+IDN,11/12/2019,Barito Putera,PSM Makassar,3,2,H,2019
+IDN,12/12/2019,Persebaya Surabaya,Arema,4,1,H,2019
+IDN,12/12/2019,Bali United,Ps Tni,0,1,A,2019
+IDN,12/12/2019,Perseru Serui,Bhayangkara Surabaya Utd,2,3,A,2019
+IDN,12/12/2019,Persatuan Sepakbola Palangkaraya,Persipura Jayapura,0,0,D,2019
+IDN,13/12/2019,PSIS Semarang,Semen Padang,2,0,H,2019
+IDN,13/12/2019,Persija,Madura United,4,0,H,2019
+IDN,15/12/2019,PSM Makassar,PSS Sleman,1,1,D,2019
+IDN,16/12/2019,Persipura Jayapura,Barito Putera,1,0,H,2019
+IDN,16/12/2019,Arema,Bali United,3,2,H,2019
+IDN,16/12/2019,Bhayangkara Surabaya Utd,Persatuan Sepakbola Palangkaraya,1,0,H,2019
+IDN,16/12/2019,Ps Tni,Persela Lamongan,1,1,D,2019
+IDN,16/12/2019,Persib Bandung,Perseru Serui,4,0,H,2019
+IDN,17/12/2019,Semen Padang,Borneo,1,1,D,2019
+IDN,17/12/2019,PSIS Semarang,Madura United,2,3,A,2019
+IDN,17/12/2019,Persija,Persebaya Surabaya,1,2,A,2019
+IDN,21/12/2019,Persebaya Surabaya,Perseru Serui,2,1,H,2019
+IDN,21/12/2019,Persela Lamongan,Semen Padang,2,0,H,2019
+IDN,21/12/2019,Persatuan Sepakbola Palangkaraya,Persija,1,3,A,2019
+IDN,21/12/2019,PSIS Semarang,Bhayangkara Surabaya Utd,2,3,A,2019
+IDN,22/12/2019,Persipura Jayapura,Borneo,2,2,D,2019
+IDN,22/12/2019,Persib Bandung,PSM Makassar,5,2,H,2019
+IDN,22/12/2019,PSS Sleman,Ps Tni,5,2,H,2019
+IDN,22/12/2019,Barito Putera,Arema,3,0,H,2019
+IDN,22/12/2019,Bali United,Madura United,0,2,A,2019
+IDN,29/02/2020,Persebaya Surabaya,Persik Kediri,1,1,D,2020
+IDN,29/02/2020,Madura United,Barito Putera,4,0,H,2020
+IDN,29/02/2020,Persiraja Banda Aceh,Bhayangkara Surabaya Utd,0,0,D,2020
+IDN,01/03/2020,Persipura Jayapura,PSIS Semarang,2,0,H,2020
+IDN,01/03/2020,Persija,Borneo,3,2,H,2020
+IDN,01/03/2020,Persib Bandung,Persela Lamongan,3,0,H,2020
+IDN,01/03/2020,PSM Makassar,PSS Sleman,2,1,H,2020
+IDN,01/03/2020,Bali United,Persita,0,0,D,2020
+IDN,02/03/2020,Ps Tni,Arema,0,2,A,2020
+IDN,06/03/2020,Persita,PSM Makassar,1,1,D,2020
+IDN,06/03/2020,Persik Kediri,Bhayangkara Surabaya Utd,1,1,D,2020
+IDN,06/03/2020,Barito Putera,Bali United,1,2,A,2020
+IDN,07/03/2020,Persela Lamongan,PSIS Semarang,2,3,A,2020
+IDN,07/03/2020,Borneo,Persipura Jayapura,2,0,H,2020
+IDN,08/03/2020,Arema,Persib Bandung,1,2,A,2020
+IDN,08/03/2020,PSS Sleman,Ps Tni,0,0,D,2020
+IDN,09/03/2020,Madura United,Persiraja Banda Aceh,0,0,D,2020
+IDN,13/03/2020,Borneo,Persela Lamongan,2,1,H,2020
+IDN,13/03/2020,Persebaya Surabaya,Persipura Jayapura,3,4,A,2020
+IDN,14/03/2020,PSIS Semarang,Arema,2,0,H,2020
+IDN,14/03/2020,Persik Kediri,Persiraja Banda Aceh,0,1,A,2020
+IDN,14/03/2020,Bhayangkara Surabaya Utd,Persija,2,2,D,2020
+IDN,15/03/2020,Bali United,Madura United,3,1,H,2020
+IDN,15/03/2020,Ps Tni,Persita,3,1,H,2020
+IDN,15/03/2020,PSM Makassar,Barito Putera,1,1,D,2020
+IDN,15/03/2020,Persib Bandung,PSS Sleman,2,1,H,2020
+IDN,27/08/2021,Bali United,Persik Kediri,1,0,H,2021
+IDN,28/08/2021,Persipura Jayapura,Persita,1,2,A,2021
+IDN,29/08/2021,Bhayangkara Surabaya Utd,Persiraja Banda Aceh,2,1,H,2021
+IDN,03/09/2021,Ps Tni,Madura United,1,1,D,2021
+IDN,04/09/2021,PSIS Semarang,Persela Lamongan,1,0,H,2021
+IDN,04/09/2021,Borneo,Persebaya Surabaya,3,1,H,2021
+IDN,04/09/2021,Persib Bandung,Barito Putera,1,0,H,2021
+IDN,05/09/2021,PSM Makassar,Arema,1,1,D,2021
+IDN,05/09/2021,PSS Sleman,Persija,1,1,D,2021
+IDN,10/09/2021,Persela Lamongan,Persipura Jayapura,1,0,H,2021
+IDN,10/09/2021,Persik Kediri,Borneo,1,0,H,2021
+IDN,11/09/2021,Persiraja Banda Aceh,PSS Sleman,3,2,H,2021
+IDN,11/09/2021,Barito Putera,Bali United,1,2,A,2021
+IDN,11/09/2021,Persebaya Surabaya,Ps Tni,3,1,H,2021
+IDN,11/09/2021,Persita,Persib Bandung,1,2,A,2021
+IDN,12/09/2021,Arema,Bhayangkara Surabaya Utd,1,1,D,2021
+IDN,12/09/2021,Madura United,PSM Makassar,1,1,D,2021
+IDN,12/09/2021,Persija,PSIS Semarang,2,2,D,2021
+IDN,17/09/2021,Borneo,Barito Putera,1,1,D,2021
+IDN,17/09/2021,Persela Lamongan,Persita,0,1,A,2021
+IDN,17/09/2021,Ps Tni,Persik Kediri,2,2,D,2021
+IDN,18/09/2021,PSIS Semarang,Persiraja Banda Aceh,3,1,H,2021
+IDN,18/09/2021,Bhayangkara Surabaya Utd,Madura United,1,0,H,2021
+IDN,18/09/2021,PSM Makassar,Persebaya Surabaya,3,1,H,2021
+IDN,18/09/2021,Bali United,Persib Bandung,2,2,D,2021
+IDN,19/09/2021,PSS Sleman,Arema,2,1,H,2021
+IDN,19/09/2021,Persipura Jayapura,Persija,0,0,D,2021
+IDN,23/09/2021,Persik Kediri,PSM Makassar,2,3,A,2021
+IDN,23/09/2021,Barito Putera,Ps Tni,0,3,A,2021
+IDN,23/09/2021,Persib Bandung,Borneo,0,0,D,2021
+IDN,24/09/2021,Persiraja Banda Aceh,Persipura Jayapura,1,2,A,2021
+IDN,24/09/2021,Persita,Bali United,1,2,A,2021
+IDN,24/09/2021,Persebaya Surabaya,Bhayangkara Surabaya Utd,0,1,A,2021
+IDN,24/09/2021,Persija,Persela Lamongan,2,1,H,2021
+IDN,25/09/2021,Madura United,PSS Sleman,1,0,H,2021
+IDN,25/09/2021,Arema,PSIS Semarang,0,0,D,2021
+IDN,27/09/2021,PSM Makassar,Barito Putera,0,2,A,2021
+IDN,27/09/2021,Ps Tni,Persib Bandung,0,0,D,2021
+IDN,28/09/2021,Persela Lamongan,Persiraja Banda Aceh,1,0,H,2021
+IDN,28/09/2021,Borneo,Bali United,1,1,D,2021
+IDN,28/09/2021,Persija,Persita,1,1,D,2021
+IDN,29/09/2021,Persipura Jayapura,Arema,0,1,A,2021
+IDN,29/09/2021,PSIS Semarang,Madura United,0,0,D,2021
+IDN,29/09/2021,Bhayangkara Surabaya Utd,Persik Kediri,2,0,H,2021
+IDN,29/09/2021,PSS Sleman,Persebaya Surabaya,1,3,A,2021
+IDN,02/10/2021,Borneo,Persita,2,2,D,2021
+IDN,02/10/2021,Bali United,Ps Tni,1,1,D,2021
+IDN,02/10/2021,Persiraja Banda Aceh,Persija,0,1,A,2021
+IDN,02/10/2021,Persib Bandung,PSM Makassar,1,1,D,2021
+IDN,03/10/2021,Madura United,Persipura Jayapura,2,2,D,2021
+IDN,03/10/2021,Persik Kediri,PSS Sleman,0,0,D,2021
+IDN,03/10/2021,Barito Putera,Bhayangkara Surabaya Utd,2,3,A,2021
+IDN,03/10/2021,Arema,Persela Lamongan,3,0,H,2021
+IDN,03/10/2021,Persebaya Surabaya,PSIS Semarang,2,3,A,2021
+IDN,15/10/2021,PSIS Semarang,Persik Kediri,3,0,H,2021
+IDN,15/10/2021,PSS Sleman,Barito Putera,3,2,H,2021
+IDN,16/10/2021,Persita,Persiraja Banda Aceh,1,1,D,2021
+IDN,16/10/2021,Persela Lamongan,Madura United,2,2,D,2021
+IDN,16/10/2021,Persipura Jayapura,Persebaya Surabaya,1,3,A,2021
+IDN,16/10/2021,Bhayangkara Surabaya Utd,Persib Bandung,0,2,A,2021
+IDN,17/10/2021,PSM Makassar,Bali United,2,1,H,2021
+IDN,17/10/2021,Persija,Arema,0,1,A,2021
+IDN,17/10/2021,Ps Tni,Borneo,3,0,H,2021
+IDN,20/10/2021,Barito Putera,PSIS Semarang,0,1,A,2021
+IDN,21/10/2021,Persik Kediri,Persipura Jayapura,4,2,H,2021
+IDN,21/10/2021,Persebaya Surabaya,Persela Lamongan,1,1,D,2021
+IDN,22/10/2021,Persita,Ps Tni,2,1,H,2021
+IDN,22/10/2021,Persib Bandung,PSS Sleman,4,2,H,2021
+IDN,22/10/2021,Borneo,PSM Makassar,2,1,H,2021
+IDN,22/10/2021,Madura United,Persija,2,3,A,2021
+IDN,23/10/2021,Persiraja Banda Aceh,Arema,0,2,A,2021
+IDN,23/10/2021,Bali United,Bhayangkara Surabaya Utd,1,2,A,2021
+IDN,25/10/2021,Persipura Jayapura,Barito Putera,0,1,A,2021
+IDN,25/10/2021,Persela Lamongan,Persik Kediri,1,0,H,2021
+IDN,26/10/2021,PSM Makassar,Ps Tni,0,0,D,2021
+IDN,26/10/2021,PSIS Semarang,Persib Bandung,0,1,A,2021
+IDN,26/10/2021,Persija,Persebaya Surabaya,0,1,A,2021
+IDN,27/10/2021,Persiraja Banda Aceh,Madura United,1,2,A,2021
+IDN,27/10/2021,Bhayangkara Surabaya Utd,Borneo,2,1,H,2021
+IDN,27/10/2021,Arema,Persita,2,2,D,2021
+IDN,27/10/2021,PSS Sleman,Bali United,0,2,A,2021
+IDN,29/10/2021,Barito Putera,Persela Lamongan,1,1,D,2021
+IDN,30/10/2021,Persib Bandung,Persipura Jayapura,3,0,H,2021
+IDN,30/10/2021,Persik Kediri,Persija,2,2,D,2021
+IDN,31/10/2021,Ps Tni,Bhayangkara Surabaya Utd,0,1,A,2021
+IDN,31/10/2021,Persebaya Surabaya,Persiraja Banda Aceh,2,0,H,2021
+IDN,31/10/2021,Bali United,PSIS Semarang,0,0,D,2021
+IDN,01/11/2021,Borneo,PSS Sleman,1,2,A,2021
+IDN,01/11/2021,Persita,PSM Makassar,0,3,A,2021
+IDN,01/11/2021,Madura United,Arema,1,2,A,2021
+IDN,04/11/2021,Persela Lamongan,Persib Bandung,1,3,A,2021
+IDN,05/11/2021,Persipura Jayapura,Bali United,0,1,A,2021
+IDN,05/11/2021,Persija,Barito Putera,1,1,D,2021
+IDN,06/11/2021,Madura United,Persita,1,2,A,2021
+IDN,06/11/2021,PSIS Semarang,Borneo,0,1,A,2021
+IDN,06/11/2021,Bhayangkara Surabaya Utd,PSM Makassar,2,0,H,2021
+IDN,06/11/2021,Persiraja Banda Aceh,Persik Kediri,1,1,D,2021
+IDN,06/11/2021,Arema,Persebaya Surabaya,2,2,D,2021
+IDN,07/11/2021,PSS Sleman,Ps Tni,3,2,H,2021
+IDN,18/11/2021,Persita,Bhayangkara Surabaya Utd,2,1,H,2021
+IDN,18/11/2021,Ps Tni,PSIS Semarang,2,2,D,2021
+IDN,18/11/2021,Borneo,Persipura Jayapura,1,0,H,2021
+IDN,18/11/2021,PSM Makassar,PSS Sleman,2,2,D,2021
+IDN,19/11/2021,Barito Putera,Persiraja Banda Aceh,4,1,H,2021
+IDN,19/11/2021,Persik Kediri,Arema,2,3,A,2021
+IDN,19/11/2021,Bali United,Persela Lamongan,2,1,H,2021
+IDN,20/11/2021,Persebaya Surabaya,Madura United,1,0,H,2021
+IDN,20/11/2021,Persib Bandung,Persija,0,1,A,2021
+IDN,22/11/2021,Persipura Jayapura,Ps Tni,2,1,H,2021
+IDN,22/11/2021,PSS Sleman,Bhayangkara Surabaya Utd,0,0,D,2021
+IDN,22/11/2021,PSIS Semarang,PSM Makassar,1,0,H,2021
+IDN,23/11/2021,Persela Lamongan,Borneo,0,2,A,2021
+IDN,23/11/2021,Arema,Barito Putera,2,1,H,2021
+IDN,24/11/2021,Madura United,Persik Kediri,2,0,H,2021
+IDN,24/11/2021,Persebaya Surabaya,Persita,4,0,H,2021
+IDN,24/11/2021,Persiraja Banda Aceh,Persib Bandung,0,4,A,2021
+IDN,25/11/2021,Persija,Bali United,0,1,A,2021
+IDN,26/11/2021,Bhayangkara Surabaya Utd,PSIS Semarang,0,0,D,2021
+IDN,27/11/2021,Ps Tni,Persela Lamongan,4,2,H,2021
+IDN,27/11/2021,PSM Makassar,Persipura Jayapura,1,1,D,2021
+IDN,28/11/2021,Persita,PSS Sleman,1,0,H,2021
+IDN,28/11/2021,Barito Putera,Madura United,0,3,A,2021
+IDN,28/11/2021,Persik Kediri,Persebaya Surabaya,0,0,D,2021
+IDN,28/11/2021,Persib Bandung,Arema,0,1,A,2021
+IDN,29/11/2021,Borneo,Persija,2,1,H,2021
+IDN,30/11/2021,Bali United,Persiraja Banda Aceh,5,0,H,2021
+IDN,02/12/2021,Persipura Jayapura,Bhayangkara Surabaya Utd,0,2,A,2021
+IDN,02/12/2021,Persela Lamongan,PSM Makassar,1,1,D,2021
+IDN,03/12/2021,Persik Kediri,Persita,2,0,H,2021
+IDN,03/12/2021,PSIS Semarang,PSS Sleman,1,2,A,2021
+IDN,03/12/2021,Persija,Ps Tni,1,0,H,2021
+IDN,04/12/2021,Persebaya Surabaya,Barito Putera,2,0,H,2021
+IDN,04/12/2021,Madura United,Persib Bandung,0,1,A,2021
+IDN,05/12/2021,Persiraja Banda Aceh,Borneo,0,2,A,2021
+IDN,05/12/2021,Arema,Bali United,0,0,D,2021
+IDN,06/12/2021,Bhayangkara Surabaya Utd,Persela Lamongan,2,0,H,2021
+IDN,07/12/2021,PSS Sleman,Persipura Jayapura,1,1,D,2021
+IDN,07/12/2021,Persita,PSIS Semarang,2,3,A,2021
+IDN,07/12/2021,PSM Makassar,Persija,0,3,A,2021
+IDN,08/12/2021,Barito Putera,Persik Kediri,0,2,A,2021
+IDN,08/12/2021,Persib Bandung,Persebaya Surabaya,0,3,A,2021
+IDN,09/12/2021,Ps Tni,Persiraja Banda Aceh,5,0,H,2021
+IDN,09/12/2021,Bali United,Madura United,0,1,A,2021
+IDN,10/12/2021,Borneo,Arema,1,2,A,2021
+IDN,11/12/2021,Persela Lamongan,PSS Sleman,1,1,D,2021
+IDN,11/12/2021,Persija,Bhayangkara Surabaya Utd,0,0,D,2021
+IDN,11/12/2021,Persipura Jayapura,PSIS Semarang,2,1,H,2021
+IDN,12/12/2021,Persita,Barito Putera,0,1,A,2021
+IDN,12/12/2021,Persik Kediri,Persib Bandung,0,1,A,2021
+IDN,13/12/2021,Persiraja Banda Aceh,PSM Makassar,0,0,D,2021
+IDN,14/12/2021,Madura United,Borneo,2,2,D,2021
+IDN,05/01/2022,Arema,Ps Tni,0,0,D,2022
+IDN,05/01/2022,Persebaya Surabaya,Bali United,3,1,H,2022
+IDN,06/01/2022,Persipura Jayapura,Persela Lamongan,1,1,D,2022
+IDN,06/01/2022,PSIS Semarang,Persija,1,2,A,2022
+IDN,07/01/2022,PSS Sleman,Persiraja Banda Aceh,4,1,H,2022
+IDN,07/01/2022,Persib Bandung,Persita,1,0,H,2022
+IDN,08/01/2022,PSM Makassar,Madura United,1,0,H,2022
+IDN,08/01/2022,Borneo,Persik Kediri,1,1,D,2022
+IDN,09/01/2022,Bali United,Barito Putera,3,0,H,2022
+IDN,09/01/2022,Bhayangkara Surabaya Utd,Arema,0,1,A,2022
+IDN,10/01/2022,Ps Tni,Persebaya Surabaya,2,3,A,2022
+IDN,11/01/2022,Persita,Persela Lamongan,3,0,H,2022
+IDN,11/01/2022,Persija,Persipura Jayapura,1,2,A,2022
+IDN,12/01/2022,Persiraja Banda Aceh,PSIS Semarang,0,1,A,2022
+IDN,13/01/2022,Arema,PSS Sleman,2,0,H,2022
+IDN,13/01/2022,Persib Bandung,Bali United,0,1,A,2022
+IDN,14/01/2022,Persik Kediri,Ps Tni,1,2,A,2022
+IDN,14/01/2022,Barito Putera,Borneo,0,2,A,2022
+IDN,14/01/2022,Madura United,Bhayangkara Surabaya Utd,2,3,A,2022
+IDN,14/01/2022,Persebaya Surabaya,PSM Makassar,2,1,H,2022
+IDN,15/01/2022,Persela Lamongan,Persija,1,1,D,2022
+IDN,16/01/2022,Persipura Jayapura,Persiraja Banda Aceh,0,0,D,2022
+IDN,17/01/2022,Bali United,Persita,2,0,H,2022
+IDN,17/01/2022,PSIS Semarang,Arema,0,0,D,2022
+IDN,18/01/2022,PSS Sleman,Madura United,1,1,D,2022
+IDN,18/01/2022,Ps Tni,Barito Putera,1,1,D,2022
+IDN,18/01/2022,PSM Makassar,Persik Kediri,0,0,D,2022
+IDN,18/01/2022,Borneo,Persib Bandung,0,1,A,2022
+IDN,18/01/2022,Bhayangkara Surabaya Utd,Persebaya Surabaya,2,1,H,2022
+IDN,26/01/2022,Persiraja Banda Aceh,Persela Lamongan,2,2,D,2022
+IDN,26/01/2022,Persita,Persija,1,2,A,2022
+IDN,28/01/2022,Persik Kediri,Bhayangkara Surabaya Utd,1,0,H,2022
+IDN,28/01/2022,Madura United,PSIS Semarang,2,1,H,2022
+IDN,28/01/2022,Barito Putera,PSM Makassar,1,2,A,2022
+IDN,28/01/2022,Arema,Persipura Jayapura,1,0,H,2022
+IDN,29/01/2022,Bali United,Borneo,2,1,H,2022
+IDN,29/01/2022,Persebaya Surabaya,PSS Sleman,1,0,H,2022
+IDN,29/01/2022,Persib Bandung,Ps Tni,1,0,H,2022
+IDN,30/01/2022,Persija,Persiraja Banda Aceh,0,1,A,2022
+IDN,01/02/2022,Bhayangkara Surabaya Utd,Barito Putera,2,1,H,2022
+IDN,01/02/2022,Persela Lamongan,Arema,0,1,A,2022
+IDN,02/02/2022,Persita,Borneo,1,1,D,2022
+IDN,02/02/2022,PSS Sleman,Persik Kediri,2,3,A,2022
+IDN,02/02/2022,PSIS Semarang,Persebaya Surabaya,0,0,D,2022
+IDN,03/02/2022,Ps Tni,Bali United,0,3,A,2022
+IDN,05/02/2022,Madura United,Persela Lamongan,1,1,D,2022
+IDN,05/02/2022,Arema,Persija,1,1,D,2022
+IDN,06/02/2022,Persiraja Banda Aceh,Persita,0,3,A,2022
+IDN,06/02/2022,Persik Kediri,PSIS Semarang,0,0,D,2022
+IDN,06/02/2022,Persebaya Surabaya,Persipura Jayapura,0,2,A,2022
+IDN,06/02/2022,Barito Putera,PSS Sleman,0,1,A,2022
+IDN,06/02/2022,Persib Bandung,Bhayangkara Surabaya Utd,0,1,A,2022
+IDN,07/02/2022,Borneo,Ps Tni,2,0,H,2022
+IDN,07/02/2022,Bali United,PSM Makassar,2,2,D,2022
+IDN,10/02/2022,Persipura Jayapura,Persik Kediri,0,0,D,2022
+IDN,10/02/2022,PSIS Semarang,Barito Putera,1,2,A,2022
+IDN,10/02/2022,Arema,Persiraja Banda Aceh,1,1,D,2022
+IDN,10/02/2022,Persela Lamongan,Persebaya Surabaya,2,2,D,2022
+IDN,11/02/2022,Ps Tni,Persita,1,1,D,2022
+IDN,11/02/2022,PSM Makassar,Borneo,0,1,A,2022
+IDN,11/02/2022,PSS Sleman,Persib Bandung,1,2,A,2022
+IDN,12/02/2022,Bhayangkara Surabaya Utd,Bali United,0,3,A,2022
+IDN,14/02/2022,Barito Putera,Persipura Jayapura,3,0,H,2022
+IDN,14/02/2022,Persik Kediri,Persela Lamongan,1,0,H,2022
+IDN,14/02/2022,Madura United,Persiraja Banda Aceh,1,0,H,2022
+IDN,14/02/2022,Persebaya Surabaya,Persija,3,3,D,2022
+IDN,15/02/2022,Ps Tni,PSM Makassar,3,0,H,2022
+IDN,15/02/2022,Persita,Arema,0,2,A,2022
+IDN,15/02/2022,Persib Bandung,PSIS Semarang,0,0,D,2022
+IDN,16/02/2022,Borneo,Bhayangkara Surabaya Utd,1,1,D,2022
+IDN,16/02/2022,Bali United,PSS Sleman,1,0,H,2022
+IDN,18/02/2022,Persela Lamongan,Barito Putera,2,4,A,2022
+IDN,18/02/2022,Persipura Jayapura,Persib Bandung,0,3,A,2022
+IDN,18/02/2022,Arema,Madura United,1,0,H,2022
+IDN,19/02/2022,Persiraja Banda Aceh,Persebaya Surabaya,0,1,A,2022
+IDN,19/02/2022,PSM Makassar,Persita,0,2,A,2022
+IDN,19/02/2022,Persija,Persik Kediri,2,1,H,2022
+IDN,20/02/2022,PSS Sleman,Borneo,1,0,H,2022
+IDN,20/02/2022,Bhayangkara Surabaya Utd,Ps Tni,4,0,H,2022
+IDN,20/02/2022,PSIS Semarang,Bali United,0,1,A,2022
+IDN,21/02/2022,Persipura Jayapura,Madura United,0,3,A,2022
+IDN,22/02/2022,PSM Makassar,Persib Bandung,0,2,A,2022
+IDN,23/02/2022,Persik Kediri,Persiraja Banda Aceh,2,0,H,2022
+IDN,23/02/2022,Barito Putera,Persija,1,1,D,2022
+IDN,23/02/2022,Persebaya Surabaya,Arema,1,0,H,2022
+IDN,24/02/2022,Ps Tni,PSS Sleman,2,0,H,2022
+IDN,24/02/2022,Persita,Madura United,1,1,D,2022
+IDN,24/02/2022,Borneo,PSIS Semarang,1,1,D,2022
+IDN,24/02/2022,Bali United,Persipura Jayapura,4,1,H,2022
+IDN,25/02/2022,Persib Bandung,Persela Lamongan,1,1,D,2022
+IDN,25/02/2022,PSM Makassar,Bhayangkara Surabaya Utd,0,0,D,2022
+IDN,27/02/2022,Persiraja Banda Aceh,Barito Putera,1,1,D,2022
+IDN,27/02/2022,Arema,Persik Kediri,0,1,A,2022
+IDN,28/02/2022,PSIS Semarang,Ps Tni,1,0,H,2022
+IDN,28/02/2022,Persipura Jayapura,Borneo,2,1,H,2022
+IDN,28/02/2022,Madura United,Persebaya Surabaya,1,2,A,2022
+IDN,01/03/2022,Bhayangkara Surabaya Utd,Persita,2,2,D,2022
+IDN,01/03/2022,Persela Lamongan,Bali United,1,2,A,2022
+IDN,01/03/2022,PSS Sleman,PSM Makassar,0,0,D,2022
+IDN,01/03/2022,Persija,Persib Bandung,0,2,A,2022
+IDN,05/03/2022,Persik Kediri,Madura United,2,2,D,2022
+IDN,05/03/2022,Ps Tni,Persipura Jayapura,1,1,D,2022
+IDN,05/03/2022,Barito Putera,Arema,1,2,A,2022
+IDN,05/03/2022,Borneo,Persela Lamongan,2,0,H,2022
+IDN,05/03/2022,Persib Bandung,Persiraja Banda Aceh,3,1,H,2022
+IDN,06/03/2022,PSM Makassar,PSIS Semarang,2,1,H,2022
+IDN,06/03/2022,Persita,Persebaya Surabaya,1,1,D,2022
+IDN,06/03/2022,Bali United,Persija,2,1,H,2022
+IDN,07/03/2022,Bhayangkara Surabaya Utd,PSS Sleman,2,1,H,2022
+IDN,09/03/2022,Persela Lamongan,Ps Tni,2,3,A,2022
+IDN,09/03/2022,Madura United,Barito Putera,3,3,D,2022
+IDN,09/03/2022,Arema,Persib Bandung,1,2,A,2022
+IDN,10/03/2022,Persipura Jayapura,PSM Makassar,0,0,D,2022
+IDN,10/03/2022,Persebaya Surabaya,Persik Kediri,1,0,H,2022
+IDN,10/03/2022,Persija,Borneo,1,2,A,2022
+IDN,11/03/2022,PSS Sleman,Persita,0,0,D,2022
+IDN,11/03/2022,Persiraja Banda Aceh,Bali United,0,1,A,2022
+IDN,12/03/2022,PSIS Semarang,Bhayangkara Surabaya Utd,1,1,D,2022
+IDN,13/03/2022,Persib Bandung,Madura United,3,2,H,2022
+IDN,13/03/2022,Ps Tni,Persija,0,4,A,2022
+IDN,14/03/2022,PSM Makassar,Persela Lamongan,2,2,D,2022
+IDN,14/03/2022,Barito Putera,Persebaya Surabaya,1,1,D,2022
+IDN,15/03/2022,Borneo,Persiraja Banda Aceh,2,1,H,2022
+IDN,15/03/2022,Bali United,Arema,2,1,H,2022
+IDN,15/03/2022,Persita,Persik Kediri,1,1,D,2022
+IDN,16/03/2022,Bhayangkara Surabaya Utd,Persipura Jayapura,1,2,A,2022
+IDN,16/03/2022,PSS Sleman,PSIS Semarang,0,1,A,2022
+IDN,17/03/2022,Persija,Madura United,1,3,A,2022
+IDN,19/03/2022,Persik Kediri,Barito Putera,0,2,A,2022
+IDN,19/03/2022,Persiraja Banda Aceh,Ps Tni,0,5,A,2022
+IDN,19/03/2022,Persebaya Surabaya,Persib Bandung,1,1,D,2022
+IDN,20/03/2022,PSIS Semarang,Persita,3,3,D,2022
+IDN,20/03/2022,Persela Lamongan,Bhayangkara Surabaya Utd,0,4,A,2022
+IDN,20/03/2022,Persipura Jayapura,PSS Sleman,4,2,H,2022
+IDN,20/03/2022,Arema,Borneo,2,2,D,2022
+IDN,21/03/2022,Persija,PSM Makassar,3,1,H,2022
+IDN,21/03/2022,Madura United,Bali United,0,2,A,2022
+IDN,24/03/2022,Barito Putera,Persita,2,0,H,2022
+IDN,24/03/2022,PSS Sleman,Persela Lamongan,3,2,H,2022
+IDN,24/03/2022,PSIS Semarang,Persipura Jayapura,0,4,A,2022
+IDN,24/03/2022,Ps Tni,Arema,1,3,A,2022
+IDN,25/03/2022,Borneo,Madura United,0,1,A,2022
+IDN,25/03/2022,PSM Makassar,Persiraja Banda Aceh,1,0,H,2022
+IDN,25/03/2022,Persib Bandung,Persik Kediri,0,0,D,2022
+IDN,25/03/2022,Bali United,Persebaya Surabaya,0,3,A,2022
+IDN,26/03/2022,Bhayangkara Surabaya Utd,Persija,1,1,D,2022
+IDN,29/03/2022,Persela Lamongan,PSIS Semarang,1,2,A,2022
+IDN,29/03/2022,Madura United,Ps Tni,1,2,A,2022
+IDN,30/03/2022,Persiraja Banda Aceh,Bhayangkara Surabaya Utd,0,2,A,2022
+IDN,30/03/2022,Arema,PSM Makassar,1,0,H,2022
+IDN,30/03/2022,Persebaya Surabaya,Borneo,1,2,A,2022
+IDN,31/03/2022,Persija,PSS Sleman,0,2,A,2022
+IDN,31/03/2022,Barito Putera,Persib Bandung,1,1,D,2022
+IDN,31/03/2022,Persita,Persipura Jayapura,0,3,A,2022
+IDN,31/03/2022,Persik Kediri,Bali United,1,3,A,2022
+IDN,23/07/2022,PSIS Semarang,Cilegon United,1,1,D,2022
+IDN,23/07/2022,PSS Sleman,PSM Makassar,1,2,A,2022
+IDN,23/07/2022,Madura United,Barito Putera,8,0,H,2022
+IDN,23/07/2022,Bali United,Persija,1,0,H,2022
+IDN,24/07/2022,Borneo,Arema,3,0,H,2022
+IDN,24/07/2022,Bhayangkara Surabaya Utd,Persib Bandung,2,2,D,2022
+IDN,25/07/2022,Persis Solo,Dewa United,2,3,A,2022
+IDN,25/07/2022,Persita,Persik Kediri,2,0,H,2022
+IDN,25/07/2022,Ps Tni,Persebaya Surabaya,1,0,H,2022
+IDN,29/07/2022,PSM Makassar,Bali United,2,0,H,2022
+IDN,29/07/2022,Cilegon United,PSS Sleman,3,3,D,2022
+IDN,30/07/2022,Persib Bandung,Madura United,1,3,A,2022
+IDN,30/07/2022,Arema,PSIS Semarang,2,1,H,2022
+IDN,30/07/2022,Barito Putera,Borneo,3,1,H,2022
+IDN,31/07/2022,Persik Kediri,Bhayangkara Surabaya Utd,1,1,D,2022
+IDN,31/07/2022,Persija,Persis Solo,2,1,H,2022
+IDN,31/07/2022,Dewa United,Ps Tni,1,3,A,2022
+IDN,01/08/2022,Persebaya Surabaya,Persita,2,0,H,2022
+IDN,04/08/2022,Bali United,Cilegon United,3,2,H,2022
+IDN,05/08/2022,PSM Makassar,Persija,1,1,D,2022
+IDN,05/08/2022,Arema,PSS Sleman,0,0,D,2022
+IDN,06/08/2022,PSIS Semarang,Barito Putera,2,1,H,2022
+IDN,06/08/2022,Madura United,Persik Kediri,1,0,H,2022
+IDN,07/08/2022,Borneo,Persib Bandung,4,1,H,2022
+IDN,07/08/2022,Ps Tni,Persis Solo,2,0,H,2022
+IDN,07/08/2022,Persita,Dewa United,1,0,H,2022
+IDN,07/08/2022,Bhayangkara Surabaya Utd,Persebaya Surabaya,1,0,H,2022
+IDN,12/08/2022,Persik Kediri,Borneo,1,2,A,2022
+IDN,13/08/2022,Persib Bandung,PSIS Semarang,2,1,H,2022
+IDN,13/08/2022,PSS Sleman,Barito Putera,1,0,H,2022
+IDN,13/08/2022,Bali United,Arema,1,2,A,2022
+IDN,14/08/2022,Dewa United,Bhayangkara Surabaya Utd,2,0,H,2022
+IDN,14/08/2022,Persebaya Surabaya,Madura United,2,2,D,2022
+IDN,14/08/2022,Persis Solo,Persita,1,2,A,2022
+IDN,14/08/2022,Ps Tni,Persija,1,1,D,2022
+IDN,15/08/2022,Cilegon United,PSM Makassar,1,2,A,2022
+IDN,18/08/2022,PSIS Semarang,Persik Kediri,2,1,H,2022
+IDN,18/08/2022,Barito Putera,Bali United,1,2,A,2022
+IDN,19/08/2022,Bhayangkara Surabaya Utd,Persis Solo,0,1,A,2022
+IDN,19/08/2022,Borneo,Persebaya Surabaya,2,1,H,2022
+IDN,19/08/2022,Madura United,Dewa United,1,0,H,2022
+IDN,19/08/2022,Persita,Ps Tni,5,3,H,2022
+IDN,19/08/2022,PSS Sleman,Persib Bandung,0,1,A,2022
+IDN,20/08/2022,PSM Makassar,Arema,1,0,H,2022
+IDN,20/08/2022,Cilegon United,Persija,0,3,A,2022
+IDN,23/08/2022,Persik Kediri,PSS Sleman,0,2,A,2022
+IDN,23/08/2022,Persebaya Surabaya,PSIS Semarang,1,0,H,2022
+IDN,23/08/2022,Persib Bandung,Bali United,2,3,A,2022
+IDN,23/08/2022,Borneo,Dewa United,3,0,H,2022
+IDN,23/08/2022,Ps Tni,Bhayangkara Surabaya Utd,0,1,A,2022
+IDN,23/08/2022,Persis Solo,Madura United,1,0,H,2022
+IDN,24/08/2022,Arema,Cilegon United,4,2,H,2022
+IDN,24/08/2022,Persija,Persita,1,0,H,2022
+IDN,27/08/2022,Bali United,Persik Kediri,4,0,H,2022
+IDN,27/08/2022,Madura United,Ps Tni,2,1,H,2022
+IDN,27/08/2022,PSS Sleman,Persebaya Surabaya,0,1,A,2022
+IDN,28/08/2022,Bhayangkara Surabaya Utd,Persita,2,3,A,2022
+IDN,28/08/2022,Borneo,Persis Solo,2,1,H,2022
+IDN,28/08/2022,Arema,Persija,0,1,A,2022
+IDN,29/08/2022,Dewa United,PSIS Semarang,2,1,H,2022
+IDN,29/08/2022,Cilegon United,Barito Putera,2,1,H,2022
+IDN,29/08/2022,PSM Makassar,Persib Bandung,5,1,H,2022
+IDN,02/09/2022,Persebaya Surabaya,Bali United,0,1,A,2022
+IDN,02/09/2022,Persita,Madura United,0,1,A,2022
+IDN,02/09/2022,Persik Kediri,PSM Makassar,0,0,D,2022
+IDN,03/09/2022,Persis Solo,PSIS Semarang,0,0,D,2022
+IDN,03/09/2022,Ps Tni,Borneo,3,2,H,2022
+IDN,03/09/2022,Persija,Bhayangkara Surabaya Utd,2,1,H,2022
+IDN,04/09/2022,Persib Bandung,Cilegon United,2,1,H,2022
+IDN,04/09/2022,Dewa United,PSS Sleman,0,0,D,2022
+IDN,04/09/2022,Barito Putera,Arema,1,1,D,2022
+IDN,08/09/2022,Madura United,Bhayangkara Surabaya Utd,1,0,H,2022
+IDN,09/09/2022,PSIS Semarang,Ps Tni,3,2,H,2022
+IDN,09/09/2022,Borneo,Persita,2,2,D,2022
+IDN,10/09/2022,Bali United,Dewa United,6,0,H,2022
+IDN,10/09/2022,PSS Sleman,Persis Solo,2,1,H,2022
+IDN,10/09/2022,Cilegon United,Persik Kediri,1,1,D,2022
+IDN,10/09/2022,PSM Makassar,Persebaya Surabaya,3,0,H,2022
+IDN,11/09/2022,Arema,Persib Bandung,1,2,A,2022
+IDN,11/09/2022,Barito Putera,Persija,0,1,A,2022
+IDN,13/09/2022,Bhayangkara Surabaya Utd,Borneo,2,2,D,2022
+IDN,14/09/2022,Persita,PSIS Semarang,1,0,H,2022
+IDN,15/09/2022,Ps Tni,PSS Sleman,2,0,H,2022
+IDN,15/09/2022,Persebaya Surabaya,Cilegon United,1,2,A,2022
+IDN,15/09/2022,Dewa United,PSM Makassar,1,1,D,2022
+IDN,15/09/2022,Persis Solo,Bali United,2,0,H,2022
+IDN,16/09/2022,Persib Bandung,Barito Putera,5,2,H,2022
+IDN,17/09/2022,Persik Kediri,Arema,0,1,A,2022
+IDN,17/09/2022,Persija,Madura United,0,0,D,2022
+IDN,29/09/2022,Persis Solo,PSM Makassar,1,1,D,2022
+IDN,29/09/2022,Barito Putera,Persik Kediri,2,2,D,2022
+IDN,29/09/2022,PSS Sleman,Persita,1,2,A,2022
+IDN,30/09/2022,Bali United,Ps Tni,1,2,A,2022
+IDN,01/10/2022,Borneo,Madura United,3,0,H,2022
+IDN,01/10/2022,Dewa United,Cilegon United,2,2,D,2022
+IDN,01/10/2022,Arema,Persebaya Surabaya,2,3,A,2022
+IDN,05/12/2022,PSM Makassar,Ps Tni,2,0,H,2022
+IDN,05/12/2022,Madura United,PSIS Semarang,0,3,A,2022
+IDN,05/12/2022,Bhayangkara Surabaya Utd,PSS Sleman,3,1,H,2022
+IDN,05/12/2022,Persita,Bali United,2,3,A,2022
+IDN,06/12/2022,Persebaya Surabaya,Barito Putera,3,2,H,2022
+IDN,06/12/2022,Persis Solo,Cilegon United,6,1,H,2022
+IDN,06/12/2022,Persija,Borneo,1,0,H,2022
+IDN,07/12/2022,Dewa United,Arema,0,2,A,2022
+IDN,07/12/2022,Persik Kediri,Persib Bandung,0,3,A,2022
+IDN,08/12/2022,PSM Makassar,Persita,3,1,H,2022
+IDN,08/12/2022,PSS Sleman,Madura United,0,1,A,2022
+IDN,08/12/2022,Bali United,Bhayangkara Surabaya Utd,3,0,H,2022
+IDN,09/12/2022,Cilegon United,Ps Tni,1,1,D,2022
+IDN,09/12/2022,PSIS Semarang,Borneo,2,4,A,2022
+IDN,10/12/2022,Persib Bandung,Persebaya Surabaya,2,1,H,2022
+IDN,10/12/2022,Persija,Persik Kediri,1,1,D,2022
+IDN,11/12/2022,Arema,Persis Solo,2,1,H,2022
+IDN,11/12/2022,Barito Putera,Dewa United,0,0,D,2022
+IDN,12/12/2022,Bhayangkara Surabaya Utd,PSM Makassar,0,0,D,2022
+IDN,12/12/2022,Borneo,PSS Sleman,0,0,D,2022
+IDN,12/12/2022,Madura United,Bali United,1,3,A,2022
+IDN,13/12/2022,Persebaya Surabaya,Persik Kediri,1,1,D,2022
+IDN,13/12/2022,Persita,Cilegon United,4,1,H,2022
+IDN,13/12/2022,PSIS Semarang,Persija,2,0,H,2022
+IDN,14/12/2022,Ps Tni,Arema,0,1,A,2022
+IDN,14/12/2022,Persis Solo,Barito Putera,0,0,D,2022
+IDN,14/12/2022,Dewa United,Persib Bandung,1,1,D,2022
+IDN,15/12/2022,Bali United,Borneo,1,3,A,2022
+IDN,15/12/2022,PSM Makassar,Madura United,0,1,A,2022
+IDN,16/12/2022,Persija,Persebaya Surabaya,1,1,D,2022
+IDN,16/12/2022,Cilegon United,Bhayangkara Surabaya Utd,2,1,H,2022
+IDN,16/12/2022,PSS Sleman,PSIS Semarang,0,1,A,2022
+IDN,17/12/2022,Arema,Persita,2,0,H,2022
+IDN,17/12/2022,Persik Kediri,Dewa United,1,0,H,2022
+IDN,17/12/2022,Barito Putera,Ps Tni,1,1,D,2022
+IDN,18/12/2022,Persis Solo,Persib Bandung,1,2,A,2022
+IDN,19/12/2022,Cilegon United,Borneo,0,0,D,2022
+IDN,19/12/2022,PSM Makassar,PSIS Semarang,2,0,H,2022
+IDN,19/12/2022,Bali United,PSS Sleman,1,2,A,2022
+IDN,20/12/2022,Arema,Madura United,0,2,A,2022
+IDN,20/12/2022,Barito Putera,Bhayangkara Surabaya Utd,2,0,H,2022
+IDN,20/12/2022,Persija,Dewa United,3,2,H,2022
+IDN,21/12/2022,Persebaya Surabaya,Persis Solo,0,0,D,2022
+IDN,21/12/2022,Persib Bandung,Persita,1,0,H,2022
+IDN,21/12/2022,Ps Tni,Persik Kediri,0,0,D,2022
+IDN,22/12/2022,PSIS Semarang,Bali United,0,3,A,2022
+IDN,23/12/2022,Madura United,Cilegon United,0,0,D,2022
+IDN,23/12/2022,Bhayangkara Surabaya Utd,Arema,1,0,H,2022
+IDN,23/12/2022,Borneo,PSM Makassar,1,1,D,2022
+IDN,24/12/2022,Persita,Barito Putera,0,3,A,2022
+IDN,24/12/2022,Dewa United,Persebaya Surabaya,1,2,A,2022
+IDN,24/12/2022,Persik Kediri,Persis Solo,1,3,A,2022
+IDN,24/12/2022,Ps Tni,Persib Bandung,1,1,D,2022
+IDN,08/01/2023,PSS Sleman,Persija,0,2,A,2023
+IDN,09/01/2023,PSIS Semarang,Bhayangkara Surabaya Utd,0,1,A,2023
+IDN,10/01/2023,Barito Putera,PSM Makassar,1,1,D,2023
+IDN,11/01/2023,Persib Bandung,Persija,1,0,H,2023
+IDN,14/01/2023,Barito Putera,Madura United,1,2,A,2023
+IDN,14/01/2023,PSM Makassar,PSS Sleman,4,0,H,2023
+IDN,14/01/2023,Dewa United,Persis Solo,1,1,D,2023
+IDN,15/01/2023,Persija,Bali United,3,2,H,2023
+IDN,16/01/2023,Cilegon United,PSIS Semarang,0,1,A,2023
+IDN,18/01/2023,Persita,Persebaya Surabaya,0,5,A,2023
+IDN,18/01/2023,Ps Tni,Dewa United,0,2,A,2023
+IDN,19/01/2023,Bhayangkara Surabaya Utd,Persik Kediri,2,3,A,2023
+IDN,19/01/2023,Persis Solo,Persija,1,0,H,2023
+IDN,20/01/2023,Bali United,PSM Makassar,2,2,D,2023
+IDN,20/01/2023,Madura United,Persib Bandung,0,1,A,2023
+IDN,21/01/2023,PSIS Semarang,Arema,1,0,H,2023
+IDN,21/01/2023,PSS Sleman,Cilegon United,2,0,H,2023
+IDN,21/01/2023,Borneo,Barito Putera,0,0,D,2023
+IDN,22/01/2023,Dewa United,Persita,3,2,H,2023
+IDN,23/01/2023,Persebaya Surabaya,Bhayangkara Surabaya Utd,2,1,H,2023
+IDN,23/01/2023,Persis Solo,Ps Tni,1,1,D,2023
+IDN,24/01/2023,Persik Kediri,Madura United,2,0,H,2023
+IDN,25/01/2023,Persija,PSM Makassar,4,2,H,2023
+IDN,25/01/2023,Cilegon United,Bali United,4,4,D,2023
+IDN,26/01/2023,Persib Bandung,Borneo,1,0,H,2023
+IDN,26/01/2023,PSS Sleman,Arema,2,0,H,2023
+IDN,28/01/2023,Persita,Persis Solo,0,0,D,2023
+IDN,28/01/2023,Bhayangkara Surabaya Utd,Dewa United,1,1,D,2023
+IDN,29/01/2023,Persija,Ps Tni,1,0,H,2023
+IDN,29/01/2023,Madura United,Persebaya Surabaya,0,2,A,2023
+IDN,30/01/2023,PSM Makassar,Cilegon United,3,1,H,2023
+IDN,30/01/2023,Borneo,Persik Kediri,2,0,H,2023
+IDN,31/01/2023,Barito Putera,PSS Sleman,1,2,A,2023
+IDN,31/01/2023,PSIS Semarang,Persib Bandung,1,3,A,2023
+IDN,02/02/2023,Dewa United,Madura United,1,1,D,2023
+IDN,02/02/2023,Ps Tni,Persita,1,1,D,2023
+IDN,02/02/2023,Persis Solo,Bhayangkara Surabaya Utd,1,3,A,2023
+IDN,03/02/2023,Persija,Cilegon United,3,1,H,2023
+IDN,03/02/2023,Persebaya Surabaya,Borneo,3,2,H,2023
+IDN,04/02/2023,Arema,PSM Makassar,0,1,A,2023
+IDN,04/02/2023,Persik Kediri,PSIS Semarang,1,2,A,2023
+IDN,05/02/2023,Persib Bandung,PSS Sleman,2,0,H,2023
+IDN,05/02/2023,Bali United,Barito Putera,1,2,A,2023
+IDN,06/02/2023,Madura United,Persis Solo,2,3,A,2023
+IDN,07/02/2023,Bhayangkara Surabaya Utd,Ps Tni,3,2,H,2023
+IDN,08/02/2023,Dewa United,Borneo,1,0,H,2023
+IDN,08/02/2023,Cilegon United,Arema,1,2,A,2023
+IDN,09/02/2023,PSM Makassar,Barito Putera,4,1,H,2023
+IDN,09/02/2023,PSS Sleman,Persik Kediri,2,1,H,2023
+IDN,10/02/2023,Bali United,Persib Bandung,1,1,D,2023
+IDN,11/02/2023,Persita,Bhayangkara Surabaya Utd,1,0,H,2023
+IDN,11/02/2023,Ps Tni,Madura United,0,2,A,2023
+IDN,12/02/2023,Persija,Arema,2,0,H,2023
+IDN,12/02/2023,Persis Solo,Borneo,1,1,D,2023
+IDN,13/02/2023,Persebaya Surabaya,PSS Sleman,4,2,H,2023
+IDN,13/02/2023,PSIS Semarang,Dewa United,3,2,H,2023
+IDN,14/02/2023,Persik Kediri,Bali United,1,1,D,2023
+IDN,14/02/2023,Barito Putera,Cilegon United,4,1,H,2023
+IDN,14/02/2023,Persib Bandung,PSM Makassar,1,2,A,2023
+IDN,15/02/2023,Madura United,Persita,1,1,D,2023
+IDN,16/02/2023,Bhayangkara Surabaya Utd,Persija,2,1,H,2023
+IDN,16/02/2023,Borneo,Ps Tni,3,1,H,2023
+IDN,17/02/2023,PSIS Semarang,Persis Solo,1,1,D,2023
+IDN,17/02/2023,PSS Sleman,Dewa United,1,3,A,2023
+IDN,18/02/2023,Arema,Barito Putera,1,0,H,2023
+IDN,18/02/2023,Bali United,Persebaya Surabaya,4,0,H,2023
+IDN,19/02/2023,PSM Makassar,Persik Kediri,2,1,H,2023
+IDN,19/02/2023,Cilegon United,Persib Bandung,1,3,A,2023
+IDN,20/02/2023,Persita,Borneo,1,1,D,2023
+IDN,20/02/2023,Bhayangkara Surabaya Utd,Madura United,4,0,H,2023
+IDN,21/02/2023,Persis Solo,PSS Sleman,4,1,H,2023
+IDN,21/02/2023,Ps Tni,PSIS Semarang,0,0,D,2023
+IDN,22/02/2023,Dewa United,Bali United,1,2,A,2023
+IDN,22/02/2023,Persija,Barito Putera,2,1,H,2023
+IDN,23/02/2023,Persik Kediri,Cilegon United,5,1,H,2023
+IDN,23/02/2023,Persib Bandung,Arema,1,0,H,2023
+IDN,24/02/2023,Persebaya Surabaya,PSM Makassar,0,1,A,2023
+IDN,25/02/2023,PSIS Semarang,Persita,1,1,D,2023
+IDN,25/02/2023,Borneo,Bhayangkara Surabaya Utd,1,3,A,2023
+IDN,26/02/2023,Madura United,Persija,0,0,D,2023
+IDN,26/02/2023,PSS Sleman,Ps Tni,1,2,A,2023
+IDN,27/02/2023,Barito Putera,Persib Bandung,2,1,H,2023
+IDN,27/02/2023,Bali United,Persis Solo,3,1,H,2023
+IDN,28/02/2023,Cilegon United,Persebaya Surabaya,2,2,D,2023
+IDN,28/02/2023,Arema,Persik Kediri,2,3,A,2023
+IDN,01/03/2023,PSM Makassar,Dewa United,2,0,H,2023
+IDN,01/03/2023,Bhayangkara Surabaya Utd,PSIS Semarang,3,2,H,2023
+IDN,02/03/2023,Persita,PSS Sleman,2,1,H,2023
+IDN,03/03/2023,Madura United,Borneo,0,1,A,2023
+IDN,03/03/2023,Ps Tni,Bali United,2,1,H,2023
+IDN,04/03/2023,Persik Kediri,Barito Putera,2,0,H,2023
+IDN,05/03/2023,PSM Makassar,Persis Solo,3,2,H,2023
+IDN,05/03/2023,Cilegon United,Dewa United,0,1,A,2023
+IDN,06/03/2023,PSS Sleman,Bhayangkara Surabaya Utd,0,1,A,2023
+IDN,07/03/2023,PSIS Semarang,Madura United,0,2,A,2023
+IDN,07/03/2023,Bali United,Persita,1,1,D,2023
+IDN,08/03/2023,Persib Bandung,Persik Kediri,0,2,A,2023
+IDN,08/03/2023,Borneo,Persija,3,1,H,2023
+IDN,09/03/2023,Barito Putera,Persebaya Surabaya,2,1,H,2023
+IDN,09/03/2023,Ps Tni,PSM Makassar,0,1,A,2023
+IDN,10/03/2023,Arema,Dewa United,0,0,D,2023
+IDN,10/03/2023,Cilegon United,Persis Solo,2,3,A,2023
+IDN,11/03/2023,Madura United,PSS Sleman,2,1,H,2023
+IDN,11/03/2023,Bhayangkara Surabaya Utd,Bali United,3,1,H,2023
+IDN,12/03/2023,Persik Kediri,Persija,2,0,H,2023
+IDN,12/03/2023,Borneo,PSIS Semarang,6,1,H,2023
+IDN,13/03/2023,Persebaya Surabaya,Persib Bandung,2,2,D,2023
+IDN,13/03/2023,Persita,PSM Makassar,0,0,D,2023
+IDN,14/03/2023,Dewa United,Barito Putera,1,2,A,2023
+IDN,14/03/2023,Ps Tni,Cilegon United,1,0,H,2023
+IDN,15/03/2023,Persis Solo,Arema,1,1,D,2023
+IDN,16/03/2023,Persija,PSIS Semarang,1,0,H,2023
+IDN,16/03/2023,Bali United,Madura United,1,1,D,2023
+IDN,17/03/2023,PSM Makassar,Bhayangkara Surabaya Utd,3,1,H,2023
+IDN,18/03/2023,Persik Kediri,Persebaya Surabaya,1,0,H,2023
+IDN,18/03/2023,PSS Sleman,Borneo,2,1,H,2023
+IDN,19/03/2023,Arema,Ps Tni,3,1,H,2023
+IDN,19/03/2023,Cilegon United,Persita,1,2,A,2023
+IDN,20/03/2023,Persib Bandung,Dewa United,2,1,H,2023
+IDN,21/03/2023,Barito Putera,Persis Solo,2,3,A,2023
+IDN,24/03/2023,Arema,Borneo,0,0,D,2023
+IDN,24/03/2023,Persik Kediri,Persita,3,1,H,2023
+IDN,24/03/2023,Persib Bandung,Bhayangkara Surabaya Utd,2,1,H,2023
+IDN,25/03/2023,Persebaya Surabaya,Ps Tni,3,2,H,2023
+IDN,26/03/2023,Barito Putera,PSIS Semarang,3,0,H,2023
+IDN,27/03/2023,Arema,Bali United,1,3,A,2023
+IDN,28/03/2023,Persita,Persija,1,0,H,2023
+IDN,29/03/2023,PSIS Semarang,Persebaya Surabaya,1,2,A,2023
+IDN,30/03/2023,Bhayangkara Surabaya Utd,Cilegon United,5,1,H,2023
+IDN,30/03/2023,Dewa United,Persik Kediri,1,3,A,2023
+IDN,31/03/2023,Persija,Persib Bandung,2,0,H,2023
+IDN,31/03/2023,Madura United,PSM Makassar,1,3,A,2023
+IDN,31/03/2023,Ps Tni,Barito Putera,3,1,H,2023
+IDN,01/04/2023,Persita,Arema,0,1,A,2023
+IDN,02/04/2023,PSIS Semarang,PSS Sleman,5,2,H,2023
+IDN,03/04/2023,Borneo,Bali United,5,1,H,2023
+IDN,04/04/2023,Persib Bandung,Persis Solo,3,1,H,2023
+IDN,05/04/2023,Persebaya Surabaya,Persija,0,1,A,2023
+IDN,05/04/2023,Bhayangkara Surabaya Utd,Barito Putera,1,1,D,2023
+IDN,06/04/2023,PSIS Semarang,PSM Makassar,4,0,H,2023
+IDN,07/04/2023,Madura United,Arema,1,1,D,2023
+IDN,07/04/2023,Persik Kediri,Ps Tni,2,0,H,2023
+IDN,07/04/2023,PSS Sleman,Bali United,2,0,H,2023
+IDN,08/04/2023,Persis Solo,Persebaya Surabaya,3,3,D,2023
+IDN,09/04/2023,Persita,Persib Bandung,4,0,H,2023
+IDN,09/04/2023,Borneo,Cilegon United,4,2,H,2023
+IDN,10/04/2023,Dewa United,Persija,0,1,A,2023
+IDN,11/04/2023,Persebaya Surabaya,Arema,1,0,H,2023
+IDN,12/04/2023,Bali United,PSIS Semarang,3,2,H,2023
+IDN,13/04/2023,Cilegon United,Madura United,0,0,D,2023
+IDN,13/04/2023,Persis Solo,Persik Kediri,1,0,H,2023
+IDN,14/04/2023,Arema,Bhayangkara Surabaya Utd,0,3,A,2023
+IDN,14/04/2023,Barito Putera,Persita,1,0,H,2023
+IDN,15/04/2023,Persebaya Surabaya,Dewa United,3,0,H,2023
+IDN,15/04/2023,Persib Bandung,Ps Tni,1,4,A,2023
+IDN,15/04/2023,Persija,PSS Sleman,5,0,H,2023
+IDN,16/04/2023,PSM Makassar,Borneo,3,0,H,2023
+IDN,06/06/2023,Bali United,PSM Makassar,1,1,D,2023
+IDN,10/06/2023,PSM Makassar,Bali United,1,1,D,2023
+IDN,01/07/2023,Bali United,PSS Sleman,0,1,A,2023
+IDN,01/07/2023,Persis Solo,Persebaya Surabaya,2,3,A,2023
+IDN,02/07/2023,Dewa United,Arema,1,0,H,2023
+IDN,02/07/2023,Persib Bandung,Madura United,1,1,D,2023
+IDN,02/07/2023,Barito Putera,Persita,2,0,H,2023
+IDN,03/07/2023,Cilegon United,Ps Tni,2,1,H,2023
+IDN,03/07/2023,Persik Kediri,Borneo,1,1,D,2023
+IDN,03/07/2023,Persija,PSM Makassar,1,1,D,2023
+IDN,03/07/2023,PSIS Semarang,Bhayangkara Surabaya Utd,3,1,H,2023
+IDN,07/07/2023,PSS Sleman,Persis Solo,2,2,D,2023
+IDN,07/07/2023,Arema,Persib Bandung,3,3,D,2023
+IDN,08/07/2023,Persebaya Surabaya,Barito Putera,1,1,D,2023
+IDN,08/07/2023,PSM Makassar,Dewa United,1,2,A,2023
+IDN,08/07/2023,Borneo,Bali United,3,1,H,2023
+IDN,08/07/2023,Persita,PSIS Semarang,2,0,H,2023
+IDN,09/07/2023,Madura United,Persik Kediri,3,2,H,2023
+IDN,09/07/2023,Ps Tni,Persija,0,0,D,2023
+IDN,09/07/2023,Bhayangkara Surabaya Utd,Cilegon United,1,2,A,2023
+IDN,14/07/2023,Barito Putera,PSS Sleman,3,1,H,2023
+IDN,14/07/2023,Ps Tni,PSM Makassar,0,1,A,2023
+IDN,14/07/2023,Persib Bandung,Dewa United,2,2,D,2023
+IDN,15/07/2023,Persik Kediri,Arema,5,2,H,2023
+IDN,15/07/2023,Cilegon United,Persita,0,1,A,2023
+IDN,15/07/2023,Persis Solo,Borneo,2,1,H,2023
+IDN,15/07/2023,Bali United,Madura United,2,1,H,2023
+IDN,16/07/2023,PSIS Semarang,Persebaya Surabaya,2,0,H,2023
+IDN,16/07/2023,Persija,Bhayangkara Surabaya Utd,4,1,H,2023
+IDN,21/07/2023,Borneo,Barito Putera,2,1,H,2023
+IDN,21/07/2023,PSS Sleman,PSIS Semarang,2,2,D,2023
+IDN,21/07/2023,Dewa United,Persik Kediri,3,0,H,2023
+IDN,21/07/2023,Arema,Bali United,1,3,A,2023
+IDN,22/07/2023,Persita,Persija,1,0,H,2023
+IDN,22/07/2023,Bhayangkara Surabaya Utd,Ps Tni,1,3,A,2023
+IDN,22/07/2023,PSM Makassar,Persib Bandung,4,2,H,2023
+IDN,23/07/2023,Persebaya Surabaya,Cilegon United,2,2,D,2023
+IDN,23/07/2023,Madura United,Persis Solo,4,3,H,2023
+IDN,28/07/2023,PSIS Semarang,Borneo,0,0,D,2023
+IDN,28/07/2023,Ps Tni,Persita,2,2,D,2023
+IDN,28/07/2023,Persik Kediri,Persib Bandung,1,2,A,2023
+IDN,29/07/2023,Bali United,Dewa United,3,1,H,2023
+IDN,29/07/2023,Bhayangkara Surabaya Utd,PSM Makassar,0,0,D,2023
+IDN,30/07/2023,Cilegon United,PSS Sleman,0,0,D,2023
+IDN,30/07/2023,Persis Solo,Arema,1,1,D,2023
+IDN,30/07/2023,Persija,Persebaya Surabaya,1,0,H,2023
+IDN,30/07/2023,Barito Putera,Madura United,1,2,A,2023
+IDN,03/08/2023,PSM Makassar,Persik Kediri,1,2,A,2023
+IDN,03/08/2023,Persita,Bhayangkara Surabaya Utd,0,1,A,2023
+IDN,03/08/2023,Persib Bandung,Bali United,0,0,D,2023
+IDN,04/08/2023,Persebaya Surabaya,Ps Tni,1,2,A,2023
+IDN,04/08/2023,Dewa United,Persis Solo,0,0,D,2023
+IDN,04/08/2023,PSS Sleman,Persija,1,3,A,2023
+IDN,04/08/2023,Borneo,Cilegon United,1,1,D,2023
+IDN,05/08/2023,Arema,Barito Putera,0,4,A,2023
+IDN,05/08/2023,Madura United,PSIS Semarang,1,0,H,2023
+IDN,07/08/2023,Persita,PSM Makassar,0,1,A,2023
+IDN,07/08/2023,Bali United,Persik Kediri,1,1,D,2023
+IDN,08/08/2023,Bhayangkara Surabaya Utd,Persebaya Surabaya,1,2,A,2023
+IDN,08/08/2023,Ps Tni,PSS Sleman,2,3,A,2023
+IDN,08/08/2023,Persis Solo,Persib Bandung,2,1,H,2023
+IDN,09/08/2023,Barito Putera,Dewa United,2,1,H,2023
+IDN,09/08/2023,PSIS Semarang,Arema,2,0,H,2023
+IDN,09/08/2023,Persija,Borneo,1,1,D,2023
+IDN,09/08/2023,Cilegon United,Madura United,3,1,H,2023
+IDN,11/08/2023,Bali United,PSM Makassar,3,2,H,2023
+IDN,12/08/2023,Persebaya Surabaya,Persita,1,0,H,2023
+IDN,12/08/2023,Persik Kediri,Persis Solo,2,0,H,2023
+IDN,13/08/2023,Persib Bandung,Barito Putera,1,1,D,2023
+IDN,13/08/2023,PSS Sleman,Bhayangkara Surabaya Utd,3,1,H,2023
+IDN,13/08/2023,Borneo,Ps Tni,3,2,H,2023
+IDN,13/08/2023,Madura United,Persija,2,0,H,2023
+IDN,14/08/2023,Dewa United,PSIS Semarang,1,4,A,2023
+IDN,14/08/2023,Arema,Cilegon United,0,1,A,2023
+IDN,18/08/2023,Persebaya Surabaya,PSM Makassar,1,0,H,2023
+IDN,18/08/2023,Persita,PSS Sleman,2,3,A,2023
+IDN,18/08/2023,Bhayangkara Surabaya Utd,Borneo,0,2,A,2023
+IDN,19/08/2023,Ps Tni,Madura United,0,3,A,2023
+IDN,19/08/2023,Cilegon United,Dewa United,0,0,D,2023
+IDN,19/08/2023,Barito Putera,Persik Kediri,2,0,H,2023
+IDN,19/08/2023,Persis Solo,Bali United,3,1,H,2023
+IDN,20/08/2023,Persija,Arema,2,2,D,2023
+IDN,20/08/2023,PSIS Semarang,Persib Bandung,1,2,A,2023
+IDN,25/08/2023,Persik Kediri,PSIS Semarang,1,1,D,2023
+IDN,25/08/2023,Madura United,Bhayangkara Surabaya Utd,0,0,D,2023
+IDN,25/08/2023,Borneo,Persita,2,1,H,2023
+IDN,25/08/2023,Dewa United,Persija,2,0,H,2023
+IDN,26/08/2023,PSS Sleman,Persebaya Surabaya,0,0,D,2023
+IDN,26/08/2023,Persib Bandung,Cilegon United,2,1,H,2023
+IDN,27/08/2023,Bali United,Barito Putera,2,1,H,2023
+IDN,28/08/2023,Arema,Ps Tni,1,0,H,2023
+IDN,28/08/2023,PSM Makassar,Persis Solo,1,0,H,2023
+IDN,01/09/2023,Persita,Madura United,1,3,A,2023
+IDN,01/09/2023,Bhayangkara Surabaya Utd,Arema,0,2,A,2023
+IDN,02/09/2023,Persija,Persib Bandung,1,1,D,2023
+IDN,02/09/2023,Cilegon United,Persik Kediri,1,0,H,2023
+IDN,02/09/2023,PSIS Semarang,Bali United,2,1,H,2023
+IDN,03/09/2023,Ps Tni,Dewa United,1,1,D,2023
+IDN,03/09/2023,Persebaya Surabaya,Borneo,2,1,H,2023
+IDN,03/09/2023,PSS Sleman,PSM Makassar,1,1,D,2023
+IDN,03/09/2023,Barito Putera,Persis Solo,2,0,H,2023
+IDN,15/09/2023,PSM Makassar,Barito Putera,2,0,H,2023
+IDN,15/09/2023,Dewa United,Bhayangkara Surabaya Utd,2,2,D,2023
+IDN,15/09/2023,Bali United,Cilegon United,1,2,A,2023
+IDN,16/09/2023,Arema,Persita,0,0,D,2023
+IDN,16/09/2023,Persib Bandung,Ps Tni,2,0,H,2023
+IDN,16/09/2023,Persis Solo,PSIS Semarang,2,0,H,2023
+IDN,17/09/2023,Madura United,Persebaya Surabaya,3,0,H,2023
+IDN,17/09/2023,Borneo,PSS Sleman,1,0,H,2023
+IDN,17/09/2023,Persik Kediri,Persija,1,2,A,2023
+IDN,22/09/2023,Cilegon United,Persis Solo,1,2,A,2023
+IDN,22/09/2023,Persita,Dewa United,1,0,H,2023
+IDN,22/09/2023,PSIS Semarang,Barito Putera,1,0,H,2023
+IDN,23/09/2023,Ps Tni,Persik Kediri,2,3,A,2023
+IDN,23/09/2023,Persebaya Surabaya,Arema,3,1,H,2023
+IDN,23/09/2023,Bhayangkara Surabaya Utd,Persib Bandung,1,2,A,2023
+IDN,24/09/2023,PSS Sleman,Madura United,1,1,D,2023
+IDN,24/09/2023,Persija,Bali United,1,1,D,2023
+IDN,25/09/2023,Borneo,PSM Makassar,1,0,H,2023
+IDN,29/09/2023,Barito Putera,Cilegon United,1,1,D,2023
+IDN,29/09/2023,Bali United,Ps Tni,2,0,H,2023
+IDN,30/09/2023,PSIS Semarang,PSM Makassar,2,1,H,2023
+IDN,30/09/2023,Dewa United,Persebaya Surabaya,1,1,D,2023
+IDN,30/09/2023,Arema,PSS Sleman,2,1,H,2023
+IDN,30/09/2023,Persik Kediri,Bhayangkara Surabaya Utd,2,0,H,2023
+IDN,30/09/2023,Persis Solo,Persija,2,2,D,2023
+IDN,01/10/2023,Madura United,Borneo,1,2,A,2023
+IDN,01/10/2023,Persib Bandung,Persita,5,0,H,2023
+IDN,06/10/2023,Cilegon United,PSIS Semarang,2,1,H,2023
+IDN,06/10/2023,Ps Tni,Persis Solo,2,2,D,2023
+IDN,06/10/2023,Arema,Borneo,0,1,A,2023
+IDN,06/10/2023,Dewa United,PSS Sleman,3,1,H,2023
+IDN,07/10/2023,Persebaya Surabaya,Persib Bandung,2,3,A,2023
+IDN,07/10/2023,Persija,Barito Putera,1,1,D,2023
+IDN,08/10/2023,PSM Makassar,Madura United,0,2,A,2023
+IDN,08/10/2023,Persita,Persik Kediri,2,2,D,2023
+IDN,08/10/2023,Bhayangkara Surabaya Utd,Bali United,1,2,A,2023
+IDN,20/10/2023,Ps Tni,PSIS Semarang,2,3,A,2023
+IDN,20/10/2023,Bali United,Persebaya Surabaya,3,1,H,2023
+IDN,20/10/2023,PSM Makassar,Arema,3,0,H,2023
+IDN,21/10/2023,Bhayangkara Surabaya Utd,Barito Putera,1,1,D,2023
+IDN,21/10/2023,PSS Sleman,Persik Kediri,2,2,D,2023
+IDN,21/10/2023,Borneo,Persib Bandung,1,1,D,2023
+IDN,22/10/2023,Persita,Persis Solo,2,1,H,2023
+IDN,22/10/2023,Madura United,Dewa United,1,4,A,2023
+IDN,22/10/2023,Persija,Cilegon United,1,2,A,2023
+IDN,27/10/2023,Persik Kediri,Persebaya Surabaya,4,0,H,2023
+IDN,27/10/2023,Barito Putera,Ps Tni,1,1,D,2023
+IDN,28/10/2023,Arema,Madura United,1,1,D,2023
+IDN,28/10/2023,Persib Bandung,PSS Sleman,4,1,H,2023
+IDN,28/10/2023,Borneo,Dewa United,3,1,H,2023
+IDN,29/10/2023,Persis Solo,Bhayangkara Surabaya Utd,2,1,H,2023
+IDN,29/10/2023,PSIS Semarang,Persija,2,1,H,2023
+IDN,30/10/2023,Cilegon United,PSM Makassar,1,1,D,2023
+IDN,30/10/2023,Bali United,Persita,3,0,H,2023
+IDN,01/11/2023,Madura United,Persib Bandung,0,1,A,2023
+IDN,02/11/2023,Arema,Dewa United,2,1,H,2023
+IDN,02/11/2023,Borneo,Persik Kediri,3,0,H,2023
+IDN,02/11/2023,Bhayangkara Surabaya Utd,PSIS Semarang,1,1,D,2023
+IDN,03/11/2023,PSS Sleman,Bali United,0,1,A,2023
+IDN,03/11/2023,PSM Makassar,Persija,2,3,A,2023
+IDN,04/11/2023,Ps Tni,Cilegon United,2,1,H,2023
+IDN,04/11/2023,Persita,Barito Putera,2,2,D,2023
+IDN,08/11/2023,Persik Kediri,Madura United,4,0,H,2023
+IDN,08/11/2023,Persib Bandung,Arema,2,2,D,2023
+IDN,08/11/2023,Persis Solo,PSS Sleman,1,1,D,2023
+IDN,09/11/2023,Barito Putera,Persebaya Surabaya,2,0,H,2023
+IDN,09/11/2023,PSIS Semarang,Persita,4,0,H,2023
+IDN,09/11/2023,Persija,Ps Tni,4,0,H,2023
+IDN,09/11/2023,Cilegon United,Bhayangkara Surabaya Utd,1,1,D,2023
+IDN,12/11/2023,Dewa United,PSM Makassar,1,1,D,2023
+IDN,12/11/2023,Bali United,Borneo,1,2,A,2023
+IDN,23/11/2023,Madura United,Bali United,1,2,A,2023
+IDN,23/11/2023,PSM Makassar,Ps Tni,3,1,H,2023
+IDN,23/11/2023,Persita,Cilegon United,3,0,H,2023
+IDN,26/11/2023,PSS Sleman,Barito Putera,2,1,H,2023
+IDN,26/11/2023,Dewa United,Persib Bandung,1,5,A,2023
+IDN,27/11/2023,Arema,Persik Kediri,0,1,A,2023
+IDN,27/11/2023,Borneo,Persis Solo,1,0,H,2023
+IDN,27/11/2023,Bhayangkara Surabaya Utd,Persija,2,2,D,2023
+IDN,01/12/2023,Cilegon United,Persebaya Surabaya,0,0,D,2023
+IDN,02/12/2023,Persik Kediri,Dewa United,0,0,D,2023
+IDN,02/12/2023,Barito Putera,Borneo,0,0,D,2023
+IDN,03/12/2023,PSIS Semarang,PSS Sleman,1,0,H,2023
+IDN,03/12/2023,Ps Tni,Bhayangkara Surabaya Utd,2,2,D,2023
+IDN,03/12/2023,Persija,Persita,1,1,D,2023
+IDN,04/12/2023,Bali United,Arema,3,2,H,2023
+IDN,04/12/2023,Persib Bandung,PSM Makassar,0,0,D,2023
+IDN,08/12/2023,Dewa United,Bali United,1,1,D,2023
+IDN,08/12/2023,PSM Makassar,Bhayangkara Surabaya Utd,1,1,D,2023
+IDN,08/12/2023,PSS Sleman,Cilegon United,1,0,H,2023
+IDN,09/12/2023,Persebaya Surabaya,Persija,1,1,D,2023
+IDN,09/12/2023,Arema,Persis Solo,3,1,H,2023
+IDN,09/12/2023,Borneo,PSIS Semarang,2,0,H,2023
+IDN,10/12/2023,Madura United,Barito Putera,4,1,H,2023
+IDN,10/12/2023,Persita,Ps Tni,2,1,H,2023
+IDN,10/12/2023,Persib Bandung,Persik Kediri,0,2,A,2023
+IDN,13/12/2023,Persebaya Surabaya,Persis Solo,1,1,D,2023
+IDN,16/12/2023,PSIS Semarang,Madura United,2,2,D,2023
+IDN,16/12/2023,Cilegon United,Borneo,0,1,A,2023
+IDN,16/12/2023,Persija,PSS Sleman,1,0,H,2023
+IDN,17/12/2023,Persis Solo,Dewa United,1,2,A,2023
+IDN,17/12/2023,Ps Tni,Persebaya Surabaya,1,1,D,2023
+IDN,17/12/2023,Barito Putera,Arema,1,0,H,2023
+IDN,17/12/2023,Bhayangkara Surabaya Utd,Persita,3,0,H,2023
+IDN,18/12/2023,Persik Kediri,PSM Makassar,1,1,D,2023
+IDN,18/12/2023,Bali United,Persib Bandung,0,0,D,2023

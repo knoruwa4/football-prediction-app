@@ -1,0 +1,7 @@
+match_date,competition,home_team,away_team,home_goals,away_goals
+2025-08-15,Example League,Team A,Team B,2,1
+2025-08-16,Example League,Team C,Team D,0,0
+2025-08-17,Example League,Team B,Team C,1,2
+2025-08-18,Example League,Team D,Team A,1,1
+2025-08-19,Example League,Team A,Team C,3,0
+
