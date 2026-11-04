@@ -315,7 +315,7 @@ def create_app(
                 match_date = date.fromisoformat(fixture["match_date"])
                 model_home = historical_team_name(fixture["home_team"])
                 model_away = historical_team_name(fixture["away_team"])
-                result = predict_fixtures(matches, [(model_home, model_away)], match_date, model_type=model_type, allow_unknown_teams=True, competition=fixture["competition"])[0][2]
+                result = predict_fixtures(matches, [(model_home, model_away)], match_date, model_type=model_type, allow_unknown_teams=False, competition=fixture["competition"])[0][2]
                 scorelines = _scorelines(result.home_xg, result.away_xg)
                 known_teams = {team for match in matches for team in (match.home_team, match.away_team)}
                 report = {"match_date": fixture["match_date"], "competition": fixture["competition"], "kickoff_utc": fixture["kickoff_utc"], "home_team": fixture["home_team"], "away_team": fixture["away_team"], "home_team_history_available": model_home in known_teams, "away_team_history_available": model_away in known_teams, "fixture_source_url": fixture["source_url"], "model": result.model, "model_version": MODEL_VERSION, "home_win_probability": round(result.home_win, 6), "draw_probability": round(result.draw, 6), "away_win_probability": round(result.away_win, 6), "home_expected_goals": round(result.home_xg, 4), "away_expected_goals": round(result.away_xg, 4)}
