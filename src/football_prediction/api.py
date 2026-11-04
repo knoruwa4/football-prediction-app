@@ -302,7 +302,7 @@ def create_app(
                     return _json_response(start_response, "409 Conflict", {"error": "This fixture has already kicked off."})
                 rows = _read_ledger(ledger_path)
                 existing = next((row for row in rows if row.get("competition") == fixture["competition"] and row.get("match_date") == fixture["match_date"] and row.get("home_team", "").casefold() == fixture["home_team"].casefold() and row.get("away_team", "").casefold() == fixture["away_team"].casefold() and row.get("model") == MODEL_NAMES[model_type]), None)
-                if existing:
+                if existing and existing.get("home_team_history_available", "").casefold() == "true" and existing.get("away_team_history_available", "").casefold() == "true":
                     return _json_response(start_response, "200 OK", {"prediction": _prediction_payload(existing), "already_saved": True})
                 code = fixture["competition_code"]
                 years = range(FIRST_SEASON_YEAR, LAST_SEASON_YEAR + 1)
@@ -318,6 +318,23 @@ def create_app(
                 result = predict_fixtures(matches, [(model_home, model_away)], match_date, model_type=model_type, allow_unknown_teams=False, competition=fixture["competition"])[0][2]
                 scorelines = _scorelines(result.home_xg, result.away_xg)
                 known_teams = {team for match in matches for team in (match.home_team, match.away_team)}
+                if existing:
+                    # Replace an older forecast that silently used neutral ratings
+                    # because one or both fixture teams were not recognised.
+                    kept_rows = [
+                        row for row in rows
+                        if not (
+                            row.get("competition") == fixture["competition"]
+                            and row.get("match_date") == fixture["match_date"]
+                            and row.get("home_team", "").casefold() == fixture["home_team"].casefold()
+                            and row.get("away_team", "").casefold() == fixture["away_team"].casefold()
+                            and row.get("model") == MODEL_NAMES[model_type]
+                        )
+                    ]
+                    with ledger_path.open("w", encoding="utf-8-sig", newline="") as file:
+                        writer = csv.DictWriter(file, fieldnames=list(rows[0].keys()))
+                        writer.writeheader()
+                        writer.writerows(kept_rows)
                 report = {"match_date": fixture["match_date"], "competition": fixture["competition"], "kickoff_utc": fixture["kickoff_utc"], "home_team": fixture["home_team"], "away_team": fixture["away_team"], "home_team_history_available": model_home in known_teams, "away_team_history_available": model_away in known_teams, "fixture_source_url": fixture["source_url"], "model": result.model, "model_version": MODEL_VERSION, "home_win_probability": round(result.home_win, 6), "draw_probability": round(result.draw, 6), "away_win_probability": round(result.away_win, 6), "home_expected_goals": round(result.home_xg, 4), "away_expected_goals": round(result.away_xg, 4)}
                 for rank, (probability, hg, ag) in enumerate(scorelines, 1):
                     report[f"score_{rank}"] = f"{hg}-{ag}"
