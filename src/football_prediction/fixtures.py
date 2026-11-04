@@ -19,6 +19,12 @@ HISTORICAL_TEAM_NAMES = {
     "Leeds United": "Leeds",
     "Manchester United": "Man United",
     "Newcastle United": "Newcastle",
+    # Premier League fixture labels used by the current Football-Data E0 files.
+    "Manchester City": "Man City",
+    "Nottingham Forest": "Nott'm Forest",
+    "Coventry City": "Coventry",
+    "Tottenham Hotspur": "Tottenham",
+    "Hull City": "Hull",
     # UEFA fixture names differ from the historical Football-Data names.
     "Atletico Madrid": "Atlético Madrid",
     "Bayern Munich": "Bayern München",
