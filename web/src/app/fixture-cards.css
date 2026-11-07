@@ -1,0 +1,52 @@
+.fixture-card {
+  touch-action: pan-y;
+}
+
+.fixture-card-content {
+  display: block;
+  width: 100%;
+  padding: 0;
+  border: 0;
+  color: inherit;
+  background: transparent;
+  font: inherit;
+  text-align: left;
+  cursor: pointer;
+}
+
+.fixture-card-content:focus-visible,
+.fixture-dismiss:focus-visible {
+  outline: 2px solid #c3df91;
+  outline-offset: 3px;
+}
+
+.fixture-card-meta {
+  padding-right: 25px;
+}
+
+.fixture-dismiss {
+  position: absolute;
+  z-index: 1;
+  top: 6px;
+  right: 6px;
+  display: grid;
+  width: 22px;
+  height: 22px;
+  place-items: center;
+  padding: 0;
+  border: 1px solid #4b4f58;
+  border-radius: 50%;
+  color: #cbd0cd;
+  background: #292c35;
+  font: 16px/1 sans-serif;
+  cursor: pointer;
+  opacity: .78;
+  transition: opacity .15s ease, background .15s ease, border-color .15s ease;
+}
+
+.fixture-dismiss:hover {
+  border-color: #c47e78;
+  color: #fff;
+  background: #603b3c;
+  opacity: 1;
+}
