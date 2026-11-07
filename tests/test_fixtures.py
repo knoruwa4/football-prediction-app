@@ -40,7 +40,11 @@ def test_fixture_loader_rejects_a_date_other_than_requested():
 def test_official_team_names_map_to_names_in_historical_csvs():
     assert historical_team_name("AFC Bournemouth") == "Bournemouth"
     assert historical_team_name("Brighton & Hove Albion") == "Brighton"
-    assert historical_team_name("Hull City") == "Hull City"
+    assert historical_team_name("Hull City") == "Hull"
+    assert historical_team_name("Manchester City") == "Man City"
+    assert historical_team_name("Nottingham Forest") == "Nott'm Forest"
+    assert historical_team_name("Coventry City") == "Coventry"
+    assert historical_team_name("Tottenham Hotspur") == "Tottenham"
     assert historical_team_name("Atletico Madrid") == "Atlético Madrid"
     assert historical_team_name("Bayern Munich") == "Bayern München"
     assert historical_team_name("Barcelona") == "FC Barcelona"
