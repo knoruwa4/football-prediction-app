@@ -371,6 +371,8 @@ export default function Home() {
   const [predictions, setPredictions] = useState<Prediction[]>([]);
   const [dismissedPredictions, setDismissedPredictions] = useState<Set<string>>(() => new Set());
   const [competitions, setCompetitions] = useState<Competition[]>([]);
+  const [fixtureCounts, setFixtureCounts] = useState<Record<string, number>>({});
+  const [competitionSearch, setCompetitionSearch] = useState("");
   const [fixtures, setFixtures] = useState<Fixture[]>([]);
   const [predictingId, setPredictingId] = useState("");
   const [predictingAll, setPredictingAll] = useState(false);
@@ -394,11 +396,15 @@ export default function Home() {
         fetch(`/api/football/predictions?${new URLSearchParams(competition === ALL_COMPETITIONS ? { status: "pending", upcoming: "true" } : { status: "pending", upcoming: "true", competition })}`, { cache: "no-store" }),
         fetch(`/api/football/performance?${new URLSearchParams(competition === ALL_COMPETITIONS ? {} : { competition })}`, { cache: "no-store" }),
       ]);
-      const fixtureResponse = await fetch(`/api/football/fixtures?${new URLSearchParams(competition === ALL_COMPETITIONS ? {} : { competition })}`, { cache: "no-store" });
+      const fixtureResponse = await fetch("/api/football/fixtures", { cache: "no-store" });
       if (!predictionResponse.ok || !performanceResponse.ok || !fixtureResponse.ok) throw new Error("API error");
       const [predictionData, performanceData, fixtureData] = await Promise.all([predictionResponse.json(), performanceResponse.json(), fixtureResponse.json()]) as [PredictionResponse, Performance, FixtureResponse];
       setPredictions(predictionData.predictions);
-      setFixtures(fixtureData.fixtures);
+      setFixtureCounts(fixtureData.fixtures.reduce<Record<string, number>>((counts, fixture) => {
+        counts[fixture.competition] = (counts[fixture.competition] ?? 0) + 1;
+        return counts;
+      }, {}));
+      setFixtures(competition === ALL_COMPETITIONS ? fixtureData.fixtures : fixtureData.fixtures.filter((fixture) => fixture.competition === competition));
       setPerformance(performanceData);
       setUpdatedAt(new Date().toISOString());
       setSelectedId((current) => predictionData.predictions.some((item) => item.prediction_id === current) ? current : predictionData.predictions[0]?.prediction_id ?? "");
@@ -482,6 +488,8 @@ export default function Home() {
 
   useEffect(() => { void refresh(); }, [refresh]);
   const dates = useMemo(() => [...new Set(predictions.map((item) => localKickoffDate(item.match_date, item.kickoff_utc)))].sort(), [predictions]);
+  const matchingCompetitions = useMemo(() => competitions.filter((item) => item.name.toLocaleLowerCase().includes(competitionSearch.trim().toLocaleLowerCase())), [competitions, competitionSearch]);
+  const totalUpcomingFixtures = useMemo(() => Object.values(fixtureCounts).reduce((sum, count) => sum + count, 0), [fixtureCounts]);
   const filtered = useMemo(() => predictions.filter((item) => selectedDate === "all" || localKickoffDate(item.match_date, item.kickoff_utc) === selectedDate), [predictions, selectedDate]);
   const visibleFiltered = useMemo(() => filtered.filter((item) => !dismissedPredictions.has(item.prediction_id)), [filtered, dismissedPredictions]);
   const selected = visibleFiltered.find((item) => item.prediction_id === selectedId) ?? visibleFiltered[0];
@@ -498,7 +506,14 @@ export default function Home() {
 
       <section className="main-content" id="top">
         <header className="topbar"><div className="breadcrumb">Workspace <span>/</span> Match centre</div><div className="topbar-right"><span className="live-dot" /> ENGINE CONNECTED <span className="topbar-divider" /> <span className="topbar-league">{competitionLabel.toUpperCase()}</span></div></header>
-        <nav className="league-nav" aria-label="Competition filter"><button type="button" className={competition === ALL_COMPETITIONS ? "league-pill league-pill-active" : "league-pill"} aria-pressed={competition === ALL_COMPETITIONS} onClick={() => { setCompetition(ALL_COMPETITIONS); setSelectedDate("all"); }}>All divisions</button>{competitions.map((item) => <button type="button" key={item.code} className={competition === item.name ? "league-pill league-pill-active" : "league-pill"} aria-pressed={competition === item.name} onClick={() => { setCompetition(item.name); setSelectedDate("all"); }}>{item.name}</button>)}</nav>
+        <div className="league-filter">
+          <div className="league-search"><span aria-hidden="true">⌕</span><input type="search" value={competitionSearch} onChange={(event) => setCompetitionSearch(event.target.value)} placeholder="Search leagues" aria-label="Search leagues" />{competitionSearch && <button type="button" onClick={() => setCompetitionSearch("")} aria-label="Clear league search">×</button>}</div>
+          <nav className="league-nav" aria-label="Competition filter">
+            <button type="button" className={competition === ALL_COMPETITIONS ? "league-pill league-pill-active" : "league-pill"} aria-pressed={competition === ALL_COMPETITIONS} onClick={() => { setCompetition(ALL_COMPETITIONS); setSelectedDate("all"); }}><span>All divisions</span><span className="league-count">{totalUpcomingFixtures}</span></button>
+            {matchingCompetitions.map((item) => <button type="button" key={item.code} className={competition === item.name ? "league-pill league-pill-active" : "league-pill"} aria-pressed={competition === item.name} onClick={() => { setCompetition(item.name); setSelectedDate("all"); }}><span>{item.name}</span><span className="league-count">{fixtureCounts[item.name] ?? 0}</span></button>)}
+            {matchingCompetitions.length === 0 && <span className="league-no-results">No leagues found.</span>}
+          </nav>
+        </div>
         <div className="content-wrap">
           <section className="page-heading"><div><div className="eyebrow"><span /> MATCHDAY FORECASTS</div><h1>See the game<br /><em>in probabilities.</em></h1><p className="page-subtitle">Evidence-led forecasts for the fixtures ahead. Every number carries uncertainty.</p></div><div className="heading-actions"><label className="model-picker">Forecast model<select value={modelType} onChange={(event) => setModelType(event.target.value as ModelType)}><option value="joint_attack_defence">Joint Poisson · current</option><option value="dixon_coles">Dixon–Coles · experimental</option><option value="elo_poisson">Elo-adjusted Poisson · experimental</option></select></label><div className="odds-toggle" role="group" aria-label="Fair price format"><button type="button" className={oddsFormat === "decimal" ? "toggle-active" : ""} onClick={() => setOddsFormat("decimal")}>Decimal</button><button type="button" className={oddsFormat === "fractional" ? "toggle-active" : ""} onClick={() => setOddsFormat("fractional")}>Fractional</button></div><button className="refresh-button" onClick={() => void refresh()} disabled={loading}><span className={loading ? "refresh-icon spinning" : "refresh-icon"}>↻</span> Refresh</button></div></section>
 
