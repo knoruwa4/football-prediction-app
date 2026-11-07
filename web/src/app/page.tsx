@@ -1,6 +1,6 @@
 "use client";
 
-import { Fragment, useCallback, useEffect, useMemo, useState } from "react";
+import { Fragment, useCallback, useEffect, useMemo, useRef, useState } from "react";
 
 type Prediction = {
   prediction_id: string;
@@ -152,24 +152,56 @@ function TeamMark({ name, away = false, large = false }: { name: string; away?: 
   return <span className={`team-mark${away ? " team-mark-away" : ""}${large ? " team-mark-large" : ""}`} aria-hidden="true">{initials(name)}</span>;
 }
 
-function FixtureCard({ prediction, selected, format, onSelect }: { prediction: Prediction; selected: boolean; format: OddsFormat; onSelect: () => void }) {
+function FixtureCard({ prediction, selected, format, onSelect, onDismiss }: { prediction: Prediction; selected: boolean; format: OddsFormat; onSelect: () => void; onDismiss: () => void }) {
   const outcomes = [prediction.home_win_probability, prediction.draw_probability, prediction.away_win_probability];
   const best = Math.max(...outcomes);
   const prices: [string, number][] = [["1", prediction.home_win_probability], ["X", prediction.draw_probability], ["2", prediction.away_win_probability]];
+  const touchStart = useRef<{ x: number; y: number } | null>(null);
+  const swiped = useRef(false);
+
   return (
-    <button type="button" className={`fixture-card${selected ? " fixture-card-selected" : ""}`} onClick={onSelect} aria-pressed={selected}>
+    <article
+      className={`fixture-card${selected ? " fixture-card-selected" : ""}`}
+      onTouchStart={(event) => {
+        const touch = event.changedTouches[0];
+        touchStart.current = { x: touch.clientX, y: touch.clientY };
+        swiped.current = false;
+      }}
+      onTouchEnd={(event) => {
+        const start = touchStart.current;
+        const touch = event.changedTouches[0];
+        touchStart.current = null;
+        if (start && start.x - touch.clientX > 72 && Math.abs(start.y - touch.clientY) < 60) {
+          swiped.current = true;
+          onDismiss();
+        }
+      }}
+      onTouchCancel={() => { touchStart.current = null; }}
+    >
       {selected && <span className="fixture-selected-rail" />}
-      <div className="fixture-card-meta"><span>{formatKickoff(prediction.match_date, prediction.kickoff_utc)}</span><span className="fixture-status"><b /> {prediction.evaluation_status === "pending" ? "Upcoming" : "Evaluated"}</span></div>
-      <div className="fixture-teams">
-        <span className="fixture-team"><TeamMark name={prediction.home_team} /> <span>{prediction.home_team}</span></span>
-        <span className="fixture-team"><TeamMark name={prediction.away_team} away /> <span>{prediction.away_team}</span></span>
-      </div>
-      <div className="fixture-prices" aria-label="Model probabilities and fair prices">
-        {prices.map(([label, value]) => (
-          <span className="fixture-price" key={label}><span>{label}</span><strong>{percent(value)}</strong><FairPrice probability={value} format={format} highlight={value === best} /></span>
-        ))}
-      </div>
-    </button>
+      <button
+        type="button"
+        className="fixture-card-content"
+        onClick={() => {
+          if (swiped.current) { swiped.current = false; return; }
+          onSelect();
+        }}
+        aria-pressed={selected}
+        aria-label={`${prediction.home_team} vs ${prediction.away_team} forecast details`}
+      >
+        <div className="fixture-card-meta"><span>{formatKickoff(prediction.match_date, prediction.kickoff_utc)}</span><span className="fixture-status"><b /> {prediction.evaluation_status === "pending" ? "Upcoming" : "Evaluated"}</span></div>
+        <div className="fixture-teams">
+          <span className="fixture-team"><TeamMark name={prediction.home_team} /> <span>{prediction.home_team}</span></span>
+          <span className="fixture-team"><TeamMark name={prediction.away_team} away /> <span>{prediction.away_team}</span></span>
+        </div>
+        <div className="fixture-prices" aria-label="Model probabilities and fair prices">
+          {prices.map(([label, value]) => (
+            <span className="fixture-price" key={label}><span>{label}</span><strong>{percent(value)}</strong><FairPrice probability={value} format={format} highlight={value === best} /></span>
+          ))}
+        </div>
+      </button>
+      <button type="button" className="fixture-dismiss" onClick={onDismiss} aria-label={`Dismiss ${prediction.home_team} vs ${prediction.away_team} forecast`} title="Dismiss forecast">×</button>
+    </article>
   );
 }
 
@@ -337,6 +369,7 @@ function MarketTabs({ prediction, format, markets, best }: { prediction: Predict
 
 export default function Home() {
   const [predictions, setPredictions] = useState<Prediction[]>([]);
+  const [dismissedPredictions, setDismissedPredictions] = useState<Set<string>>(() => new Set());
   const [competitions, setCompetitions] = useState<Competition[]>([]);
   const [fixtures, setFixtures] = useState<Fixture[]>([]);
   const [predictingId, setPredictingId] = useState("");
@@ -450,7 +483,8 @@ export default function Home() {
   useEffect(() => { void refresh(); }, [refresh]);
   const dates = useMemo(() => [...new Set(predictions.map((item) => localKickoffDate(item.match_date, item.kickoff_utc)))].sort(), [predictions]);
   const filtered = useMemo(() => predictions.filter((item) => selectedDate === "all" || localKickoffDate(item.match_date, item.kickoff_utc) === selectedDate), [predictions, selectedDate]);
-  const selected = filtered.find((item) => item.prediction_id === selectedId) ?? filtered[0];
+  const visibleFiltered = useMemo(() => filtered.filter((item) => !dismissedPredictions.has(item.prediction_id)), [filtered, dismissedPredictions]);
+  const selected = visibleFiltered.find((item) => item.prediction_id === selectedId) ?? visibleFiltered[0];
   useEffect(() => { if (selected && selected.prediction_id !== selectedId) setSelectedId(selected.prediction_id); }, [selected, selectedId]);
 
   return (
@@ -475,8 +509,9 @@ export default function Home() {
             {error && <div className="error-panel" role="alert"><strong>Connection unavailable</strong><span>{error}</span><button onClick={() => void refresh()}>Try again</button></div>}
             {loading && <div className="loading-panel"><span className="loading-spinner" /> Loading forecasts from the engine…</div>}
             {!loading && !error && predictions.length === 0 && <div className="empty-panel">There are no saved {competition} forecasts yet. Add sourced fixtures and generate forecasts for this competition to see them here.</div>}
-            {!loading && !error && predictions.length > 0 && filtered.length === 0 && <div className="empty-panel">There are no saved {competition} forecasts yet. Add sourced fixtures and generate forecasts for this competition to see them here.</div>}
-            {!loading && !error && filtered.length > 0 && <div className="fixture-layout"><aside className="fixture-feed"><div className="feed-header"><span>{competition.toUpperCase()}</span><strong>{filtered.length} {filtered.length === 1 ? "match" : "matches"}</strong></div>{filtered.map((prediction) => <FixtureCard key={prediction.prediction_id} prediction={prediction} selected={prediction.prediction_id === selected?.prediction_id} format={oddsFormat} onSelect={() => { setSelectedId(prediction.prediction_id); setMobileDetailOpen(true); }} />)}</aside><section className="detail-column" aria-label="Selected match breakdown">{selected ? <DetailPanel prediction={selected} format={oddsFormat} /> : <div className="empty-panel">Choose a fixture to see the forecast breakdown.</div>}</section></div>}
+            {!loading && !error && predictions.length > 0 && filtered.length === 0 && <div className="empty-panel">There are no saved {competition} forecasts for this date.</div>}
+            {!loading && !error && filtered.length > 0 && visibleFiltered.length === 0 && <div className="empty-panel">All forecast cards in this view are dismissed. <button type="button" className="refresh-button" onClick={() => setDismissedPredictions(new Set())}>Show dismissed forecasts</button></div>}
+            {!loading && !error && visibleFiltered.length > 0 && <div className="fixture-layout"><aside className="fixture-feed"><div className="feed-header"><span>{competition.toUpperCase()}</span><strong>{visibleFiltered.length} {visibleFiltered.length === 1 ? "match" : "matches"}</strong></div>{visibleFiltered.map((prediction) => <FixtureCard key={prediction.prediction_id} prediction={prediction} selected={prediction.prediction_id === selected?.prediction_id} format={oddsFormat} onSelect={() => { setSelectedId(prediction.prediction_id); setMobileDetailOpen(true); }} onDismiss={() => { setDismissedPredictions((current) => new Set(current).add(prediction.prediction_id)); if (selectedId === prediction.prediction_id) { setSelectedId(""); setMobileDetailOpen(false); } }} />)}</aside><section className="detail-column" aria-label="Selected match breakdown">{selected ? <DetailPanel prediction={selected} format={oddsFormat} /> : <div className="empty-panel">Choose a fixture to see the forecast breakdown.</div>}</section></div>}
           </section>
           <footer className="page-footer"><span>TOUCHLINE <i>·</i> FOOTBALL PREDICTION ENGINE</span><span>Model outputs describe probability, never certainty.</span></footer>
         </div>
